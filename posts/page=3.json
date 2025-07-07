@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "page": 3,
+    "per_page": 50,
+    "total_pages": 3,
+    "total_posts": 123,
+    "has_next": false,
+    "has_prev": true,
+    "next_page": null,
+    "prev_page": 2
+  },
+  "posts": [
+    {
+      "id": "hf_p-x_enc_04101903_e-supremi",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "E Supremi",
+        "type": "Encyclical",
+        "date": "1903-10-04",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_04101903_e-supremi",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_24121902_dum-multa",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Dum Multa",
+        "type": "Encyclical",
+        "date": "1902-12-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_24121902_dum-multa",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_08121902_fin-dal-principio",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Fin dal Principio",
+        "type": "Encyclical",
+        "date": "1902-12-08",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_08121902_fin-dal-principio",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_22111902_quae-ad-nos",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Quae Ad Nos",
+        "type": "Encyclical",
+        "date": "1902-11-22",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_22111902_quae-ad-nos",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_28051902_mirae-caritatis",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Mirae Caritatis",
+        "type": "Encyclical",
+        "date": "1902-05-28",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_28051902_mirae-caritatis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_30041902_quod-votis",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Quod Votis",
+        "type": "Encyclical",
+        "date": "1902-04-30",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_30041902_quod-votis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_15041902_in-amplissimo",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "In Amplissimo",
+        "type": "Encyclical",
+        "date": "1902-04-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_15041902_in-amplissimo",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_20111901_urbanitatis-veteris",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Urbanitatis Veteris",
+        "type": "Encyclical",
+        "date": "1901-11-20",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_20111901_urbanitatis-veteris",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_20081901_reputantibus",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Reputantibus",
+        "type": "Encyclical",
+        "date": "1901-08-20",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_20081901_reputantibus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_16051901_gravissimas",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Gravissimas",
+        "type": "Encyclical",
+        "date": "1901-05-16",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_16051901_gravissimas",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_18011901_graves-de-communi-re",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Graves de Communi Re",
+        "type": "Encyclical",
+        "date": "1901-01-18",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_18011901_graves-de-communi-re",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Tametsi Futura Prospicientibus",
+        "type": "Encyclical",
+        "date": "1900-11-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_21071900_omnibus-compertum",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Omnibus Compertum",
+        "type": "Encyclical",
+        "date": "1900-07-21",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_21071900_omnibus-compertum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_18091899_paternae",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Paternae",
+        "type": "Encyclical",
+        "date": "1899-09-18",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_18091899_paternae",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_08091899_depuis-le-jour",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Depuis le Jour",
+        "type": "Encyclical",
+        "date": "1899-09-08",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_08091899_depuis-le-jour",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_25051899_annum-sacrum",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Annum Sacrum",
+        "type": "Encyclical",
+        "date": "1899-05-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_25051899_annum-sacrum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_25121898_quum-diuturnum",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Quum Diuturnum",
+        "type": "Encyclical",
+        "date": "1898-12-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_25121898_quum-diuturnum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_05091898_diuturni-temporis",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Diuturni Temporis",
+        "type": "Encyclical",
+        "date": "1898-09-05",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_05091898_diuturni-temporis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_16081898_quam-religiosa",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Quam Religiosa",
+        "type": "Encyclical",
+        "date": "1898-08-16",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_16081898_quam-religiosa",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_05081898_spesse-volte",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Spesse Volte",
+        "type": "Encyclical",
+        "date": "1898-08-05",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_05081898_spesse-volte",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_l-xiii_enc_25071898_caritatis-studium",
+      "pope": {
+        "id": "leo-xiii",
+        "name": "Leo XIII",
+        "handle": "leoxiii",
+        "avatar": "http://localhost:8000/popes/leo-xiii.jpg"
+      },
+      "document": {
+        "title": "Caritatis Studium",
+        "type": "Encyclical",
+        "date": "1898-07-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_l-xiii_enc_25071898_caritatis-studium",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_11041963_pacem",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Pacem in Terris",
+        "type": "Encyclical",
+        "date": "April, 11 1963",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_11041963_pacem",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_28031937_nos-es-muy-conocida",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Pius XI, Nos es muy conocida",
+        "type": "Encyclical",
+        "date": "28/03/1937",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_28031937_nos-es-muy-conocida",
+        "original_type": "encyclicals"
+      }
+    }
+  ]
+}

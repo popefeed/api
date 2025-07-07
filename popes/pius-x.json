@@ -1,0 +1,170 @@
+{
+    "id": "pius-x",
+    "names": {
+        "en": "Pius X",
+        "la": "S. Pius PP. X"
+    },
+    "full_name": "Giuseppe Sarto",
+    "reign_start": "1903-08-04",
+    "reign_end": "1914-08-20",
+    "metadata": {
+        "vatican_urls": {
+            "en": "https://www.vatican.va/content/pius-x/en.html"
+        },
+        "documents_vatican_url_index": {
+            "apost-constitutions": [
+                "https://www.vatican.va/content/pius-x/en/apost_constitutions.index.html"
+            ],
+            "apost-exhortations": [
+                "https://www.vatican.va/content/pius-x/en/apost_exhortations.index.html"
+            ],
+            "apost-letters": [
+                "https://www.vatican.va/content/pius-x/en/apost_letters.index.html"
+            ],
+            "encyclicals": [
+                "https://www.vatican.va/content/pius-x/en/encyclicals.index.html"
+            ],
+            "letters": [
+                "https://www.vatican.va/content/pius-x/en/letters.index.html"
+            ],
+            "motu-proprio": [
+                "https://www.vatican.va/content/pius-x/en/motu_proprio.index.html"
+            ],
+            "speeches": [
+                "https://www.vatican.va/content/pius-x/en/speeches.index.html"
+            ]
+        }
+    },
+    "documents": {
+        "encyclicals": [
+            {
+                "id": "hf_p-x_enc_24091912_singulari-quadam",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1912-09-24",
+                "title": "Singulari quadam",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_07061912_lacrimabili-statu",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1912-06-07",
+                "title": "Lacrimabili Statu",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_24051911_iamdudum",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1911-05-24",
+                "title": "Iamdudum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_26051910_editae-saepe",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1910-05-26",
+                "title": "Editae Saepe",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_21041909_communium-rerum",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1909-04-21",
+                "title": "Communium Rerum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1907-09-08",
+                "title": "Pascendi Dominici Gregis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_06011907_une-fois-encore",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1907-01-06",
+                "title": "Une Fois Encore",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1906-08-10",
+                "title": "Gravissimo Officii Munere",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_28071906_pieni-l-animo",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1906-07-28",
+                "title": "Pieni L'Animo",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_05041906_tribus-circiter",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1906-04-05",
+                "title": "Tribus Circiter",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_11021906_vehementer-nos",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1906-02-11",
+                "title": "Vehementer Nos",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_11061905_il-fermo-proposito",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1905-06-11",
+                "title": "Il Fermo Proposito",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_15041905_acerbo-nimis",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1905-04-15",
+                "title": "Acerbo Nimis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_12031904_iucunda-sane",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1904-03-12",
+                "title": "Iucunda Sane",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1904-02-02",
+                "title": "Ad Diem Illum Laetissimum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-x_enc_04101903_e-supremi",
+                "pope_id": "pius-x",
+                "type": "encyclicals",
+                "date": "1903-10-04",
+                "title": "E Supremi",
+                "excerpt": {}
+            }
+        ]
+    }
+}

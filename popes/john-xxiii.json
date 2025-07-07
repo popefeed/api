@@ -1,0 +1,157 @@
+{
+    "id": "john-xxiii",
+    "names": {
+        "en": "John XXIII",
+        "la": "S. Ioannes PP. XXIII"
+    },
+    "full_name": "Angelo Giuseppe Roncalli",
+    "reign_start": "1958-10-28",
+    "reign_end": "1963-06-03",
+    "metadata": {
+        "vatican_urls": {
+            "en": "https://www.vatican.va/content/john-xxiii/en.html"
+        },
+        "documents_vatican_url_index": {
+            "angelus": [
+                "https://www.vatican.va/content/john-xxiii/en/angelus.index.html"
+            ],
+            "apost-constitutions": [
+                "https://www.vatican.va/content/john-xxiii/en/apost_constitutions.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1958.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1959.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1960.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1961.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1962.index.html"
+            ],
+            "apost-exhortations": [
+                "https://www.vatican.va/content/john-xxiii/en/apost_exhortations.index.html"
+            ],
+            "apost-letters": [
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters/1958.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters/1959.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters/1960.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters/1961.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters/1962.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/apost_letters/1963.index.html"
+            ],
+            "audiences": [
+                "https://www.vatican.va/content/john-xxiii/en/audiences.index.html"
+            ],
+            "biography": [
+                "https://www.vatican.va/content/john-xxiii/en/biography.index.html"
+            ],
+            "encyclicals": [
+                "https://www.vatican.va/content/john-xxiii/en/encyclicals.index.html"
+            ],
+            "homilies": [
+                "https://www.vatican.va/content/john-xxiii/en/homilies.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/homilies/1958.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/homilies/1959.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/homilies/1960.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/homilies/1961.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/homilies/1962.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/homilies/1963.index.html"
+            ],
+            "letters": [
+                "https://www.vatican.va/content/john-xxiii/en/letters.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/letters/1958.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/letters/1959.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/letters/1960.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/letters/1961.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/letters/1962.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/letters/1963.index.html"
+            ],
+            "messages": [
+                "https://www.vatican.va/content/john-xxiii/en/messages.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1958.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1959.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1960.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1961.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1962.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1963.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/messages/urbi_et_orbi.index.html"
+            ],
+            "motu-proprio": [
+                "https://www.vatican.va/content/john-xxiii/en/motu_proprio.index.html"
+            ],
+            "speeches": [
+                "https://www.vatican.va/content/john-xxiii/en/speeches.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/speeches/1958.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/speeches/1959.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/speeches/1960.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/speeches/1961.index.html",
+                "https://www.vatican.va/content/john-xxiii/en/speeches/1962.index.html"
+            ]
+        }
+    },
+    "documents": {
+        "encyclicals": [
+            {
+                "id": "hf_j-xxiii_enc_11041963_pacem",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "April, 11 1963",
+                "title": "Pacem in Terris",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_01071962_paenitentiam",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1962-07-01",
+                "title": "Paenitentiam Agere",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_11111961_aeterna-dei",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1961-11-11",
+                "title": "Aeterna Dei Sapientia",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_15051961_mater",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1961-05-15",
+                "title": "Mater et Magistra",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_28111959_princeps",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1959-11-28",
+                "title": "Princeps Pastorum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_26091959_grata-recordatio",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1959-09-26",
+                "title": "Grata Recordatio",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_19590801_sacerdotii",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1959-08-01",
+                "title": "Sacerdotii Nostri Primordia",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_j-xxiii_enc_29061959_ad-petri",
+                "pope_id": "john-xxiii",
+                "type": "encyclicals",
+                "date": "1959-06-29",
+                "title": "Ad Petri Cathedram",
+                "excerpt": {}
+            }
+        ]
+    }
+}

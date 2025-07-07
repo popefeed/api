@@ -1,0 +1,205 @@
+{
+    "id": "leo-xiii",
+    "names": {
+        "en": "Leo XIII",
+        "la": "Leo PP. XIII"
+    },
+    "full_name": "Gioacchino Pecci",
+    "reign_start": "1878-02-20",
+    "reign_end": "1903-07-20",
+    "metadata": {
+        "vatican_urls": {
+            "en": "https://www.vatican.va/content/leo-xiii/en.html"
+        },
+        "documents_vatican_url_index": {
+            "apost-constitutions": [
+                "https://www.vatican.va/content/leo-xiii/en/apost_constitutions.index.html"
+            ],
+            "apost-letters": [
+                "https://www.vatican.va/content/leo-xiii/en/apost_letters.index.html"
+            ],
+            "briefs": [
+                "https://www.vatican.va/content/leo-xiii/en/briefs.index.html"
+            ],
+            "bulls": [
+                "https://www.vatican.va/content/leo-xiii/en/bulls.index.html"
+            ],
+            "encyclicals": [
+                "https://www.vatican.va/content/leo-xiii/en/encyclicals.index.html"
+            ],
+            "letters": [
+                "https://www.vatican.va/content/leo-xiii/en/letters.index.html"
+            ],
+            "motu-proprio": [
+                "https://www.vatican.va/content/leo-xiii/en/motu_proprio.index.html"
+            ],
+            "speeches": [
+                "https://www.vatican.va/content/leo-xiii/en/speeches.index.html"
+            ]
+        }
+    },
+    "documents": {
+        "encyclicals": [
+            {
+                "id": "hf_l-xiii_enc_24121902_dum-multa",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1902-12-24",
+                "title": "Dum Multa",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_08121902_fin-dal-principio",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1902-12-08",
+                "title": "Fin dal Principio",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_22111902_quae-ad-nos",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1902-11-22",
+                "title": "Quae Ad Nos",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_28051902_mirae-caritatis",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1902-05-28",
+                "title": "Mirae Caritatis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_30041902_quod-votis",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1902-04-30",
+                "title": "Quod Votis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_15041902_in-amplissimo",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1902-04-15",
+                "title": "In Amplissimo",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_20111901_urbanitatis-veteris",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1901-11-20",
+                "title": "Urbanitatis Veteris",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_20081901_reputantibus",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1901-08-20",
+                "title": "Reputantibus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_16051901_gravissimas",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1901-05-16",
+                "title": "Gravissimas",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_18011901_graves-de-communi-re",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1901-01-18",
+                "title": "Graves de Communi Re",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1900-11-01",
+                "title": "Tametsi Futura Prospicientibus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_21071900_omnibus-compertum",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1900-07-21",
+                "title": "Omnibus Compertum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_18091899_paternae",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1899-09-18",
+                "title": "Paternae",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_08091899_depuis-le-jour",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1899-09-08",
+                "title": "Depuis le Jour",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_25051899_annum-sacrum",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1899-05-25",
+                "title": "Annum Sacrum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_25121898_quum-diuturnum",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1898-12-25",
+                "title": "Quum Diuturnum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_05091898_diuturni-temporis",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1898-09-05",
+                "title": "Diuturni Temporis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_16081898_quam-religiosa",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1898-08-16",
+                "title": "Quam Religiosa",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_05081898_spesse-volte",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1898-08-05",
+                "title": "Spesse Volte",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_l-xiii_enc_25071898_caritatis-studium",
+                "pope_id": "leo-xiii",
+                "type": "encyclicals",
+                "date": "1898-07-25",
+                "title": "Caritatis Studium",
+                "excerpt": {}
+            }
+        ]
+    }
+}
