@@ -1,8 +1,14 @@
 baseURL = 'https://popefeed.com/'
 defaultContentLanguage = 'en'
-title = 'PopeFeed'
+title = 'Pope Feed'
 
 [params]
+  # Site Configuration
+  site_title = "Pope Feed"
+  site_description = "Vatican Documents in a Social Feed"
+  posts_per_page = 50
+  
+  # Development environment (default)
   apiBaseURL = 'http://localhost:8000'
 
 [markup]
