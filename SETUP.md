@@ -326,79 +326,6 @@ popefeed/
 }
 ```
 
-### Scraping Targets & Multilanguage Strategy
-
-1. **Vatican Website Language URLs:**
-   ```python
-   LANGUAGE_CODES = {
-       'en': 'en',     # English
-       'es': 'es',     # Spanish
-       'pt': 'pt',     # Portuguese
-       'it': 'it',     # Italian
-       'fr': 'fr',     # French
-       'la': 'la',     # Latin
-       'de': 'ge',     # German (optional)
-       'pl': 'pl'      # Polish (optional)
-   }
-   
-   # URL pattern for different languages
-   def build_vatican_url(pope, doc_type, language):
-       return f"https://vatican.va/content/{pope}/{language}/{doc_type}.index.html"
-   ```
-
-2. **Enhanced Scraping Pipeline:**
-   ```python
-   def scrape_vatican_multilanguage():
-       popes = ['leo-xiv', 'francesco', 'benedict-xvi', 'john-paul-ii']
-       document_types = ['encyclicals', 'motu_proprio', 'homilies', 
-                        'apostolic_letters', 'audiences']
-       languages = ['en', 'es', 'pt', 'it', 'fr', 'la']
-       
-       for pope in popes:
-           pope_data = {}
-           
-           # Scrape pope info in all languages
-           for lang in languages:
-               pope_info = scrape_pope_info(pope, lang)
-               merge_language_data(pope_data, pope_info, lang)
-           
-           # Download pope images (language-independent)
-           download_pope_images(pope_data)
-           save_api_file(f"popes/{pope}.json", pope_data)
-           
-           # Scrape documents
-           for doc_type in document_types:
-               for lang in languages:
-                   documents = scrape_document_list(pope, doc_type, lang)
-                   for doc in documents:
-                       # Check if document already scraped in another language
-                       existing_doc = find_existing_document(doc)
-                       if existing_doc:
-                           add_language_version(existing_doc, doc, lang)
-                       else:
-                           create_new_document(doc, lang)
-   ```
-
-3. **PDF Management:**
-   ```python
-   def process_document_pdfs(document):
-       """Download and organize PDFs for all available languages"""
-       document_id = document['id']
-       pdf_dir = f"api/documents/{document_id}"
-       
-       os.makedirs(pdf_dir, exist_ok=True)
-       
-       for lang, pdf_url in document['pdf_urls'].items():
-           if pdf_url:
-               local_path = f"{pdf_dir}/{lang}.pdf"
-               download_pdf(pdf_url, local_path)
-               # Verify PDF is valid
-               if validate_pdf(local_path):
-                   document['local_pdfs'][lang] = f"/api/documents/{document_id}/{lang}.pdf"
-               else:
-                   log_error(f"Invalid PDF for {document_id} in {lang}")
-   ```
-
 ### API Output Structure
 
 ```
@@ -458,12 +385,12 @@ class PopeFeedPDFViewer {
             ...options
         };
     }
-    
+ 
     async loadDocument(documentId, language = 'en') {
         const pdfUrl = `/api/documents/${documentId}/${language}.pdf`;
         // Initialize PDF.js viewer
     }
-    
+ 
     async compareDocs(documentId, lang1, lang2) {
         // Load two PDFs side by side for comparison
     }
@@ -484,12 +411,12 @@ class PopeFeedPDFViewer {
         <button id="download-pdf">{{ i18n "download_pdf" }}</button>
         <button id="fullscreen">{{ i18n "fullscreen" }}</button>
     </div>
-    
+ 
     <div class="pdf-content">
         <div id="pdf-canvas"></div>
         <div id="pdf-compare-canvas" style="display:none;"></div>
     </div>
-    
+ 
     <div class="pdf-navigation">
         <button id="prev-page">←</button>
         <span id="page-info">Page <span id="current-page">1</span> of <span id="total-pages">1</span></span>

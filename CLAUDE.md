@@ -131,7 +131,7 @@ popefeed/
 
 ## Success Metrics
 - Support for 6+ languages
-- 5000+ documents in multiple languages  
+- 5000+ documents in multiple languages
 - PDF rendering on all devices
 - Language switch < 100ms
 - Offline PDF access
