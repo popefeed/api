@@ -1,0 +1,158 @@
+{
+    "id": "benedict-xv",
+    "names": {
+        "en": "Benedict XV",
+        "la": "Benedictus PP. XV"
+    },
+    "full_name": "Giacomo della Chiesa",
+    "reign_start": "1914-09-03",
+    "reign_end": "1922-01-22",
+    "metadata": {
+        "vatican_urls": {
+            "en": "https://www.vatican.va/content/benedict-xv/en.html"
+        },
+        "documents_vatican_url_index": {
+            "apost-constitutions": [
+                "https://www.vatican.va/content/benedict-xv/en/apost-constitutions.index.html"
+            ],
+            "apost-exhortations": [
+                "https://www.vatican.va/content/benedict-xv/en/apost_exhortations.index.html"
+            ],
+            "apost-letters": [
+                "https://www.vatican.va/content/benedict-xv/en/apost_letters.index.html"
+            ],
+            "biography": [
+                "https://www.vatican.va/content/benedict-xv/en/biography.index.html"
+            ],
+            "briefs": [
+                "https://www.vatican.va/content/benedict-xv/en/briefs.index.html"
+            ],
+            "bulls": [
+                "https://www.vatican.va/content/benedict-xv/en/bulls.index.html"
+            ],
+            "encyclicals": [
+                "https://www.vatican.va/content/benedict-xv/en/encyclicals.index.html"
+            ],
+            "homilies": [
+                "https://www.vatican.va/content/benedict-xv/en/homilies.index.html"
+            ],
+            "letters": [
+                "https://www.vatican.va/content/benedict-xv/en/letters.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1914.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1915.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1916.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1917.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1918.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1919.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1920.index.html",
+                "https://www.vatican.va/content/benedict-xv/en/letters/1921.index.html"
+            ],
+            "motu-proprio": [
+                "https://www.vatican.va/content/benedict-xv/en/motu_proprio.index.html"
+            ],
+            "speeches": [
+                "https://www.vatican.va/content/benedict-xv/en/speeches.index.html"
+            ]
+        }
+    },
+    "documents": {
+        "encyclicals": [
+            {
+                "id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1921-06-29",
+                "title": "Fausto Appetente Die",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1921-04-30",
+                "title": "In Praeclara Summorum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_06011921_sacra-propediem",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1921-01-06",
+                "title": "Sacra Propediem",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1920-12-01",
+                "title": "Annus Iam Plenus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1920-10-05",
+                "title": "Principi Apostolorum Petro",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1920-09-15",
+                "title": "Spiritus Paraclitus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1920-05-23",
+                "title": "Pacem, Dei Munus Pulcherrimum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1919-11-24",
+                "title": "Paterno Iam Diu",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_14051919_in-hac-tanta",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1919-05-14",
+                "title": "In Hac Tanta",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_01121918_quod-iam-diu",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1918-12-01",
+                "title": "Quod Iam Diu",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1917-06-15",
+                "title": "Humani Generis Redemptionem",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
+                "pope_id": "benedict-xv",
+                "type": "encyclicals",
+                "date": "1914-11-01",
+                "title": "Ad Beatissimi Apostolorum",
+                "excerpt": {}
+            }
+        ]
+    }
+}

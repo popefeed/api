@@ -1,0 +1,203 @@
+{
+    "id": "pius-xi",
+    "names": {
+        "en": "Pius XI",
+        "la": "Pius PP. XI"
+    },
+    "full_name": "Achille Ratti",
+    "reign_start": "1922-02-06",
+    "reign_end": "1939-02-10",
+    "metadata": {
+        "vatican_urls": {
+            "en": "https://www.vatican.va/content/pius-xi/en.html"
+        },
+        "documents_vatican_url_index": {
+            "apost-constitutions": [
+                "https://www.vatican.va/content/pius-xi/en/apost_constitutions.index.html"
+            ],
+            "apost-letters": [
+                "https://www.vatican.va/content/pius-xi/en/apost_letters.index.html"
+            ],
+            "biography": [
+                "https://www.vatican.va/content/pius-xi/en/biography.index.html"
+            ],
+            "briefs": [
+                "https://www.vatican.va/content/pius-xi/en/briefs.index.html"
+            ],
+            "bulls": [
+                "https://www.vatican.va/content/pius-xi/en/bulls.index.html"
+            ],
+            "encyclicals": [
+                "https://www.vatican.va/content/pius-xi/en/encyclicals.index.html"
+            ],
+            "homilies": [
+                "https://www.vatican.va/content/pius-xi/en/homilies.index.html"
+            ],
+            "letters": [
+                "https://www.vatican.va/content/pius-xi/en/letters.index.html"
+            ],
+            "motu-proprio": [
+                "https://www.vatican.va/content/pius-xi/en/motu_proprio.index.html"
+            ],
+            "speeches": [
+                "https://www.vatican.va/content/pius-xi/en/speeches.index.html"
+            ]
+        }
+    },
+    "documents": {
+        "encyclicals": [
+            {
+                "id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1937-09-29",
+                "title": "Ingravescentibus Malis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1937-03-28",
+                "title": "Firmissimam Constantiam",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_28031937_nos-es-muy-conocida",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "28/03/1937",
+                "title": "Pius XI, Nos es muy conocida",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19370319_divini-redemptoris",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1937-03-19",
+                "title": "Divini Redemptoris",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1937-03-14",
+                "title": "Mit Brennender Sorge",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_29061936_vigilanti-cura",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1936-06-29",
+                "title": "Vigilanti Cura",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1935-12-20",
+                "title": "Ad Catholici Sacerdotii",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_03061933_dilectissima-nobis",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1933-06-03",
+                "title": "Dilectissima Nobis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_29091932_acerba-animi",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1932-09-29",
+                "title": "Acerba Animi",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1932-05-03",
+                "title": "Caritate Christi Compulsi",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19311225_lux-veritatis",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1931-12-25",
+                "title": "Lux Veritatis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_02101931_nova-impendet",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1931-10-02",
+                "title": "Nova Impendet",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1931-06-29",
+                "title": "Non Abbiamo Bisogno",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19310515_quadragesimo-anno",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1931-05-15",
+                "title": "Quadragesimo Anno",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19301231_casti-connubii",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1930-12-31",
+                "title": "Casti Connubii",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19300420_ad-salutem-humani",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1930-04-20",
+                "title": "Ad Salutem Humani",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_31121929_divini-illius-magistri",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1929-12-31",
+                "title": "Divini Illius Magistri",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1929-12-23",
+                "title": "Quinquagesimo Ante Anno",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xi_enc_19291220_mens-nostra",
+                "pope_id": "pius-xi",
+                "type": "encyclicals",
+                "date": "1929-12-20",
+                "title": "Mens Nostra",
+                "excerpt": {}
+            }
+        ]
+    }
+}

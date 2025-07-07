@@ -1,0 +1,249 @@
+{
+    "id": "pius-xii",
+    "names": {
+        "en": "Pius XII",
+        "la": "Pius PP. XII"
+    },
+    "full_name": "Eugenio Pacelli",
+    "reign_start": "1939-03-02",
+    "reign_end": "1958-10-09",
+    "metadata": {
+        "vatican_urls": {
+            "en": "https://www.vatican.va/content/pius-xii/en.html"
+        },
+        "documents_vatican_url_index": {
+            "apost-constitutions": [
+                "https://www.vatican.va/content/pius-xii/en/apost_constitutions.index.html"
+            ],
+            "apost-exhortations": [
+                "https://www.vatican.va/content/pius-xii/en/apost_exhortations.index.html"
+            ],
+            "apost-letters": [
+                "https://www.vatican.va/content/pius-xii/en/apost_letters.index.html"
+            ],
+            "audiences": [
+                "https://www.vatican.va/content/pius-xii/en/audiences.index.html",
+                "https://www.vatican.va/content/pius-xii/en/audiences/1939.index.html",
+                "https://www.vatican.va/content/pius-xii/en/audiences/1940.index.html",
+                "https://www.vatican.va/content/pius-xii/en/audiences/1942.index.html",
+                "https://www.vatican.va/content/pius-xii/en/audiences/1943.index.html"
+            ],
+            "biography": [
+                "https://www.vatican.va/content/pius-xii/en/biography.index.html"
+            ],
+            "briefs": [
+                "https://www.vatican.va/content/pius-xii/en/briefs.index.html"
+            ],
+            "bulls": [
+                "https://www.vatican.va/content/pius-xii/en/bulls.index.html"
+            ],
+            "encyclicals": [
+                "https://www.vatican.va/content/pius-xii/en/encyclicals.index.html"
+            ],
+            "homilies": [
+                "https://www.vatican.va/content/pius-xii/en/homilies.index.html"
+            ],
+            "letters": [
+                "https://www.vatican.va/content/pius-xii/en/letters.index.html"
+            ],
+            "messages": [
+                "https://www.vatican.va/content/pius-xii/en/messages.index.html",
+                "https://www.vatican.va/content/pius-xii/en/messages/urbi.index.html",
+                "https://www.vatican.va/content/pius-xii/en/messages/pont-messages.index.html"
+            ],
+            "motu-proprio": [
+                "https://www.vatican.va/content/pius-xii/en/motu_proprio.index.html"
+            ],
+            "prayers": [
+                "https://www.vatican.va/content/pius-xii/en/prayers.index.html"
+            ],
+            "speeches": [
+                "https://www.vatican.va/content/pius-xii/en/speeches.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1939.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1940.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1941.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1942.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1943.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1944.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1945.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1946.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1947.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1948.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1949.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1950.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1951.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1952.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1953.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1954.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1955.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1956.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1957.index.html",
+                "https://www.vatican.va/content/pius-xii/en/speeches/1958.index.html"
+            ]
+        }
+    },
+    "documents": {
+        "encyclicals": [
+            {
+                "id": "hf_p-xii_enc_14071958_meminisse-iuvat",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1958-07-14",
+                "title": "Meminisse Iuvat",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1958-06-29",
+                "title": "Ad Apostolorum Principis",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_08091957_miranda-prorsus",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1957-09-08",
+                "title": "Miranda Prorsus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1957-07-02",
+                "title": "Le Pèlerinage de Lourdes",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_16051957_invicti-athletae",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1957-05-16",
+                "title": "Invicti Athletae",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_21041957_fidei-donum",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1957-04-21",
+                "title": "Fidei Donum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_05111956_datis-nuperrime",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1956-11-05",
+                "title": "Datis Nuperrime",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_01111956_laetamur-admodum",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1956-11-01",
+                "title": "Laetamur Admodum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1956-10-28",
+                "title": "Luctuosissimi Eventus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_15051956_haurietis-aquas",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1956-05-15",
+                "title": "Haurietis Aquas",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_25121955_musicae-sacrae",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1955-12-25",
+                "title": "Musicae Sacrae",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1954-10-11",
+                "title": "Ad Caeli Reginam",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1954-10-07",
+                "title": "Ad Sinarum Gentem",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1954-06-05",
+                "title": "Ecclesiae Fastos",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_25031954_sacra-virginitas",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1954-03-25",
+                "title": "Sacra Virginitas",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_08091953_fulgens-corona",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1953-09-08",
+                "title": "Fulgens Corona",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_24051953_doctor-mellifluus",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1953-05-24",
+                "title": "Doctor Mellifluus",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_15121952_orientales",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1952-12-15",
+                "title": "Orientales Ecclesias",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_15091951_ingruentium-malorum",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1951-09-15",
+                "title": "Ingruentium Malorum",
+                "excerpt": {}
+            },
+            {
+                "id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
+                "pope_id": "pius-xii",
+                "type": "encyclicals",
+                "date": "1951-09-08",
+                "title": "Sempiternus Rex Christus",
+                "excerpt": {}
+            }
+        ]
+    }
+}

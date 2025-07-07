@@ -1,0 +1,1064 @@
+{
+  "meta": {
+    "page": 1,
+    "per_page": 50,
+    "total_pages": 3,
+    "total_posts": 123,
+    "has_next": true,
+    "has_prev": false,
+    "next_page": 2,
+    "prev_page": null
+  },
+  "posts": [
+    {
+      "id": "20241024-enciclica-dilexit-nos",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "pontifex",
+        "avatar": "http://localhost:8000/popes/francesco.jpg"
+      },
+      "document": {
+        "title": "Dilexit nos",
+        "type": "Encyclical",
+        "date": "2024-10-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241024-enciclica-dilexit-nos",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "papa-francesco_20201003_enciclica-fratelli-tutti",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "pontifex",
+        "avatar": "http://localhost:8000/popes/francesco.jpg"
+      },
+      "document": {
+        "title": "Fratelli tutti",
+        "type": "Encyclical",
+        "date": "2020-10-03",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 18,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20201003_enciclica-fratelli-tutti",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "papa-francesco_20150524_enciclica-laudato-si",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "pontifex",
+        "avatar": "http://localhost:8000/popes/francesco.jpg"
+      },
+      "document": {
+        "title": "Laudato si'",
+        "type": "Encyclical",
+        "date": "2015-05-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 17,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20150524_enciclica-laudato-si",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "papa-francesco_20130629_enciclica-lumen-fidei",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "pontifex",
+        "avatar": "http://localhost:8000/popes/francesco.jpg"
+      },
+      "document": {
+        "title": "Lumen fidei",
+        "type": "Encyclical",
+        "date": "2013-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 15,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20130629_enciclica-lumen-fidei",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_enc_20090629_caritas-in-veritate",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": "Benedict XVI",
+        "handle": "benedictxvi",
+        "avatar": "http://localhost:8000/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "title": "Caritas in veritate",
+        "type": "Encyclical",
+        "date": "2009-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 15,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_enc_20090629_caritas-in-veritate",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_enc_20071130_spe-salvi",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": "Benedict XVI",
+        "handle": "benedictxvi",
+        "avatar": "http://localhost:8000/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "title": "Spe salvi",
+        "type": "Encyclical",
+        "date": "2007-11-30",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 14,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_enc_20071130_spe-salvi",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_enc_20051225_deus-caritas-est",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": "Benedict XVI",
+        "handle": "benedictxvi",
+        "avatar": "http://localhost:8000/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "title": "Deus caritas est",
+        "type": "Encyclical",
+        "date": "2005-12-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 14,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_enc_20051225_deus-caritas-est",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_20030417_eccl-de-euch",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Ecclesia de Eucharistia",
+        "type": "Encyclical",
+        "date": "2003-04-17",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 11,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_20030417_eccl-de-euch",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_14091998_fides-et-ratio",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Fides et Ratio",
+        "type": "Encyclical",
+        "date": "1998-09-14",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 16,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_14091998_fides-et-ratio",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_25051995_ut-unum-sint",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Ut Unum Sint",
+        "type": "Encyclical",
+        "date": "1995-05-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 12,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_25051995_ut-unum-sint",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_25031995_evangelium-vitae",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Evangelium Vitae",
+        "type": "Encyclical",
+        "date": "1995-03-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 12,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_25031995_evangelium-vitae",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_06081993_veritatis-splendor",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Veritatis Splendor",
+        "type": "Encyclical",
+        "date": "1993-08-06",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 11,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_06081993_veritatis-splendor",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_01051991_centesimus-annus",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Centesimus Annus",
+        "type": "Encyclical",
+        "date": "1991-05-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_01051991_centesimus-annus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_07121990_redemptoris-missio",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Redemptoris Missio",
+        "type": "Encyclical",
+        "date": "1990-12-07",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 11,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_07121990_redemptoris-missio",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Sollicitudo Rei Socialis",
+        "type": "Encyclical",
+        "date": "1987-12-30",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_25031987_redemptoris-mater",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Redemptoris Mater",
+        "type": "Encyclical",
+        "date": "1987-03-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_25031987_redemptoris-mater",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Dominum et vivificantem",
+        "type": "Encyclical",
+        "date": "1986-05-18",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Slavorum Apostoli",
+        "type": "Encyclical",
+        "date": "1985-06-02",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_14091981_laborem-exercens",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Laborem Exercens",
+        "type": "Encyclical",
+        "date": "1981-09-14",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_14091981_laborem-exercens",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Dives in Misericordia",
+        "type": "Encyclical",
+        "date": "1980-11-30",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_jp-ii_enc_04031979_redemptor-hominis",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": "John Paul II",
+        "handle": "johnpaulii",
+        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "title": "Redemptor Hominis",
+        "type": "Encyclical",
+        "date": "1979-03-04",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_04031979_redemptor-hominis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_25071968_humanae-vitae",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Humanae Vitae",
+        "type": "Encyclical",
+        "date": "1968-07-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_25071968_humanae-vitae",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_24061967_sacerdotalis",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Sacerdotalis Caelibatus",
+        "type": "Encyclical",
+        "date": "1967-06-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_24061967_sacerdotalis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_26031967_populorum",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Populorum Progressio",
+        "type": "Encyclical",
+        "date": "1967-03-26",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_26031967_populorum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_15091966_christi-matri",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Christi Matri",
+        "type": "Encyclical",
+        "date": "1966-09-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_15091966_christi-matri",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_03091965_mysterium",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Mysterium Fidei",
+        "type": "Encyclical",
+        "date": "1965-09-03",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_03091965_mysterium",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_29041965_mense-maio",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Mense Maio",
+        "type": "Encyclical",
+        "date": "1965-04-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_29041965_mense-maio",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-vi_enc_06081964_ecclesiam",
+      "pope": {
+        "id": "paul-vi",
+        "name": "Paul VI",
+        "handle": "paulvi",
+        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+      },
+      "document": {
+        "title": "Ecclesiam Suam",
+        "type": "Encyclical",
+        "date": "1964-08-06",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_enc_06081964_ecclesiam",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_01071962_paenitentiam",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Paenitentiam Agere",
+        "type": "Encyclical",
+        "date": "1962-07-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_01071962_paenitentiam",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_11111961_aeterna-dei",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Aeterna Dei Sapientia",
+        "type": "Encyclical",
+        "date": "1961-11-11",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_11111961_aeterna-dei",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_15051961_mater",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Mater et Magistra",
+        "type": "Encyclical",
+        "date": "1961-05-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_15051961_mater",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_28111959_princeps",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Princeps Pastorum",
+        "type": "Encyclical",
+        "date": "1959-11-28",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_28111959_princeps",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_26091959_grata-recordatio",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Grata Recordatio",
+        "type": "Encyclical",
+        "date": "1959-09-26",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_26091959_grata-recordatio",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_19590801_sacerdotii",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Sacerdotii Nostri Primordia",
+        "type": "Encyclical",
+        "date": "1959-08-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_19590801_sacerdotii",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_j-xxiii_enc_29061959_ad-petri",
+      "pope": {
+        "id": "john-xxiii",
+        "name": "John XXIII",
+        "handle": "johnxxiii",
+        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+      },
+      "document": {
+        "title": "Ad Petri Cathedram",
+        "type": "Encyclical",
+        "date": "1959-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_j-xxiii_enc_29061959_ad-petri",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_14071958_meminisse-iuvat",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Meminisse Iuvat",
+        "type": "Encyclical",
+        "date": "1958-07-14",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_14071958_meminisse-iuvat",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Ad Apostolorum Principis",
+        "type": "Encyclical",
+        "date": "1958-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_08091957_miranda-prorsus",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Miranda Prorsus",
+        "type": "Encyclical",
+        "date": "1957-09-08",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_08091957_miranda-prorsus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Le Pèlerinage de Lourdes",
+        "type": "Encyclical",
+        "date": "1957-07-02",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_16051957_invicti-athletae",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Invicti Athletae",
+        "type": "Encyclical",
+        "date": "1957-05-16",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_16051957_invicti-athletae",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_21041957_fidei-donum",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Fidei Donum",
+        "type": "Encyclical",
+        "date": "1957-04-21",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_21041957_fidei-donum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_05111956_datis-nuperrime",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Datis Nuperrime",
+        "type": "Encyclical",
+        "date": "1956-11-05",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_05111956_datis-nuperrime",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_01111956_laetamur-admodum",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Laetamur Admodum",
+        "type": "Encyclical",
+        "date": "1956-11-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_01111956_laetamur-admodum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Luctuosissimi Eventus",
+        "type": "Encyclical",
+        "date": "1956-10-28",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_15051956_haurietis-aquas",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Haurietis Aquas",
+        "type": "Encyclical",
+        "date": "1956-05-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_15051956_haurietis-aquas",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_25121955_musicae-sacrae",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Musicae Sacrae",
+        "type": "Encyclical",
+        "date": "1955-12-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_25121955_musicae-sacrae",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Ad Caeli Reginam",
+        "type": "Encyclical",
+        "date": "1954-10-11",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Ad Sinarum Gentem",
+        "type": "Encyclical",
+        "date": "1954-10-07",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Ecclesiae Fastos",
+        "type": "Encyclical",
+        "date": "1954-06-05",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_25031954_sacra-virginitas",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Sacra Virginitas",
+        "type": "Encyclical",
+        "date": "1954-03-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_25031954_sacra-virginitas",
+        "original_type": "encyclicals"
+      }
+    }
+  ]
+}

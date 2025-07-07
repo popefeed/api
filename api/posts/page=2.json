@@ -1,0 +1,1064 @@
+{
+  "meta": {
+    "page": 2,
+    "per_page": 50,
+    "total_pages": 3,
+    "total_posts": 123,
+    "has_next": true,
+    "has_prev": true,
+    "next_page": 3,
+    "prev_page": 1
+  },
+  "posts": [
+    {
+      "id": "hf_p-xii_enc_08091953_fulgens-corona",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Fulgens Corona",
+        "type": "Encyclical",
+        "date": "1953-09-08",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_08091953_fulgens-corona",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_24051953_doctor-mellifluus",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Doctor Mellifluus",
+        "type": "Encyclical",
+        "date": "1953-05-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_24051953_doctor-mellifluus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_15121952_orientales",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Orientales Ecclesias",
+        "type": "Encyclical",
+        "date": "1952-12-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_15121952_orientales",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_15091951_ingruentium-malorum",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Ingruentium Malorum",
+        "type": "Encyclical",
+        "date": "1951-09-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_15091951_ingruentium-malorum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
+      "pope": {
+        "id": "pius-xii",
+        "name": "Pius XII",
+        "handle": "piusxii",
+        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+      },
+      "document": {
+        "title": "Sempiternus Rex Christus",
+        "type": "Encyclical",
+        "date": "1951-09-08",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Ingravescentibus Malis",
+        "type": "Encyclical",
+        "date": "1937-09-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Firmissimam Constantiam",
+        "type": "Encyclical",
+        "date": "1937-03-28",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19370319_divini-redemptoris",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Divini Redemptoris",
+        "type": "Encyclical",
+        "date": "1937-03-19",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19370319_divini-redemptoris",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Mit Brennender Sorge",
+        "type": "Encyclical",
+        "date": "1937-03-14",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_29061936_vigilanti-cura",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Vigilanti Cura",
+        "type": "Encyclical",
+        "date": "1936-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_29061936_vigilanti-cura",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Ad Catholici Sacerdotii",
+        "type": "Encyclical",
+        "date": "1935-12-20",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_03061933_dilectissima-nobis",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Dilectissima Nobis",
+        "type": "Encyclical",
+        "date": "1933-06-03",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_03061933_dilectissima-nobis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_29091932_acerba-animi",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Acerba Animi",
+        "type": "Encyclical",
+        "date": "1932-09-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_29091932_acerba-animi",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Caritate Christi Compulsi",
+        "type": "Encyclical",
+        "date": "1932-05-03",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19311225_lux-veritatis",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Lux Veritatis",
+        "type": "Encyclical",
+        "date": "1931-12-25",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19311225_lux-veritatis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_02101931_nova-impendet",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Nova Impendet",
+        "type": "Encyclical",
+        "date": "1931-10-02",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_02101931_nova-impendet",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Non Abbiamo Bisogno",
+        "type": "Encyclical",
+        "date": "1931-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19310515_quadragesimo-anno",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Quadragesimo Anno",
+        "type": "Encyclical",
+        "date": "1931-05-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19310515_quadragesimo-anno",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19301231_casti-connubii",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Casti Connubii",
+        "type": "Encyclical",
+        "date": "1930-12-31",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19301231_casti-connubii",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19300420_ad-salutem-humani",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Ad Salutem Humani",
+        "type": "Encyclical",
+        "date": "1930-04-20",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19300420_ad-salutem-humani",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_31121929_divini-illius-magistri",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Divini Illius Magistri",
+        "type": "Encyclical",
+        "date": "1929-12-31",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_31121929_divini-illius-magistri",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Quinquagesimo Ante Anno",
+        "type": "Encyclical",
+        "date": "1929-12-23",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-xi_enc_19291220_mens-nostra",
+      "pope": {
+        "id": "pius-xi",
+        "name": "Pius XI",
+        "handle": "piusxi",
+        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+      },
+      "document": {
+        "title": "Mens Nostra",
+        "type": "Encyclical",
+        "date": "1929-12-20",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19291220_mens-nostra",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Fausto Appetente Die",
+        "type": "Encyclical",
+        "date": "1921-06-29",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "In Praeclara Summorum",
+        "type": "Encyclical",
+        "date": "1921-04-30",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_06011921_sacra-propediem",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Sacra Propediem",
+        "type": "Encyclical",
+        "date": "1921-01-06",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_06011921_sacra-propediem",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Annus Iam Plenus",
+        "type": "Encyclical",
+        "date": "1920-12-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Principi Apostolorum Petro",
+        "type": "Encyclical",
+        "date": "1920-10-05",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Spiritus Paraclitus",
+        "type": "Encyclical",
+        "date": "1920-09-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Pacem, Dei Munus Pulcherrimum",
+        "type": "Encyclical",
+        "date": "1920-05-23",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Paterno Iam Diu",
+        "type": "Encyclical",
+        "date": "1919-11-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_14051919_in-hac-tanta",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "In Hac Tanta",
+        "type": "Encyclical",
+        "date": "1919-05-14",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_14051919_in-hac-tanta",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_01121918_quod-iam-diu",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Quod Iam Diu",
+        "type": "Encyclical",
+        "date": "1918-12-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_01121918_quod-iam-diu",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Humani Generis Redemptionem",
+        "type": "Encyclical",
+        "date": "1917-06-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
+      "pope": {
+        "id": "benedict-xv",
+        "name": "Benedict XV",
+        "handle": "benedictxv",
+        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+      },
+      "document": {
+        "title": "Ad Beatissimi Apostolorum",
+        "type": "Encyclical",
+        "date": "1914-11-01",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_24091912_singulari-quadam",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Singulari quadam",
+        "type": "Encyclical",
+        "date": "1912-09-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_24091912_singulari-quadam",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_07061912_lacrimabili-statu",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Lacrimabili Statu",
+        "type": "Encyclical",
+        "date": "1912-06-07",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_07061912_lacrimabili-statu",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_24051911_iamdudum",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Iamdudum",
+        "type": "Encyclical",
+        "date": "1911-05-24",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_24051911_iamdudum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_26051910_editae-saepe",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Editae Saepe",
+        "type": "Encyclical",
+        "date": "1910-05-26",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_26051910_editae-saepe",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_21041909_communium-rerum",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Communium Rerum",
+        "type": "Encyclical",
+        "date": "1909-04-21",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_21041909_communium-rerum",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Pascendi Dominici Gregis",
+        "type": "Encyclical",
+        "date": "1907-09-08",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_06011907_une-fois-encore",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Une Fois Encore",
+        "type": "Encyclical",
+        "date": "1907-01-06",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_06011907_une-fois-encore",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Gravissimo Officii Munere",
+        "type": "Encyclical",
+        "date": "1906-08-10",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_28071906_pieni-l-animo",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Pieni L'Animo",
+        "type": "Encyclical",
+        "date": "1906-07-28",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_28071906_pieni-l-animo",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_05041906_tribus-circiter",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Tribus Circiter",
+        "type": "Encyclical",
+        "date": "1906-04-05",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_05041906_tribus-circiter",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_11021906_vehementer-nos",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Vehementer Nos",
+        "type": "Encyclical",
+        "date": "1906-02-11",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_11021906_vehementer-nos",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_11061905_il-fermo-proposito",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Il Fermo Proposito",
+        "type": "Encyclical",
+        "date": "1905-06-11",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_11061905_il-fermo-proposito",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_15041905_acerbo-nimis",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Acerbo Nimis",
+        "type": "Encyclical",
+        "date": "1905-04-15",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_15041905_acerbo-nimis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_12031904_iucunda-sane",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Iucunda Sane",
+        "type": "Encyclical",
+        "date": "1904-03-12",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_12031904_iucunda-sane",
+        "original_type": "encyclicals"
+      }
+    },
+    {
+      "id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
+      "pope": {
+        "id": "pius-x",
+        "name": "Pius X",
+        "handle": "piusx",
+        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+      },
+      "document": {
+        "title": "Ad Diem Illum Laetissimum",
+        "type": "Encyclical",
+        "date": "1904-02-02",
+        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
+        "original_type": "encyclicals"
+      }
+    }
+  ]
+}
