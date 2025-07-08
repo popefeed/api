@@ -35,27 +35,33 @@
         
         {{ if and $useRemoteData $postsData.posts }}
         <!-- Server-side rendered posts -->
-        <div id="posts-feed" class="space-y-8">
+        <div id="posts-feed" class="space-y-6">
             {{ range $postsData.posts }}
-            <article class="post-card bg-white rounded-2xl p-8 mb-6">
-                <div class="flex items-start space-x-6">
-                    <div class="flex-shrink-0">
-                        <img src="{{ .pope.avatar }}" alt="{{ .pope.name }}" class="w-14 h-14 rounded-full ring-2 ring-border-light" loading="lazy">
+            <article class="post-card bg-white rounded-2xl p-6 lg:p-8 mb-6 shadow-sm hover:shadow-md transition-shadow">
+                <div class="flex flex-col sm:flex-row sm:items-start sm:space-x-6">
+                    <div class="flex-shrink-0 mb-4 sm:mb-0">
+                        <img src="{{ .pope.avatar }}" alt="{{ .pope.name }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full ring-2 ring-border-light mx-auto sm:mx-0" loading="lazy">
                     </div>
-                    <div class="flex-1 min-w-0">
-                        <div class="flex items-baseline space-x-3 mb-4">
-                            <h3 class="font-semibold text-text-primary text-lg">{{ .pope.name }}</h3>
-                            <span class="text-text-light text-sm">@{{ .pope.handle }}</span>
-                            <span class="text-text-light">·</span>
-                            <time class="text-text-light text-sm">{{ .document.date }}</time>
+                    <div class="flex-1 min-w-0 text-center sm:text-left">
+                        <div class="flex flex-col sm:flex-row sm:items-baseline sm:space-x-3 mb-4">
+                            <h3 class="font-semibold text-text-primary text-lg mb-1 sm:mb-0">{{ .pope.name }}</h3>
+                            <div class="flex items-center justify-center sm:justify-start space-x-2 text-text-light text-sm">
+                                <span>@{{ .pope.handle }}</span>
+                                <span class="hidden sm:inline">·</span>
+                                <time>{{ .document.date }}</time>
+                            </div>
                         </div>
                         
                         <div class="space-y-4">
-                            <h4 class="font-medium text-text-primary text-xl leading-relaxed">{{ .document.title }}</h4>
-                            <p class="text-text-secondary text-base leading-relaxed">{{ .document.excerpt }}</p>
+                            <h4 class="font-medium text-text-primary text-xl leading-relaxed">
+                                <a href="/documents/{{ .document.id }}" class="hover:text-accent transition-colors">
+                                    {{ .document.title }}
+                                </a>
+                            </h4>
+                            <p class="text-text-secondary text-base leading-relaxed line-clamp-3">{{ .document.excerpt }}</p>
                             
-                            <div class="flex items-center justify-between pt-4">
-                                <div class="flex items-center space-x-4">
+                            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 pt-4">
+                                <div class="flex flex-wrap items-center justify-center sm:justify-start gap-3">
                                     <span class="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium bg-slate-50 text-text-secondary border border-border-light">
                                         {{ .document.type }}
                                     </span>
@@ -63,14 +69,27 @@
                                         {{ .document.language_count }} languages
                                     </span>
                                 </div>
-                                {{ if .document.pdf_available }}
-                                <button class="minimal-button inline-flex items-center text-accent font-medium text-sm px-4 py-2 rounded-lg border border-transparent hover:border-accent/20">
-                                    <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
-                                    </svg>
-                                    View Document
-                                </button>
-                                {{ end }}
+                                
+                                <div class="flex items-center justify-center sm:justify-end space-x-2">
+                                    {{ if .document.vatican_url }}
+                                    <a href="{{ .document.vatican_url }}" 
+                                       target="_blank"
+                                       class="inline-flex items-center text-text-light hover:text-accent font-medium text-sm px-3 py-2 rounded-lg border border-transparent hover:border-accent/20 transition-colors">
+                                        <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                                        </svg>
+                                        Vatican
+                                    </a>
+                                    {{ end }}
+                                    
+                                    <a href="/documents/{{ .document.id }}" 
+                                       class="inline-flex items-center text-accent font-medium text-sm px-4 py-2 rounded-lg border border-transparent hover:border-accent/20 transition-colors">
+                                        <span>Read</span>
+                                        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                                        </svg>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -143,4 +162,76 @@
         {{ end }}
     };
 </script>
+
+<style>
+/* Responsive design improvements */
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Mobile-first responsive breakpoints */
+@media (max-width: 640px) {
+    .max-w-2xl {
+        max-width: 100%;
+    }
+    
+    .px-6 {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
+    .post-card {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .post-card h4 {
+        font-size: 1.125rem;
+        line-height: 1.5;
+    }
+    
+    .post-card p {
+        font-size: 0.875rem;
+    }
+}
+
+@media (min-width: 641px) and (max-width: 768px) {
+    .post-card {
+        padding: 1.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .max-w-2xl {
+        max-width: 42rem;
+    }
+}
+
+/* Enhanced hover effects */
+.post-card:hover {
+    transform: translateY(-2px);
+    transition: all 0.2s ease-in-out;
+}
+
+/* Focus states for accessibility */
+.post-card a:focus,
+button:focus {
+    outline: 2px solid rgb(59 130 246);
+    outline-offset: 2px;
+}
+
+/* Better typography scaling */
+@media (min-width: 1280px) {
+    .post-card h4 {
+        font-size: 1.25rem;
+    }
+    
+    .post-card p {
+        font-size: 1rem;
+    }
+}
+</style>
 {{ end }}
