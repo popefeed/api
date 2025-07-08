@@ -1,9 +1,30 @@
 {{ define "main" }}
+{{ $useRemoteData := .Site.Params.use_remote_data | default false }}
+{{ $postsData := dict }}
+{{ $postsIndex := dict }}
+
+{{ if $useRemoteData }}
+  <!-- Fetch remote data during build -->
+  {{ $postsIndexResult := try (resources.GetRemote .Site.Params.remote_data.posts_index_url) }}
+  {{ if $postsIndexResult.Value }}
+    {{ $postsIndex = $postsIndexResult.Value | transform.Unmarshal }}
+  {{ else }}
+    {{ warnf "Failed to fetch posts index from: %s" .Site.Params.remote_data.posts_index_url }}
+  {{ end }}
+  
+  {{ $postsPage1Result := try (resources.GetRemote (printf "%s1.json" .Site.Params.remote_data.posts_page_url)) }}
+  {{ if $postsPage1Result.Value }}
+    {{ $postsData = $postsPage1Result.Value | transform.Unmarshal }}
+  {{ else }}
+    {{ warnf "Failed to fetch posts page 1 from: %s" (printf "%s1.json" .Site.Params.remote_data.posts_page_url) }}
+  {{ end }}
+{{ end }}
+
 <div class="min-h-screen bg-bg-minimal">
     <!-- Minimal Header -->
     <header class="bg-white/80 backdrop-blur-sm border-b border-border-light sticky top-0 z-10">
         <div class="max-w-2xl mx-auto px-6 py-6">
-            <h1 class="text-2xl font-medium text-text-primary tracking-tight">PopeFeed</h1>
+            <h1 class="text-2xl font-medium text-text-primary tracking-tight">{{ .Site.Params.site_title | default "Pope Feed" }}</h1>
         </div>
     </header>
 
@@ -12,7 +33,65 @@
         <!-- Spacer -->
         <div class="pt-12"></div>
         
-        <!-- Dynamic Posts Container -->
+        {{ if and $useRemoteData $postsData.posts }}
+        <!-- Server-side rendered posts -->
+        <div id="posts-feed" class="space-y-8">
+            {{ range $postsData.posts }}
+            <article class="post-card bg-white rounded-2xl p-8 mb-6">
+                <div class="flex items-start space-x-6">
+                    <div class="flex-shrink-0">
+                        <img src="{{ .pope.avatar }}" alt="{{ .pope.name }}" class="w-14 h-14 rounded-full ring-2 ring-border-light" loading="lazy">
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <div class="flex items-baseline space-x-3 mb-4">
+                            <h3 class="font-semibold text-text-primary text-lg">{{ .pope.name }}</h3>
+                            <span class="text-text-light text-sm">@{{ .pope.handle }}</span>
+                            <span class="text-text-light">·</span>
+                            <time class="text-text-light text-sm">{{ .document.date }}</time>
+                        </div>
+                        
+                        <div class="space-y-4">
+                            <h4 class="font-medium text-text-primary text-xl leading-relaxed">{{ .document.title }}</h4>
+                            <p class="text-text-secondary text-base leading-relaxed">{{ .document.excerpt }}</p>
+                            
+                            <div class="flex items-center justify-between pt-4">
+                                <div class="flex items-center space-x-4">
+                                    <span class="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium bg-slate-50 text-text-secondary border border-border-light">
+                                        {{ .document.type }}
+                                    </span>
+                                    <span class="text-text-light text-sm">
+                                        {{ .document.language_count }} languages
+                                    </span>
+                                </div>
+                                {{ if .document.pdf_available }}
+                                <button class="minimal-button inline-flex items-center text-accent font-medium text-sm px-4 py-2 rounded-lg border border-transparent hover:border-accent/20">
+                                    <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                    View Document
+                                </button>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        
+        <!-- Load More Section (for additional pages) -->
+        {{ if and $postsIndex.meta $postsIndex.meta.total_pages }}
+        {{ if gt $postsIndex.meta.total_pages 1 }}
+        <div class="py-16 text-center">
+            <button id="load-more-btn" class="minimal-button inline-flex items-center px-8 py-4 text-accent font-medium rounded-xl border border-border-light hover:border-accent/20 focus:outline-none focus:ring-2 focus:ring-accent/20">
+                <span>Load more posts</span>
+            </button>
+        </div>
+        {{ end }}
+        {{ end }}
+        
+        {{ else }}
+        <!-- Fallback to client-side loading -->
         <div id="posts-feed" class="space-y-8">
             <!-- Initial Loading State -->
             <div class="py-24 text-center">
@@ -20,18 +99,19 @@
                 <p class="text-text-secondary font-medium">Loading posts...</p>
             </div>
         </div>
-
-        <!-- Loading More Indicator -->
-        <div id="loading-indicator" class="py-12 text-center" style="display: none;">
-            <div class="inline-block w-6 h-6 border-2 border-text-light border-t-accent rounded-full animate-spin mb-4"></div>
-            <p class="text-text-secondary text-sm">Loading more...</p>
-        </div>
-
+        
         <!-- Load More Section -->
         <div class="py-16 text-center">
             <button id="load-more-btn" class="minimal-button inline-flex items-center px-8 py-4 text-accent font-medium rounded-xl border border-border-light hover:border-accent/20 focus:outline-none focus:ring-2 focus:ring-accent/20" style="display: none;">
                 <span>Load more posts</span>
             </button>
+        </div>
+        {{ end }}
+
+        <!-- Loading More Indicator -->
+        <div id="loading-indicator" class="py-12 text-center" style="display: none;">
+            <div class="inline-block w-6 h-6 border-2 border-text-light border-t-accent rounded-full animate-spin mb-4"></div>
+            <p class="text-text-secondary text-sm">Loading more...</p>
         </div>
 
         <!-- Error State -->
@@ -44,4 +124,23 @@
         <div class="pb-24"></div>
     </div>
 </div>
+
+<!-- Pass data to JavaScript for progressive enhancement -->
+<script>
+    window.PopeFeedConfig = {
+        useRemoteData: {{ $useRemoteData }},
+        apiBaseUrl: '{{ .Site.Params.apiBaseURL }}',
+        {{ if and $useRemoteData $postsIndex.meta }}
+        initialPageLoaded: true,
+        totalPages: {{ $postsIndex.meta.total_pages | default 1 }},
+        totalPosts: {{ $postsIndex.meta.total_posts | default 0 }},
+        currentPage: 1
+        {{ else }}
+        initialPageLoaded: false,
+        totalPages: 1,
+        totalPosts: 0,
+        currentPage: 0
+        {{ end }}
+    };
+</script>
 {{ end }}

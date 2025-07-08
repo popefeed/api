@@ -77,7 +77,7 @@ theme = ""
   site_title = "Pope Feed"
   site_description = "Vatican Documents in a Social Feed"
   posts_per_page = 50
-  
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -98,7 +98,7 @@ class PostsFeed {
     this.currentPage = 1;
     this.totalPages = 1;
   }
-  
+
   async loadPosts(page = 1) {
     const response = await fetch(`${this.apiBase}/posts/page=${page}.json`);
     return await response.json();
@@ -253,7 +253,7 @@ class PDFViewer {
     this.pdfDoc = null;
     this.pageNum = 1;
   }
-  
+
   async loadPDF(url) {
     const loadingTask = pdfjsLib.getDocument(url);
     this.pdfDoc = await loadingTask.promise;
@@ -305,7 +305,7 @@ class FeedFilter {
       dateRange: null
     };
   }
-  
+
   filterPosts(posts) {
     return posts.filter(post => {
       return this.matchesPope(post) &&
