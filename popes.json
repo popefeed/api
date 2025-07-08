@@ -1,0 +1,2948 @@
+[
+  {
+    "id": "leo-xiv",
+    "names": {
+      "en": "Leo XIV",
+      "la": "Leo PP. XIV"
+    },
+    "full_name": "Robert Francis Prevost",
+    "reign_start": "2025-05-08",
+    "reign_end": null,
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/leo-xiv/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/leo-xiv/en/angelus.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/angelus/2025.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/leo-xiv/en/audiences.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/audiences/2025.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/leo-xiv/en/homilies.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/homilies/2025.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/leo-xiv/en/letters.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/letters/2025.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/leo-xiv/en/messages.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/messages/pont-messages.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/messages/pont-messages/2025.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/messages/urbi.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/messages/creation.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/messages/poor.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/leo-xiv/en/speeches.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/speeches/2025.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/speeches/2025/july.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/speeches/2025/june.index.html",
+          "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may.index.html"
+        ]
+      }
+    },
+    "documents": {},
+    "local_image_path": "/api/popes/leo-xiv.jpg"
+  },
+  {
+    "id": "francesco",
+    "names": {
+      "en": "Francis",
+      "la": "Franciscus"
+    },
+    "full_name": "Jorge Mario Bergoglio",
+    "reign_start": "2013-03-13",
+    "reign_end": null,
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/francesco/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/francesco/en/angelus.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2025.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/angelus/2013.index.html"
+        ],
+        "apost-constitutions": [
+          "https://www.vatican.va/content/francesco/en/apost_constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/francesco/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/francesco/en/apost_letters.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/francesco/en/audiences.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2025.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/audiences/2013.index.html"
+        ],
+        "bulls": [
+          "https://www.vatican.va/content/francesco/en/bulls.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/francesco/en/encyclicals.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/francesco/en/letters.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2025.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/letters/2013.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/francesco/en/messages.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2025.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/pont-messages/2013.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/urbi.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/communications.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/consecrated_life.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/food.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/lent.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/migration.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/missions.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/peace.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/poveri.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/sick.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/vocations.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/youth.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/nonni.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/bambini.index.html",
+          "https://www.vatican.va/content/francesco/en/messages/cura-creato.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/francesco/en/motu_proprio.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/francesco/en/homilies.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2025.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/homilies/2013.index.html"
+        ],
+        "prayers": [
+          "https://www.vatican.va/content/francesco/en/prayers.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/francesco/en/speeches.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2025.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2025/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2025/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2025/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2025/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2024/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2023/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2022/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2021/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2020/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2019/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2018/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2017/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2016/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2015/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/march.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/february.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2014/january.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/december.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/november.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/october.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/september.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/august.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/july.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/june.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/may.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/april.index.html",
+          "https://www.vatican.va/content/francesco/en/speeches/2013/march.index.html"
+        ],
+        "travels": [
+          "https://www.vatican.va/content/francesco/en/travels.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2024.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2024/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2024/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2023.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2023/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2022.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2022/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2022/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2021.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2021/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2021/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2020/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2020/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2019/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2019/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2018/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2018/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2017/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2017/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2016/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2016/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2015/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2015/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2014/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2014/outside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2013.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2013/inside.index.html",
+          "https://www.vatican.va/content/francesco/en/travels/2013/outside.index.html"
+        ],
+        "cotidie": [
+          "https://www.vatican.va/content/francesco/en/cotidie.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2020.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2019.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2018.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2017.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2016.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2015.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2014.index.html",
+          "https://www.vatican.va/content/francesco/en/cotidie/2013.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "20241024-enciclica-dilexit-nos",
+          "pope_id": "francesco",
+          "type": "encyclicals",
+          "date": "2024-10-24",
+          "title": "Dilexit nos",
+          "excerpt": {}
+        },
+        {
+          "id": "papa-francesco_20201003_enciclica-fratelli-tutti",
+          "pope_id": "francesco",
+          "type": "encyclicals",
+          "date": "2020-10-03",
+          "title": "Fratelli tutti",
+          "excerpt": {}
+        },
+        {
+          "id": "papa-francesco_20150524_enciclica-laudato-si",
+          "pope_id": "francesco",
+          "type": "encyclicals",
+          "date": "2015-05-24",
+          "title": "Laudato si'",
+          "excerpt": {}
+        },
+        {
+          "id": "papa-francesco_20130629_enciclica-lumen-fidei",
+          "pope_id": "francesco",
+          "type": "encyclicals",
+          "date": "2013-06-29",
+          "title": "Lumen fidei",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/francesco.jpg"
+  },
+  {
+    "id": "benedict-xvi",
+    "names": {
+      "en": "Benedict XVI",
+      "la": "Benedictus XVI"
+    },
+    "full_name": "Joseph Ratzinger",
+    "reign_start": "2005-04-19",
+    "reign_end": "2013-02-28",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/benedict-xvi/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/benedict-xvi/en/angelus.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/angelus/2013.index.html"
+        ],
+        "apost-constitutions": [
+          "https://www.vatican.va/content/benedict-xvi/en/apost_constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/benedict-xvi/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/benedict-xvi/en/apost_letters.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/benedict-xvi/en/audiences.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/audiences/2013.index.html"
+        ],
+        "biography": [
+          "https://www.vatican.va/content/benedict-xvi/en/biography.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/benedict-xvi/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/benedict-xvi/en/homilies.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/homilies/2013.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/benedict-xvi/en/letters.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/letters/2013.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/benedict-xvi/en/messages.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/communications.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/food.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/lent.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/migration.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/missions.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/peace.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/pont-messages/2013.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/sick.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/vocations.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/youth.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/messages/urbi.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/benedict-xvi/en/motu_proprio.index.html"
+        ],
+        "prayers": [
+          "https://www.vatican.va/content/benedict-xvi/en/prayers.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/benedict-xvi/en/speeches.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2005/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/december.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/november.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/october.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/september.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/august.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/july.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/june.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/may.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/april.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/march.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/january.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2013.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2013/february.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/speeches/2013/january.index.html"
+        ],
+        "elezione": [
+          "https://www.vatican.va/content/benedict-xvi/en/elezione.index.html"
+        ],
+        "travels": [
+          "https://www.vatican.va/content/benedict-xvi/en/travels.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2005.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2005/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2005/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2006.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2006/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2006/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2007.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2007/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2007/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2008.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2008/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2008/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2009.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2009/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2009/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2010.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2010/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2010/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2011.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2011/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2011/outside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2012.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2012/inside.index.html",
+          "https://www.vatican.va/content/benedict-xvi/en/travels/2012/outside.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_ben-xvi_enc_20090629_caritas-in-veritate",
+          "pope_id": "benedict-xvi",
+          "type": "encyclicals",
+          "date": "2009-06-29",
+          "title": "Caritas in veritate",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xvi_enc_20071130_spe-salvi",
+          "pope_id": "benedict-xvi",
+          "type": "encyclicals",
+          "date": "2007-11-30",
+          "title": "Spe salvi",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xvi_enc_20051225_deus-caritas-est",
+          "pope_id": "benedict-xvi",
+          "type": "encyclicals",
+          "date": "2005-12-25",
+          "title": "Deus caritas est",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/benedict-xvi.jpg"
+  },
+  {
+    "id": "john-paul-ii",
+    "names": {
+      "en": "John Paul II",
+      "la": "S. Ioannes Paulus PP. II"
+    },
+    "full_name": "Karol Wojtyla",
+    "reign_start": "1978-10-16",
+    "reign_end": "2005-04-02",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/john-paul-ii/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/john-paul-ii/en/angelus.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/angelus/2005.index.html"
+        ],
+        "apost-constitutions": [
+          "https://www.vatican.va/content/john-paul-ii/en/apost_constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/john-paul-ii/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2005.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/john-paul-ii/en/audiences.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/audiences/2005.index.html"
+        ],
+        "biografia": [
+          "https://www.vatican.va/content/john-paul-ii/en/biografia.index.html"
+        ],
+        "books": [
+          "https://www.vatican.va/content/john-paul-ii/en/books.index.html"
+        ],
+        "bulls": [
+          "https://www.vatican.va/content/john-paul-ii/en/bulls.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/john-paul-ii/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/john-paul-ii/en/homilies.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/homilies/2005.index.html"
+        ],
+        "jubilee": [
+          "https://www.vatican.va/content/john-paul-ii/en/jubilee.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/john-paul-ii/en/motu_proprio.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/john-paul-ii/en/letters.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/letters/2005.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/john-paul-ii/en/messages.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/food.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/literacy.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/migration.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/missions.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2005.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/tourism.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/urbi.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/vocations.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/communications.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/consecrated_life.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/lent.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/peace.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/sick.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/messages/youth.index.html"
+        ],
+        "prayers": [
+          "https://www.vatican.va/content/john-paul-ii/en/prayers.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/john-paul-ii/en/speeches.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1978.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1981/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1983/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1985/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1986/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1987/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1988/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1990/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1991/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1995/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1996/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/oct-dec.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/jul-sep.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/apr-jun.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/jan-mar.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2001/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/december.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/november.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/october.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/september.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/august.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/july.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/june.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/may.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/january.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2005.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/april.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/march.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/february.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/january.index.html"
+        ],
+        "travels": [
+          "https://www.vatican.va/content/john-paul-ii/en/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1979.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1979/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1980.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1980/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1981.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1981/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1982.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1982/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1983.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1983/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1984.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1984/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1985.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1985/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1986.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1986/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1987.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1987/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1988.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1988/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1989.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1989/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1990.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1990/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1991.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1991/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1992.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1992/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1993.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1993/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1994.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1994/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1995.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1995/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1996.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1996/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1997.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1997/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1998.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1998/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1999.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/1999/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2000.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2000/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2001.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2001/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2002.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2002/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2003.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2003/travels.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2004.index.html",
+          "https://www.vatican.va/content/john-paul-ii/en/travels/2004/travels.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_jp-ii_enc_20030417_eccl-de-euch",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "2003-04-17",
+          "title": "Ecclesia de Eucharistia",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_14091998_fides-et-ratio",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1998-09-14",
+          "title": "Fides et Ratio",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_25051995_ut-unum-sint",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1995-05-25",
+          "title": "Ut Unum Sint",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_25031995_evangelium-vitae",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1995-03-25",
+          "title": "Evangelium Vitae",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_06081993_veritatis-splendor",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1993-08-06",
+          "title": "Veritatis Splendor",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_01051991_centesimus-annus",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1991-05-01",
+          "title": "Centesimus Annus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_07121990_redemptoris-missio",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1990-12-07",
+          "title": "Redemptoris Missio",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1987-12-30",
+          "title": "Sollicitudo Rei Socialis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_25031987_redemptoris-mater",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1987-03-25",
+          "title": "Redemptoris Mater",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1986-05-18",
+          "title": "Dominum et vivificantem",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1985-06-02",
+          "title": "Slavorum Apostoli",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_14091981_laborem-exercens",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1981-09-14",
+          "title": "Laborem Exercens",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1980-11-30",
+          "title": "Dives in Misericordia",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_jp-ii_enc_04031979_redemptor-hominis",
+          "pope_id": "john-paul-ii",
+          "type": "encyclicals",
+          "date": "1979-03-04",
+          "title": "Redemptor Hominis",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/john-paul-ii.jpg"
+  },
+  {
+    "id": "john-paul-i",
+    "names": {
+      "en": "John Paul I",
+      "la": "Ioannes Paulus PP. I"
+    },
+    "full_name": "Albino Luciani",
+    "reign_start": "1978-08-26",
+    "reign_end": "1978-09-28",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/john-paul-i/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/john-paul-i/en/angelus.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/john-paul-i/en/apost_letters.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/john-paul-i/en/audiences.index.html"
+        ],
+        "biography": [
+          "https://www.vatican.va/content/john-paul-i/en/biography.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/john-paul-i/en/homilies.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/john-paul-i/en/letters.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/john-paul-i/en/messages.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/john-paul-i/en/speeches.index.html"
+        ]
+      }
+    },
+    "documents": {},
+    "local_image_path": "/api/popes/john-paul-i.jpg"
+  },
+  {
+    "id": "paul-vi",
+    "names": {
+      "en": "Paul VI",
+      "la": "S. Paulus PP. VI"
+    },
+    "full_name": "Giovanni Battista Montini",
+    "reign_start": "1963-06-21",
+    "reign_end": "1978-08-06",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/paul-vi/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/paul-vi/en/angelus.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1963.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1964.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1965.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1966.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1967.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1968.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1969.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1970.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1971.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1972.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1973.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1974.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1975.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1976.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1977.index.html",
+          "https://www.vatican.va/content/paul-vi/en/angelus/1978.index.html"
+        ],
+        "apost-constitutions": [
+          "https://www.vatican.va/content/paul-vi/en/apost_constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/paul-vi/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/paul-vi/en/apost_letters.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/paul-vi/en/audiences.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1963.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1964.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1965.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1966.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1967.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1968.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1969.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1970.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1971.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1972.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1973.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1974.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1975.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1976.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1977.index.html",
+          "https://www.vatican.va/content/paul-vi/en/audiences/1978.index.html"
+        ],
+        "biografia": [
+          "https://www.vatican.va/content/paul-vi/en/biografia.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/paul-vi/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/paul-vi/en/homilies.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1963.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1964.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1965.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1966.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1967.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1968.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1969.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1970.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1971.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1972.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1973.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1974.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1975.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1976.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1977.index.html",
+          "https://www.vatican.va/content/paul-vi/en/homilies/1978.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/paul-vi/en/letters.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1963.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1964.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1965.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1966.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1967.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1968.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1969.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1970.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1971.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1972.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1973.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1974.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1975.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1976.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1977.index.html",
+          "https://www.vatican.va/content/paul-vi/en/letters/1978.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/paul-vi/en/messages.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/migration.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/missions.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/sick.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/urbi_et_orbi.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/vocations.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/communications.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/lent.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/peace.index.html",
+          "https://www.vatican.va/content/paul-vi/en/messages/pont-messages.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/paul-vi/en/motu_proprio.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/paul-vi/en/speeches.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1963.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1964.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1965.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1966.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1967/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/november.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1968/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/november.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1969/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1970.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/november.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1971/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/november.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1972/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/november.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1973/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1974.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1975.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1976.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/august.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/september.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/october.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/november.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1977/december.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/january.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/february.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/march.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/april.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/may.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/june.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/july.index.html",
+          "https://www.vatican.va/content/paul-vi/en/speeches/1978/august.index.html"
+        ],
+        "travels": [
+          "https://www.vatican.va/content/paul-vi/en/travels.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_p-vi_enc_25071968_humanae-vitae",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1968-07-25",
+          "title": "Humanae Vitae",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-vi_enc_24061967_sacerdotalis",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1967-06-24",
+          "title": "Sacerdotalis Caelibatus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-vi_enc_26031967_populorum",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1967-03-26",
+          "title": "Populorum Progressio",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-vi_enc_15091966_christi-matri",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1966-09-15",
+          "title": "Christi Matri",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-vi_enc_03091965_mysterium",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1965-09-03",
+          "title": "Mysterium Fidei",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-vi_enc_29041965_mense-maio",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1965-04-29",
+          "title": "Mense Maio",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-vi_enc_06081964_ecclesiam",
+          "pope_id": "paul-vi",
+          "type": "encyclicals",
+          "date": "1964-08-06",
+          "title": "Ecclesiam Suam",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/paul-vi.jpg"
+  },
+  {
+    "id": "john-xxiii",
+    "names": {
+      "en": "John XXIII",
+      "la": "S. Ioannes PP. XXIII"
+    },
+    "full_name": "Angelo Giuseppe Roncalli",
+    "reign_start": "1958-10-28",
+    "reign_end": "1963-06-03",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/john-xxiii/en.html"
+      },
+      "documents_vatican_url_index": {
+        "angelus": [
+          "https://www.vatican.va/content/john-xxiii/en/angelus.index.html"
+        ],
+        "apost-constitutions": [
+          "https://www.vatican.va/content/john-xxiii/en/apost_constitutions.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1958.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1959.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1960.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1961.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_constitutions/1962.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/john-xxiii/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters/1958.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters/1959.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters/1960.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters/1961.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters/1962.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/apost_letters/1963.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/john-xxiii/en/audiences.index.html"
+        ],
+        "biography": [
+          "https://www.vatican.va/content/john-xxiii/en/biography.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/john-xxiii/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/john-xxiii/en/homilies.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/homilies/1958.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/homilies/1959.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/homilies/1960.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/homilies/1961.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/homilies/1962.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/homilies/1963.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/john-xxiii/en/letters.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/letters/1958.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/letters/1959.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/letters/1960.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/letters/1961.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/letters/1962.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/letters/1963.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/john-xxiii/en/messages.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1958.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1959.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1960.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1961.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1962.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/pont_messages/1963.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/messages/urbi_et_orbi.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/john-xxiii/en/motu_proprio.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/john-xxiii/en/speeches.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/speeches/1958.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/speeches/1959.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/speeches/1960.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/speeches/1961.index.html",
+          "https://www.vatican.va/content/john-xxiii/en/speeches/1962.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_j-xxiii_enc_11041963_pacem",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "April, 11 1963",
+          "title": "Pacem in Terris",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_01071962_paenitentiam",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1962-07-01",
+          "title": "Paenitentiam Agere",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_11111961_aeterna-dei",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1961-11-11",
+          "title": "Aeterna Dei Sapientia",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_15051961_mater",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1961-05-15",
+          "title": "Mater et Magistra",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_28111959_princeps",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1959-11-28",
+          "title": "Princeps Pastorum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_26091959_grata-recordatio",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1959-09-26",
+          "title": "Grata Recordatio",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_19590801_sacerdotii",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1959-08-01",
+          "title": "Sacerdotii Nostri Primordia",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_j-xxiii_enc_29061959_ad-petri",
+          "pope_id": "john-xxiii",
+          "type": "encyclicals",
+          "date": "1959-06-29",
+          "title": "Ad Petri Cathedram",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/john-xxiii.jpg"
+  },
+  {
+    "id": "pius-xii",
+    "names": {
+      "en": "Pius XII",
+      "la": "Pius PP. XII"
+    },
+    "full_name": "Eugenio Pacelli",
+    "reign_start": "1939-03-02",
+    "reign_end": "1958-10-09",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/pius-xii/en.html"
+      },
+      "documents_vatican_url_index": {
+        "apost-constitutions": [
+          "https://www.vatican.va/content/pius-xii/en/apost_constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/pius-xii/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/pius-xii/en/apost_letters.index.html"
+        ],
+        "audiences": [
+          "https://www.vatican.va/content/pius-xii/en/audiences.index.html",
+          "https://www.vatican.va/content/pius-xii/en/audiences/1939.index.html",
+          "https://www.vatican.va/content/pius-xii/en/audiences/1940.index.html",
+          "https://www.vatican.va/content/pius-xii/en/audiences/1942.index.html",
+          "https://www.vatican.va/content/pius-xii/en/audiences/1943.index.html"
+        ],
+        "biography": [
+          "https://www.vatican.va/content/pius-xii/en/biography.index.html"
+        ],
+        "briefs": [
+          "https://www.vatican.va/content/pius-xii/en/briefs.index.html"
+        ],
+        "bulls": [
+          "https://www.vatican.va/content/pius-xii/en/bulls.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/pius-xii/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/pius-xii/en/homilies.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/pius-xii/en/letters.index.html"
+        ],
+        "messages": [
+          "https://www.vatican.va/content/pius-xii/en/messages.index.html",
+          "https://www.vatican.va/content/pius-xii/en/messages/urbi.index.html",
+          "https://www.vatican.va/content/pius-xii/en/messages/pont-messages.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/pius-xii/en/motu_proprio.index.html"
+        ],
+        "prayers": [
+          "https://www.vatican.va/content/pius-xii/en/prayers.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/pius-xii/en/speeches.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1939.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1940.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1941.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1942.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1943.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1944.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1945.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1946.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1947.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1948.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1949.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1950.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1951.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1952.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1953.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1954.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1955.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1956.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1957.index.html",
+          "https://www.vatican.va/content/pius-xii/en/speeches/1958.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_p-xii_enc_14071958_meminisse-iuvat",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1958-07-14",
+          "title": "Meminisse Iuvat",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1958-06-29",
+          "title": "Ad Apostolorum Principis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_08091957_miranda-prorsus",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1957-09-08",
+          "title": "Miranda Prorsus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1957-07-02",
+          "title": "Le Pèlerinage de Lourdes",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_16051957_invicti-athletae",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1957-05-16",
+          "title": "Invicti Athletae",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_21041957_fidei-donum",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1957-04-21",
+          "title": "Fidei Donum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_05111956_datis-nuperrime",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1956-11-05",
+          "title": "Datis Nuperrime",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_01111956_laetamur-admodum",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1956-11-01",
+          "title": "Laetamur Admodum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1956-10-28",
+          "title": "Luctuosissimi Eventus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_15051956_haurietis-aquas",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1956-05-15",
+          "title": "Haurietis Aquas",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_25121955_musicae-sacrae",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1955-12-25",
+          "title": "Musicae Sacrae",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1954-10-11",
+          "title": "Ad Caeli Reginam",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1954-10-07",
+          "title": "Ad Sinarum Gentem",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1954-06-05",
+          "title": "Ecclesiae Fastos",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_25031954_sacra-virginitas",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1954-03-25",
+          "title": "Sacra Virginitas",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_08091953_fulgens-corona",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1953-09-08",
+          "title": "Fulgens Corona",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_24051953_doctor-mellifluus",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1953-05-24",
+          "title": "Doctor Mellifluus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_15121952_orientales",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1952-12-15",
+          "title": "Orientales Ecclesias",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_15091951_ingruentium-malorum",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1951-09-15",
+          "title": "Ingruentium Malorum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
+          "pope_id": "pius-xii",
+          "type": "encyclicals",
+          "date": "1951-09-08",
+          "title": "Sempiternus Rex Christus",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/pius-xii.jpg"
+  },
+  {
+    "id": "pius-xi",
+    "names": {
+      "en": "Pius XI",
+      "la": "Pius PP. XI"
+    },
+    "full_name": "Achille Ratti",
+    "reign_start": "1922-02-06",
+    "reign_end": "1939-02-10",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/pius-xi/en.html"
+      },
+      "documents_vatican_url_index": {
+        "apost-constitutions": [
+          "https://www.vatican.va/content/pius-xi/en/apost_constitutions.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/pius-xi/en/apost_letters.index.html"
+        ],
+        "biography": [
+          "https://www.vatican.va/content/pius-xi/en/biography.index.html"
+        ],
+        "briefs": [
+          "https://www.vatican.va/content/pius-xi/en/briefs.index.html"
+        ],
+        "bulls": [
+          "https://www.vatican.va/content/pius-xi/en/bulls.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/pius-xi/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/pius-xi/en/homilies.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/pius-xi/en/letters.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/pius-xi/en/motu_proprio.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/pius-xi/en/speeches.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1937-09-29",
+          "title": "Ingravescentibus Malis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1937-03-28",
+          "title": "Firmissimam Constantiam",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_28031937_nos-es-muy-conocida",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "28/03/1937",
+          "title": "Pius XI, Nos es muy conocida",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19370319_divini-redemptoris",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1937-03-19",
+          "title": "Divini Redemptoris",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1937-03-14",
+          "title": "Mit Brennender Sorge",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_29061936_vigilanti-cura",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1936-06-29",
+          "title": "Vigilanti Cura",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1935-12-20",
+          "title": "Ad Catholici Sacerdotii",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_03061933_dilectissima-nobis",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1933-06-03",
+          "title": "Dilectissima Nobis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_29091932_acerba-animi",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1932-09-29",
+          "title": "Acerba Animi",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1932-05-03",
+          "title": "Caritate Christi Compulsi",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19311225_lux-veritatis",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1931-12-25",
+          "title": "Lux Veritatis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_02101931_nova-impendet",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1931-10-02",
+          "title": "Nova Impendet",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1931-06-29",
+          "title": "Non Abbiamo Bisogno",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19310515_quadragesimo-anno",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1931-05-15",
+          "title": "Quadragesimo Anno",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19301231_casti-connubii",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1930-12-31",
+          "title": "Casti Connubii",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19300420_ad-salutem-humani",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1930-04-20",
+          "title": "Ad Salutem Humani",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_31121929_divini-illius-magistri",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1929-12-31",
+          "title": "Divini Illius Magistri",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1929-12-23",
+          "title": "Quinquagesimo Ante Anno",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-xi_enc_19291220_mens-nostra",
+          "pope_id": "pius-xi",
+          "type": "encyclicals",
+          "date": "1929-12-20",
+          "title": "Mens Nostra",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/pius-xi.jpg"
+  },
+  {
+    "id": "benedict-xv",
+    "names": {
+      "en": "Benedict XV",
+      "la": "Benedictus PP. XV"
+    },
+    "full_name": "Giacomo della Chiesa",
+    "reign_start": "1914-09-03",
+    "reign_end": "1922-01-22",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/benedict-xv/en.html"
+      },
+      "documents_vatican_url_index": {
+        "apost-constitutions": [
+          "https://www.vatican.va/content/benedict-xv/en/apost-constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/benedict-xv/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/benedict-xv/en/apost_letters.index.html"
+        ],
+        "biography": [
+          "https://www.vatican.va/content/benedict-xv/en/biography.index.html"
+        ],
+        "briefs": [
+          "https://www.vatican.va/content/benedict-xv/en/briefs.index.html"
+        ],
+        "bulls": [
+          "https://www.vatican.va/content/benedict-xv/en/bulls.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/benedict-xv/en/encyclicals.index.html"
+        ],
+        "homilies": [
+          "https://www.vatican.va/content/benedict-xv/en/homilies.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/benedict-xv/en/letters.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1914.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1915.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1916.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1917.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1918.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1919.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1920.index.html",
+          "https://www.vatican.va/content/benedict-xv/en/letters/1921.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/benedict-xv/en/motu_proprio.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/benedict-xv/en/speeches.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1921-06-29",
+          "title": "Fausto Appetente Die",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1921-04-30",
+          "title": "In Praeclara Summorum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_06011921_sacra-propediem",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1921-01-06",
+          "title": "Sacra Propediem",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1920-12-01",
+          "title": "Annus Iam Plenus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1920-10-05",
+          "title": "Principi Apostolorum Petro",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1920-09-15",
+          "title": "Spiritus Paraclitus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1920-05-23",
+          "title": "Pacem, Dei Munus Pulcherrimum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1919-11-24",
+          "title": "Paterno Iam Diu",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_14051919_in-hac-tanta",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1919-05-14",
+          "title": "In Hac Tanta",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_01121918_quod-iam-diu",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1918-12-01",
+          "title": "Quod Iam Diu",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1917-06-15",
+          "title": "Humani Generis Redemptionem",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
+          "pope_id": "benedict-xv",
+          "type": "encyclicals",
+          "date": "1914-11-01",
+          "title": "Ad Beatissimi Apostolorum",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/benedict-xv.jpg"
+  },
+  {
+    "id": "pius-x",
+    "names": {
+      "en": "Pius X",
+      "la": "S. Pius PP. X"
+    },
+    "full_name": "Giuseppe Sarto",
+    "reign_start": "1903-08-04",
+    "reign_end": "1914-08-20",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/pius-x/en.html"
+      },
+      "documents_vatican_url_index": {
+        "apost-constitutions": [
+          "https://www.vatican.va/content/pius-x/en/apost_constitutions.index.html"
+        ],
+        "apost-exhortations": [
+          "https://www.vatican.va/content/pius-x/en/apost_exhortations.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/pius-x/en/apost_letters.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/pius-x/en/encyclicals.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/pius-x/en/letters.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/pius-x/en/motu_proprio.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/pius-x/en/speeches.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_p-x_enc_24091912_singulari-quadam",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1912-09-24",
+          "title": "Singulari quadam",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_07061912_lacrimabili-statu",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1912-06-07",
+          "title": "Lacrimabili Statu",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_24051911_iamdudum",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1911-05-24",
+          "title": "Iamdudum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_26051910_editae-saepe",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1910-05-26",
+          "title": "Editae Saepe",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_21041909_communium-rerum",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1909-04-21",
+          "title": "Communium Rerum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1907-09-08",
+          "title": "Pascendi Dominici Gregis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_06011907_une-fois-encore",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1907-01-06",
+          "title": "Une Fois Encore",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1906-08-10",
+          "title": "Gravissimo Officii Munere",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_28071906_pieni-l-animo",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1906-07-28",
+          "title": "Pieni L'Animo",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_05041906_tribus-circiter",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1906-04-05",
+          "title": "Tribus Circiter",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_11021906_vehementer-nos",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1906-02-11",
+          "title": "Vehementer Nos",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_11061905_il-fermo-proposito",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1905-06-11",
+          "title": "Il Fermo Proposito",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_15041905_acerbo-nimis",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1905-04-15",
+          "title": "Acerbo Nimis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_12031904_iucunda-sane",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1904-03-12",
+          "title": "Iucunda Sane",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1904-02-02",
+          "title": "Ad Diem Illum Laetissimum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_p-x_enc_04101903_e-supremi",
+          "pope_id": "pius-x",
+          "type": "encyclicals",
+          "date": "1903-10-04",
+          "title": "E Supremi",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/pius-x.jpg"
+  },
+  {
+    "id": "leo-xiii",
+    "names": {
+      "en": "Leo XIII",
+      "la": "Leo PP. XIII"
+    },
+    "full_name": "Gioacchino Pecci",
+    "reign_start": "1878-02-20",
+    "reign_end": "1903-07-20",
+    "metadata": {
+      "vatican_urls": {
+        "en": "https://www.vatican.va/content/leo-xiii/en.html"
+      },
+      "documents_vatican_url_index": {
+        "apost-constitutions": [
+          "https://www.vatican.va/content/leo-xiii/en/apost_constitutions.index.html"
+        ],
+        "apost-letters": [
+          "https://www.vatican.va/content/leo-xiii/en/apost_letters.index.html"
+        ],
+        "briefs": [
+          "https://www.vatican.va/content/leo-xiii/en/briefs.index.html"
+        ],
+        "bulls": [
+          "https://www.vatican.va/content/leo-xiii/en/bulls.index.html"
+        ],
+        "encyclicals": [
+          "https://www.vatican.va/content/leo-xiii/en/encyclicals.index.html"
+        ],
+        "letters": [
+          "https://www.vatican.va/content/leo-xiii/en/letters.index.html"
+        ],
+        "motu-proprio": [
+          "https://www.vatican.va/content/leo-xiii/en/motu_proprio.index.html"
+        ],
+        "speeches": [
+          "https://www.vatican.va/content/leo-xiii/en/speeches.index.html"
+        ]
+      }
+    },
+    "documents": {
+      "encyclicals": [
+        {
+          "id": "hf_l-xiii_enc_24121902_dum-multa",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1902-12-24",
+          "title": "Dum Multa",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_08121902_fin-dal-principio",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1902-12-08",
+          "title": "Fin dal Principio",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_22111902_quae-ad-nos",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1902-11-22",
+          "title": "Quae Ad Nos",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_28051902_mirae-caritatis",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1902-05-28",
+          "title": "Mirae Caritatis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_30041902_quod-votis",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1902-04-30",
+          "title": "Quod Votis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_15041902_in-amplissimo",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1902-04-15",
+          "title": "In Amplissimo",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_20111901_urbanitatis-veteris",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1901-11-20",
+          "title": "Urbanitatis Veteris",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_20081901_reputantibus",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1901-08-20",
+          "title": "Reputantibus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_16051901_gravissimas",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1901-05-16",
+          "title": "Gravissimas",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_18011901_graves-de-communi-re",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1901-01-18",
+          "title": "Graves de Communi Re",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1900-11-01",
+          "title": "Tametsi Futura Prospicientibus",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_21071900_omnibus-compertum",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1900-07-21",
+          "title": "Omnibus Compertum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_18091899_paternae",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1899-09-18",
+          "title": "Paternae",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_08091899_depuis-le-jour",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1899-09-08",
+          "title": "Depuis le Jour",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_25051899_annum-sacrum",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1899-05-25",
+          "title": "Annum Sacrum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_25121898_quum-diuturnum",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1898-12-25",
+          "title": "Quum Diuturnum",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_05091898_diuturni-temporis",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1898-09-05",
+          "title": "Diuturni Temporis",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_16081898_quam-religiosa",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1898-08-16",
+          "title": "Quam Religiosa",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_05081898_spesse-volte",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1898-08-05",
+          "title": "Spesse Volte",
+          "excerpt": {}
+        },
+        {
+          "id": "hf_l-xiii_enc_25071898_caritatis-studium",
+          "pope_id": "leo-xiii",
+          "type": "encyclicals",
+          "date": "1898-07-25",
+          "title": "Caritatis Studium",
+          "excerpt": {}
+        }
+      ]
+    },
+    "local_image_path": "/api/popes/leo-xiii.jpg"
+  }
+]
