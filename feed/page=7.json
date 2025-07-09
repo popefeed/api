@@ -3,7 +3,7 @@
     "page": 7,
     "per_page": 50,
     "total_pages": 37,
-    "total_posts": 1827,
+    "total_posts": 1828,
     "has_next": true,
     "has_prev": true,
     "next_page": 8,
@@ -11,20 +11,66 @@
   },
   "posts": [
     {
+      "id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
+        "title": "Sollicitudo Rei Socialis",
+        "type": "Encyclical",
+        "date": "1987-12-30",
+        "excerpt": {
+          "en": "Venerable Brothers and dear Sons and Daughters,Health and the Apostolic Blessing!",
+          "fr": "Vénérables Frères,chers Fils et Filles,salut et Bénédiction Apostolique!",
+          "de": "Verehrte Mitbrüder,liebe Söhne und Töchter,Gruß und Apostolischen Segen!",
+          "hu": "A Rerum novarum enciklika mint kiindulási pont",
+          "it": "Venerati Fratelli,carissimi Figli e Figlie,salute e Apostolica Benedizione",
+          "la": "Venerabiles fratres,dilectissimi filii et filiae,salutem et apostolicam benedictionem",
+          "pl": "Skierowana do biskupów, kaplanów, rodzin zakonnych,synów i córek Kosciola oraz wszystkich ludzi dobrej woliz okazji dwudziestej rocznicy ogloszenia Populorum progressio",
+          "pt": "Veneráveis Irmãose caríssimos Filhos e Filhas,saúde e Bênção Apostólica!",
+          "es": "Venerables Hermanos,amadísimos Hijos e Hijas:salud y Bendición Apostólica"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
+        "original_type": "encyclicals"
+      }
+    },
+    {
       "id": "hf_jp-ii_enc_25031987_redemptoris-mater",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_enc_25031987_redemptoris-mater",
         "title": "Redemptoris Mater",
         "type": "Encyclical",
         "date": "1987-03-25",
-        "excerpt": "Venerable Brothers and dear Sons and Daughters,Health and the Apostolic Blessing.",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers and dear Sons and Daughters,Health and the Apostolic Blessing.",
+          "fr": "Vénérables Frères,chers Fils et Filles,salut et Bénédiction Apostolique!",
+          "de": "Verehrte Brüder,Liebe Söhne und Töchter,Gruß und Apostolischen Segen!",
+          "hu": "BevezetésI. RészMÁRIA KRISZTUS MISZTÉRIUMÁBAN1.Kegyelemmel teljes2.Boldog, aki hitt3.Íme, a te anyádII. RészMÁRIA A ZARÁNDOK EGYHÁZ KÖZÉPPONTJÁBAN1.Az Egyház mint Isten népe2.Az Egyház útja és a keresztények egysége3.A zarándokegyház MagnificatjaIII. RészMÁRIA ANYAI KÖZBENJÁRÁSA1.Mária, az Úr szolgálója2.Mária az Egyház és minden keresztény életében3.A Mária-év értelmeBefejezés",
+          "it": "Venerati Fratelli, carissimi Figli e Figlie,salute e Apostolica Benedizione!",
+          "pl": "O blogoslawionej Maryi Dziewicyw zyciu pielgrzymujacego Kosciola",
+          "pt": "Veneráveis Irmãos,caríssimos Filhos e Filhas:saúde e Bênção Apostólica!",
+          "es": "Venerables Hermanos,amadísimos hijos e hijas:¡Salud y Bendición Apostólica!"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "hf_jp-ii_enc_25031987_redemptoris-mater",
@@ -35,17 +81,30 @@
       "id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
         "title": "Dominum et vivificantem",
         "type": "Encyclical",
         "date": "1986-05-18",
-        "excerpt": "Venerable Brothers, Beloved Sons and Daughters,Health and the Apostolic Blessing!",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers, Beloved Sons and Daughters,Health and the Apostolic Blessing!",
+          "fr": "Vénérables Frères, chers Fils et Filles,Salut et Bénédiction Apostolique!",
+          "de": "Verehrte Mitbrüder im Bischofsamt, liebe Söhne und Töchter!Gruß und Apostolischen Segen!",
+          "hu": "Második fejezet: A LÉLEK, AKI MEGGYŐZI A VILÁGOT A BŰNRŐLBűn, igazság, ítéletA Pünkösd napjának tanúságaA kezdet tanúsága: az eredendő bűnA Lélek, aki a szenvedést üdvöt hozó szeretetté alakítjaA vér, amely megtisztítja lelkiismeretünketA Szentlélek elleni bűnről",
+          "it": "Venerati Fratelli, carissimi Figli e Figlie,salute e Apostolica Benedizione!",
+          "la": "1.« DOMINUM ET VIVIFICANTEM » Ecclesia fide sua confitetur Spiritum Sanctum; verba illa enuntiat ea in Symbolo Fidei, quod Nicaenum-Constantinopolitanum appellatur e nomine duorum Conciliorum — Nicaeni (anno CCCXXV celebrati) et Constantinopolitani (anno CCCLXXXI acti) — a quibus compositum est vel promulgatum. Cui Symbolo haec etiam verba sunt adiuncta : « qui locutus est per prophetas ».",
+          "pl": "Czcigodni Bracia, Drodzy Synowie i Córki,Pozdrowienie i Apostolskie Błogosławieństwo!",
+          "pt": "Veneráveis Irmãose Amados Filhos e FilhasSaúde e Bênção Apostólica!",
+          "es": "Venerables hermanos,amadísimos hijos e hijas:¡salud y bendición apostólica!"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
@@ -56,17 +115,30 @@
       "id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
         "title": "Slavorum Apostoli",
         "type": "Encyclical",
         "date": "1985-06-02",
-        "excerpt": "1. THE APOSTLES OF THE SLAVS, Saints Cyril and Methodius, are remembered by the Church together with the great work of evangelization which they carried out. Indeed it can be said that their memory is particularly vivid and relevant to our day.",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. THE APOSTLES OF THE SLAVS, Saints Cyril and Methodius, are remembered by the Church together with the great work of evangelization which they carried out. Indeed it can be said that their memory is particularly vivid and relevant to our day.",
+          "fr": "1. APÔTRES DES SLAVES, les saints Cyrille et Méthode restent liés dans la mémoire de l'Eglise à la grande œuvre d'évangélisation qu'ils ont réalisée. On peut même dire que leur souvenir est devenu particulièrement vivant et actuel à notre époque.",
+          "de": "1. DIE APOSTEL DER SLAWEN,die heiligen Cyrill und Methodius,bleiben im Gedächtnis der Kirche zusammen mit dem großen Werk der Glaubensverkündigung, das sie vollbracht haben. Man kann sogar sagen, daß ihr Andenken in unseren Tagen besonders lebendig und aktuell geworden ist.",
+          "hu": "BevezetésI.Életrajzi adatokII.Az evangélium hirdetőiIII.Meghonosították Isten egyházátIV.Az Egyház katolicitásaV.Evangélium és kultúraVI.A keresztény évezred jelentősége és hatása a szláv világbanBefejezés",
+          "it": "1. Gli Apostoli degli Slavi,i santi Cirillo e Metodio, rimangono nella memoria della Chiesa insieme alla grande opera di evangelizzazione che hanno realizzato. Si può anzi affermare che il loro ricordo si è fatto particolarmente vivo ed attuale ai nostri giorni.",
+          "la": "Venerabiles fratres ac dilecti filiisalutem et Apostolicam Benedictionem",
+          "pl": "1. CYRYL I METODY,święci apostołowie Słowian, trwają w pamięci Kościoła razem z wielkim dziełem ewangelizacji, jakiego dokonali. Co więcej, można stwierdzić, że pamięć ich za naszych czasów staje się jeszcze bardziej żywa i aktualna.",
+          "pt": "1. OS APÓSTOLOS DOS ESLAVOS, ossantos Cirilo e Metódio, permanecem ligados na memória da Igreja à grande obra de evangelização que realizaram. Pode-se mesmo afirmar que, em nossos dias, a sua recordação se tomou particularmente viva e atual.",
+          "es": "1. Los apóstoles de los eslavos,santos Cirilo y Metodio,permanecen en la memoria de la Iglesia junto a la gran obra de evangelización que realizaron. Se puede afirmar más bien que su recuerdo se ha hecho particularmente vivo y actual en nuestros días."
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
@@ -77,17 +149,24 @@
       "id": "hf_jp-ii_hom_19821106_saragozza",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_hom_19821106_saragozza",
         "title": "Liturgy of the Word, Saragoza",
         "type": "Homilies",
         "date": "1982-11-06",
-        "excerpt": "Queridos hermanos en el Episcopado,queridos hermanos y hermanas:",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "it": "Cari fratelli nell’Episcopato,cari fratelli e sorelle.",
+          "pt": "Queridos Irmãos no EpiscopadoQueridos Irmãos e Irmãs",
+          "es": "Queridos hermanos en el Episcopado,queridos hermanos y hermanas:"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_jp-ii_hom_19821106_saragozza",
@@ -98,17 +177,24 @@
       "id": "hf_jp-ii_hom_19811122_collevalenza",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_hom_19811122_collevalenza",
         "title": "Pastoral visit to Collevalenza and Todi",
         "type": "Homilies",
         "date": "1981-11-22",
-        "excerpt": "1. \"Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo\"(Mt25, 43), Hemos escuchado estas palabras hace poco, en el Evangelio de la solemnidad de hoy. El Hijo del hombre pronunciará estas palabras cuando, como rey, se encuentre ante todos los pueblos de la tierra, al fin del mundo. Entonces, cuando \"El separará a unos de otros, como un pastor separa lasovejas de las cabras\" (Mi25, 32), a todos los que se hallen a su derecha, les dirá las palabras: heredad el reino\".",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "it": "1. “Venite benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla fondazione del mondo” (Mt25, 43). Abbiamo sentito queste parole poco fa, nel Vangelo della solennità odierna. Tali parole pronuncerà il Figlio dell’uomo quando, come re, si troverà dinanzi a tutti i popoli della terra, alla fine del mondo. Allora, quando “Egli separerà gli uni dagli altri, come il pastore separa le pecore dai capri” (Mt25, 32), a quanti si troveranno alla sua destra, rivolgerà le parole: “ricevete in eredità il regno”.",
+          "pt": "1. \"Vinde, benditos de Meu Pai, recebei em herança o Reino que vos está preparado desde a criação do mundo\" (Mt25, 34). Ouvimos estas palavras há pouco, no Evangelho da solenidade de hoje. Estas palavras pronunciará o Filho do homem quando, como rei, se encontrar diante de todos os povos da terra, no fim do mundo. Então, quando \"Ele apartar as pessoas umas das outras, como o pastor separa asovelhas dos cabritos\" (Mt25, 32), a todos os que se encontrarem à Sua direita dirigirá as palavras: \"recebei em herança o Reino\".",
+          "es": "1. \"Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo\"(Mt25, 43), Hemos escuchado estas palabras hace poco, en el Evangelio de la solemnidad de hoy. El Hijo del hombre pronunciará estas palabras cuando, como rey, se encuentre ante todos los pueblos de la tierra, al fin del mundo. Entonces, cuando \"El separará a unos de otros, como un pastor separa lasovejas de las cabras\" (Mi25, 32), a todos los que se hallen a su derecha, les dirá las palabras: heredad el reino\"."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_jp-ii_hom_19811122_collevalenza",
@@ -119,17 +205,30 @@
       "id": "hf_jp-ii_enc_14091981_laborem-exercens",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_enc_14091981_laborem-exercens",
         "title": "Laborem Exercens",
         "type": "Encyclical",
         "date": "1981-09-14",
-        "excerpt": "Venerable Brothers and Dear Sons and Daughters,Greetings and apostolic Blessing",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers and Dear Sons and Daughters,Greetings and apostolic Blessing",
+          "fr": "Vénérables Frères, Chers fils et fillesSalut et Bénédiction Apostolique",
+          "de": "Verehrte Mitbrüder im Bischofsamt, liebe Söhne und Töchter!Gruß und Apostolischen Segen!",
+          "it": "Venerabili Fratelli, diletti Figli e Figlie,salute e Apostolica Benedizione!",
+          "la": "Venerabiles fratres,dilecti filii et filiae,salutem et apostolicam benedictionem",
+          "pl": "O pracy ludzkiej (z okazji 90. rocznicy encykliki Rerum novarum)w której zwraca sie do czcigodnych braci w biskupstwie, do kaplanów, do rodzin zakonnych,do drogich synów i córek Kosciola oraz do wszystkich ludzi dobrej woli",
+          "pt": "Veneráveis irmãos e dilectos filhos e filhas:Saúde e bênção Apostólica!",
+          "sk": "27. Je ešte jeden aspekt ľudskej práce, jeden jej podstatný rozmer, do ktorého hlboko vniká duchovnosť založená na evanjeliu. Každá práca, tak telesná, ako aj duševná, sa nevyhnutne spája s námahou. Kniha Genezis to vyjadruje prenikavým spôsobom, keď prvé požehnanie práce, zahrnuté v samom tajomstve stvorenia a spojené s povznesením človeka ako Božieho obrazu, dáva do protikladu s kliatbou, ktorú priniesol so sebou hriech: \"Nech je prekliata zem pre teba: s námahou sa z nej budeš živiť po všetky dni svojho života.\"81Táto námaha spojená s prácou označuje cestu ľudského života na zemi a je predzvesťou smrti: \"V pote svojej tváre budeš jesť chlieb, kým sa nevrátiš do zeme, z ktorej si bol vzatý...\"82Akoby ozvenou týchto slov hovorí autor jednej z múdroslovných kníh: \"Potom som obrátil pozornosť na všetky svoje činy, aké kedy vykonávali moje ruky a tiež na všetky námahy, ktoré som vynaložil pri ich konaní...\"83Niet na svete človeka, ktorý by tieto slová nemohol vzťahovať na seba.",
+          "es": "Venerables hermanos,amadísimos hijos e hijassalud y Bendición Apostólica"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "hf_jp-ii_enc_14091981_laborem-exercens",
@@ -140,17 +239,31 @@
       "id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
         "title": "Dives in Misericordia",
         "type": "Encyclical",
         "date": "1980-11-30",
-        "excerpt": "Venerable Brothers and dear sons and daughters,greetings and the apostolic blessing.",
-        "language_count": 10,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "الإخوة المكرمّون، أبنائي وبناتي الأعزّاء",
+          "en": "Venerable Brothers and dear sons and daughters,greetings and the apostolic blessing.",
+          "fr": "Vénérables Frères, chers Fils et Filles,salut et Bénédiction Apostolique!",
+          "de": "Verehrte Brüder, liebe Söhne und Töchter!Gruß und Apostolischen Segen",
+          "it": "Venerati Fratelli, carissimi Figli e Figlie,salute e Apostolica Benedizione!",
+          "la": "Venerabiles fratres,dilecti filii et filiae,salutem et apostolicam benedictionem",
+          "pl": "Czcigodni Bracia, Umiłowani Synowie i Córki,Pozdrowienie i Apostolskie Błogosławieństwo!",
+          "pt": "Veneráveis irmãose caríssimos filhos e filhas:saúde e bênção apostólica!",
+          "sk": "VIII.Modlitba Cirkvi v dnešnej dobeCirkev vzýva Božie milosrdenstvo",
+          "es": "Venerables Hermanos, amadísimos Hijos e Hijas:¡salud y Bendición Apostólica!"
+        },
+        "language_count": 10
       },
       "metadata": {
         "document_id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
@@ -161,17 +274,31 @@
       "id": "hf_jp-ii_enc_04031979_redemptor-hominis",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_enc_04031979_redemptor-hominis",
         "title": "Redemptor Hominis",
         "type": "Encyclical",
         "date": "1979-03-04",
-        "excerpt": "Venerable Brothers, and dear Sons and Daughtersgreetings and the Apostolic Blessing",
-        "language_count": 10,
-        "pdf_available": true
+        "excerpt": {
+          "zh": "ai venerati fratelli nell’episcopato ai sacerdoti e alle famiglie religioseai figli e figlie della Chiesa e a tutti gli uomini di buona volontàall’inizio del suo ministero pontificale",
+          "en": "Venerable Brothers, and dear Sons and Daughtersgreetings and the Apostolic Blessing",
+          "fr": "Vénérables Frères, chers Fils,salut et Bénédiction Apostolique!",
+          "de": "Verehrte Mitbrüder im Bischofsamt,Liebe Söhne und Töchter!Gruss und Apostolischen Segen!",
+          "it": "Venerati Fratelli e carissimi Figli ,salute e Apostolica Benedizione!",
+          "la": "Venerabiles fratres ac dilecti filii,salutem et apostolicam benedictionem",
+          "pl": "W której u poczatku swej papieskiej poslugizwraca sie do czcigodnych braci w biskupstwie, do kaplanów, do rodzin zakonnych,do drogich synów i córek Kosciolaoraz do wszystkich ludzi dobrej woli",
+          "pt": "Veneráveis Irmãos e caríssimos FilhosSaúde e Bênção Apostólica!",
+          "sk": "1. Vykupiteľ človeka, Ježiš Kristus, je stredom vesmíru a dejín. K nemu sa obracia moja myseľ a moje srdce v tejto významnej chvíli dejín, ktorú prežíva Cirkev a celá súčasná ľudská rodina. Táto doba, v ktorej mi Boh vo svojich tajuplných zámeroch zveril po mojom milovanom predchodcovi Jánovi Pavlovi I. univerzálnu službu spojenú s katedrou sv. Petra v Ríme, sa už veľmi blíži k roku dvetisíc. Je ťažké povedať v tejto chvíli, čo ten rok prinesie na javisko ľudských dejín a aký bude pre jednotlivé národy, krajiny a svetadiely, hoci už teraz sa ľudia pokúšajú predvídať niektoré udalosti. Pre Cirkev, Boží ľud, ktorý - hoci nerovnomerne - sa už rozšíril až do posledných končín zeme, bude to rok veľkého jubilea. Približujeme sa k tomu dátumu, ktorý - i keď rešpektujeme všetky opravy, ktoré vyžaduje chronologická presnosť - nám pripomenie a zvláštnym spôsobom obnoví vedomie tej základnej pravdy viery, ktorú svätý Ján vyjadril na začiatku Evanjelia: \"A Slovo sa telom stalo a prebývalo medzi nami\"1a na inom mieste: \"Boh tak miloval svet, že dal svojho jednorodeného Syna, aby nezahynul nik, čo v neho verí, ale aby mal život večný.\"2",
+          "es": "1.A finales del segundo Milenio"
+        },
+        "language_count": 10
       },
       "metadata": {
         "document_id": "hf_jp-ii_enc_04031979_redemptor-hominis",
@@ -182,17 +309,26 @@
       "id": "hf_jp-ii_hom_19781208_s-maria-maggiore",
       "pope": {
         "id": "john-paul-ii",
-        "name": "John Paul II",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
         "handle": "johnpaulii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpaulii"
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
       },
       "document": {
+        "id": "hf_jp-ii_hom_19781208_s-maria-maggiore",
         "title": "Visit to the Basilica of St. Mary Major",
         "type": "Homilies",
         "date": "1978-12-08",
-        "excerpt": "1. As I cross the threshold of the Basilica of St Mary Major today for the first time as Bishop of Rome, there rises up before my eyes the event that I witnessed here, in this place, on 21 November 1964. It was the closing of the third session of the Second Vatican Council, after the solemn proclamation of the dogmatic Constitution on the Church, which begins with the words: \"Lumen Gentium\" (the light of humanity). On the same day Pope Paul VI had invited the Council Fathers to come to this very place, to the most venerated Marian temple of Rome, to express their joy and gratitude for the work completed that day.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. As I cross the threshold of the Basilica of St Mary Major today for the first time as Bishop of Rome, there rises up before my eyes the event that I witnessed here, in this place, on 21 November 1964. It was the closing of the third session of the Second Vatican Council, after the solemn proclamation of the dogmatic Constitution on the Church, which begins with the words: \"Lumen Gentium\" (the light of humanity). On the same day Pope Paul VI had invited the Council Fathers to come to this very place, to the most venerated Marian temple of Rome, to express their joy and gratitude for the work completed that day.",
+          "fr": "1. Au moment où, pour la première fois comme Evêque de Rome, je franchis aujourd'hui le seuil de la Basilique Sainte-Marie Majeure, je revois l'événement que j'ai vécu ici, en ce même lieu, le 21 novembre 1964. C'était au moment où se concluait la troisième session duConcile Vatican II, après la proclamation de la Constitution dogmatique sur l'Eglise qui commence par les mots :Lumen Gentium(Lumière des nations). Ce jour-là le PapePaul VIavait invité les Pères Conciliaires à se trouver précisément ici, dans le temple marial le plus ancien de Rome, pour exprimer leur joie et leur gratitude pour l'œuvre terminée ce jour-là.",
+          "it": "1. Mentre per la prima volta come Vescovo di Roma varco oggi la soglia della Basilica di Santa Maria Maggiore, mi si presenta dinanzi agli occhi l’evento che ho vissuto qui, in questo luogo, il 21 novembre del 1964. Era la chiusura della terza sessione del Concilio Vaticano II, dopo la solenne proclamazione della Costituzione dogmatica sulla Chiesa, che comincia con le parole: “Lumen Gentium” (luce delle genti). Lo stesso giorno il Papa Paolo VI aveva invitato i Padri conciliari a trovarsi proprio qui, nel più venerato tempio mariano di Roma, per esprimere la gioia e la gratitudine per l’opera ultimata in quel giorno.",
+          "pt": "1. Ao mesmo tempo que, a primeira vez como Bispo de Roma, transponho hoje o limiar da Basílica de Santa Maria Maior, apresenta-se diante dos meus olhos o acontecimento que vivi neste lugar, a 21 de Novembro de 1964. Era o encerramento da terceira sessão do Concílio Vaticano II, depois da solene proclamação da Constituição dogmática sobre a Igreja, que principia com as palavras \"Lumen Gentium\" (luz das gentes). Para o mesmo dia, tinha o Papa Paulo VI convidado os Padres conciliares a encontrarem-se aqui precisamente, no mais venerado templo mariano de Roma, para exprimirem a alegria e a gratidão pela obra ultimada nesse dia.",
+          "es": "1. Mientras cruzo el umbral de la basílica de Santa María la Mayor. por primera vez, como Obispo de Roma, se me presenta ante los ojos el acontecimiento que viví aquí, en este mismo lugar, el 21 de noviembre de 1964. Era la clausura de la III Sesión del Concilio Vaticano II, después de la solemne proclamación de la Constitución Dogmática sobre la Iglesia, que comienza con las palabrasLumen gentium(Luz de las gentes). Ese mismo día el Papa Pablo VI había invitado a los padres conciliares a encontrarse precisamente aquí, en el más venerado templo mariano de Roma, para manifestar el gozo y la gratitud por la obra terminada en aquel día."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_jp-ii_hom_19781208_s-maria-maggiore",
@@ -203,17 +339,26 @@
       "id": "hf_jp-i_hom_23091978",
       "pope": {
         "id": "john-paul-i",
-        "name": "John Paul I",
+        "name": {
+          "en": "John Paul I",
+          "la": "Ioannes Paulus PP. I"
+        },
         "handle": "johnpauli",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpauli"
+        "avatar": "https://api.popefeed.com/popes/john-paul-i.jpg"
       },
       "document": {
+        "id": "hf_jp-i_hom_23091978",
         "title": "Possession of the Chair of the Bishop of Rome",
         "type": "Homilies",
         "date": "1978-09-23",
-        "excerpt": "Heartfelt thanks to the Cardinal Vicar for the delicate words with which—in the name of the Episcopal Council, the Chapter of the Lateran, the Clergy, the men and women Religious, and of the faithful—he decided to express the devotion and the intentions of effective collaboration in the diocese of Rome. The first concrete evidence of this collaboration is the immense sum placed at my disposal in order to provide with a church and a parochial structure a peripheral area of the City hitherto deprived of this essential community help for the Christian life. Truly touched, I thank you.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Heartfelt thanks to the Cardinal Vicar for the delicate words with which—in the name of the Episcopal Council, the Chapter of the Lateran, the Clergy, the men and women Religious, and of the faithful—he decided to express the devotion and the intentions of effective collaboration in the diocese of Rome. The first concrete evidence of this collaboration is the immense sum placed at my disposal in order to provide with a church and a parochial structure a peripheral area of the City hitherto deprived of this essential community help for the Christian life. Truly touched, I thank you.",
+          "fr": "Je remercie de tout cœur le Cardinal-Vicaire pour les délicates paroles par lesquelles — en son nom comme au nom du Conseil Episcopal, du Chapitre du Latran, du clergé, des religieux, des religieuses et des fidèles — il a voulu exprimer sa dévotion et la leur ainsi que les propos d'activé collaboration dans le diocèse de Rome. Le premier témoignage de cette collaboration m'en est donné par la très importante somme recueillie parmi les fidèles du diocèse et mise à la disposition pour donner une église et desstructures paroissiales à une agglomération sise, à la périphérie de la ville, encore démunie de ces éléments communautaires essentiels, si nécessaires pour la vie chrétienne. Oui, vraiment, merci de tout cœur.",
+          "it": "Ringrazio di cuore il Cardinale Vicario per le delicate parole, con le quali - anche a nome del Consiglio Episcopale, del Capitolo Lateranense, del Clero, dei Religiosi, delle Religiose e dei fedeli - ha voluto esprimere la devozione ed i propositi di fattiva collaborazione nella diocesi di Roma. Prima testimonianza concreta di questa collaborazione vuol essere la somma ingente raccolta tra i fedeli della diocesi e messa a mia disposizione per provvedere di chiesa e di strutture parrocchiali una borgata periferica della Città, ancora priva di questi essenziali sussidi comunitari di vita cristiana. Ringrazio veramente commosso.",
+          "pt": "Agradeço de coração ao Cardeal Vigário as delicadas palavras com que — também em nome do Conselho Episcopal, do Cabido Lateranense, do Clero, dos Religiosos, das Religiosas e dos fiéis — quis expressar a dedicação e o propósito de colaboração prática, na diocese de Roma. O primeiro testemunho concreto desta colaboração pretende ser a soma ingente recolhida entre os fiéis da diocese e posta à minha disposição a fim de prover de igreja e de estruturas paroquiais um bairro periférico da Cidade, ainda destituído destes essenciais auxílios comunitários de vida cristã. Agradeço, sinceramente comovido.",
+          "es": "Agradezco de corazón al cardenal Vicario las delicadas palabras con las que en nombre también del consejo episcopal, cabildo lateranense, clero, religiosos, religiosas y fieles ha querido expresar la devoción y propósitos de activa colaboración en la diócesis de Roma. Primer testimonio concreto de esta colaboración es la suma ingente recogida entre los fieles de la diócesis y puesta a mi disposición para proveer de templo y de estructuras parroquiales a una barriada periférica de la ciudad, privada todavía de esos esenciales elementos comunitarios de vida cristiana. Doy las gracias, verdaderamente conmovido."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_jp-i_hom_23091978",
@@ -224,17 +369,26 @@
       "id": "hf_jp-i_hom_03091978",
       "pope": {
         "id": "john-paul-i",
-        "name": "John Paul I",
+        "name": {
+          "en": "John Paul I",
+          "la": "Ioannes Paulus PP. I"
+        },
         "handle": "johnpauli",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnpauli"
+        "avatar": "https://api.popefeed.com/popes/john-paul-i.jpg"
       },
       "document": {
+        "id": "hf_jp-i_hom_03091978",
         "title": "Inauguration of Petrine Ministry",
         "type": "Homilies",
         "date": "1978-09-03",
-        "excerpt": "Venerable Brothers and dear Sons and Daughters,",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers and dear Sons and Daughters,",
+          "fr": "Vénérables Frères et chers fils,",
+          "it": "Venerabiles Fratres ac dilecti Filii,",
+          "pt": "Nesta sacra celebração, com a qual damos solene início ao ministério de Supremo Pastor que foi posto sobre os nossos ombros, o primeiro pensamento, de adoração e de súplica, vai para Deus, infinito e eterno, o qual, com uma sua decisão humanamente inexplicável e com a sua benigníssima dignação, Nos elevou à Cátedra do bem-aventurado Pedro. Sobem-Nos aos lábios espontâneas as palavras de São Paulo:O abismo da riqueza, da sabedoria e da ciência de Deus! Que insondáveis são os seus desígnios e impenetráveis as suas vias!(Rom. 11, 33).",
+          "es": "Venerabiles Fratres ac dilecti Filii,"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_jp-i_hom_03091978",
@@ -245,17 +399,22 @@
       "id": "hf_p-vi_hom_19730506",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_hom_19730506",
         "title": "Mass in honour of the Doctor of the Church St. Athanasius",
         "type": "Homilies",
         "date": "1973-05-06",
-        "excerpt": "«Questo è un giorno stabilito dal Signore: esultiamo e rallegriamoci per esso». Noi volentieri ripetiamo questa acclamazione liturgica motivata dalla festività della Pasqua in questa presente occasione, nella quale la presenza del Patriarca Shenouda III, - onorato lui stesso del titolo di «Papa» della venerata e antichissima Chiesa capta, avente il suo centro ad Alessandria d’Egitto, - solleva nel nostro animo una commozione profonda. Ecco qui il Capo d’una Chiesa, tuttora da noi ufficialmente separata e da secoli assente dalla celebrazione d’una comunitaria preghiera con questa Chiesa romana, ma Capo, diciamo, d’una Chiesa, la quale fa ascendere la sua origine a quell’Evangelista Marco, che San Pietro chiama suo figlio (Petr. 5, 13), e la quale ebbe in Sant’Atanasio, di cui oggi noi celebriamo il XVI centenario della beata morte, l’assertore invitto della nostra comune fede nicena, fede cioè nella divinità di nostro Signore Gesù Cristo, proclamata da Simone, figlio di Giona, per divino intuito, e perciò tramutato da Cristo stesso nell’immobile Pietro, e da lui posto a fondamento di tutta la Chiesa; egli è qui, è qui apposta e spontaneamente venuto per riannodare il vincolo della carità (Cfr.Col. 3, 14), felice presagio di quella perfetta unità dello spirito (Cfr.Eph. 4, 3), che dopo il recente Concilio ecumenico vaticano secondo, noi andiamo umilmente, ma sinceramente cercando di ricomporre; è qui, con noi, con questa grande assemblea di fedeli, sulla tomba dell’Apostolo Pietro . . . oh! come non dovremmo noi esultare, e invitare voi tutti, figli di questa Chiesa romana e cattolica, a benedire con noi il Signore inquesto giorno straordinario? Non avvertiamo noi che il volume della storia della Chiesa, nel quale la mano misteriosa del Signore principalmente guida le mani degli uomini a scrivervi «nova et vetera» (Cfr.Matth. 13, 52), apre davanti a noi pagine antiche di secoli, e altre ancora candide ne distende davanti a noi, pronte a registrare avvenimenti, Dio voglia!, migliori, i fasti cioè della Provvidenza misericordiosa di Dio nelle vicende della Chiesa ancora pellegrina nel tempo? Come non saluteremo noi questo venerabile e grande Fratello lontano, oggi a noi tanto vicino, nostro visitatore, nostro ospite, oggi qui, presso il nostro altare e unito alla nostra pontificale preghiera? e con lui il copioso e rappresentativo suo nobilissimo seguito?",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "it": "«Questo è un giorno stabilito dal Signore: esultiamo e rallegriamoci per esso». Noi volentieri ripetiamo questa acclamazione liturgica motivata dalla festività della Pasqua in questa presente occasione, nella quale la presenza del Patriarca Shenouda III, - onorato lui stesso del titolo di «Papa» della venerata e antichissima Chiesa capta, avente il suo centro ad Alessandria d’Egitto, - solleva nel nostro animo una commozione profonda. Ecco qui il Capo d’una Chiesa, tuttora da noi ufficialmente separata e da secoli assente dalla celebrazione d’una comunitaria preghiera con questa Chiesa romana, ma Capo, diciamo, d’una Chiesa, la quale fa ascendere la sua origine a quell’Evangelista Marco, che San Pietro chiama suo figlio (Petr. 5, 13), e la quale ebbe in Sant’Atanasio, di cui oggi noi celebriamo il XVI centenario della beata morte, l’assertore invitto della nostra comune fede nicena, fede cioè nella divinità di nostro Signore Gesù Cristo, proclamata da Simone, figlio di Giona, per divino intuito, e perciò tramutato da Cristo stesso nell’immobile Pietro, e da lui posto a fondamento di tutta la Chiesa; egli è qui, è qui apposta e spontaneamente venuto per riannodare il vincolo della carità (Cfr.Col. 3, 14), felice presagio di quella perfetta unità dello spirito (Cfr.Eph. 4, 3), che dopo il recente Concilio ecumenico vaticano secondo, noi andiamo umilmente, ma sinceramente cercando di ricomporre; è qui, con noi, con questa grande assemblea di fedeli, sulla tomba dell’Apostolo Pietro . . . oh! come non dovremmo noi esultare, e invitare voi tutti, figli di questa Chiesa romana e cattolica, a benedire con noi il Signore inquesto giorno straordinario? Non avvertiamo noi che il volume della storia della Chiesa, nel quale la mano misteriosa del Signore principalmente guida le mani degli uomini a scrivervi «nova et vetera» (Cfr.Matth. 13, 52), apre davanti a noi pagine antiche di secoli, e altre ancora candide ne distende davanti a noi, pronte a registrare avvenimenti, Dio voglia!, migliori, i fasti cioè della Provvidenza misericordiosa di Dio nelle vicende della Chiesa ancora pellegrina nel tempo? Come non saluteremo noi questo venerabile e grande Fratello lontano, oggi a noi tanto vicino, nostro visitatore, nostro ospite, oggi qui, presso il nostro altare e unito alla nostra pontificale preghiera? e con lui il copioso e rappresentativo suo nobilissimo seguito?"
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-vi_hom_19730506",
@@ -266,17 +425,31 @@
       "id": "hf_p-vi_enc_25071968_humanae-vitae",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_25071968_humanae-vitae",
         "title": "Humanae Vitae",
         "type": "Encyclical",
         "date": "1968-07-25",
-        "excerpt": "Honored Brothers and Dear Sons,Health and Apostolic Benediction.",
-        "language_count": 10,
-        "pdf_available": true
+        "excerpt": {
+          "zh_cn": "Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana",
+          "zh_tw": "Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana",
+          "en": "Honored Brothers and Dear Sons,Health and Apostolic Benediction.",
+          "fr": "1. Le très grave devoir de transmettre la vie humaine, qui fait des époux les libres et responsables collaborateurs du Créateur, a toujours été pour ceux-ci source de grandes joies, accompagnées cependant parfois de bien des difficultés et des peines.",
+          "de": "An die Ehrwürdigen Brüder, die Patriarchen, die Erzbischöfe,Bischöfe und die übrigen Ortsordinarien, die mit dem Apostolischen Stuhlin Frieden und Gemeinschaft leben,an den Klerus und die Christgläubigen des ganzen katholischen Erdkreises sowie an alle Menschen guten Willens",
+          "hu": "VI. Pál pápa enciklikájaa helyes születésszabályozásrólRÓMA, 1968",
+          "it": "1. Il gravissimo dovere di trasmettere la vita umana, per il quale gli sposi sono liberi e responsabili collaboratori di Dio creatore, è sempre stato per essi fonte di grandi gioie, le quali, tuttavia, sono talvolta accompagnate da non poche difficoltà e angustie. In tutti i tempi l’adempimento di questo dovere ha posto alla coscienza dei coniugi seri problemi, ma col recente evolversi della società, si sono prodotti mutamenti tali da far sorgere nuove questioni, che la chiesa non può ignorare, trattandosi di materia che tanto da vicino tocca la vita e la felicità degli uomini.",
+          "la": "Ad venerabiles Fratres Patriarchas, Archiepiscopos, Episcopos aliosque locorum Ordinarios,pacem et communionem cum Apostolica Sede habentes, ad Clerum etChristifideles totius Catholici Orbis itemque ad universos bonae volontatis homines datae:de propagatione humanae prolis recte ordinanda.",
+          "pt": "Em todos os tempos o cumprimento deste dever pôs à consciência dos cônjuges sérios problemas; mas, mais recentemente, com o desenvolver-se da sociedade, produziram-se modificações tais, que fazem aparecer questões novas que a Igreja não podia ignorar, tratando-se de matéria que tão de perto diz respeito à vida e à felicidade dos homens.",
+          "es": "Venerables hermanos y amados hijos,salud y bendición apostólica."
+        },
+        "language_count": 10
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_25071968_humanae-vitae",
@@ -287,17 +460,27 @@
       "id": "hf_p-vi_hom_19680630",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_hom_19680630",
         "title": "Solemni Hac Liturgia (Credo of the People of God)",
         "type": "Homilies",
         "date": "1968-06-30",
-        "excerpt": "1. With this solemn liturgy we end the celebration of the nineteenth centenary of the martyrdom of the holy apostles Peter and Paul, and thus close the Year of Faith. We dedicated it to the commemoration of the holy apostles in order that we might give witness to our steadfast will to be faithful to the deposit of the faith(1) which they transmitted to us, and that we might strengthen our desire to live by it in the historical circumstances in which the Church finds herself in her pilgrimage in the midst of the world.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. With this solemn liturgy we end the celebration of the nineteenth centenary of the martyrdom of the holy apostles Peter and Paul, and thus close the Year of Faith. We dedicated it to the commemoration of the holy apostles in order that we might give witness to our steadfast will to be faithful to the deposit of the faith(1) which they transmitted to us, and that we might strengthen our desire to live by it in the historical circumstances in which the Church finds herself in her pilgrimage in the midst of the world.",
+          "de": "Ehrwürdige Brüder!Geliebte Söhne und Töchter!",
+          "it": "Venerati Fratelli e diletti Figli.",
+          "la": "Venerabiles Fratres ac Dilecti Filii,",
+          "pt": "Veneráveis irmãos e diletos filhos:",
+          "es": "Venerables hermanos y queridos hijos:"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-vi_hom_19680630",
@@ -308,17 +491,27 @@
       "id": "hf_p-vi_enc_24061967_sacerdotalis",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_24061967_sacerdotalis",
         "title": "Sacerdotalis Caelibatus",
         "type": "Encyclical",
         "date": "1967-06-24",
-        "excerpt": "To the Bishops, Priests and Faithful of the Whole Catholic World.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Bishops, Priests and Faithful of the Whole Catholic World.",
+          "fr": "Aux EvêquesA ses confrères dans le sacerdoceet aux fidèles du monde catholique tout entier",
+          "it": "Lettera Enciclica ai Vescovi, ai Sacerdotie a tutti i fedeli del mondo cattolico: sul celibato sacerdotale",
+          "la": "1. Sacerdotalis caelibatus, quem Ecclesia quasi quandam nitentem suae coronae gemmam tutatur, in summa laude et aestimatione nostris etiam diebus est, cum sive hominum sensus sive corporearum rerum condiciones sunt fere penitus immutata. Sed in nova huiuscemodi animorum aestuatione quorundam simul erupit proclivitas vel, ut verius dicamus, significata voluntas Christi Ecclesiam ad id impellendi, ut hoc proprium ac suum institutum recognoscat, cuius conservationem, ut eorum fert opinio, et nostra tempora et nostri mores difficilem vel potius impossibilem efficiant.",
+          "pt": "Veneráveis Irmãos e diletos filhossaúde e bênção apostólica",
+          "es": "1. El celibato sacerdotal, que la Iglesia custodia desde hace siglos como perla preciosa, conserva todo su valor también en nuestro tiempo, caracterizado por una profunda transformación de mentalidades y de estructuras."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_24061967_sacerdotalis",
@@ -329,17 +522,28 @@
       "id": "hf_p-vi_enc_26031967_populorum",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_26031967_populorum",
         "title": "Populorum Progressio",
         "type": "Encyclical",
         "date": "1967-03-26",
-        "excerpt": "To the Bishops, Priests, Religious, and Faithful of the Whole Catholic World, and to All Men of Good Will.",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Bishops, Priests, Religious, and Faithful of the Whole Catholic World, and to All Men of Good Will.",
+          "fr": "Développement des peuples1. Le développement des peuples, tout particulièrement de ceux qui s'efforcent d'échapper à la faim, a la misère, aux maladie endémiques, à l'ignorance; qui cherchent une participation plus large aux fruits de la civilisation, une mise en valeur plus active de leurs qualités humaines; qui s'orientent avec décision vers leur plein épanouissement, est considéré avec attention par l'Eglise. Au lendemain du deuxième Concile œcuménique du Vatican, une prise de conscience renouvelée des exigences du message évangélique lui fait un devoir de se mettre au service des hommes pour les aider à saisir toutes les dimensions de ce grave problème et pour les convaincre de l'urgence d'une action solidaire en ce tournant décisif de l'histoire de l'humanité.Enseignement social des Papes2. Dans leurs grandes encycliques,Rerum Novarum(1), de Léon XIII,Quadragesimo Anno(2), de Pie XI,Mater et Magistra(3), etPacem in terris(4), de Jean XXIII – sans parler des messages au monde de Pie XII (5) – nos prédécesseurs ne manquèrent pas au devoir de leur charge de projeter sur les questions sociales de leur temps la lumière de l'Evangile.Fait majeur3. Aujourd'hui, le fait majeur dont chacun doit prendre conscience est que la question sociale est devenue mondiale. Jean XXIII l'a affirmé sans ambages (6), et le Concile lui a fait écho par sa Constitution pastorale sur l'Eglise dans le monde de ce temps (7). Cet enseignement est grave et son application urgente. Les peuples de la faim interpellent aujourd'hui de façon dramatique les peuples de l'opulence. L'Eglise tressaille devant ce cri d'angoisse et appelle chacun à répondre avec amour à l'appel de son frère.Nos voyages4. Avant Notre élévation au souverain pontificat, deux voyages en Amérique latine (1960) et en Afrique (1962) Nous avaient mis au contact immédiat des lancinants problèmes qui étreignent des continents pleins de vie et d'espoir. Revêtu de la paternité universelle, Nous avons pu, lors de nouveaux voyages en Terre Sainte et aux Indes, voir de Nos yeux et comme toucher de Nos mains les très graves difficultés qui assaillent des peuples d'antique civilisation aux prises avec le problème du développement. Tandis que se tenait à Rome le second Concile œcuménique du Vatican, des circonstances providentielles Nous amenèrent à Nous adresser directement à l'Assemblée générale des Nations Unies: Nous nous fîmes devant ce vaste aréopage l'avocat des peuples pauvres.Justice et paix5. Enfin, tout dernièrement, dans le désir de répondre au vœu du Concile et de concrétiser l'apport du Saint-Siège à cette grande cause des peuples en voie de développement, Nous avons estimé qu'il était de Notre devoir de créer parmi les organismes centraux de l'Eglise une Commission pontificale chargée de \"susciter dans tout le peuple de Dieu la pleine connaissance du rôle que les temps actuels réclament de lui de façon à promouvoir le progrès des peuples plus pauvres, à favoriser la justice sociale entre les nations, à offrir à celles qui sont moins développées une aide telle qu'elles puissent pourvoir elles-mêmes et pour elles-mêmes à leur progrès\" (8): Justice et paix est son nom et son programme. Nous pensons que celui-ci peut et doit rallier, avec nos fils catholiques et frères chrétiens, les hommes de bonne volonté. Aussi est-ce à tous que Nous adressons aujourd'hui cet appel solennel à une action concertée pour le développement intégral de l'homme et le développement solidaire de l'humanité.",
+          "de": "1. Die Entwicklung der Völker wird von der Kirche aufmerksam verfolgt: vor allem derer, die dem Hunger, dem Elend, den herrschenden Krankheiten, der Unwissenheit zu entrinnen suchen; derer, die umfassender an den Früchten der Zivilisation teilnehmen und ihre Begabung wirksamer zur Geltung bringen wollen, die entschieden ihre vollere Entfaltung erstreben. Das Zweite Vatikanische Konzil wurde vor kurzem abgeschlossen. Seither steht das, was das Evangelium in dieser Frage fordert, klarer und lebendiger im Bewußtsein der Kirche. Es ist ihre Pflicht, sich in den Dienst der Menschen zu stellen, um ihnen zu helfen, dieses schwere Problem in seiner ganzen Breite anzupacken, und sie in diesem entscheidenden Augenblick der Menschheitsgeschichte von der Dringlichkeit gemeinsamen Handelns zu überzeugen.",
+          "it": "1. Lo sviluppo dei popoli, in modo particolare di quelli che lottano per liberarsi dal giogo della fame, della miseria, delle malattie endemiche, dell’ignoranza; che cercano una partecipazione più larga ai frutti della civiltà, una più attiva valorizzazione delle loro qualità umane; che si muovono con decisione verso la meta di un loro pieno rigoglio, è oggetto di attenta osservazione da parte della chiesa. All’indomani delConcilio Ecumenico Vaticano II, una rinnovata presa di coscienza delle esigenze del messaggio evangelico le impone di mettersi al servizio degli uomini, onde aiutarli a cogliere tutte le dimensioni di tale grave problema e convincerli dell’urgenza di una azione solidale in questa svolta della storia dell’umanità.",
+          "la": "Ad Episcopos, ad Sacerdotes, ad Religiosos, ad Christifidelestotius Catholici Orbis, itemque ad universos bonae voluntatis homines:de populorum progressione promovenda.",
+          "pt": "1. O desenvolvimento dos povos, especialmente daqueles que se esforçam por afastar a fome, a miséria, as doenças endêmicas, a ignorância; que procuram uma participação mais ampla nos frutos da civilização, uma valorização mais ativa das suas qualidades humanas; que se orientam com decisão para o seu pleno desenvolvimento, é seguido com atenção pela Igreja. Depois do Concílio Ecumênico Vaticano II, uma renovada conscientização das exigências da mensagem evangélica traz à Igreja a obrigação de se pôr ao serviço dos homens, para os ajudar a aprofundarem todas as dimensões de tão grave problema e para os convencer da urgência de uma ação solidária neste virar decisivo da história da humanidade.",
+          "es": "1. El desarrollo de los pueblos y muy especialmente el de aquellos que se esfuerzan por escapar del hambre, de la miseria, de las enfermedades endémicas, de la ignorancia; que buscan una más amplia participación en los frutos de la civilización, una valoración más activa de sus cualidades humanas; que se orientan con decisión hacia el pleno desarrollo, es observado por la Iglesia con atención. Apenas terminado el segundo Concilio Vaticano II, una renovada toma de conciencia de las exigencias del mensaje evangélico obliga a la Iglesia a ponerse al servicio de los hombres para ayudarles a captar todas las dimensiones de este grave problema y convencerles de la urgencia de una acción solidaria en este cambio decisivo de la historia de la humanidad."
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_26031967_populorum",
@@ -350,17 +554,27 @@
       "id": "hf_p-vi_enc_15091966_christi-matri",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_15091966_christi-matri",
         "title": "Christi Matri",
         "type": "Encyclical",
         "date": "1966-09-15",
-        "excerpt": "To His Venerable Brothers the Patriarchs, Primates, Archbishops, Bishops and other Local Ordinaries in Peace and Communion with the Apostolic See.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To His Venerable Brothers the Patriarchs, Primates, Archbishops, Bishops and other Local Ordinaries in Peace and Communion with the Apostolic See.",
+          "de": "An die Ehrwürdigen Brüder, die Patriarchen, Primaten, Erzbischöfe, Bischöfeund die anderen Oberhirten, die in Frieden und Gemeinschaft mit dem Apostolischen Stuhle leben.",
+          "it": "1. Durante il mese di ottobre, il popolo cristiano è solito intrecciare come mistiche corone alla Madre di Cristo mediante la preghiera del Rosario. E Noi che, sull'esempio dei Nostri Predecessori, vivamente approviamo questa usanza, chiamiamo quest'anno tutti i figli della Chiesa a tributare alla Beatissima Vergine particolari attestazioni di pietà. Si addensa infatti il pericolo di una più vasta e dura calamità, che incombe sull'umana famiglia, poiché, specialmente nelle regioni dell'Asia orientale, ancora si combatte con spargimento di sangue, e infuria una guerra difficile; e pertanto Ci sentiamo spinti a tentare nuovamente e con maggior forza tutto quanto è in Nostro potere per garantire la pace. Sono inoltre motivo di turbamento le notizie di ciò che avviene in altre regioni dei mondo, come la crescente corsa agli armamenti nucleari, i nazionalismi, i razzismi, i movimenti rivoluzionari, la forzata divisione dei cittadini, i criminosi attentati, l'eccidio di persone innocenti. Tutte queste cose possono fornire l'esca di un immane flagello.",
+          "la": "Christi Matri Rosarii precibus veluti mystica serta per Octobrem mensem contexere sollemne est populo fideli. Quod, Decessorum Nostrorum exemplo, valde probantes, ad peculiaria pietatis officia eidem Beatissimae Virgini praestanda omnes Ecclesiae filios hoc anno vocamus. Ingruit enim periculum amplioris graviorisque calamitatis, quae humanae familiae impendet, siquidem praesertim in orientalis Asiae partibus adhuc cruente dimicatur ac laboriosum bellum desaevit; atque adeo monemur, ut de pace tuenda, quantum in Nobis est positum, iterum idque vehementius agamus. Perturbant quoque animum ea, quae in aliis regionibus fieri cognoscuntur, veluti increscens armorum «nuclearium» contentio, vesanum propriae nationis amplificandae studium, immoderata stirpis commendatio, rerum evertendarum cupiditas, disiunctio civibus imposita, nefariae insidiae, insontium caedes; quae omnia summi mali materia esse possunt.",
+          "pt": "Veneráveis Irmãos,Saudação e bênção apostólica",
+          "es": "A los venerables hermanos Patriarcas,Primados, Arzobispos, Obisposy demás ordinarios de lugaren paz y comunión con la Sede Apostólica"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_15091966_christi-matri",
@@ -371,17 +585,22 @@
       "id": "hf_p-vi_hom_19660515",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_hom_19660515",
         "title": "Sacred rite in the Vatican Basilica",
         "type": "Homilies",
         "date": "1966-05-15",
-        "excerpt": "Chi siete Voi, che assistete a questa sacra celebrazione, e che riempite d’insoliti canti questa basilica? Oh! Noi lo sappiamo; e non possiamo annunciarvi la parola evangelica di questa domenica, né offrire a Dio il Sacrificio della Messa, che abbiamo incominciato, senza prima salutarvi e senza prima stabilire con voi quella unità spirituale, che deve preparare la presenza sacramentale di Cristo fra noi. La comunione dei nostri animi deve precedere e predisporre la nostra comunione con Lui; l’attuazione del corpo mistico di Cristo, ch’è la Chiesa, è strumento e fine dell’attuazione del Corpo reale di Cristo, che sarà tra poco con noi nel Mistero eucaristico.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "it": "Chi siete Voi, che assistete a questa sacra celebrazione, e che riempite d’insoliti canti questa basilica? Oh! Noi lo sappiamo; e non possiamo annunciarvi la parola evangelica di questa domenica, né offrire a Dio il Sacrificio della Messa, che abbiamo incominciato, senza prima salutarvi e senza prima stabilire con voi quella unità spirituale, che deve preparare la presenza sacramentale di Cristo fra noi. La comunione dei nostri animi deve precedere e predisporre la nostra comunione con Lui; l’attuazione del corpo mistico di Cristo, ch’è la Chiesa, è strumento e fine dell’attuazione del Corpo reale di Cristo, che sarà tra poco con noi nel Mistero eucaristico."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-vi_hom_19660515",
@@ -392,17 +611,28 @@
       "id": "hf_p-vi_enc_03091965_mysterium",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_03091965_mysterium",
         "title": "Mysterium Fidei",
         "type": "Encyclical",
         "date": "1965-09-03",
-        "excerpt": "To His Venerable Brothers the Patriarchs, Primates, Archbishops, Bishops and other Local Ordinaries in Peace and Communion with the Apostolic See, and to the Clergy and Faithful of the Entire World.",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To His Venerable Brothers the Patriarchs, Primates, Archbishops, Bishops and other Local Ordinaries in Peace and Communion with the Apostolic See, and to the Clergy and Faithful of the Entire World.",
+          "fr": "A Nos Vénérables Frères les Patriarches, Primats, Archevêques, Evêques et autres Ordinaires des lieux, au clergé et aux fidèles du monde entier",
+          "de": "An die Ehrwürdigen Brüder, die Patriarchen, die Erzbischöfe,Bischöfe und die übrigen Ortsordinarien, die mit dem Apostolischen Stuhlin Frieden und Gemeinschaft leben,an den Klerus und die Christgläubigen des ganzen katholischen Erdkreises.",
+          "it": "Lettera enciclica ai Venerabili Fratelli Patriarchi, Primati, Arcivescovi,Vescovi e agli altri Ordinari dei luoghi in pace e comunione con la Sede Apostolica,e al clero e ai fedeli di tutto il mondo cattolico.",
+          "la": "Mysterium fidei, ineffabile nempe Eucharistiae donum, quod a Sponso suo Christo tamquam immensae caritatis pignus accepit, Catholica Ecclesia veluti thesaurum, quo nihil pretiosius, sancte iugiter custodivit eique novam sollemnissimamque fidei et cultus exhibuit inConcilio Vaticano IIprofessionem.",
+          "pt": "1.Sempre a Igreja Católica conservou religiosamente, como tesouro preciosíssimo, o mistério inefável da fé que é o dom da Eucaristia, recebido do seu Esposo, Cristo, como penhor de amor imenso; a ele tributou, no Concílio Ecumênico Vaticano II, nova e soleníssima profissão de fé e de culto.",
+          "es": "1. El misterio de fe, es decir, el inefable don de la Eucaristía, que la Iglesia católica ha recibido de Cristo, su Esposo, como prenda de su inmenso amor, lo ha guardado siempre religiosamente como el tesoro más precioso, y el Concilio Ecuménico Vaticano II le ha tributado una nueva y solemnísima profesión de fe y culto. En efecto, los Padres del Concilio, al tratar de restaurar la Sagrada Liturgia, con su pastoral solicitud en favor de la Iglesia universal, de nada se han preocupado tanto como de exhortar a los fieles a que con entera fe y suma piedad participen activamente en la celebración de este sacrosanto misterio, ofreciéndolo, juntamente con el sacerdote, como sacrificio a Dios por la salvación propia y de todo el mundo y nutriéndose de él como alimento espiritual."
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_03091965_mysterium",
@@ -413,17 +643,26 @@
       "id": "hf_p-vi_enc_29041965_mense-maio",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_29041965_mense-maio",
         "title": "Mense Maio",
         "type": "Encyclical",
         "date": "1965-04-29",
-        "excerpt": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and in Communion with the Apostolic See.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and in Communion with the Apostolic See.",
+          "it": "1. All'approssimarsi del mese di maggio, consacrato dalla pietà dei fedeli a Maria Ss.ma, esulta il Nostro animo al pensiero del commovente spettacolo di fede e di amore che, fra poco, sarà offerto in ogni parte della terra in onore della Regina del cielo. È, infatti, il mese in cui, nei templi e fra le pareti domestiche, più fervido e più affettuoso dal cuore dei cristiani sale a Maria l'omaggio della loro preghiera e della loro venerazione. Ed è anche il mese nel quale più larghi e abbondanti dal suo trono affluiscono a noi i doni della divina misericordia.",
+          "la": "Mense maio instante, quem christifidelium religio Manae Dei Genitrici iamdiu dicare consuevit, gaudio animus Noster exsultat, illud quasi praecipiens fidei amorisque spectaculum ad permovendum aptum, quod mox ubique terrarum ad honorem Reginae caelorum praebebitur. Hoc enim mense, ex altera parte, cum in templis tum intra domesticos parietes a christianorum animis Deiparae Virgini amantiora pietatis et cultus officia ex recepto instituto tribuuntur; ex altera, crebriora et ditiora divinae misericordiae dona e Matris nostrae solio in nos defluere solent.",
+          "pt": "Ao aproximar-se o mês de Maio, consagrado a Maria Santíssima pela piedade dos fiéis, o nosso espírito exulta ao pensar no espetáculo comovente de fé e de amor que, dentro em breve, será oferecido em todas as partes da terra em honra da Rainha do céu. Na verdade, é um mês em que, nos templos e entre as paredes domésticas, sobe dos corações dos cristãos até Maria a homenagem mais ardente e afetuosa da prece e da veneração. E é também o mês em que mais copiosos e mais abundantes descem até nós, do seu trono, os dons da misericórdia divina.",
+          "es": "Al acercarse el mes de mayo, consagrado por la piedad de los fieles a María Santísima, se llena de gozo Nuestro ánimo con el pensamiento del conmovedor espectáculo de fe y de amor que dentro de poco se ofrecerá en todas partes de la tierra en honor de la Reina del Cielo. En efecto, el mes de mayo es el mes en el que los templos y en las casas particulares sube a María desde el corazón de los cristianos el más ferviente y afectuoso homenaje de su oración y de su veneración. Y es también el mes en el que desde su trono descienden hasta nosotros los dones más generosos y abundantes de la divina misericordia."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_29041965_mense-maio",
@@ -434,17 +673,28 @@
       "id": "hf_p-vi_enc_06081964_ecclesiam",
       "pope": {
         "id": "paul-vi",
-        "name": "Paul VI",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
         "handle": "paulvi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=paulvi"
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
       },
       "document": {
+        "id": "hf_p-vi_enc_06081964_ecclesiam",
         "title": "Ecclesiam Suam",
         "type": "Encyclical",
         "date": "1964-08-06",
-        "excerpt": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and Communion with the Apostolic See, to the Clergy and faithful of the entire world, and to all men of good will.",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and Communion with the Apostolic See, to the Clergy and faithful of the entire world, and to all men of good will.",
+          "fr": "Vénérables frères et chers fils,Salut et bénédiction apostolique",
+          "de": "1. SEINE KIRCHE hat Jesus Christus gegründet, damit sie gleichzeitig liebevolle Mutter und Ausspenderin des Heils für alle Menschen sei. Wie daher nicht anders zu erwarten war, haben alle, denen die Ehre Gottes und das ewige Heil der Menschen am Herzen lag, ihr Beweise besonderer Liebe erwiesen und ihr besondere Sorge zugewandt; unter ihnen taten sich, wie es einleuchtend ist, die Stellvertreter Christi auf Erden, eine unermessliche Zahl von Bischöfen und Priestern sowie eine auserlesene Schar heiliger Christen hervor.",
+          "it": "1. Gesù Cristo ha fondato la sua Chiesa, perché sia nello stesso tempo madre amorevole di tutti gli uomini e dispensatrice di salvezza; appare quindi evidente la ragione per cui ad essa abbiano dato prove di particolare amore, e ad essa abbiano dedicato particolari cure tutti coloro che hanno avuto a cuore sia la gloria di Dio sia la salvezza eterna degli uomini: tra i quali, com'era giusto, rifulsero i Vicari in terra dello stesso Cristo, un numero immenso di Vescovi e di sacerdoti, ed una mirabile schiera di santi cristiani.",
+          "la": "Ad Venerabiles Fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios,pacem et communionem cum Apostolica Sede habentes, ad clerum etchristifideles totius orbis itemque ad universos bonae voluntatis homines:quibus viis Catholicam Ecclesiam in praesenti munus suum exsequi oporteat.",
+          "pt": "Tendo Jesus Cristo fundado a sua Igreja, para ser ao mesmo tempo mãe amorosa de todos os homens e medianeira de salvação, vê-se bem o motivo por que, no decurso dos séculos, lhe deram provas de especial amor e a ela dedicaram particular solicitude todos os que se interessaram pela glória de Deus e pela salvação eterna dos homens. Entre esses notabilizaram-se, como era natural, os Vigários na terra do mesmo Cristo, numerosíssimos bispos e sacerdotes, e multidão inumerável de bons cristãos.",
+          "es": "Venerables hermanos y queridos hijos:"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "hf_p-vi_enc_06081964_ecclesiam",
@@ -455,17 +705,26 @@
       "id": "hf_j-xxiii_enc_01071962_paenitentiam",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_01071962_paenitentiam",
         "title": "Paenitentiam Agere",
         "type": "Encyclical",
         "date": "1962-07-01",
-        "excerpt": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and Communion with the Apostolic See.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and Communion with the Apostolic See.",
+          "it": "Per questo motivo, nella costituzione apostolica di indizione delConcilio Ecumenico Vaticano II, abbiamo voluto rivolgere ai fedeli l'invito a prepararsi degnamente al grande avvenimento non solo con la preghiera e con la pratica ordinaria delle virtù cristiane, ma altresì con la volontaria mortificazione.(2)",
+          "la": "Paenitentiam agere noxarum suarum cum ex perspicua et aperta Christi institutione homini qui peccaverit initium sit, non modo veniae impetrandae, sed aeternae etiam reperiendae salutis, in promptu manifestumque est omnibus quam merito, quam opportune catholica Ecclesia, divinae quasi ministra Redemptionis, continenter docuerit, hoc non subdito fundamento, nec quemquam e filiis suis posse se in meliores dare vias, nec christianas res florentiorem habere cursum.",
+          "pt": "Veneráveis irmãos: saúde e bênção apostólica",
+          "es": "Venerables hermanos: Salud y Bendición Apostólica."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_01071962_paenitentiam",
@@ -476,17 +735,26 @@
       "id": "hf_j-xxiii_enc_11111961_aeterna-dei",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_11111961_aeterna-dei",
         "title": "Aeterna Dei Sapientia",
         "type": "Encyclical",
         "date": "1961-11-11",
-        "excerpt": "To the Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See: Commemorating the fifteenth centenary of the death of St. Leo the Great, Pope and Doctor of the Church.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See: Commemorating the fifteenth centenary of the death of St. Leo the Great, Pope and Doctor of the Church.",
+          "it": "L'eterna sapienza di Dio che «si estende, con potenza, da un capo all'altro del mondo, e con bontà governa l'universo intero» (Sap8,1), sembra avere impresso con singolare splendore la sua immagine nello spirito di san Leone I, sommo pontefice. Questi, infatti, «grandissimo tra i grandi»,(2) come giustamente lo chiamò il Nostro predecessorePio XII, di ven. mem., appare dotato in misura straordinaria di intrepida fortezza e di paterna bontà.",
+          "la": "Aeterna Dei sapientia, quae «attingit a fine usque ad finem fortiter, et disponit omnia suaviter» (Sap 8,1), singulari quodam splendore lucis in animo Sancti Leonis I Pontificis Maximi suam ipsius imaginem videtur impressisse. Hic enim Pontifex, quem Decessor Noster fel. rec.Pius XII«ex magnis maximum» iure optimo appellavit,(2) non minus intrepida animi firmitudine quam benignitate parentis amplissime se ornatum praebuit.",
+          "pt": "Veneráveis irmãossaudações e bênção apostólica",
+          "es": "Venerables hermanos:Salud y bendición apostólica."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_11111961_aeterna-dei",
@@ -497,17 +765,28 @@
       "id": "hf_j-xxiii_enc_15051961_mater",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_15051961_mater",
         "title": "Mater et Magistra",
         "type": "Encyclical",
         "date": "1961-05-15",
-        "excerpt": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and all other Local Ordinaries that are at Peace and in Communion with the Apostolic See, and to the Clergy and Faithful of the entire Catholic World.",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and all other Local Ordinaries that are at Peace and in Communion with the Apostolic See, and to the Clergy and Faithful of the entire Catholic World.",
+          "fr": "Aux Vénérables Frères, Patriarches, Primats, Archevêques, Evêques et autres ordinaires, en paix et communion avec le Siège Apostolique, à yout le Clergé et aux fidèles du monde entier",
+          "de": "Ehrwürdige Brüder, geliebte Söhne,Gruß und Apostolischen Segen",
+          "it": "Venerabili Fratelli, diletti Figli,salute e apostolica benedizione.",
+          "la": "Mater et magistra gentium a Christo Iesu ob eam causam catholica Ecclesia constituta est, ut, per saeculorum decursum, omnes, qui in eius sinum et amplexum venturi essent, cum praestantioris vitae plenitudine salutem reperirent. Cui quidem Ecclesiae, «columnae et firmamento veritatis» (cf.1 Tm3,15), duplex illud sanctissimus eius Conditor munus detulit, ut sibi pareret filios, et, quos peperisset, doceret et regeret, materna consulens providentia sive singulorum hominum sive populorum vitae, cuius excellentem dignitatem ipsa summo semper in honore habuit, vigilanterque tuita est.",
+          "pt": "1. Mãe e mestra de todos os povos, a Igreja Universal foi fundada por Jesus Cristo, a fim de que todos, vindo no seu seio e no seu amor, através dos séculos, encontrem plenitude de vida mais elevada e penhor seguro de salvação. A esta Igreja, \"coluna e fundamento da verdade\" (cf.1 Tm3, 15), o seu Fundador santíssimo confiou uma dupla missão: de gerar filhos, e de os educar e dirigir, orientando, com solicitude materna, a vida dos indivíduos e dos povos, cuja alta dignidade ela sempre desveladamente respeitou e defendeu.",
+          "es": "Venerables hermanos y queridos hijos, salud y bendición apostólica"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_15051961_mater",
@@ -518,17 +797,26 @@
       "id": "hf_j-xxiii_enc_28111959_princeps",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_28111959_princeps",
         "title": "Princeps Pastorum",
         "type": "Encyclical",
         "date": "1959-11-28",
-        "excerpt": "To Our Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To Our Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.",
+          "it": "Fin da quando, rispondendo con consapevole umiltà all'invito d'amore del «Principe dei pastori» (1 Pt5,4), ma fiduciosi nel suo potentissimo aiuto, abbiamo assunto il governo e la custodia degli «agnelli» e delle «pecorelle» del gregge di Dio (Gv21,15-17) sparso su tutta la terra, sempre fu presente al Nostro animo «il problema missionario in tutta la sua vastità, bellezza e importanza».(2) Non abbiamo perciò mai cessato di rivolgere ad esso le Nostre più vive sollecitudini. E nell'omelia del primo anniversario della Nostra incoronazione, abbiamo voluto ascrivere tra i giorni più fausti del Nostro pontificato l'11 ottobre scorso, quando quattrocento e più missionari convennero nella sacrosanta Basilica Vaticana per ricevere dalle Nostre mani il crocifisso, prima di spargersi in tutto il mondo a servizio dell'evangelo.",
+          "la": "«Princeps pastorum» (1Pt5, 4) ex quo die Nobis agnos et oves, hoc est universum Dei gregem (cf.Io21,15-17), ubique terrarum commorantem pascendum regendumque concredere voluit, atque adeo Nos suavi huic caritatis invitamento, humilitatis Nostrae conscii sed potentissimo eius auxilio fidentes respondimus, Catholicarum Missionum granditas, pulchritudo et gravitas menti semper occurrerunt Nostrae; (2) quamobrem numquam destitimus impensissimas ad eas conferre sollicitudines curasque Nostras. Ac primo exeunte anno, ex quo tergemina tiara redimiti sumus in homilia ea faustitate habita, inter laetissimos Summi Pontificatus eventus diem illam recensuimus, qua, a. d. V idus Octobres, in Sacrosanctam Vaticanam Basilicam plusquam quingenti Evangelii praecones convenerant, imagines Iesu Christi cruci affixi e Nostris manibus recepturi, antequam in longinquas regiones christiana luce collustrandas se conferrent.",
+          "pt": "1. Desde quando, respondendo com consciente humildade ao convite do \"Príncipe dos Pastores\" (1 Pd5, 4), mas confiante no seu poderosíssimo auxílio, assumimos o governo e a guarda dos \"cordeiros\" e das \"ovelhas\" do rebanho de Deus (cf.Jo21,15-17) espalhado por toda a terra, sempre esteve presente à nossa alma \"o problema missionário em toda a sua vastidão, beleza e importância\".[1]Por isto, nunca cessamos de volver para ele as nossas mais vivas solicitudes. E, na homília do primeiro aniversário da nossa coroação, quisemos inscrever entre os dias mais felizes do nosso Pontificado o dia onze de outubro passado, quando mais de quatrocentos missionários vieram à sacrossanta Basílica Vaticana para receberem das nossas mãos o crucifixo, antes de se espalharem pelo mundo todo, a serviço do Evangelho.",
+          "es": "La preocupación misionera del Papa"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_28111959_princeps",
@@ -539,17 +827,26 @@
       "id": "hf_j-xxiii_enc_26091959_grata-recordatio",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_26091959_grata-recordatio",
         "title": "Grata Recordatio",
         "type": "Encyclical",
         "date": "1959-09-26",
-        "excerpt": "To the Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.",
+          "it": "Fin dagli anni della Nostra giovinezza spesso si affaccia al Nostro animo il grato ricordo di quelle lettere encicliche(2) che il Nostro predecessore di imm. mem.Leone XIII, nell'imminenza del mese di ottobre, più volte indirizzò al mondo cattolico, per esortare i fedeli, specialmente durante quel mese, alla pia pratica del santo rosario. Si tratta di encicliche varie per il loro contenuto, ricche di sapienza, vibranti di sempre nuova ispirazione e opportune quanto mai alla vita cristiana. Era, quello, un forte e suadente richiamo a rivolgere fiduciose suppliche a Dio, mediante la potentissima intercessione della vergine Madre di Dio, con la recita del santo rosario. Questo, infatti, come è a tutti noto, è un modo eccellentissimo di preghiera meditata, costituito a guisa di mistica corona, in cui le orazioni del «Padre nostro», dell' «Ave Maria» e del «Gloria al Padre», si intrecciano alla considerazione dei più alti misteri della nostra fede, per cui viene presentato alla mente come in tanti quadri il dramma dell'incarnazione e della redenzione di Nostro Signore.",
+          "la": "Grata recordatio, inde a iuvenilibus annis, saepe animum subit Nostrum earum Litterarum Encyclicarum,(2) quas Decessor Noster imm. mem.Leo XIII, mense appetente Octobri, ad universum Catholicum orbem pluries dedit, ut ad Mariale Rosarium pie recitandum per eiusdem praesertim mensis decursum adhortaretur omnes: Litteras dicimus sententiarum varietate ornatas, sapientia praeditas, novum semper spirantes afflatum, et opportunas ad christianae vitae usum quam maxime. Suadebant fortiter suaviterque catholicorum populo ut fidenti animo Deo supplicaret, potentissimo interposito patrocinio Deiparae Virginis Mariae, sacrum recitando Rosarium; quod quidem, ut omnes norunt, aptissima precandi meditandique formula est, qua mysticum conectitur sertum Salutationis Angelicae, Orationis Dominicae, et Augustae Trinitatis doxologiae, quae Gloria Patri dicitur; quibus coniungitur praecipuorum religionis nostrae mysteriorum meditatio, qua Iesu Christi Incarnatio et humani generis Redemptio ordine proponuntur.",
+          "pt": "1. Desde os da nossa juventude, com freqüência se nos apresenta à alma a grata recordação daquelas cartas encíclicas[1]que o nosso predecessor, de imortal memória,Leão XIII, na iminência do mês de outubro, muitas vezes endereçou ao mundo católico, para exortar os fiéis, especialmente durante aquele mês, à piedosa prática do Santo Rosário. Trata-se de encíclicas várias pelo seu conteúdo, ricas de sabedoria, vibrantes de sempre nova inspiração, e o mais possível oportunas para a vida cristã. Era um forte e persuasivo apelo a dirigir confiantes súplicas a Deus, mediante a poderosíssima intercessão da Virgem sua Mãe, com a recitação do Santo Rosário. Este, com efeito, como de todos é sabido, é uma excelente modalidade de oração meditada, constituída à guisa de coroa mística, na qual as orações doPai-Nosso,daAve-Mariae doGlória ao Paise entrelaçam com a consideração dos mais altos mistérios da nossa fé, pelos quais é apresentado à mente, como outros tantos quadros, o drama da encarnação e da redenção de nosso Senhor.",
+          "es": "Desde los años de nuestra juventud, a menudo vuelve a nuestro ánimo el grato recuerdo de aquellas cartas encíclicas[1]que nuestro predecesor, de inmortal memoria, León XIII, siempre cerca del mes de octubre, dirigió muchas veces al mundo católico para exhortar a los fieles, especialmente durante aquel mes, a la piadosa práctica del santo rosario: encíclicas, varias por su contenido, ricas en sabiduría, encendidas siempre con nueva inspiración y oportunísimas para la vida cristiana. Eran una fuerte y persuasiva invitación a dirigir confiadas súplicas a Dios a través de la poderosísima intercesión de la Virgen Madre de Dios, mediante el rezo del santo rosario. Éste, como todos saben, es una muy excelente forma de oración meditada, compuesta a modo de mística corona, en la cual las oraciones del «Pater norter», del «Ave Maria» y del «Gloria Patri» se entrelazan con la meditación de los principales misterios de nuestra fe, presentando a la mente la meditación tanto de la doctrina de la Encarnación como de la Redención de Jesucristo, nuestro Señor."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_26091959_grata-recordatio",
@@ -560,17 +857,27 @@
       "id": "hf_j-xxiii_enc_19590801_sacerdotii",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_19590801_sacerdotii",
         "title": "Sacerdotii Nostri Primordia",
         "type": "Encyclical",
         "date": "1959-08-01",
-        "excerpt": "To Our Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To Our Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.",
+          "fr": "Les joies pures qui accompagnèrent en abondance les prémices de Notre sacerdoce sont à jamais liées, dans Notre mémoire, à l’émotion profonde que Nous avons ressentie le 8 janvier 1905, en la basilique vaticane, lors de la béatification glorieuse de cet humble prêtre de France que fut Jean-Marie-Baptiste Vianney. Elevé Nous-même au sacerdoce depuis quelques mois à peine, Nous fûmes saisi par l’admirable figure sacerdotale que Notre Prédécesseur saint Pie X, l’ancien curé de Salzano, était si heureux de proposer en exemple à tous les pasteurs d’âmes. Et, à tant d’années de distance, Nous ne pouvons rappeler ce souvenir sans remercier encore Notre divin Rédempteur, comme d’une grâce insigne, de l’élan spirituel ainsi imprimé, dès ses débuts, à Notre vie sacerdotale.",
+          "it": "Le purissime gioie che accompagnarono copiosamente le primizie del Nostro sacerdozio sono per sempre legate, nella Nostra memoria, alla emozione profonda che Noi provammo l'8 gennaio 1905 nella Basilica Vaticana, in occasione della gloriosa beatificazione di quell'umile prete di Francia che fu Giovanni Maria Battista Vianney. Noi pure elevati al sacerdozio da alcuni mesi appena, fummo colpiti dall'ammirabile figura sacerdotale che il Nostro predecessoresan Pio X, l'antico parroco di Salzano, era tanto felice di proporre come modello a tutti i pastori di anime. E, a tanti anni di distanza, non possiamo richiamare questo ricordo senza ringraziare ancora come di un'insigne grazia il Nostro Divino Redentore, per lo slancio spirituale impresso in tal modo, fin dall'inizio, alla Nostra vita sacerdotale.",
+          "la": "Sacerdotii nostri primordia uberibus suavibusque cumulata solaciis, eventum, quo penitus vehementerque commoti sumus, Nobis in memoriam reducunt: sacra scilicet sollemnia die 8 Ianuarii anno 1905 in Petrianae Basilicae maiestate habita, cum Ioannes Maria Baptista Vianney, humillimus Galliae sacerdos, Caelitum Beatorum fastis adscriptus est. Paucis videlicet ante mensibus Nosmet ipsi sacerdotii dignitatem assecuti, in admirationem idcirco rapti sumus, quod praeclarum illud sacerdotalium virtutum exemplar Decessor Noster fel. rec.S. Pius X, olim oppiduli Saltiani curio, tunc tantopere laetabatur universis animorum moderatoribus ad imitandum proponere. Haec autem post tam diuturni temporis spatium animo repetentes, Redemptori Nostro immortales adhuc grates agimus hoc de insigni beneficio, quo, utpote efficaci supernoque virtutis incitamento compulsi, sacra munera auspicati sumus.",
+          "pt": "1. As puríssimas alegrias que acompanharam copiosamente as primícias do nosso sacerdócio estão para sempre associadas, em nossa memória, à emoção profunda que experimentamos a 8 de janeiro de 1905 na Basílica Vaticana, por ocasião da gloriosa Beatificação daquele humilde sacerdote da França que foi João Maria Batista Vianney. Elevados nós mesmos ao sacerdócio havia apenas alguns meses, fomos atraídos pela admirável figura sacerdotal que o nosso predecessor s. Pio X, o antigo pároco de Salzano, era tão feliz em propor como modelo a todos os pastores de almas. E, a tantos anos de distância, não podemos evocar essa recordação sem agradecer ainda ao nosso Divino Redentor, como graça insigne, o impulso espiritual assim impresso, desde o princípio, à nossa vida de sacerdote.",
+          "es": "Las primicias de Nuestro sacerdocio abundantemente acompañadas de purísimas alegrías, van para siempre unidas, en Nuestra memoria, a la profunda emoción que experimentamos el día 8 de enero de 1905, en la Basílica Vaticana, con motivo de la gloriosa beatificación de aquel humilde sacerdote de Francia que se llamó Juan María Bautista Vianney. Elevados Nos también pocos meses antes al sacerdocio, fuimos cautivados por la admirable figura sacerdotal que Nuestro predecesor San Pío X, el antiguo párroco de Salzano, se consideraba tan feliz en proponer como modelo a todos los pastores de almas."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_19590801_sacerdotii",
@@ -581,17 +888,26 @@
       "id": "hf_j-xxiii_enc_29061959_ad-petri",
       "pope": {
         "id": "john-xxiii",
-        "name": "John XXIII",
+        "name": {
+          "en": "John XXIII",
+          "la": "S. Ioannes PP. XXIII"
+        },
         "handle": "johnxxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=johnxxiii"
+        "avatar": "https://api.popefeed.com/popes/john-xxiii.jpg"
       },
       "document": {
+        "id": "hf_j-xxiii_enc_29061959_ad-petri",
         "title": "Ad Petri Cathedram",
         "type": "Encyclical",
         "date": "1959-06-29",
-        "excerpt": "To the Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See, and to all the Priests and Faithful of the Catholic world.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See, and to all the Priests and Faithful of the Catholic world.",
+          "it": "Sin da quando siamo stati elevati non per Nostro merito alla cattedra di san Pietro, sempre Ci torna di ammaestramento e di conforto il ricordo del cordoglio generale che si è manifestato nel mondo, in occasione della scomparsa del Nostro immediato predecessore. Altrettanto Ci accade, se ripensiamo allo spettacolo che Ci si è offerto dopo la Nostra ascesa al supremo pontificato, quando, con l’animo pieno di fiduciosa attesa, le moltitudini si sono rivolte verso la Nostra persona, non distolte da altri avvenimenti, né dalle loro gravi difficoltà e angustie. La chiesa cattolica non muore: è il vessillo innalzato sulle nazioni (cf.Is11,12). Essa è sorgente di viva luce e di soave amore per tutti i popoli.",
+          "la": "Ad Petri Cathedram, etsi immerentes, evecti, ea iterum non sine admonitione, nec sine solatio consideramus; quae vidimus et audivimus cum proximum Decessorem Nostrum, vita functum, fere omnes cuiusvis gentis, cuiusvis opinationis complorarunt; et cum postea erga Nos, ad Summi Pontificatus apicem vocatos, itidem multitudines mentes animosque, quamquam aliis eventibus gravibusque rerum difficultatibus sollicitos et distentos, atque spem exspectationemque suam converterunt. Quod sine dubio propalam demonstrat Catholicam Ecclesiam perpetua florere iuventa, atque esse quasi signum levatum in nationes (cf.Is11,12), ex eademque penetrantem lucem suavemque amorem effundi, qui omnes attingit populos.",
+          "pt": "A Igreja em perene juventude: motivos de consolação e esperança",
+          "es": "Juventud perenne de la Iglesia"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_j-xxiii_enc_29061959_ad-petri",
@@ -602,17 +918,25 @@
       "id": "hf_p-xii_enc_14071958_meminisse-iuvat",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_14071958_meminisse-iuvat",
         "title": "Meminisse Iuvat",
         "type": "Encyclical",
         "date": "1958-07-14",
-        "excerpt": "Venerable Brethren,Greetings and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greetings and Apostolic Benediction.",
+          "it": "Ci sembra opportuno ricordare che, quando nuovi pericoli minacciavano il popolo cristiano e la chiesa, sposa del divino Redentore, Noi, come nei secoli scorsi già i Nostri predecessori avevano fatto, ci rivolgemmo supplichevoli alla vergine Maria, nostra amorevolissima Madre, e invitammo tutto il gregge affidatoCi ad abbandonarsi fiduciosamente alla sua protezione. E mentre il mondo era funestato da una guerra spaventosa, abbiamo fatto di tutto per esortare alla pace città, popoli e nazioni, e per richiamare gli animi, dilaniati dalle contese, al mutuo accordo nel nome della verità, della giustizia e dell'amore; né ci limitammo a questo, ma, vedendo che venivano a mancarci i mezzi umani e le umane risorse, con diverse Lettere ammonitrici, indicendo come una santa gara di preghiere, invocammo l'aiuto celeste mediante la potente intercessione della gran Madre di Dio, al cui cuore immacolato consacrammo con Noi tutta l'umana famiglia.(2)",
+          "la": "Meminisse iuvat, cum nova periculorum discrimina in christianum populum et in Divini Redemptoris Sponsam Ecclesiam incumberent, Nos, ut elapsis saeculis Decessores Nostri, ad Deiparam Virginem, amatissimam Matrem nostram, confugisse supplicantes, universumque gregem Nobis creditum adhortatos esse ut in eius tutelam se fidenter reciperet. Itaque cum immani bello quateretur orbis, non modo pacem civibus, populis, gentibus suadere contendimus, non modo diffractos discordia animos ad concordiam sub veritatis, iustitiae caritatisque insignia revocare enisi sumus, sed etiam — quandoquidem humanae opes humanaque consilia Nobis deesse videbantur — exhortativis litteris pluries datis et quasi sacra indicta precum contentione, caelestia invocavimus auxilia, valido interposito Magnae Dei Parentis patrocinio, cuius Immaculato Cordi Nosmet ipsos et universam hominum familiam consecravimus (cfr.A. A. S.1942, pp. 345-346).",
+          "pt": "1. Parece-nos oportuno lembrar que, quando novos perigos ameaçavam o povo cristão e a Igreja, esposa do divino Redentor, nós, tal como nos séculos passados já haviam feito os nossos predecessores, volvemo-nos suplicantes para a virgem Maria, nossa Mãe amorosa, e convidamos todo o rebanho a nós confiado a abandonar-se confiantemente à sua proteção. E, enquanto o mundo era enlutado por uma guerra espantosa, tudo fizemos para exortar à paz cidades, povos e nações, e para revocar as almas, dilaceradas pelas contendas, ao mútuo acordo em nome da verdade, da justiça e do amor; e não nos limitamos só a isso, mas, percebendo que vinham a faltar-nos os meios e recursos humanos, por meio de diversas cartas admoestadoras, convocando como que uma santa competição de orações, invocamos o auxílio celeste mediante a poderosa intercessão da grande Mãe de Deus, a cujo coração imaculado consagramos, conosco, toda a família humana.(1)"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_14071958_meminisse-iuvat",
@@ -623,17 +947,25 @@
       "id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
         "title": "Ad Apostolorum Principis",
         "type": "Encyclical",
         "date": "1958-06-29",
-        "excerpt": "Venerable Brethren and Beloved Children,Greetings and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren and Beloved Children,Greetings and Apostolic Benediction.",
+          "it": "Quando, presso il venerato e glorioso sepolcro del principe degli apostoli, sotto le volte maestose della Basilica Vaticana, il Nostro immediato predecessore di s.m., il sommo ponteficePio XI, or sono trentadue anni, conferiva la pienezza del sacerdozio «alle primizie e ai germogli novelli dell'episcopato cinese»,(2) così effondeva i sentimenti di intima gioia di cui in quel solenne momento era pervaso il suo cuore: «Siete venuti, venerabili fratelli,a vedere Pietro; che anzi da lui avete ricevuto il pastorale, del quale farete uso per intraprendere viaggi apostolici e radunare le pecorelle. E Pietro con amore ha abbracciato voi, che fornite non piccola speranza di portare ai vostri concittadini la verità evangelica».(3)",
+          "la": "Ad Apostolorum principis sepulchrum, in Vaticanae Basilicae maiestate, proximus Decessor Noster imm. mem.Pius XI, duobus et triginta abhinc annis, ut probe notis, « Sinensis Episcopatus flores... et germina novella » (A. A. S.XVIII [1926], pag. 432) rite consecravit et ad sacerdotii plenitudinem evexit; eoque sollemni horae momento paterno ex animo haec edidit verba: « Venistis quidem, Venerabiles Fratres, videre Petrum, immo etiam ab eo pedum accepistis, quo ad apostolica obeunda itinera ad ovesque congregandas uteremini. Petrus autem est vos peramanter amplexus, qui evangelicae veritatis apud cives vestros proferendae spem facitis non exiguam » (ibid.).",
+          "pt": "1. Quando, junto do venerado e glorioso túmulo do príncipe dos apóstolos sob as majestosas abóbodas da basílica vaticana, o nosso imediato predecessor de santa memória, o sumo pontífice Pio XI, há trinta e dois anos, conferia a plenitude do sacerdócio \"às primícias e aos novos rebentos do episcopado chinês\",(1) assim efundia os sentimentos de íntima alegria pela qual, naquele momento solene, era invadido o seu coração: \"Veneráveis irmãos, viestesver a Pedro; e até é dele que recebestes o pastoral que usareis quando encetareis viagens para reunir as ovelhas. E Pedro abraçou a vós que sois não pequena esperança de levar aos vossos concidadãos a verdade evangélica\".(2)"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
@@ -644,17 +976,28 @@
       "id": "hf_p-xii_enc_08091957_miranda-prorsus",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_08091957_miranda-prorsus",
         "title": "Miranda Prorsus",
         "type": "Encyclical",
         "date": "1957-09-08",
-        "excerpt": "Those very remarkable technical inventions which are the boast of the men of our generation, though they spring from human intelligence and industry, are nevertheless the gifts of God, Our Creator, from Whom all good gifts proceed: \"for He has not only brought forth creatures, but sustains and fosters them once created\".1",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Those very remarkable technical inventions which are the boast of the men of our generation, though they spring from human intelligence and industry, are nevertheless the gifts of God, Our Creator, from Whom all good gifts proceed: \"for He has not only brought forth creatures, but sustains and fosters them once created\".1",
+          "fr": "Quelques unes de ces inventions servent à multiplier les forces et les ressources physiques de l'homme, d'autres à améliorer ses conditions de vie; d'autres encore - et celles-là concernent de plus près la vie de l'esprit - touchent les foules directement, ou par l'expression artistique de l'image et du son, et leur offrent avec la plus grande facilité, des informations, des idées et un enseignement qui nourrissent leur esprit, même durant les heures de détente et de repos.",
+          "de": "Ehrwürdige Brüder, Gruß und Apostolischen Segen!",
+          "it": "Le meravigliose invenzioni tecniche, di cui si gloriano i nostri tempi, benché frutti dell'ingegno e del lavoro umano, sono tuttavia doni di Dio, nostro creatore, dal quale proviene ogni opera buona: \"Egli, infatti, non solo ha dato l'esistenza al creato, ma lo stesso creato conserva e sviluppa\".1",
+          "la": "Miranda prorsus technicae artis inventa, quibus nostrorum temporum homines gloriantur, quamquam ex humano ingenio laboreque oriuntur, dona sunt tamen Dei Creatoris nostri, ex quo omnia opera bona procedunt : « non enim solum protulit creaturam, verum etiam prolatam tuetur et fovet » (S. Ioan. Chrys.De consubstantiali, contra Anomoeos:P. G.48, 810).",
+          "pt": "Os maravilhosos progressos técnicos, de que se gloriam os nossos tempos, sem dúvida são fruto do engenho e do trabalho humano, mas são primeiro que tudo dons de Deus, Criador do homem e inspirador de todas as obras; \"não só produziu as criaturas, mas uma vez produzidas defende-as e protege-as\".[1]",
+          "es": "Los maravillosos progresos técnicos, de que se glorían nuestros tiempos, frutos sí del ingenio y del trabajo humano, son primariamente dones de Dios, Creador del hombre e inspirador de toda buena obra; \"no enim solum protulit creaturam, verum etiam prolatam tuetur et fovet\"[1]."
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_08091957_miranda-prorsus",
@@ -665,17 +1008,25 @@
       "id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
         "title": "Le Pèlerinage de Lourdes",
         "type": "Encyclical",
         "date": "1957-07-02",
-        "excerpt": "Beloved Sons and Venerable Brethren,Greetings and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Beloved Sons and Venerable Brethren,Greetings and Apostolic Benediction.",
+          "fr": "Le pèlerinage de Lourdes, que Nous avons eu la joie d'accomplir en allant présider, au nom de Notre Prédécesseur Pie XI, les fêtes eucharistiques et mariales de la clôture du Jubilé de la Rédemption, a laissé en Notre âme de profonds et doux souvenirs. Aussi Nous est-il particulièrement agréable d'apprendre que, sur l'initiative de l'Evêque de Tarbes et Lourdes, la Cité mariale s'apprête à célébrer avec éclat le Centenaire des Apparitions de la Vierge Immaculée dans la grotte de Massabielle, et qu'un Comité international a même été constitué à cet effet sous la présidence de l'Eminentissime Cardinal Eugène Tisserant, Doyen du Sacré Collège. Avec vous, Chers Fils et Vénérables Frères, Nous tenons à remercier Dieu pour l'insigne faveur faite à votre Patrie et pour tant de grâces répandues depuis un siècle sur la multitude des pèlerins. Nous voulons également convier tous Nos fils à renouveler, en cette année jubilaire, leur piété confiante et généreuse envers Celle qui, selon le mot de S. Pie X, daigna établir à Lourdes « le siège de son immense bonté » (Lettre du 12 juillet 1914:A. A. S.VI, 1914, p. 376).",
+          "it": "Il pellegrinaggio a Lourdes, che Noi abbiamo avuto la gioia di compiere recandoCi a presiedere in nome del Nostro predecessorePio XIle solennità eucaristiche e mariane per la chiusura del giubileo della redenzione, ha lasciato nella Nostra anima profondi e dolci ricordi. Così Ci è particolarmente caro sapere che, per l'iniziativa del vescovo di Tarbes e Lourdes, la città mariana si accinge a celebrare con particolare splendore il centenario delle apparizioni della Vergine immacolata nella grotta di Massabielle e che un comitato internazionale è stato pure costituito a tale scopo, sotto la presidenza dell'eminentissimo cardinale Eugenio Tisserant, decano del sacro collegio. Insieme con voi, diletti figli e venerabili fratelli, vogliamo ringraziare Dio per l'insigne favore fatto alla vostra patria e per tante grazie largite nel corso di un secolo sulla moltitudine di pellegrini. Desideriamo parimenti invitare tutti i Nostri figli a rinvigorire, in quest'anno giubilare, la loro devozione fidente e generosa verso colei che, secondo la parola disan Pio X, si compiacque stabilire a Lourdes «la sede della sua immensa bontà».(2)",
+          "pt": "Aos nossos caríssimos filhoso cardeal Achilles Liénart, Bispo de Lille;o cardeal Pierre Gerlier, Arcebispo de Lião;o cardeal Clément Roques, Arcebispo de Rennes;o cardeal Maurice Feltro, Arcebispo de Paris;o cardeal Georges Grente, Arcebispo-Bispo de Mans;e a todos os nossos Veneráveis irmãos os Arcebispos e os Bispos da França,em paz e comunhão com a Sé Apostólica,por ocasião do primeiro Centenário das Aparições da ss. Virgem em Lourdes"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
@@ -686,17 +1037,24 @@
       "id": "hf_p-xii_enc_16051957_invicti-athletae",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_16051957_invicti-athletae",
         "title": "Invicti Athletae",
         "type": "Encyclical",
         "date": "1957-05-16",
-        "excerpt": "Venerable Brethren,Greetings and Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greetings and Apostolic Benediction.",
+          "it": "Desideriamo che tutti coloro che sulla terra si gloriano del nome di cattolici onorino devotamente il martirio e la santità della vita dell'invitto campione di Cristo Andrea Bobola; in primo luogo i figli della carissima Polonia, cui lo stesso è gloria e modello eccelso di cristiana fortezza.",
+          "la": "Invicti athletae Christi, Andreae Bobolae, martyrium vitaeque sanctitatem, tertio exacto saeculo ab eius obitu, pia mente pioque animo recolant cupimus omnes, quotquot ubique terrarum catholico gloriantur nomine; imprimis vero carissimae Nobis Poloniae filii, quibus ipse est decus excelsumque christianae fortitudinis exemplar."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_16051957_invicti-athletae",
@@ -707,17 +1065,26 @@
       "id": "hf_p-xii_enc_21041957_fidei-donum",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_21041957_fidei-donum",
         "title": "Fidei Donum",
         "type": "Encyclical",
         "date": "1957-04-21",
-        "excerpt": "To the Venerable Brethren,the Patriarchs, Primates, Archbishops, Bishops,and other Local Ordinaries in Peace and Communion with the Apostolic See.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Venerable Brethren,the Patriarchs, Primates, Archbishops, Bishops,and other Local Ordinaries in Peace and Communion with the Apostolic See.",
+          "it": "Venerabili Fratelli, salute e Apostolica Benedizione.",
+          "la": "Fidei donum, quod, Deo largiente, incomparabilis bonorum copia in christifidelium animis consequitur, plane postulat ut sine intermissione divino ipsius Auctori gratae exhibeamus voluntatis officia. Siquidem fides est, quae ad arcana divinae vitae mysteria nobis aditum patefacit; quae nos ad caelestis beatitatis spem erigit; et quae christianae societatis unitatem hac in caduca vita firmat et solidat, secundum illud Apostoli : «Unus Dominus, una fides, unum baptisma» [1]. Ac divini huius muneris gratia praesertim fit, ut hoc sponte fluat grato ex animo nostro testimonium: «Quid retribuam Domino pro omnibus quae retribuit mihi?» [2] . Pro huiusmodi autem divina largitate, quid, post debitum mentis obsequium, acceptius Deo praestare potest homo, quam illatam a Christo veritatis facem latius inter homines proferre? Per sacras igitur provehendi missiones studium, quo christianae caritatis flamma alitur, tanti beneficii memores Deo imprimis quodammodo respondeant homines; cum, hac agendi ratione iam acceptae fidei donum ceteris pro viribus impertiendo, gratam Caelesti Numini videantur referre voluntatem suam.",
+          "pt": "1. O dom da fé que, pela liberalidade de Deus, traz as almas dos fiéis incomparáveis riquezas, pede que, sem cessar, demonstremos nossa gratidão a seu divino Autor. Com efeito, é a fé que nos introduz nos elevados mistérios da vida divina; nela se funda nossa esperança da bem-aventurança celeste; nela se firma e consolida, nesta vida transitória, o vínculo da comunidade cristã, conforme a palavra do apóstolo: \"Um só Senhor, uma só fé, um só batismo\" (Ef4, 5). É por excelência o dom divino que faz brotar naturalmente o testemunho de nossa gratidão: \"Que retribuirei ao Senhor por tudo quanto me concedeu?\" (Sl115, 12). Por essa divina liberalidade, haverá algo de mais agradável a oferecer a Deus, depois da devida submissão do espírito, do que levar sempre mais longe, entre os homens, o facho da verdade trazida por Cristo? Lembrados de tão grandes benefícios, devem, portanto, responder os homens, de modo particular, com grande zelo pelo desenvolvimento das sagradas missões, que são alimentadas pela chama da caridade cristã, pois, partilhando assim, do melhor modo possível, o dom da fé com os outros, darão provas de seu reconhecimento para com a celeste Divindade.",
+          "es": "1. El don de la fe, al cual siguen en las almas por gracia de Dios tan incomparables riquezas, exige que sin cesar mostremos nuestra gratitud al Señor, su divino Autor."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_21041957_fidei-donum",
@@ -728,17 +1095,25 @@
       "id": "hf_p-xii_enc_05111956_datis-nuperrime",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_05111956_datis-nuperrime",
         "title": "Datis Nuperrime",
         "type": "Encyclical",
         "date": "1956-11-05",
-        "excerpt": "Venerable Brethren,Greetings and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greetings and Apostolic Benediction.",
+          "hu": "Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana",
+          "it": "Con la recentissimalettera enciclica rivolta all'episcopato cattolico, avevamo espresso la speranza che anche per il nobilissimo popolo dell'Ungheria albeggiasse finalmente una nuova aurora di pace fondata sulla giustizia e sulla libertà, poiché sembrava che in quella nazione le cose prendessero uno sviluppo favorevole.",
+          "la": "Datis nuperrimeEncyclicis Litteris ad vos, Sacri catholici orbis Pastores, spem declarabamus Nostram fore ut nova pacis aurora, iustitia libertateque innixae, nobilissimo quoque Hungariae populo tandem aliquando illucesceret, cum res in melius componi hac in Natione viderentur."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_05111956_datis-nuperrime",
@@ -749,17 +1124,25 @@
       "id": "hf_p-xii_enc_01111956_laetamur-admodum",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_01111956_laetamur-admodum",
         "title": "Laetamur Admodum",
         "type": "Encyclical",
         "date": "1956-11-01",
-        "excerpt": "Venerable Brethren,Greetings and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greetings and Apostolic Benediction.",
+          "hu": "Ezért most szívből jövő hálával akarunk köszönetet mondani Istennek, mert megindult a sok könyörgésen, különösen az ártatlan gyermekek imáin és úgy látszik végre megengedi, hogy felderengjen az igazságosságra alapozott béke új korszakának hajnala Lengyelország és Magyarország népei számára.",
+          "it": "È per Noi motivo di grande letizia il sapere che non solo l'episcopato del mondo cattolico, ma anche gli altri ecclesiastici e i fedeli con spontaneo slancio hanno corrisposto al Nostro invito, rivolto loro con recente lettera enciclica[1], innalzando al Cielo pubbliche suppliche per renderlo propizio. Vogliamo, pertanto, con effusione e dall'intimo del cuore ringraziare Dio perché, mosso da tante preghiere, specialmente da quelle dei fanciulli e delle fanciulle innocenti, sembra finalmente spuntare per i popoli della Polonia e dell'Ungheria una nuova aurora di pace fondata sulla giustizia. Né con minore gioia abbiamo appreso che i diletti figli Nostri, i signori cardinali Stefano Wyszyński arcivescovo di Gniezno e Varsavia, e Giuseppe Mindszenty, arcivescovo di Esztergom, allontanati dalle loro rispettive sedi, sono stati rimessi nei loro posti di onore e di responsabilità, e trionfalmente accolti da una moltitudine di popolo festante, dopo essere stati riconosciuti innocenti e ingiustamente accusati. Nutriamo quindi speranza che ciò sia un buon auspicio per il riordinamento e la pacificazione di ambedue gli stati, in base a principi più sani e a una legislazione migliore, ma specialmente in base al rispetto dei diritti di Dio e della chiesa. Perciò Ci rivolgiamo di nuovo a tutti i cattolici di quelle nazioni perché, unendo concordemente le loro forze e stringendo le file intorno ai loro legittimi pastori, vogliano con ogni diligenza adoperarsi che questa santa causa abbia a progredire e a consolidarsi; ché se tale causa venisse messa in disparte o trascurata, non si potrebbe ottenere una vera pace.",
+          "la": "Laetamur admodum quod novimus non modo Sacros catholici orbis Pastores, sed ceterum etiam clerum christia numque populum paternis hortationibus Nostris, per datas nuper Encyclicas Litteras habitis («Luctuosissimi eventus» d. d. XXVIII Oct. a. MCMLVI), ultro libenterque respondisse, elatis ad propitiandum Caelum publicis supplicationibus. Atque adeo immortales ex animo Deo grates agimus, quod, eo tot exorato vocibus, innocentium praesertim puerorum puellarumque, Poloniae atque Hungariae populis pacis iustitia innixae nova veluti aurora tandem aliquando illucescere videtur. Nec minore cum gaudio comperimus Dilectos Filios Nostros S. R. E. Cardinales Stephanum Vyszynski, Archiepiscopum Gnesnensem et Varsaviensem, et Iosephum Mindszenty, Archiepiscopum Strigoniensem, e suis sedibus deturbatos, iam esse, utpote innocentes falsoque crimine accusatos, in suum cuiusque honoris potestatisque locum restitutos ac per triumphum ab ovante multitudine exceptos. Id fore confidimus ut auspicium sit componendae pacificandaeque utriusque Reipublicae sanioribus principiis melioribusque legibus, sartis praesertim tectisque servatis Dei Ecclesiaeque iuribus. Quam ad rem iterum iterumque catholicos omnes illarum Nationum appellamus ut, viribus unitis agminibusque confertis et cum Sacris Antistitibus coniunctis, omni ope allaborent, ut eiusmodi sanctissima causa et provehi et solidari queat; causam dicimus, qua praetermissa vel neglecta, nulla veri nominis pax haberi potest."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_01111956_laetamur-admodum",
@@ -770,17 +1153,25 @@
       "id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
         "title": "Luctuosissimi Eventus",
         "type": "Encyclical",
         "date": "1956-10-28",
-        "excerpt": "Venerable Brethren,Greetings and Apostolic Benediction",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greetings and Apostolic Benediction",
+          "hu": "Legyen végre világos mindenki előtt, hogy ha a nép rendje egyszer felborul, azt nem lehet visszaállítani sem a halálosztó fegyverek erejével, sem a polgárokra alkalmazott erőszakkal, mert az ő legbelsőbb érzéseiket nem lehet elfojtani, sem pedig csalárd elméletekkel, amelyek megrontják a lelket, megsértik az Egyház, a polgári és a keresztény lelkiismeret törvényeit. Az igazi szabadság iránti sóvárgást sohasem lehet külső erőszakkal elfojtani.",
+          "it": "Gli eventi luttuosissimi, da cui sono colpiti i popoli dell'Europa orientale, e soprattutto l'Ungheria a Noi carissima, insanguinata al presente da una terribile strage, profondamente commuovono il Nostro animo paterno; e non solamente il Nostro, ma certamente anche quello di tutti coloro a cui stanno a cuore i diritti della civiltà, la dignità umana, e la libertà dovuta ai singoli e alle nazioni.",
+          "la": "Luctuosissimi eventus, quibus Europae populi ad orientem vergentes percelluntur, ac praesertim dilectissima Nobis Hungariae gens, quae teterrima in praesens cruentatur caede, vehementer commovent paternum animum Nostrum, non Nostrum autem tantum, sed profecto eorum etiam omnium, quibus civilis cultus iura, humanitatis dignitas, debitaque singulis ac Nationibus libertas cordi sunt."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
@@ -791,17 +1182,27 @@
       "id": "hf_p-xii_enc_15051956_haurietis-aquas",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_15051956_haurietis-aquas",
         "title": "Haurietis Aquas",
         "type": "Encyclical",
         "date": "1956-05-15",
-        "excerpt": "Venerable Brethren: Health and Apostolic Benediction.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren: Health and Apostolic Benediction.",
+          "de": "Ehrwürdige Brüder, Gruß und Apostolischen Segen!",
+          "it": "Venerabili Fratelli, salute e Apostolica Benedizione.",
+          "la": "Haurietis aquas in gaudio de fontibus Salvatoris » (Is. 12, 3). Haec verba, quibus Isaias propheta significantibus imaginibus usus multiplicia illa atque uberrima Dei munera vaticinabatur, quae erat christiana aetas allatura, haec verba, dicimus, sponte menti succurrunt Nostrae, dum centesimum exeuntem annum recolimus, ex quo Decessor Noster imm. rec. Pius IX, votis libenter concedens, e catholico terrarum orbe delatis, Festum Sacratissimi Cordis Iesu in universa Ecclesia celebrari mandavit.",
+          "pt": "1. \"Haurireis águas com gáudio das fontes do Salvador\" (Is12, 3). Essas palavras, com que o profeta Isaías prefigurava os múltiplos e abundantes bens que os tempos cristãos haveriam de trazer, acodem-nos espontaneamente ao espírito ao completar-se a primeira centúria desde que o nosso predecessor de imperecível memória Pio IX, correspondendo aos desejos do orbe católico, ordenou que se celebrasse na Igreja universal a festa do sacratíssimo coração de Jesus.",
+          "es": "1. «Beberéis aguas con gozo en las fuentes del Salvador»[1]. Estas palabras con las que el profeta Isaías prefiguraba simbólicamente los múltiples y abundantes bienes que la era mesiánica había de traer consigo, vienen espontáneas a Nuestra mente, si damos una mirada retrospectiva a los cien años pasados desde que Nuestro Predecesor, de i. m., Pío IX, correspondiendo a los deseos del orbe católico, mandó celebrar la fiesta del Sacratísimo Corazón de Jesús en la Iglesia universal."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_15051956_haurietis-aquas",
@@ -812,17 +1213,26 @@
       "id": "hf_p-xii_enc_25121955_musicae-sacrae",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_25121955_musicae-sacrae",
         "title": "Musicae Sacrae",
         "type": "Encyclical",
         "date": "1955-12-25",
-        "excerpt": "The subject of sacred music has always been very close to Our heart. Hence it has seemed appropriate to us in this encyclical letter to give an orderly explanation of the topic and also to answer somewhat more completely several questions which have been raised and discussed during the past decades. We are doing so in order that this noble and distinguished art may contribute more every day to greater splendor in the celebration of divine worship and to the more effective nourishment of spiritual life among the faithful.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "The subject of sacred music has always been very close to Our heart. Hence it has seemed appropriate to us in this encyclical letter to give an orderly explanation of the topic and also to answer somewhat more completely several questions which have been raised and discussed during the past decades. We are doing so in order that this noble and distinguished art may contribute more every day to greater splendor in the celebration of divine worship and to the more effective nourishment of spiritual life among the faithful.",
+          "it": "L'ordinamento della musica sacra Ci è stato sempre sommamente a cuore; Ci è pertanto sembrato opportuno riprenderne un'ordinata trattazione e insieme illustrare con una certa ampiezza molte questioni sorte e discusse in questi ultimi decenni, affinché questa nobile e ragguardevole arte giovi sempre più allo splendore del culto divino e a promuovere più efficacemente una più intensa vita spirituale dei fedeli. Abbiamo voluto allo stesso tempo venire incontro ai voti che molti di voi, venerabili fratelli, nella loro saggezza, hanno espresso e che anche insigni maestri di quest'arte liberale ed esimi cultori di musica sacra hanno formulato in occasione di congressi su tale materia, e infine a quanto hanno consigliato al riguardo l'esperienza della vita pastorale e i progressi della scienza e degli studi su quest'arte. In tal modo nutriamo speranza che le norme saggiamente fissate da san Pio X nel documento da lui a buon diritto chiamato \"codice giuridico della musica sacra\"(2) saranno di nuovo confermate e inculcate, riceveranno nuova luce e saranno corroborate da nuovi argomenti, in modo tale che la nobile arte della musica sacra, adattata alle presenti condizioni e in certo qual modo arricchita, sempre più risponda al suo alto fine.",
+          "la": "Musicae Sacrae disciplina semper Nobis summopere cordi fuit; quare opportunum Nobis visum est eiusmodi causam per Encyclicas has Litteras ex ordine resumere unaque cum ea complures quaestiones postremis hisce decenniis inductas ac disputatas paulo amplius declarare, ut haec nobilissima atque ingenua ars in dies magis conferat ad cultum divinum splendidius celebrandum et ad spiritualem christifidelium vitam efficacius fovendam. Simul etiam votis illis respondere optavimus quae non pauci ex Vobis, Venerabiles Fratres, pro sua quisque prudentia proposuerunt, quaeque etiam liberalis huius disciplinae eximii artifices et praeclari musicae sacrae cultores in id genus Congressibus habitis conceperunt, et quae denique vel pastoralis vitae experientia vel progredientia huius artis ac doctrinae studia opportune suaserunt. Sic speramus fore, ut quae S.Pius Xin suo chirographo quem iure meritoque « iuridicum musicae sacrae codicem » appellavit (Motu ProprioFra le sollecitudini dell'ufficio pastorale: Acta Pii X, vol. I, p. 77), sapienter sanxit, denuo confirmentur et inculcentur, nova luce illustrentur, novisque commendentur rationibus; ita quidem ut hodiernis condicionibus aptata et aliquo modo locupletata praeclara musicae sacrae ars excelsa muneri suo magis magisque respondeat.",
+          "pt": "1. Sempre tivemos sumamente em consideração a disciplina da música sacra; donde haver-nos parecido oportuno tratar ordenadamente dela, e, ao mesmo tempo, elucidar com certa amplitude muitas questões surgidas e discutidas nestes últimos decênios, a fim de que esta nobre e respeitável arte contribua cada vez mais para o esplendor do culto divino e para uma mais intensa vida espiritual dos fiéis. Quisemos, a um tempo, vir ao encontro dos votos que muitos de vós, veneráveis irmãos, na vossa sabedoria, exprimistes, e que também insignes mestres desta arte liberal e exímios cultores de música sacra formularam por ocasião de Congressos sobre tal matéria, e ao encontro também de tudo quanto a esse respeito têm aconselhado a experiência da vida pastoral e os progressos da ciência e dos estudos sobre esta arte. Assim, nutrimos esperança de que as normas sabiamente fixadas por São Pio X no documento por ele com toda razão chamado \"código jurídico da música sacra\"(1) serão novamente confirmadas e inculcadas, receberão nova luz, e serão corroboradas por novos argumentos; de tal sorte que a nobre arte da música sacra, adaptada às condições presentes e, de certo modo, enriquecida, corresponda sempre mais à sua alta finalidade.",
+          "es": "Siempre hemos tenido en gran estima la disciplina de la música sagrada y por eso Nos ha parecido oportuno, por medio de esta Carta encíclica, tratar ordenadamente esta materia, exponiendo al mismo tiempo con mayor amplitud algunas cuestiones suscitadas y discutidas en los últimos decenios, para que este tan noble y tan hermoso arte ayude continuamente al mayor esplendor del culto divino y fomente más eficazmente la vida espiritual de los fieles."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_25121955_musicae-sacrae",
@@ -833,17 +1243,26 @@
       "id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
         "title": "Ad Caeli Reginam",
         "type": "Encyclical",
         "date": "1954-10-11",
-        "excerpt": "Venerable Brethren, Health and Apostolic Blessing.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and Apostolic Blessing.",
+          "it": "Fin dai primi secoli della chiesa cattolica il popolo cristiano ha elevato supplici preghiere e inni di lode e di devozione alla Regina del cielo, sia nelle circostanze liete, sia, e molto più, nei periodi di gravi angustie e pericoli; né vennero meno le speranze riposte nella Madre del Re divino, Gesù Cristo, mai s'illanguidì la fede, dalla quale abbiamo imparato che la vergine Maria, Madre di Dio, presiede all'universo con cuore materno, come è coronata di gloria nella beatitudine celeste.",
+          "la": "Ad Caeli Reginam, inde a primis Catholicae Ecclesiae saeculis, supplices preces ac laudis pietatisque cantus christianus populus adhibuit, sive cum laetitiae suavitatibus afficeretur, sive praesertinl cum in gravibus periclitaretur rerum angustiis; ac numquam spes decidit in Divini Regis Iesu Christi Matre reposita, numquam fides illa elanguit, qua docemur Deiparam Virginem Mariam in universo terrarum orbe materno animo regnare, quemadmodum regalis gloriae corona in caelesti redimitur beatitate.",
+          "pt": "1. Desde os primeiros séculos da Igreja católica, elevou o povo cristão orações e cânticos de louvor e de devoção à Rainha do céu tanto nos momentos de alegria, como sobretudo quando se via ameaçado por graves perigos; e nunca foi frustrada a esperança posta na Mãe do Rei divino, Jesus Cristo, nem se enfraqueceu a fé, que nos ensina reinar com materno coração no universo inteiro a Virgem Maria, Mãe de Deus, assim como está coroada de glória na bem-aventurança celeste.",
+          "es": "A la Reina del Cielo, ya desde los primeros siglos de la Iglesia católica, elevó el pueblo cristiano suplicantes oraciones e himnos de loa y piedad, así en sus tiempos de felicidad y alegría como en los de angustia y peligros; y nunca falló la esperanza en la Madre del Rey divino, Jesucristo, ni languideció aquella fe que nos enseña cómo la Virgen María, Madre de Dios, reina en todo el mundo con maternal corazón, al igual que está coronada con la gloria de la realeza en la bienaventuranza celestial."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
@@ -854,17 +1273,24 @@
       "id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
         "title": "Ad Sinarum Gentem",
         "type": "Encyclical",
         "date": "1954-10-07",
-        "excerpt": "Venerable Brothers and Beloved Sons, Greetingsand Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers and Beloved Sons, Greetingsand Apostolic Benediction.",
+          "it": "Circa tre anni fa inviammo la lettera apostolicaCupimus imprimis(2) al popolo cinese, a Noi tanto caro, e in modo speciale a voi, venerabili fratelli e diletti figli, che professate la religione cattolica, non soltanto per esprimervi la Nostra partecipazione alle vostre angosce, ma.anche per esortarvi paternamente ad adempiere tutti i doveri della religione cristiana con quella risoluta fedeltà, che qualche volta esige un'eroica fortezza; e nel momento presente, Noi, unitamente alle vostre preghiere, innalziamo un'altra volta le Nostre a Dio onnipotente e Padre delle misericordie, affinché «come il sole di nuovo brilla dopo le tempeste e le procelle, così dopo tante angustie, sconvolgimenti e sofferenze, tornino finalmente a risplendere sulla vostra chiesa la pace, la tranquillità e la libertà».(3)",
+          "la": "Venerabiles Fratres salutem et Apostolicam Benedictionem. - Ad Sinarum gentem, Nobis sane carissimam, ac peculiari modo ad vos, Venerabiles Fratres ac dilecti filii, qui catholicam religionem profitemini, Apostolicam Epistulam «Cupimus imprimis» (A. A. S. XXXXIV, p. 153 sq.) fere tribus abhinc annis idcirco misimus, ut non modo vobis significaremus vestros Nos participare angores, sed ut etiam vos paterno adhortaremur animo ad omnia christianae religionis officia strenua illa fidelitate obeunda, quae interdum heroum fortitudinem postulat; atque in praesens, supplices, Nostras una cum vestris precibus ad Deum Omnipotentem ac misericordiarum Patrem iterum admovemus, ut « quemadmodum post tempestates ac procellas iterum sol affulget, ita Ecclesiae vestrae post tot rerum angustias, perturbationes, dolores, pax, tranquillitas, libertas tandem aliquando » (ibidem, p. 157) illucescat."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
@@ -875,17 +1301,24 @@
       "id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
         "title": "Ecclesiae Fastos",
         "type": "Encyclical",
         "date": "1954-06-05",
-        "excerpt": "Venerable Brothers,Health and Apostolic Blessing.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers,Health and Apostolic Blessing.",
+          "it": "È sommamente conveniente e opportuno non soltanto rivolgere la mente ai fasti della chiesa, ma anche commemorarli con pubblici festeggiamenti, poiché di qui facilmente si vede come nessun secolo mai nella società fondata da Gesù Cristo fu sterile di santità; e inoltre, quando si propongono appositamente all'attenzione di ognuno chiari esempi di virtù che dagli stessi fasti rifulgono, l'animo s'infiamma e vivamente si accende a imitarli secondo le proprie forze.",
+          "pt": "1. É muito conveniente e oportuno não só recordar mas também comemorar com cerimônias públicas os fastos da Igreja, que mostram bem como na sociedade fundada por Jesus Cristo não houve nenhum século estéril em santidade; além disso, se os belos exemplos de virtude que brilham nesses fastos são devidamente propostos aos fiéis, os espíritos entusiasmam-se naturalmente e dispõem-se a imitá-los segundo as próprias forças."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
@@ -896,17 +1329,25 @@
       "id": "hf_p-xii_enc_25031954_sacra-virginitas",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_25031954_sacra-virginitas",
         "title": "Sacra Virginitas",
         "type": "Encyclical",
         "date": "1954-03-25",
-        "excerpt": "1. Holy virginity and that perfect chastity which is consecrated to the service of God is without doubt among the most precious treasures which the Founder of the Church has left in heritage to the society which He established.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. Holy virginity and that perfect chastity which is consecrated to the service of God is without doubt among the most precious treasures which the Founder of the Church has left in heritage to the society which He established.",
+          "it": "La sacra verginità e la castità perfetta consacrata al servizio di Dio sono certamente, per la chiesa, tra i tesori più preziosi che il suo Autore le abbia lasciato, come in eredità.",
+          "la": "Sacra virginitas et perfecta illa castitas, quae divino est consecrata famulatui, in pretiosissimis procul dubio annumerantur thesauris, quos Ecclesiae Auctor ab se conditae societati quasi hereditate reliquit.",
+          "pt": "Virgindade e castidade perfeita são o mais belo florão da Igreja"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_25031954_sacra-virginitas",
@@ -917,17 +1358,25 @@
       "id": "hf_p-xii_enc_08091953_fulgens-corona",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_08091953_fulgens-corona",
         "title": "Fulgens Corona",
         "type": "Encyclical",
         "date": "1953-09-08",
-        "excerpt": "Venerable Brethren,Health and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic Benediction.",
+          "it": "La fulgida corona di gloria, con la quale il Signore cinse la fronte purissima della vergine Madre di Dio, ci sembra maggiormente risplendere mentre rievochiamo il giorno in cui, cento anni or sono, il Nostro predecessore di f.m. Pio IX, circondato da un'imponente schiera di cardinali e di vescovi, dichiarò, proclamò e solennemente definì con autorità infallibile «che è stata rivelata da Dio, ed è quindi da credersi con fede ferma e costante da ogni fedele la dottrina la quale insegna che la beatissima vergine Maria, nel primo istante del suo concepimento, per singolare grazia e privilegio di Dio onnipotente, in previsione dei meriti di Gesù Cristo salvatore del genere umano, fu preservata immune da ogni macchia di peccato originale».(2)",
+          "la": "Venerabiles Fratres salutem et Apostolicam Benedictionem. - Fulgens corona gloriae, qua Deiparae Virgìnis purissima frons a Deo redimita fuit, magis videtur Nobis splendescere, dum diem mente repetimus, quo centum ante annos Decessor Noster fel. rec. Pius IX, amplissimis Purpuratorum Patrum Sacrorumque Antistitum ordinibus stipatus, apostolica auctoritate falli nescia declaravit, pronuntiavit, sollemniterque sanxit « doctrinam, quae tenet Beatissimam Virginem Mariam in primo instanti suae conceptionis fuisse singulari omnipotentis Dei gratia et privilegio, intuitu meritorum Christi Iesu Salvatoris humani generis, ab olnni originalis culpae labe praeservatam immunem, esse a Deo revelatam, atque idcirco ab omnìbus fidelibus firmiter constanterque credendam » [1].",
+          "pt": "1. A refulgente coroa de glória com que a puríssima fronte da virgem Mãe de Deus foi cingida por Deus mais nos parece resplandecer se recordarmos o dia em que, há cem anos, nosso predecessor de feliz memória, Pio IX, rodeado de um imponente cortejo de cardeais e de bispos, declarou, proclamou e definiu solenemente com infalível autoridade \"que a doutrina que defende que a beatíssima virgem Maria foi preservada de toda a mancha do pecado original desde o primeiro instante da sua concepção, por singular graça e privilégio de Deus onipotente e em atenção aos merecimentos de Jesus Cristo salvador do gênero humano, foi revelada por Deus e que, por isso, deve ser admitida com fé firme e constante por todos os fiéis\".(1)"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_08091953_fulgens-corona",
@@ -938,17 +1387,25 @@
       "id": "hf_p-xii_enc_24051953_doctor-mellifluus",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_24051953_doctor-mellifluus",
         "title": "Doctor Mellifluus",
         "type": "Encyclical",
         "date": "1953-05-24",
-        "excerpt": "The \"Doctor Mellifluus,\" \"the last of the Fathers, but certainly not inferior to the earlier ones,\"[1] was remarkable for such qualities of nature and of mind, and so enriched by God with heavenly gifts, that in the changing and often stormy times in which he lived, he seemed to dominate by his holiness, wisdom, and most prudent counsel. Wherefore, he has been highly praised, not only by the sovereign Pontiffs and writers of the Catholic Church, but also, and not infrequently, by heretics. Thus, when in the midst of universal jubilation, Our predecessor, Alexander III, of happy memory, inscribed him among the canonized saints, he paid reverent tribute when he wrote: \"We have passed in review the holy and venerable life of this same blessed man, not only in himself a shining example of holiness and religion, but also shone forth in the whole Church of God because of his faith and of his fruitful influence in the house of God by word and example; since he taught the precepts of our holy religion even to foreign and barbarian nations, and so recalled a countless multitude of sinners . . . to the right path of the spiritual life.\"[2] \"He was,\" as Cardinal Baronius writes, \"a truly apostolic man, nay, a genuine apostle sent by God, mighty in work and word, everywhere and in all things adding luster to his apostolate through the signs that followed, so that he was in nothing inferior to the great apostles, . . . and should be called . . . at one and the same time an adornment and a mainstay of the Catholic Church.\"[3]",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "The \"Doctor Mellifluus,\" \"the last of the Fathers, but certainly not inferior to the earlier ones,\"[1] was remarkable for such qualities of nature and of mind, and so enriched by God with heavenly gifts, that in the changing and often stormy times in which he lived, he seemed to dominate by his holiness, wisdom, and most prudent counsel. Wherefore, he has been highly praised, not only by the sovereign Pontiffs and writers of the Catholic Church, but also, and not infrequently, by heretics. Thus, when in the midst of universal jubilation, Our predecessor, Alexander III, of happy memory, inscribed him among the canonized saints, he paid reverent tribute when he wrote: \"We have passed in review the holy and venerable life of this same blessed man, not only in himself a shining example of holiness and religion, but also shone forth in the whole Church of God because of his faith and of his fruitful influence in the house of God by word and example; since he taught the precepts of our holy religion even to foreign and barbarian nations, and so recalled a countless multitude of sinners . . . to the right path of the spiritual life.\"[2] \"He was,\" as Cardinal Baronius writes, \"a truly apostolic man, nay, a genuine apostle sent by God, mighty in work and word, everywhere and in all things adding luster to his apostolate through the signs that followed, so that he was in nothing inferior to the great apostles, . . . and should be called . . . at one and the same time an adornment and a mainstay of the Catholic Church.\"[3]",
+          "it": "Il dottore mellifluo «ultimo dei padri, ma non certo inferiore ai primi»,[2] si segnalò per tali doti di mente e di animo, cui Dio aggiunse abbondanza di doni celesti, da apparire dominatore sovrano nelle molteplici e troppo spesso turbolente vicende della sua epoca, per santità, saggezza e somma prudenza, consiglio nell'agire. Perciò grandi lodi gli vengono tributate non solo dai sommi pontefici e dagli scrittori della chiesa cattolica, ma non di rado persino dagli eretici. Il Nostro predecessore di f.m. Alessandro III, nell'atto di iscriverlo tra l'universale giubilo nell'albo dei santi, così scrisse con riverenza di lui: «Abbiamo rievocato alla nostra memoria la santa e venerabile vita di questo spirito eletto: come egli, sostenuto da una non comune prerogativa di grazia, non solo risplendesse per la sua vita pia e santa, ma anche irradiasse dappertutto nella chiesa di Dio la luce della sua fede e della sua dottrina. Quali frutti egli abbia recato nella casa di Dio con la sua parola e il suo esempio non c'è nessuno, si può dire, in tutta l'estensione della cristianità che lo ignori, avendo egli diffuso le istituzioni della nostra santa religione fino nelle terre straniere e barbare ... e avendo revocato alla retta pratica della vita religiosa ... una moltitudine infinita di peccatori».[3] «Egli fu infatti - scrive C. Baronio - uomo davvero apostolico, anzi vero apostolo inviato da Dio, potente per l'opera e per la parola, che ha reso illustre in ogni dove e fra tutti il suo apostolato con i prodigi che lo accompagnavano, sì da doversi dire che nulla ebbe in meno dei grandi apostoli ... ornamento e sostegno a un tempo di tutta la chiesa cattolica».[4]",
+          "la": "Doctor Mellifluus « ultimus inter Patres, sed primis certe non impar » (1) talibus praestitit ingenii animique dotibus, quae caelestibus fuere a Deo ditatae muneribus, ut in variis ac nimio saepius turbolentis suae aetatis vicibus, sanctitate, sapientia prudentissimoque rerum gerendarum consilio dominari prorsus videretur. Quamobrem non modo a Summis Pontificibus et a Catholicae Ecclesiae scriptoribus, sed non raro ab haereticis etiam magnis honestatur laudibus. Itaque Decessor Noster fel. rec. Alexander III, cum eum laetantibus omnibus in album Sanctorum Caelitum rettulit, haec venerabundus scripsit: « ... Reduximus ad memoriam nostram eiusdem beati viri sanctam ac venerabilem vitam: qualiter ipse singulari gratiae praerogativa suffultus, non solum in se ipso sanctitate ac religione praefulserit, sed etiam in universa Ecclesia Dei, fidei et doctrinae lumine radiarit. Fructum vero, quem in domo Domini et verbo operatus est et exemplo, nullus fere terminus sanctae christianitatis ignorat; cum usque ad exteras quoque et barbaras nationes sanctae religionis instituta transmiserit... et infinitam multitudinem peccatorum... ad spiritualis vitae rectitudinem revocarit » (2). « Ipse enim fuit — ut C. Baronius scribit — vere apostolicus vir, imo verus Apostolus missus a Deo, potens opere et sermone, illustrans ubique et in omnibus suum apostolatum sequentibus signis, ut piane nihil minus habuerit a magnis Apostolis ... dicendus ... totius Ecclesiae Catholicae ornamentum simul ac fulcimentum » (3).",
+          "pt": "1. O doutor melífluo, \"último dos padres, mas certamente não inferior aos primeiros\"(1), distinguiu-se por tais dotes de mente e de espírito, enriquecidos por Deus com dons celestes, que pareceu dominar totalmente nas múltiplas e turbulentas vicissitudes da sua era, por santidade, sabedoria, suma prudência e conselho na ação. Por isso, não só os romanos pontífices e escritores da Igreja católica, mas também não raramente os próprios hereges lhe tributam grandes louvores. E nosso predecessor de feliz memória Alexandre III, quando o inseriu, com universal júbilo, no catálogo dos santos, assim escreveu com veneração: \"...Evocamos a santa e venerável vida do mesmo bem-aventurado: pois que ele, amparado por singular prerrogativa da graça, não só resplandeceu em santidade e religião, mas também irradiou, em toda a Igreja de Deus, a luz da sua fé e doutrina. Na verdade não há ninguém, por assim dizer, em toda a cristandade que ignore o fruto que ele produziu na casa de Deus com sua palavra e exemplo, visto que difundiu as instituições da nossa santa religião até às terras estrangeiras e bárbaras... e fez voltar uma infinita multidão de pecadores... à reta prática da vida espiritual\".(2) \"Ele foi com efeito como escreve o Cardeal Barônio - homem verdadeiramente apostólico, autêntico apóstolo enviado por Deus, poderoso em obras e palavras, tornando célebre em toda a parte e em todas as coisas o seu apostolado com os prodígios que o acompanhavam, de maneira que se deve dizer que em nada foi inferior aos grandes apóstolos... ornamento e ao mesmo tempo amparo de toda a Igreja católica\".(3)"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_24051953_doctor-mellifluus",
@@ -959,17 +1416,24 @@
       "id": "hf_p-xii_enc_15121952_orientales",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_15121952_orientales",
         "title": "Orientales Ecclesias",
         "type": "Encyclical",
         "date": "1952-12-15",
-        "excerpt": "1. As Igrejas orientais, ilustres pela doutrina dos santos padres, regadas pelo sangue dos mártires nos tempos antigos, nos mais recentes e também nos nossos, sempre foram objeto particularíssimo das nossas solicitudes, como todos sabem. Com efeito, logo que fomos elevados, sem nenhum merecimento nosso e por arcano desígnio de Deus, à cátedra do príncipe dos apóstolos, dirigimos para vós a nossa mente e o nosso coração, assim como \"aos que estão fora da Igreja católica\",(1) e que nós ardentemente desejamos voltem o mais cedo possível ao rebanho do pai comum, como a morada dos seus antepassados.(2)",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "it": "Venerabili Fratelli, salute e Apostolica Benedizione.",
+          "la": "Orientales Ecclesias, quae Ss. Patrum praeclara doctrina fulgent, et quae antiquissima recentioreque aetate ac nostra profuso martyrium purpurantur sanguine, peculiarissimo modo Nobis cordi esse nemo est qui ignoret. Etenim, vixdum fuimus, nullis Nostris meritis, arcano Dei consilio ad Apostolorum Principis Cathedram evecti, mentem animumque Nostrum ad vos convertimus, et ad eos etiam, qui « extra catholicae Ecclesiae saepta versantur » (1), quique vehementer cupimus ut ad communis Patris ovile, quasi ad avitam domum, quam primum redire velint (2). Alia paternae benevolentiae Nostrae testimonia per Poritificatus Nostri decursum vobis praebuimus. Nostis siquidem alterum Nos e sacris Antistitibus vestris, Armenorum nempe Ciliciae Patriarcham, Romanae purpurae dignitate decorasse; ac Iuris Canonici leges, ad vos quod attinet, in unum corpus redigendas curare; quod quidem gravissimi momenti opus iam est ex parte ad effectum deductum. Sed baud necesse est haec fusius commemorare vobis, quibus procul dubio res est apprime cognita; ac ceteroquin hac Nostra agendi ratione Decessorum Nostrorum vestigiis institimus (3), qui inde a christianae aetatis exordio non modo singulari caritate maiores vestros prosecuti sunt, sed etiam, quotiescumque eos viderunt vel haereticorum insidiis perturbatos, vel hostium insectationibus vexatos ac territos, eis pro facultate suppetias venire sollemne habuere. Itaque, Apostolica interposita auctoritate, quae a Divino Redemptore fuit Apostolorum Principi eiusque Successoribus demandata, in Conciliis Nicaeno I et II, Constantinopolitano I, II et III, Ephesino ac Chalcedonensi, catholicae doctrinae integritatem iidem tutati sunt; et cum lamentabile discidium Orientales Ecciesias magna ex parte a Romano Pontifice seiunxit, non tantum illud in Concilio Constantinopolitano IV per suos Legatos reprobarunt, sed effecerunt etiam pro viribus ut res feliciter in commune bonum componeretur; quod quidem, post tot laudabiles difficilesque nisus, in Fiorentino Concilio actum ratumque fuit, etsi contra bonorum omnium vota, postea non fuit ad rem deductum. Cum vero orientales regiones a novis irruentibus populis invaderentur, ac sacra etiam Palaestinae loca, quae divino Iesu Christi sanguine consecrata fuere, pervastarentur, tum etiam Romani Pontifices, christianos ad tantum defensionis religionisque opus excitarunt Principes. Neque hoc Decessorum Nostrorum erga vestrates sollicitudinis benevolentiaeque studium recentiore aetate remisit, vel defuit; quin immo videtur potius in dies impensius exarsisse. Ad vos, ut probe nostis, non pauci missi sunt, qui catholicam illustrarent doctrinam, suaderentque omnibus ut ad optatissimam unitatem fidei ac regiminis redire veilent; heic vero, apud Beati Petri. Sedem, Sacrum Consilium constitutum fuit, seu ut aiunt Sacra Congregatio, cuius esset Orientalium Ecclesiarum negotiis, rationibus, ritibus prospicere ac consulere; itemque Orientalium studiorum Institutum, quod, data opera diligenter, rectam vestrarum rerum cognitionem foveret ac proveheret.",
+          "pt": "1. As Igrejas orientais, ilustres pela doutrina dos santos padres, regadas pelo sangue dos mártires nos tempos antigos, nos mais recentes e também nos nossos, sempre foram objeto particularíssimo das nossas solicitudes, como todos sabem. Com efeito, logo que fomos elevados, sem nenhum merecimento nosso e por arcano desígnio de Deus, à cátedra do príncipe dos apóstolos, dirigimos para vós a nossa mente e o nosso coração, assim como \"aos que estão fora da Igreja católica\",(1) e que nós ardentemente desejamos voltem o mais cedo possível ao rebanho do pai comum, como a morada dos seus antepassados.(2)"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_15121952_orientales",
@@ -980,17 +1444,25 @@
       "id": "hf_p-xii_enc_15091951_ingruentium-malorum",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_15091951_ingruentium-malorum",
         "title": "Ingruentium Malorum",
         "type": "Encyclical",
         "date": "1951-09-15",
-        "excerpt": "Venerable Brethren,Greetings and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greetings and Apostolic Benediction.",
+          "it": "Fin da quando siamo stati elevati alla suprema cattedra di Pietro, per disegno della divina Provvidenza, alla vista dei mali che avanzavano, non abbiamo mai cessato di affidare al validissimo patrocinio della Madre di Dio le sorti dell'umana famiglia, e a questo scopo, come ben sapete, più volte, abbiamo scritto lettere di esortazione. Vi è noto, venerabili fratelli, con quanto zelo e con quanta spontaneità e unanimità di consensi il popolo cristiano abbia risposto dappertutto ai Nostri inviti. Lo hanno magnificamente attestato ripetute volte grandiosi spettacoli di devozione e di amore verso l'augusta Regina del Cielo, e sopra tutto quella manifestazione di universale letizia che i Nostri occhi medesimi poterono in qualche maniera contemplare, quando lo scorso anno dalla Piazza S. Pietro, circondati da una moltitudine immensa di fedeli, abbiamo solennemente proclamato l'assunzione in corpo e anima di Maria vergine in Cielo.",
+          "pt": "1. Nunca, desde que, por desígnio da divina Providência, fomos elevados à suprema cátedra de Pedro, à vista das ameaças do mal, deixamos de contar ao seguro patrocínio da Mãe de Deus a sorte da família humana, tendo publicado, como bem sabeis, por mais de uma vez, cartas de exortação a este propósito. É patente, veneráveis irmãos, com quanto empenho, entusiasmo e união de almas, o povo cristão tenha correspondido às nossas exortações por toda a parte. Assim o têm esplendidamente mostrado, repetidas vezes, os grandiosos espetáculos de fé e de amor para com a augusta Rainha do Céu, principalmente aquela manifestação de alegria universal que nos foi dado, por assim dizer, contemplar com os nossos olhos, quando, no ano passado, circundados de inúmera multidão, proclamamos solenemente, da Praça de São Pedro, a assunção da virgem Maria em corpo e alma ao Céu.",
+          "es": "Ante los males inminentes, ya desde que por designio de la Divina Providencia fuimos elevados a la suprema Cátedra de Pedro, nunca dejamos de confiar al valiosísimo patrocinio de la Madre de Dios los destinos de la familia humana, dando a menudo para tal fin, como bien sabéis, Cartas de exhortación. Bien conocéis, Venerables Hermanos, el gran celo y la gran espontaneidad y concordia con que el pueblo cristiano ha respondido doquier a Nuestras exhortaciones: repetidas veces lo han atestiguado grandiosos espectáculos de fe y de amor hacia la augusta Reina del Cielo y, sobre todo, aquella universal manifestación de alegría que Nuestros propios ojos pudieron en cierto modo contemplar cuando, en el año pasado, rodeados por corona inmensa de la multitud de fieles, en la plaza de San Pedro proclamamos solemnemente la Asunción de la Virgen María, en cuerpo y alma, al Cielo."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_15091951_ingruentium-malorum",
@@ -1001,17 +1473,25 @@
       "id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
       "pope": {
         "id": "pius-xii",
-        "name": "Pius XII",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
         "handle": "piusxii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxii"
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
       },
       "document": {
+        "id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
         "title": "Sempiternus Rex Christus",
         "type": "Encyclical",
         "date": "1951-09-08",
-        "excerpt": "1. Christ, the Eternal King, before he promised the headship of the Church to Peter, the son of John, called together his disciples, and asking them what they and other men believed about himself, praised the faith which would conquer all the storms and attacks of the evil powers, and which Peter, enlightened by the Eternal Father, had declared in these words: 'Thou art Christ, the Son of the Living God' (Matt. XVI, 16). It is this faith which is 'the strength of God for the salvation of every believer' (Rom. I, 16), and which brings forth the apostle's crown, the martyr's palm and the virgin's lily. This faith has been defended and lucidly clarified especially by three oecumenical councils, those of Nicea, Ephesus and Chalcedon. It is now fifteen hundred years since the last of these was concluded. It is fitting, therefore, that both at Rome and in the whole Catholic world, this most happy event should be celebrated with due solemnity; and so giving thanks to God the inspirer of all holy counsels, with deeply moved hearts, we institute those solemnities.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. Christ, the Eternal King, before he promised the headship of the Church to Peter, the son of John, called together his disciples, and asking them what they and other men believed about himself, praised the faith which would conquer all the storms and attacks of the evil powers, and which Peter, enlightened by the Eternal Father, had declared in these words: 'Thou art Christ, the Son of the Living God' (Matt. XVI, 16). It is this faith which is 'the strength of God for the salvation of every believer' (Rom. I, 16), and which brings forth the apostle's crown, the martyr's palm and the virgin's lily. This faith has been defended and lucidly clarified especially by three oecumenical councils, those of Nicea, Ephesus and Chalcedon. It is now fifteen hundred years since the last of these was concluded. It is fitting, therefore, that both at Rome and in the whole Catholic world, this most happy event should be celebrated with due solemnity; and so giving thanks to God the inspirer of all holy counsels, with deeply moved hearts, we institute those solemnities.",
+          "it": "L'eterno re Cristo, prima di promettere a Pietro, figlio di Giovanni, il governo della chiesa, avendo domandato ai discepoli che cosa pensassero di lui gli uomini e gli stessi apostoli, lodò con singolare encomio quella fede che doveva vincere gli assalti e le tempeste infernali, e che Pietro, illuminato dalla luce del Padre celeste, aveva espresso con queste parole: «Tu sei il Cristo Figlio del Dio vivente» (Mt16,16). Questa fede, che produce i serti degli apostoli, le palme dei martiri, i gigli delle vergini, e che è virtù di Dio per la salvezza d'ogni credente (cf.Rm1,16), è stata efficacemente difesa e splendidamente illustrata in modo particolare da tre concili ecumenici, quello di Nicea, quello di Efeso e quello di Calcedonia, di cui ricorre alla fine di quest'anno il XV centenario. È conveniente che questo lietissimo avvenimento sia celebrato così a Roma come in tutto il mondo cattolico con quelle solennità che, con soave commozione dell'animo, ordiniamo, dopo aver reso grazie a Dio, ispiratore d'ogni consiglio salutare.",
+          "pt": "1. Cristo,Rei sempiterno, antes de prometer a Pedro, filho de João, o governo da Igreja, perguntou aos discípulos que opinião tinham de sua pessoa os homens e os próprios apóstolos. A seguir, em palavras de singular louvor, exaltou a fé com que Pedro, por inspiração do Pai celeste, proclamara: \"Tu és Cristo, Filho de Deus vivo\" (Mt16, 16) – fé que haveria de vencer todas as perseguições e todas as tempestades do inferno. Essa fé, que prepara as coroas dos apóstolos, as palmas dos mártires e os lírios das virgens, e que é virtude de Deus para salvação de todos os que crêem (cf.Rm1, 16), foi vigorosamente defendida e esplendidamente exposta, principalmente em três concílios ecumênicos: o de Nicéia, o de Éfeso e o de Calcedônia. Da celebração deste último cumprem-se este ano 15 séculos. Convém, pois, que em Roma e em todo o orbe católico se comemore solenemente este 15° centenário, como – ao elevarmos a Deus, inspirador de salutares conselhos, as devidas ações de graças – ordenamos que se faça.",
+          "es": "Cristo, Rey Eterno, antes de prometer a Pedro, hijo de Juan, el gobierno de la Iglesia, habiendo preguntado a los discípulos que pensaban de El los hombres y los mismos Apóstoles, alabó con singular encomio aquella fe, que había de vencer los asaltos y las tempestades infernales, y que Pedro, iluminado de la luz del Padre Celestial, había expresado con estas palabras: «Tú eres el Cristo, Hijo del Dios vivo»[1]. Esta fe, que produce las coronas de los Apóstoles, las palmas de los mártires y los lirios de las Vírgenes, y que es virtud de Dios para la salvación de todo creyente[2], ha sido eficazmente defendida y espléndidamente ilustrada de un modo particular por tres Concilios Ecuménicos, el de Nicea, el de Éfeso y el de Calcedonia, cuyo 15º Centenario se celebra al final de este año."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
@@ -1022,41 +1502,25 @@
       "id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
         "title": "Ingravescentibus Malis",
         "type": "Encyclical",
         "date": "1937-09-29",
-        "excerpt": "1. More than once have We asserted - and We recently repeated this in the Encyclical LetterDivini Redemptoris(Acta Ap. Sedis, 1937, Vol. XXIX, p. 65) - that there is no remedy for the ever-growing evils of our times except a return to Our Lord Jesus Christ and to His most holy precepts. Truly, only He \"hath the words of eternal life\" (Cf.John, vi, 69), and individuals and society can only fall into immediate and miserable ruin if they ignore the majesty of God and repudiate His Law.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. More than once have We asserted - and We recently repeated this in the Encyclical LetterDivini Redemptoris(Acta Ap. Sedis, 1937, Vol. XXIX, p. 65) - that there is no remedy for the ever-growing evils of our times except a return to Our Lord Jesus Christ and to His most holy precepts. Truly, only He \"hath the words of eternal life\" (Cf.John, vi, 69), and individuals and society can only fall into immediate and miserable ruin if they ignore the majesty of God and repudiate His Law."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
-      },
-      "document": {
-        "title": "Firmissimam Constantiam",
-        "type": "Encyclical",
-        "date": "1937-03-28",
-        "excerpt": "Venerable Brethren, Health and Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
         "original_type": "encyclicals"
       }
     }

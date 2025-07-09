@@ -3,7 +3,7 @@
     "page": 1,
     "per_page": 50,
     "total_pages": 37,
-    "total_posts": 1827,
+    "total_posts": 1828,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
@@ -11,20 +11,54 @@
   },
   "posts": [
     {
+      "id": "20250709-omelia-custodia-creazione",
+      "pope": {
+        "id": "leo-xiv",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
+        "handle": "leoxiv",
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
+      },
+      "document": {
+        "id": "20250709-omelia-custodia-creazione",
+        "title": "Holy Mass for the Care of Creation",
+        "type": "Homilies",
+        "date": "2025-07-09",
+        "excerpt": {
+          "it": "Borgo Laudato si' (Castel Gandolfo)Mercoledì, 9 luglio 2025",
+          "pt": "Burgo Laudato si' (Castel Gandolfo)Quarta-feira, 9 de julho de 2025"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20250709-omelia-custodia-creazione",
+        "original_type": "homilies"
+      }
+    },
+    {
       "id": "20250705-insegnanti-giovani",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250705-insegnanti-giovani",
         "title": "To Teachers of Catholic Schools in Ireland, England, Wales, and Scotland; and to the Young People of the Diocese of Copenhagen",
         "type": "Speeches",
         "date": "2025-07-05",
-        "excerpt": "Clementine HallSaturday, 5 July 2025",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallSaturday, 5 July 2025",
+          "it": "Sala ClementinaSabato, 5 luglio 2025",
+          "pt": "Sala ClementinaSábado, 5 de julho de 2025"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250705-insegnanti-giovani",
@@ -35,17 +69,26 @@
       "id": "20250705-agostiniane",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250705-agostiniane",
         "title": "To the Augustinian Sisters, Servants of Jesus and Mary",
         "type": "Speeches",
         "date": "2025-07-05",
-        "excerpt": "In the name of the Father, of the Son, and of the Holy Spirit,",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "In the name of the Father, of the Son, and of the Holy Spirit,",
+          "fr": "Au nom du Père, et du Fils, et du Saint-Esprit.",
+          "it": "Sala del ConcistoroSabato, 5 luglio 2025",
+          "pt": "Sábado, 5 de julho de 2025",
+          "es": "En el nombre del Padre, del Hijo y del Espíritu Santo."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250705-agostiniane",
@@ -56,17 +99,23 @@
       "id": "20250705-messaggio-losservatore-strada",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250705-messaggio-losservatore-strada",
         "title": "Message of the Holy Father on the third anniversary of the monthly magazine “L'Osservatore di Strada”",
         "type": "Messages",
         "date": "2025-07-05",
-        "excerpt": "Cari amici dell'Osservatore di Strada che oggi fate festa per i tre anni dalla nascita del mensile la cui prima uscita avvenne il 29 giugno 2022, auguri!",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "fr": "Chers amis de «L’Osservatore di Strada», qui célébrez aujourd’hui les trois ans de la naissance du mensuel dont le premier numéro est paru le 29 juin 2022, je vous présente mes meilleurs vœux!",
+          "it": "Cari amici dell'Osservatore di Strada che oggi fate festa per i tre anni dalla nascita del mensile la cui prima uscita avvenne il 29 giugno 2022, auguri!"
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250705-messaggio-losservatore-strada",
@@ -77,17 +126,26 @@
       "id": "20250702-chiesa-grecocatt-ucraina",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250702-chiesa-grecocatt-ucraina",
         "title": "To Members of the Synod of the Ukrainian Greek-Catholic Church",
         "type": "Speeches",
         "date": "2025-07-02",
-        "excerpt": "Consistory HallWednesday, 2 July 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Consistory HallWednesday, 2 July 2025",
+          "fr": "Salle du ConsistoireMercredi 2 juillet 2025",
+          "it": "Sala del ConcistoroMercoledì, 2 luglio 2025",
+          "pt": "Sala do ConsistórioQuarta-feira, 2 de julho de 2025",
+          "uk": "ПРИВІТАННЯСВЯТІШОГООТЦЯдо членів СинодуУкраїнської Греко-Католицької Церкви"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250702-chiesa-grecocatt-ucraina",
@@ -98,17 +156,30 @@
       "id": "20250630-messaggio-giornata-curacreato",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250630-messaggio-giornata-curacreato",
         "title": "Message of the Holy Father on the occasion of the World Day of Prayer for the Care of Creation [1 September 2025]",
         "type": "Messages",
         "date": "2025-06-30",
-        "excerpt": "MESSAGE OF HIS HOLINESSPOPE LEO XIVFOR THE 10thWORLD DAY OF PRAYERFOR THE CARE OF CREATION 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "رسالة قداسة البابا لاوُن الرّابع عشر",
+          "hr": "za X. Svjetski dan molitve za skrb o stvorenome svijetu",
+          "en": "MESSAGE OF HIS HOLINESSPOPE LEO XIVFOR THE 10thWORLD DAY OF PRAYERFOR THE CARE OF CREATION 2025",
+          "fr": "MESSAGE DE SA SAINTETÉLE PAPE LÉON XIVPOUR LA 10ème JOURNÉE MONDIALE DE PRIÈREPOUR LA SAUVEGARDE DE LA CRÉATION 2025",
+          "de": "Samen des Friedens und der Hoffnung",
+          "it": "Semi di Pace e di Speranza",
+          "pl": "Tematem tegorocznego Światowego Dnia Modlitw o Ochronę Świata Stworzonego, wybranym przez naszego umiłowanego Papieża Franciszka, są „Ziarna pokoju i nadziei”. W dziesiątą rocznicę ustanowienia tego Dnia, które zbiegło się z publikacją encyklikiLaudato si’,znajdujemy się w centrum Jubileuszu, jako „pielgrzymi Nadziei”. Właśnie w tym kontekście temat ten nabiera swego pełnego znaczenia.",
+          "pt": "[1º de setembro de 2025]",
+          "es": "[1 de septiembre de 2025]"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250630-messaggio-giornata-curacreato",
@@ -119,17 +190,26 @@
       "id": "20250630-capitoli-generali-suore",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250630-capitoli-generali-suore",
         "title": "To Participants in the General Chapters of the Daughters of Divine Charity, of the Sisters of the Order of Saint Basil the Great, of the Augustinian Sisters of Amparo and of the Franciscan Sisters of the Sacred Heart",
         "type": "Speeches",
         "date": "2025-06-30",
-        "excerpt": "Clementine HallMonday, 30 June 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallMonday, 30 June 2025",
+          "fr": "Salle ClémentineLundi 30 juin 2025",
+          "de": "Sala ClementinaMontag, 30. Juni 2025",
+          "it": "Sala ClementinaLunedì, 30 giugno 2025",
+          "es": "Sala ClementinaLunes, 30 de junio de 2025"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250630-capitoli-generali-suore",
@@ -140,17 +220,26 @@
       "id": "20250630-messaggio-fao",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250630-messaggio-fao",
         "title": "Message of the Holy Father to Participants in the 44thSession of the FAO Conference",
         "type": "Messages",
         "date": "2025-06-30",
-        "excerpt": "MESSAGE OF POPE LEO XIVTO PARTICIPANTS IN THE 44thSESSIONOF THE FAO CONFERENCE",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "MESSAGE OF POPE LEO XIVTO PARTICIPANTS IN THE 44thSESSIONOF THE FAO CONFERENCE",
+          "fr": "MESSAGE DU PAPE LÉON XIVAUX PARTICIPANTS À LA 44e SESSION DE LA CONFÉRENCE DE LA FAO",
+          "it": "[Roma, 28 giugno - 4 luglio 2025]",
+          "pt": "Senhor PresidenteSenhor Diretor-Geral da FAOExcelênciasIlustres senhoras e senhores!",
+          "es": "Señor Presidente,Señor Director General de la FAO,Excelencias,Ilustres señoras y señores:"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250630-messaggio-fao",
@@ -161,17 +250,30 @@
       "id": "20250629-omelia-pallio",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250629-omelia-pallio",
         "title": "Holy Mass and Blessing of the Sacred Pallium for the new Metropolitan Archbishops on the Solemnity of Saints Peter and Paul",
         "type": "Homilies",
         "date": "2025-06-29",
-        "excerpt": "Saint Peter's BasilicaSunday, 29 June 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرّابع عشر",
+          "hr": "slavimo danas dvojicu braće u vjeri, Petra i Pavla, koje prepoznajemo kao stupove Crkve i častimo kao zaštitnike Rimske biskupije i grada Rima.",
+          "en": "Saint Peter's BasilicaSunday, 29 June 2025",
+          "fr": "Basilique Saint-PierreDimanche 29 juin 2025",
+          "de": "heute feiern wir zwei Brüder im Glauben, Petrus und Paulus, die wir als Säulen der Kirche anerkennen und als Schutzpatrone der Diözese und der Stadt Rom verehren.",
+          "it": "Basilica di San PietroDomenica, 29 giugno 2025",
+          "pl": "Bazylika Świętego PiotraNiedziela, 29 czerwca 2025 r.",
+          "pt": "Basílica de São PedroSábado, 29 de junho de 2025",
+          "es": "Basílica de San PedroDomingo, 29 de junio de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250629-omelia-pallio",
@@ -182,17 +284,27 @@
       "id": "20250628-patriarcato-ecumenico",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250628-patriarcato-ecumenico",
         "title": "Address of His Holiness Pope Leo XIV to the Delegation of the Ecumenical Patriarchate on the occasion of the Solemnity of Saints Peter and Paul",
         "type": "Speeches",
         "date": "2025-06-28",
-        "excerpt": "Your Eminences,Dear Brothers in Christ,",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Your Eminences,Dear Brothers in Christ,",
+          "fr": "Eminence,Chers frères dans le Christ!",
+          "de": "Es ist mir eine besondere Freude, Sie zum ersten Mal nach meiner Wahl zum Bischof von Rom und zum Nachfolger des Apostels Petrus willkommen zu heißen, die Sie als Delegation die Schwesterkirche von Konstantinopel vertreten, während wir das Fest der heiligen Petrus und Paulus begehen, der Patrone der Kirche von Rom. Der traditionelle Austausch von Delegationen zwischen den beiden Kirchen aus Anlass der jeweiligen Feste ihrer Schutzheiligen ist ein Zeichen der bereits zwischen uns bestehenden tiefen Gemeinschaft und ein Widerschein jenes brüderlichen Bandes, das die Apostel Petrus und Andreas vereinte.",
+          "it": "Sono particolarmente lieto di dare il benvenuto,per la prima volta dopo la mia elezione quale Vescovo di Roma e successore dell’Apostolo Pietro,alla vostra Delegazione che rappresenta la Chiesa sorella di Costantinopoli mentre celebriamo la festa dei Santi Pietro e Paolo, Patroni della Chiesa di Roma. Questo tradizionale scambio di delegazioni tra le due Chiese in occasione delle rispettive feste dei Santi Patroni è segno della profonda comunione già esistente tra noi e riflesso del vincolo di fraternità che unisce gli Apostoli Pietro e Andrea.",
+          "pt": "Sábado, 28 de junho de 2025",
+          "es": "Sábado, 28 de junio de 2025"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "20250628-patriarcato-ecumenico",
@@ -203,17 +315,26 @@
       "id": "20250628-chiesa-greco-cattolica-ucraina",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250628-chiesa-greco-cattolica-ucraina",
         "title": "To Pilgrims of the Ukrainian Greek-Catholic Church",
         "type": "Speeches",
         "date": "2025-06-28",
-        "excerpt": "St. Peter's BasilicaSaturday, 28 June 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "St. Peter's BasilicaSaturday, 28 June 2025",
+          "fr": "Au nom du Père, du Fils et du Saint Esprit.La paix soit avec vous.",
+          "it": "Basilica VaticanaSabato, 28 giugno 2025",
+          "pt": "Basílica de São PedroSábado, 28 de junho de 2025",
+          "uk": "ПРОМОВА СВЯТІШОГО ОТЦЯдо паломників Української Греко-Католицької Церкви"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250628-chiesa-greco-cattolica-ucraina",
@@ -224,17 +345,23 @@
       "id": "20250628-congregazione-vallombrosana",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250628-congregazione-vallombrosana",
         "title": "Audience with participants in the General Chapter of Vallombrosians",
         "type": "Speeches",
         "date": "2025-06-28",
-        "excerpt": "In the name of the Father, and the Son, and the Holy Spirit.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "In the name of the Father, and the Son, and the Holy Spirit.",
+          "it": "Nel nome del Padre e del Figlio e dello Spirito Santo."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250628-congregazione-vallombrosana",
@@ -245,17 +372,29 @@
       "id": "20250627-messaggio-santificazione-sacerdotale",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250627-messaggio-santificazione-sacerdotale",
         "title": "Message of the Holy Father to Priests on the Occasion of the World Day of Prayer for the Sanctification of Priests",
         "type": "Messages",
         "date": "2025-06-27",
-        "excerpt": "[27 June 2025 - Solemnity of the Most Sacred Heart of Jesus]",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "رسالة قداسة البابا لاوُن الرّابع عشر",
+          "en": "[27 June 2025 - Solemnity of the Most Sacred Heart of Jesus]",
+          "fr": "[27 juin 2025 - Solennité du Sacré-Cœur de Jésus]",
+          "de": "[27. Juni 2025 - Hochfest des Heiligsten Herzens Jesu]",
+          "it": "[27 giugno 2025 - Solennità del Sacratissimo Cuore di Gesù]",
+          "pl": "[Piątek, 27 czerwca 2025 r.]",
+          "pt": "[27 de junho de 2025 - Solenidade do Sagrado Coração de Jesus]",
+          "es": "[27 junio 2025 - Solemnidad del Sagrado Corazón de Jesús]"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250627-messaggio-santificazione-sacerdotale",
@@ -266,17 +405,29 @@
       "id": "20250627-omelia-giubileo-sacerdoti",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250627-omelia-giubileo-sacerdoti",
         "title": "Most Sacred Heart of Jesus - Holy Mass and priestly Ordinations",
         "type": "Homilies",
         "date": "2025-06-27",
-        "excerpt": "Saint Peter’s Basilica, Altar of the ConfessionFriday, 27 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرّابع عشر",
+          "en": "Saint Peter’s Basilica, Altar of the ConfessionFriday, 27 June 2025",
+          "fr": "Basilique Saint-Pierre, autel de la ConfessionVendredi 27 juin 2025",
+          "de": "Petersdom, Confessio-AltarFreitag, 27. Juni 2025",
+          "it": "Basilica Vaticana, Altare della ConfessioneVenerdì, 27 giugno 2025",
+          "pl": "Bazylika Świętego PiotraPiątek, 27 czerwca 2025 r.",
+          "pt": "Basilica Vaticana, Altar da ConfissãoSexta-feira, 27 de junho de 2025",
+          "es": "Basílica Vaticana, Altar de la ConfesiónViernes, 27 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250627-omelia-giubileo-sacerdoti",
@@ -287,17 +438,28 @@
       "id": "20250626-roaco",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250626-roaco",
         "title": "To Participants in the Plenary Session of the “Reunion of Aid Agencies for the Oriental Churches” (ROACO)",
         "type": "Speeches",
         "date": "2025-06-26",
-        "excerpt": "Clementine HallThursday, 26 June 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Clementine HallThursday, 26 June 2025",
+          "fr": "Salle ClémentineJeudi 26 juin 2025",
+          "de": "Sala ClementinaDonnerstag, 26. Juni 2025",
+          "it": "Sala ClementinaGiovedì, 26 giugno 2025",
+          "pt": "Sala ClementinaQuinta-feira, 26 de junho de 2025",
+          "es": "Sala ClementinaJueves, 26 de junio de 2025"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250626-roaco",
@@ -308,17 +470,28 @@
       "id": "20250626-incontro-dicastero-clero",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250626-incontro-dicastero-clero",
         "title": "To Participants in the Meeting of Priests promoted by the Dicastery for the Clergy",
         "type": "Speeches",
         "date": "2025-06-26",
-        "excerpt": "Auditorium of Via della Conciliazione, RomeThursday, 26 June 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Auditorium of Via della Conciliazione, RomeThursday, 26 June 2025",
+          "fr": "DISCOURS DU PAPE LÉON XIVAUX PARTICIPANTS À LA RENCONTRE INTERNATIONALE« PRÊTRES HEUREUX - JE VOUS AI APPELÉS AMIS » (Jn 15, 15)ORGANISÉE PAR LE DICASTÈRE POUR LE CLERGÉ",
+          "de": "Auditorium in der Via della Conciliazione, RomDonnerstag, 26 Juni 2025",
+          "it": "DISCORSO DEL SANTO PADRE LEONE XIVAI PARTECIPANTI ALL'INCONTRO INTERNAZIONALESACERDOTI FELICI «VI HO CHIAMATO AMICI» (Gv 15,15)PROMOSSO DAL DICASTERO PER IL CLERO",
+          "pt": "DISCURSO DO SANTO PADREAOS PARTICIPANTES NO ENCONTRO INTERNACIONALSACERDOTES FELIZES - «CHAMEI-VOS AMIGOS» (Jo 15, 15)PROMOVIDO PELO DICASTÉRIO PARA O CLERO",
+          "es": "DISCURSO DEL SANTO PADRE LEÓN XIVA LOS PARTICIPANTES EN EL ENCUENTRO INTERNACIONALSACERDOTES FELICES - « YO LOS LLAMO AMIGOS» (Jn 15,15)PROMOVIDO POR EL DICASTERIO PARA EL CLERO"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250626-incontro-dicastero-clero",
@@ -329,17 +502,26 @@
       "id": "20250626-redentoristi-scalabriniani",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250626-redentoristi-scalabriniani",
         "title": "To Redemptorist and Scalabrinian Bishops",
         "type": "Speeches",
         "date": "2025-06-26",
-        "excerpt": "Consistory HallThursday, 26 June 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Consistory HallThursday, 26 June 2025",
+          "fr": "Salle du ConsistoireJeudi 26 juin 2025",
+          "it": "Sala del ConcistoroGiovedì, 26 giugno 2025",
+          "pt": "Sala do ConsistórioQuinta-feira, 26 de junho de 2025",
+          "es": "Sala del ConsistorioJueves, 26 de junio de 2025"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250626-redentoristi-scalabriniani",
@@ -350,17 +532,23 @@
       "id": "20250626-consiglio-sinodo",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250626-consiglio-sinodo",
         "title": "Meeting with the Members of the Ordinary Council of the General Secretariat of the Synod",
         "type": "Speeches",
         "date": "2025-06-26",
-        "excerpt": "Via della Conciliazione, 34Giovedì, 26 giugno 2025",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "de": "Via della Conciliazione, 34Donnerstag, 26. Juni 2025",
+          "it": "Via della Conciliazione, 34Giovedì, 26 giugno 2025"
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250626-consiglio-sinodo",
@@ -371,17 +559,24 @@
       "id": "20250626-giornata-lotta-droga",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250626-giornata-lotta-droga",
         "title": "To Participants in the International Day against Drug Abuse and Illicit Trafficking",
         "type": "Speeches",
         "date": "2025-06-26",
-        "excerpt": "San Damaso courtyardThursday, 26 June 2025",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "San Damaso courtyardThursday, 26 June 2025",
+          "it": "Cortile San DamasoGiovedì, 26 giugno 2025",
+          "pt": "Pátio de São DâmasoQuinta-feira, 26 de junho de 2025"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250626-giornata-lotta-droga",
@@ -392,17 +587,24 @@
       "id": "20250625-seminaristi-triveneto",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250625-seminaristi-triveneto",
         "title": "To the Seminarians of the Dioceses of Triveneto",
         "type": "Speeches",
         "date": "2025-06-25",
-        "excerpt": "Largo Giovanni Paolo IIWednesday, 25 June 2025",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Largo Giovanni Paolo IIWednesday, 25 June 2025",
+          "de": "Largo Giovanni Paolo IIMittwoch, 25. Juni 2025",
+          "it": "Largo Giovanni Paolo IIMercoledì, 25 giugno 2025"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250625-seminaristi-triveneto",
@@ -413,17 +615,30 @@
       "id": "20250625-giubileo-vescovi",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250625-giubileo-vescovi",
         "title": "Meditation of the Holy Father on the occasion of the Jubilee of Bishops",
         "type": "Speeches",
         "date": "2025-06-25",
-        "excerpt": "Altar of the Cathedra in Saint Peter's BasilicaWednesday, 25 June 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Altar of the Cathedra in Saint Peter's BasilicaWednesday, 25 June 2025",
+          "fr": "Basilique Saint-Pierre, autel de la ChaireMercredi 25 juin 2025",
+          "de": "Petersdom, Kathedra-AltarMittwoch, 25. Juni 2025",
+          "it": "Basilica di San Pietro, Altare della CattedraMercoledì, 25 giugno 2025",
+          "pl": "Bazylika Świętego Piotra, Ołtarz KatedryŚroda, 25 czerwca 2025 r.",
+          "pt": "Basílica de São Pedro, Altar da CátedraTerça-feira, 25 de junho de 2025",
+          "es": "Basílica de San Pedro, Altar de la CátedraMiércoles, 25 de junio de 2025",
+          "vi": "Bàn thờ Ngai Tòa – Đền thờ Thánh PhêrôThứ Tư, ngày 25 tháng 6 năm 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250625-giubileo-vescovi",
@@ -434,17 +649,28 @@
       "id": "20250624-giubileo-seminaristi",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250624-giubileo-seminaristi",
         "title": "Meditation of the Holy Father on the occasion of the Jubilee of Seminarians",
         "type": "Speeches",
         "date": "2025-06-24",
-        "excerpt": "Altar of the Confessio in Saint Peter's BasilicaTuesday, 24 June 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Altar of the Confessio in Saint Peter's BasilicaTuesday, 24 June 2025",
+          "fr": "Basilique Saint-Pierre, Autel de la ConfessionMardi 24 juin 2025",
+          "de": "Petersdom - Confessio-AltarDienstag, 24. Juni 2025",
+          "it": "Basilica di San Pietro, Altare della ConfessioneMartedì, 24 giugno 2025",
+          "pl": "Bazylika Świętego Piotra, Ołtarz KonfesjiWtorek, 24 czerwca 2025 r.",
+          "pt": "Basílica de São Pedro, Altar da ConfissãoTerça-feira, 24 de junho de 2025",
+          "es": "Basílica de San Pedro, Altar de la Cátedra,Martes, 24 de junio de 2025"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250624-giubileo-seminaristi",
@@ -455,17 +681,23 @@
       "id": "20250624-messaggio-ordine-malta",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250624-messaggio-ordine-malta",
         "title": "Message of the Holy Father to members of the Sovereign Military Order of Malta, on the occasion of the celebration of the Solemnity of Saint John the Baptist",
         "type": "Messages",
         "date": "2025-06-24",
-        "excerpt": "I am particularly glad to address this message of mine to you on the occasion of the celebration of the solemnity of Saint John the Baptist, Patron of your religious Order, which bears his name.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "I am particularly glad to address this message of mine to you on the occasion of the celebration of the solemnity of Saint John the Baptist, Patron of your religious Order, which bears his name.",
+          "it": "Sono particolarmente lieto d’indirizzarvi questo mio messaggio in occasione della celebrazione della solennità di San Giovanni Battista, Protettore del vostro Ordine religioso, che ne porta il nome."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250624-messaggio-ordine-malta",
@@ -476,17 +708,29 @@
       "id": "20250622-omelia-corpus-domini",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250622-omelia-corpus-domini",
         "title": "Most Holy Body and Blood of Christ - Holy Mass, Procession and Eucharistic Blessing",
         "type": "Homilies",
         "date": "2025-06-22",
-        "excerpt": "Saint John Lateran SquareSunday, 22 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرّابع عشر",
+          "en": "Saint John Lateran SquareSunday, 22 June 2025",
+          "fr": "Place Saint-Jean-de-LatranDimanche 22 juin 2025",
+          "de": "Piazza San Giovanni in LateranoSonntag, 22. Juni 2025",
+          "it": "Piazza San Giovanni in LateranoDomenica, 22 giugno 2025",
+          "pl": "Plac Świętego Jana na LateranieNiedziela, 22 czerwca 2025 r.",
+          "pt": "Praça de São João de LatrãoDomingo, 22 de junho de 2025",
+          "es": "Plaza de San Juan de LetránDomingo, 22 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250622-omelia-corpus-domini",
@@ -497,17 +741,27 @@
       "id": "20250621-giubileo-governanti",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250621-giubileo-governanti",
         "title": "To Participants in the Jubilee of Governments",
         "type": "Speeches",
         "date": "2025-06-21",
-        "excerpt": "Hall of BenedictionSaturday, 21 June 2025",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Hall of BenedictionSaturday, 21 June 2025",
+          "fr": "Salle des bénédictionsSamedi 21 juin 2025",
+          "de": "Frau Präsidentin des Ministerrats und Herr Präsident der Abgeordnetenkammer der Republik Italien, Frau Präsidentin und Herr  Generalsekretär der Interparlamentarischen Union, sehr geehrte Vertreter Akademischer Institutionen und führende Vertreter der Religionen!",
+          "it": "Aula della BenedizioneSabato, 21 giugno 2025",
+          "pt": "Salão da BênçãoSábado, 21 de junho de 2025",
+          "es": "Aula de las BendicionesSábado, 21 de junio de 2025"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "20250621-giubileo-governanti",
@@ -518,17 +772,24 @@
       "id": "20250620-sacerdoti",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250620-sacerdoti",
         "title": "To Priests of the Pontifical Ecclesiastical Academy returning after a missionary year",
         "type": "Speeches",
         "date": "2025-06-20",
-        "excerpt": "Apostolic PalaceFriday, 20 June 2025",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Apostolic PalaceFriday, 20 June 2025",
+          "it": "Palazzo ApostolicoVenerdì, 20 giugno 2025",
+          "pt": "Palácio ApostólicoSexta-feira, 20 de junho de 2025"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "20250620-sacerdoti",
@@ -539,17 +800,26 @@
       "id": "20250620-capitoli-generali",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250620-capitoli-generali",
         "title": "To the Participants in the General Chapters of the Conventual Franciscans and of the Order of the Most Holy Trinity and of the Captives (Trinitarians)",
         "type": "Speeches",
         "date": "2025-06-20",
-        "excerpt": "Clementine HallFriday, 20 June 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallFriday, 20 June 2025",
+          "fr": "Salle ClémentineVendredi 20 juin 2025",
+          "it": "Sala ClementinaVenerdì, 20 giugno 2025",
+          "pt": "Sala ClementinaSexta-feira, 20 de junho de 2025",
+          "es": "Sala ClementinaViernes, 20 de junio de 2025"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250620-capitoli-generali",
@@ -560,17 +830,22 @@
       "id": "20250619-lettera-paraylemonial",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250619-lettera-paraylemonial",
         "title": "Letter of the Holy Father to the Special Envoy for the celebrations of the 350th anniversary of the apparitions of the Sacred Heart of Jesus [Sanctuary of Paray-le-Monial, 27 June 2025]",
         "type": "Letters",
         "date": "2025-06-19",
-        "excerpt": "Venerabili Fratri NostroFRANCISCO XAVERIO S.R.E.Cardinali BUSTILLO, O.F.M. Conv.Episcopo Adiacensi",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "la": "Venerabili Fratri NostroFRANCISCO XAVERIO S.R.E.Cardinali BUSTILLO, O.F.M. Conv.Episcopo Adiacensi"
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "20250619-lettera-paraylemonial",
@@ -581,17 +856,25 @@
       "id": "20250618-fondazione-bartolucci",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250618-fondazione-bartolucci",
         "title": "To participants in the event promoted by the Cardinal Domenico Bartolucci Foundation",
         "type": "Speeches",
         "date": "2025-06-18",
-        "excerpt": "Sala RegiaWednesday, 18 June 2025",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Sala RegiaWednesday, 18 June 2025",
+          "de": "Sala RegiaMittwoch, 18. Juni 2025",
+          "it": "Sala Regia del Palazzo ApostolicoMercoledì, 18 giugno 2025",
+          "es": "DISCURSO DEL SANTO PADRE LEÓN XIVA LOS PARTICIPANTES EN EL EVENTO PROMOVIDOPOR LA FUNDACIÓN CARDENAL DOMENICO BARTOLUCCICON MOTIVO DEL 500.º ANIVERSARIO DEL NACIMIENTO DE G.P. DA PALESTRINA"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "20250618-fondazione-bartolucci",
@@ -602,17 +885,24 @@
       "id": "20250617-cei",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250617-cei",
         "title": "To the Italian Episcopal Conference",
         "type": "Speeches",
         "date": "2025-06-17",
-        "excerpt": "Hall of BenedictionTuesday, 17 June 2025",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Hall of BenedictionTuesday, 17 June 2025",
+          "de": "Ich freue mich wirklich sehr, euch zu treffen. Dieser Saal, der zwischen der Basilika und dem Petersplatz liegt, ist noch erfüllt von den Empfindungen, von denen die jüngsten Ereignisse begleitet waren. Denn der Papst muss durch ihn hindurchgehen, um sich auf der Mittelloggia zu zeigen. Der geliebte Papst Franziskus hat dies getan für seine letzte OsterbotschaftUrbi et orbi, die sein ultimativer, eindringlicher Aufruf zum Frieden für alle Völker war. Und auch ich wollte am Abend des Wahltages die Verkündigung des auferstandenen Herrn wiederholen: »Friede sei mit euch!« (vgl.Lk24,36;Joh20,19).",
+          "it": "Aula della BenedizioneMartedì, 17 giugno 2025"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250617-cei",
@@ -623,17 +913,26 @@
       "id": "20250617-messaggio-ia",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250617-messaggio-ia",
         "title": "Message of the Holy Father to participants in the Second Annual Conference on Artificial Intelligence, Ethics, and Corporate Governance [Rome, 19–20 June 2025]",
         "type": "Messages",
         "date": "2025-06-17",
-        "excerpt": "[Palazzo Piacentini (in via Veneto, where the Ministry of Enterprises and Made in Italy (Mimit) has its headquarters)and in the Sala Regia of the Apostolic Palace in the Vatican, 19-20 June 2025]",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "[Palazzo Piacentini (in via Veneto, where the Ministry of Enterprises and Made in Italy (Mimit) has its headquarters)and in the Sala Regia of the Apostolic Palace in the Vatican, 19-20 June 2025]",
+          "fr": "[Palazzo Piacentini (Rome) et salle Royale du Palais apostolique au Vatican, 19-20 juin 2025]",
+          "it": "[Palazzo Piacentini (in via Veneto, sede del Mimit) e nella sala Regia del Palazzo Apostolico in Vaticano, 19-20 giugno 2025]",
+          "pt": "MENSAGEM DO PAPA LEÃO XIVAOS PARTICIPANTES NA 2ª CONFERÊNCIA ANUAL DE ROMA SOBREINTELIGÊNCIA ARTIFICIAL, ÉTICA E GOVERNANÇA CORPORATIVA",
+          "es": "[Palacio Piacentini (en via Veneto, sede del Mimit) y en la Sala Regia del Palacio Apostólico en Vaticano, 19-20 de junio de 2025]"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250617-messaggio-ia",
@@ -644,17 +943,24 @@
       "id": "20250616-specola",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250616-specola",
         "title": "To the participants of the Summer School of Astrophysics promoted by the Vatican Observatory",
         "type": "Speeches",
         "date": "2025-06-16",
-        "excerpt": "Consistory HallMonday, 16 June 2025",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Consistory HallMonday, 16 June 2025",
+          "it": "Sala del ConcistoroLunedì, 16 giugno 2025",
+          "es": "Sala del ConsistorioLunes, 16 de junio de 2025"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250616-specola",
@@ -665,17 +971,25 @@
       "id": "20250616-vescovi-madagascar",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250616-vescovi-madagascar",
         "title": "To the Bishops of Madagascar",
         "type": "Speeches",
         "date": "2025-06-16",
-        "excerpt": "Hall of PopesMonday, 16 June 2025",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Hall of PopesMonday, 16 June 2025",
+          "fr": "Salle des PapesLundi 16 juin 2025",
+          "de": "Saal der PäpsteMontag, 16. Juni 2025",
+          "it": "Sala dei PapiLunedì, 16 giugno 2025"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "20250616-vescovi-madagascar",
@@ -686,17 +1000,24 @@
       "id": "20250616-pellegrini-congo",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250616-pellegrini-congo",
         "title": "To pilgrims from the Democratic Republic of Congo, gathered for the Beatification of Floribert Bwana Chui",
         "type": "Speeches",
         "date": "2025-06-16",
-        "excerpt": "Clementine HallMonday, 16 June 2025",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallMonday, 16 June 2025",
+          "fr": "Salle ClémentineLundi 16 juin 2025",
+          "it": "Sala ClementinaLunedì, 16 giugno 2025"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250616-pellegrini-congo",
@@ -707,17 +1028,29 @@
       "id": "20250615-omelia-giubileo-sport",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250615-omelia-giubileo-sport",
         "title": "Holy Mass for the Jubilee of Sport on the Solemnity of the Holy Trinity",
         "type": "Homilies",
         "date": "2025-06-15",
-        "excerpt": "Saint Peter's BasilicaSunday, 15 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرّابع عشر",
+          "en": "Saint Peter's BasilicaSunday, 15 June 2025",
+          "fr": "Basilique Saint-PierreDimanche 15 juin 2025",
+          "de": "in der ersten Lesung haben wir folgende Worte gehört: So spricht die Weisheit Gottes: »Der Herr hat mich geschaffen als Anfang seines Weges, vor seinen Werken in der Urzeit. […] Als er den Himmel baute, war ich dabei, […] da war ich als geliebtes Kind bei ihm. Ich war seine Freude Tag für Tag und spielte vor ihm allezeit. Ich spielte auf seinem Erdenrund und meine Freude war es, bei den Menschen zu sein« (Spr8,22.27.30-31). Für den heiligen Augustinus sind die Dreifaltigkeit und die Weisheit eng miteinander verbunden. Die göttliche Weisheit wird in der Heiligsten Dreifaltigkeit offenbar, und die Weisheit führt uns stets zur Wahrheit.",
+          "it": "Basilica di San PietroDomenica, 15 giugno 2025",
+          "pl": "Bazylika Świętego PiotraNiedziela, 15 czerwca 2025 r.",
+          "pt": "Basílica de São PedroDomingo, 15 de junho de 2025",
+          "es": "Basílica de San PedroDomingo, 15 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250615-omelia-giubileo-sport",
@@ -728,17 +1061,24 @@
       "id": "20250614-videomessaggio-giovani",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250614-videomessaggio-giovani",
         "title": "Video Message of the Holy Father to the young people of Chicago and the whole world",
         "type": "Messages",
         "date": "2025-06-14",
-        "excerpt": "It’s a pleasure for me to greet all of you gathered together at White Sox Park on this great celebration as a community of faith in the Archdiocese of Chicago. A special greeting to Cardinal Cupich, to the auxiliary bishops, to all my friends who are gathered today on this: the feast of the Most Holy Trinity.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "It’s a pleasure for me to greet all of you gathered together at White Sox Park on this great celebration as a community of faith in the Archdiocese of Chicago. A special greeting to Cardinal Cupich, to the auxiliary bishops, to all my friends who are gathered today on this: the feast of the Most Holy Trinity.",
+          "it": "[Rate Field di Chicago, 14 giugno 2025]",
+          "es": "[14 de junio de 2025]"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250614-videomessaggio-giovani",
@@ -749,17 +1089,29 @@
       "id": "20250614-udienza-giubilare",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250614-udienza-giubilare",
         "title": "Jubilee Audience:To hope is to connect. Irenaeus of Lyon",
         "type": "Audiences",
         "date": "2025-06-14",
-        "excerpt": "Saint Peter's BasilicaSaturday, 14 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "قداسة البابا لاوُن الرّابع عشر",
+          "en": "Saint Peter's BasilicaSaturday, 14 June 2025",
+          "fr": "Basilique Saint-PierreSamedi 14 juin 2025",
+          "de": "Im Namen des Vaters, des Sohnes und des Heiligen Geistes. Der Friede sei mit euch!",
+          "it": "Basilica di San PietroSabato, 14 giugno 2025",
+          "pl": "Bazylika Świętego PiotraSobota, 14 czerwca 2025 r.",
+          "pt": "Basílica de São PedroSábado, 14 de junho de 2025",
+          "es": "Basílica de San PedroSábado, 14 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250614-udienza-giubilare",
@@ -770,17 +1122,30 @@
       "id": "20250613-messaggio-giornata-poveri",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250613-messaggio-giornata-poveri",
         "title": "Message of the Holy Father for the 9th World Day of the Poor [16 November 2025]",
         "type": "Messages",
         "date": "2025-06-13",
-        "excerpt": "MESSAGE OF THE HOLY FATHER FOR THE 9thWORLD DAY OF THE POOR",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "رسالة قداسة البابا لاوُن الرّابع عشر",
+          "hr": "XXXIII. Nedjelja kroz godinu16. studenog 2025.",
+          "en": "MESSAGE OF THE HOLY FATHER FOR THE 9thWORLD DAY OF THE POOR",
+          "fr": "pour la 9èmeJournée Mondiale des Pauvres",
+          "de": "33. Sonntag im Jahreskreis16. November 2025",
+          "it": "XXXIIIDomenica del Tempo Ordinario16 novembre 2025",
+          "pl": "XXXIII Niedziela Zwykła16 listopada 2025 r.",
+          "pt": "XXXIII Domingo do Tempo Comum16 de novembro de 2025",
+          "es": "16 de noviembre de 2025, XXXIII Domingo del T.O."
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250613-messaggio-giornata-poveri",
@@ -791,17 +1156,29 @@
       "id": "20250609-omelia-giubileo-santa-sede",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250609-omelia-giubileo-santa-sede",
         "title": "Holy Mass for the Jubilee of the Holy See",
         "type": "Homilies",
         "date": "2025-06-09",
-        "excerpt": "Saint Peter's BasilicaBlessed Virgin Mary Mother of the Church - Monday, 9 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرّابع عشر",
+          "en": "Saint Peter's BasilicaBlessed Virgin Mary Mother of the Church - Monday, 9 June 2025",
+          "fr": "Basilique Saint-PierreBienheureuse Vierge Marie, Mère de l'Église - Lundi 9 juin 2025",
+          "de": "PetersdomGedenktag der seligen Jungfrau Maria, Mutter der Kirche - Montag, 9. Juni 2025",
+          "it": "Basilica di San PietroBeata Vergine Maria Madre della Chiesa - Lunedì, 9 giugno 2025",
+          "pl": "Bazylika Świętego PiotraNajświętszej Maryi Panny, Matki Kościoła – Poniedziałek, 9 czerwca 2025 r.",
+          "pt": "Basílica de São PedroBem-Aventurada Virgem Maria Mãe da Igreja - Segunda-feira, 9 de junho de 2025",
+          "es": "Basílica de San PedroBeienaventurada Virgen María Madre de la Iglesia - Lunes, 9 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250609-omelia-giubileo-santa-sede",
@@ -812,17 +1189,29 @@
       "id": "20250608-omelia-pentecoste",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250608-omelia-pentecoste",
         "title": "Pentecost Sunday - Holy Mass in the Jubilee of Movements, Associations and New Communities",
         "type": "Homilies",
         "date": "2025-06-08",
-        "excerpt": "St. Peter's SquareSunday, 8 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرّابع عشر",
+          "en": "St. Peter's SquareSunday, 8 June 2025",
+          "fr": "Place Saint-PierreDimanche 8 juin 2025",
+          "de": "»Ein freudiger Tag hat uns erleuchtet, […] an dem der Herr Jesus Christus nach seiner Auferstehung verherrlicht durch seine Himmelfahrt den Heiligen Geist gesandt hat« (Hl. Augustinus,Rede271, 1). Und auch heute wird wieder lebendig, was im Abendmahlssaal geschah: Wie ein heftiger Sturm, der uns erfasst, wie ein Brausen, das uns wachrüttelt, wie ein Feuer, das uns erleuchtet, kommt die Gabe des Heiligen Geistes auf uns herab (vgl.Apg2,1-11).",
+          "it": "Piazza San PietroDomenica, 8 giugno 2025",
+          "pl": "Plac Świętego PiotraNiedziela, 8 czerwca 2025 r.",
+          "pt": "Praça São PedroDomingo, 8 de junho de 2025",
+          "es": "Plaza de San PedroDomingo, 8 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250608-omelia-pentecoste",
@@ -833,17 +1222,29 @@
       "id": "20250607-veglia-pentecoste",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250607-veglia-pentecoste",
         "title": "Jubilee of Ecclesial Movements - Vigil of Pentecost",
         "type": "Homilies",
         "date": "2025-06-07",
-        "excerpt": "St. Peter's SquareSaturday, 7 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "St. Peter's SquareSaturday, 7 June 2025",
+          "fr": "Place Saint-PierreSamedi 7 juin 2025",
+          "de": "Der Schöpfergeist, den wir im Gesang angerufen haben –Veni creator Spiritus–, ist der Geist, der auf Jesus herabgekommen ist, der stille Protagonist seiner Sendung: »Der Geist des Herrn ruht auf mir« (Lk4,18). Indem wir darum gebeten haben, er möge unsere Herzen besuchen, unsere Zungen reden machen, unsere Sinne erhellen, uns Liebe eingießen, den Leib stärken und Frieden schenken, haben wir uns dem Reich Gottes geöffnet. Das ist Bekehrung im Sinne des Evangeliums: dass wir uns dem Reich zuwenden, das nun nahe ist.",
+          "it": "Piazza San PietroSabato, 7 giugno 2025",
+          "pl": "Plac Świętego PiotraSobota, 7 czerwca 2025 r.",
+          "pt": "Praça de São PedroSábado, 7 de junho de 2025",
+          "es": "Plaza de San PedroSábado, 7 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250607-veglia-pentecoste",
@@ -854,17 +1255,24 @@
       "id": "20250604-messaggio-sacerdoti-parigi",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250604-messaggio-sacerdoti-parigi",
         "title": "Message of the Holy Father for the Gathering of Priests belonging to the Ecclesiastical Province of Paris [5 June 2025]",
         "type": "Messages",
         "date": "2025-06-04",
-        "excerpt": "I fraternally greet His Excellency Archbishop Laurent Ulrich, as well as all the bishops of the Province of Paris. And I greet you all, dear priests, gathered here in Notre-Dame Cathedral on the occasion of your “Jubilee of Priests” and the sixtieth anniversary of the ConstitutionPresbyterorum ordinis, which you will be reflecting on.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "I fraternally greet His Excellency Archbishop Laurent Ulrich, as well as all the bishops of the Province of Paris. And I greet you all, dear priests, gathered here in Notre-Dame Cathedral on the occasion of your “Jubilee of Priests” and the sixtieth anniversary of the ConstitutionPresbyterorum ordinis, which you will be reflecting on.",
+          "fr": "Je salue fraternellement S.E. Mgr Laurent Ulrich ainsi que tous les évêques de la Province de Paris. Et je vous salue tous, chers prêtres qui vous réunissez en cette Cathédrale Notre-Dame à l’occasion de votre “Jubilé des prêtres” et du 60èmeanniversaire du DécretPresbyterorum ordinissur lequel vous allez réfléchir.",
+          "it": "Saluto fraternamente S.E. monsignor Laurent Ulrich, come pure tutti i vescovi della Provincia di Parigi. Vi saluto tutti, cari sacerdoti riuniti in questa Cattedrale di Notre-Dame in occasione del vostro “Giubileo dei sacerdoti” e del 60° anniversario del DecretoPresbyterorum ordinissul quale vi apprestate a riflettere."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "20250604-messaggio-sacerdoti-parigi",
@@ -875,17 +1283,29 @@
       "id": "20250601-omelia-giubileo-famiglie",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250601-omelia-giubileo-famiglie",
         "title": "Holy Mass for the Jubilee of Families, Children, Grandparents and the Elderly",
         "type": "Homilies",
         "date": "2025-06-01",
-        "excerpt": "St Peter's Square7thSunday of Easter - Sunday, 1 June 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "St Peter's Square7thSunday of Easter - Sunday, 1 June 2025",
+          "fr": "Place Saint-PierreVIIedimanche de Pâques - Dimanche 1erjuin 2025",
+          "de": "Petersplatz7. Sonntag der Osterzeit, 1. Juni 2025",
+          "it": "Piazza San PietroVII Domenica di Pasqua - Domenica, 1° giugno 2025",
+          "pl": "Plac Świętego PiotraVII Niedziela Wielkanocna, 1 czerwca 2025 r.",
+          "pt": "Praça de São PedroVII Domingo da Páscoa, 1 de junho de 2025",
+          "es": "Plaza de San PedroVII Domingo de Pascua - Domingo, 1 de junio de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250601-omelia-giubileo-famiglie",
@@ -896,17 +1316,26 @@
       "id": "20250531-conclusione-mesemariano",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250531-conclusione-mesemariano",
         "title": "Conclusion of the month of May",
         "type": "Speeches",
         "date": "2025-05-31",
-        "excerpt": "Lourdes Grotto in the Vatican GardensSaturday, 31 May 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Lourdes Grotto in the Vatican GardensSaturday, 31 May 2025",
+          "de": "Lourdes-Grotte in den Vatikanischen GärtenSamstag, 31. Mai 2025",
+          "it": "Grotta di Lourdes nei Giardini VaticaniSabato, 31 maggio 2025",
+          "pl": "Grota Lourdes w Ogrodach WatykańskichSobota, 31 maja 2025 r.",
+          "pt": "Gruta de Lourdes nos Jardins VaticanosSábado, 31 de maio de 2025"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250531-conclusione-mesemariano",
@@ -917,17 +1346,28 @@
       "id": "20250531-ordinazioni-presbiterali",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250531-ordinazioni-presbiterali",
         "title": "Holy Mass with Presbyteral Ordinations",
         "type": "Homilies",
         "date": "2025-05-31",
-        "excerpt": "Saint Peter's BasilicaFeast of the Visitation of the Blessed Virgin Mary - Saturday, 31 May 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Saint Peter's BasilicaFeast of the Visitation of the Blessed Virgin Mary - Saturday, 31 May 2025",
+          "fr": "Basilique Saint-PierreFête de la Visitation de la Bienheureuse Vierge Marie - Samedi 31 mai 2025",
+          "de": "PetersdomFest Mariä Heimsuchung - Samstag, 31. Mai 2025",
+          "it": "Basilica di San PietroFesta della Visitazione della beata Vergine Maria - Sabato, 31 maggio 2025",
+          "pl": "Bazylika Świętego PiotraŚwięto Nawiedzenia Najświętszej Maryi Panny - Sobota, 31 maja 2025 r.",
+          "pt": "Basílica de São PedroFesta da Visitação de Nossa Senhora - Sábado, 31 de maio de 2025",
+          "es": "Basílica de San PedroFiesta de la Visitación de la Virgen María - Sábado, 31 de mayo de 2025"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250531-ordinazioni-presbiterali",
@@ -938,17 +1378,28 @@
       "id": "20250530-movimenti-pace",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250530-movimenti-pace",
         "title": "To the Members of the Popular Movements for Peace",
         "type": "Speeches",
         "date": "2025-05-30",
-        "excerpt": "Clementine HallFriday, 30 May 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallFriday, 30 May 2025",
+          "fr": "Salle ClémentineVendredi 30 mai 2025",
+          "de": "Sala ClementinaFreitag, 30. Mai 2025",
+          "it": "Sala ClementinaVenerdì, 30 maggio 2025",
+          "pl": "Sala KlementyńskaPiątek, 30 maja 2025 r.",
+          "pt": "Sala ClementinaSexta-feira, 30 de maio de 2025",
+          "es": "DISCURSO DEL SANTO PADRE LEÓN XIVA LOS MIEMBROS DE LOS MOVIMIENTOS POPULARES Y ASOCIACIONESQUE HAN DADO VIDA A LA «ARENA DE LA PAZ» (Verona)"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250530-movimenti-pace",
@@ -959,17 +1410,23 @@
       "id": "20250529-lettera-arcidiocesi-rijeka",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250529-lettera-arcidiocesi-rijeka",
         "title": "Letter of the Holy Father to the Special Envoy to the celebrations for the centenary of the Metropolitan Archdiocese of Rijeka, Croatia [14 June 2025]",
         "type": "Letters",
         "date": "2025-05-29",
-        "excerpt": "Venerabili Fratri NostroMATTHAEO MARIAE S.R.E. Cardinali ZUPPIArchiepiscopo Metropolitae BononiensiConferentiae Episcoporum Italiae Praesidi",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "hr": "Našem časnom bratuKardinalu MATTEU MARIJI ZUPPIJUBolonjskom nadbiskupu metropolituPredsjedniku Talijanske biskupske konferencije",
+          "la": "Venerabili Fratri NostroMATTHAEO MARIAE S.R.E. Cardinali ZUPPIArchiepiscopo Metropolitae BononiensiConferentiae Episcoporum Italiae Praesidi"
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250529-lettera-arcidiocesi-rijeka",
@@ -980,17 +1437,25 @@
       "id": "20250528-messaggio-vescovi-francia",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250528-messaggio-vescovi-francia",
         "title": "Message of the Holy Father Leo XIV to the Bishops’ Conference of France on the occasion of the 100thanniversary of the canonization of Saint John Eudes, Saint John Mary Vianney, and Saint Thérèse of the Child Jesus",
         "type": "Messages",
         "date": "2025-05-28",
-        "excerpt": "MESSAGE OF THE HOLY FATHER LEO XIVTO THE BISHOPS’ CONFERENCE OF FRANCEON THE OCCASION OF THE 100thANNIVERSARY OF THE CANONIZATIONOF SAINT JOHN EUDES, SAINT JOHN MARY VIANNEY,AND SAINT THÉRÈSE OF THE CHILD JESUS AND THE HOLY FACE",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "MESSAGE OF THE HOLY FATHER LEO XIVTO THE BISHOPS’ CONFERENCE OF FRANCEON THE OCCASION OF THE 100thANNIVERSARY OF THE CANONIZATIONOF SAINT JOHN EUDES, SAINT JOHN MARY VIANNEY,AND SAINT THÉRÈSE OF THE CHILD JESUS AND THE HOLY FACE",
+          "fr": "MESSAGE DU PAPE LÉON XIVÀ LA CONFÉRENCE DES ÉVÊQUES DE FRANCEÀ L'OCCASION DU 100eANNIVERSAIRE DE LA CANONISATION DESAINT JEAN EUDES, SAINT JEAN-MARIE VIANNEYET SAINTE THÉRÈSE DE L'ENFANT-JÉSUS ET DE LA SAINTE FACE",
+          "de": "Es ist mir eine Freude, mich zum ersten Mal an Euch, die Hirten der Kirche in Frankreich, zu wenden und durch Euch an all Eure Gläubigen, während in diesem Maimonat im Jahr 2025 der 100. Jahrestag der Heiligsprechung dreier Heiliger begangen wird, die Euer Land durch Gottes Gnade der Weltkirche geschenkt hat: der heilige Jean Eudes (1601-1680), der heilige Johannes Maria Vianney (1786-1859) und die heilige Theresia vom Kinde Jesus und vom Heiligen Antlitz (1873-1897). Indem mein Vorgänger Pius XI. sie zur Ehre der Altäre erhob, wollte er sie dem Volk Gottes vor Augen stellen als Lehrmeister, auf die man hören soll, als nachzuahmende Vorbilder sowie machtvolle Helfer, zu denen man beten und die man anrufen kann. Die Größe der Herausforderungen, vor denen ein Jahrhundert später die Kirche Frankreichs steht, und die stets aktuelle Bedeutung dieser drei Heiligengestalten für die Bewältigung dieser Herausforderungen, veranlassen mich, Euch einzuladen, diesem Jahrestag besondere Bedeutung zu verleihen.",
+          "it": "Sono lieto di potermi rivolgere per la prima volta a voi, pastori della Chiesa in Francia e, attraverso di voi, a tutti i vostri fedeli mentre, in questo mese di maggio 2025, si commemora il 100° anniversario della canonizzazione di tre santi che, con la grazia di Dio, il vostro Paese ha donato alla Chiesa universale: san Giovanni Eudes (1601-1680), san Giovanni Maria Vianney (1786-1859) e santa Teresa di Gesù Bambino e del Volto Santo (1873-1897). Elevandoli alla gloria degli altari, il mio predecessore Pio XI desiderava presentarli al Popolo di Dio come maestri da ascoltare, come modelli da imitare e come potenti intercessori da pregare e invocare. L’ampiezza delle sfide che, un secolo dopo, si presentano alla Chiesa in Francia, e la pertinenza sempre più attuale delle sue tre figure di santità ad affrontarle, mi spingono a invitarvi a dare un rilievo particolare a questo anniversario."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "20250528-messaggio-vescovi-francia",
@@ -1001,17 +1466,28 @@
       "id": "20250528-messaggio-dicastero-prolaicis",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250528-messaggio-dicastero-prolaicis",
         "title": "Message of His Holiness Pope Leo XIV to Participants in the Seminar “Evangelizing with the Families of Today and Tomorrow: Ecclesiological and Pastoral Challenges”, organised by the Dicastery for Laity, Family and Life",
         "type": "Messages",
         "date": "2025-05-28",
-        "excerpt": "I am pleased that following the celebration of theJubilee for Families, Children, Grandparents, and the Elderlya group of experts has gathered at theDicastery for Laity, Family and Lifeto reflect on the theme,“Evangelizing with the Families of Today and Tomorrow: Ecclesiological and Pastoral Challenges”.",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "I am pleased that following the celebration of theJubilee for Families, Children, Grandparents, and the Elderlya group of experts has gathered at theDicastery for Laity, Family and Lifeto reflect on the theme,“Evangelizing with the Families of Today and Tomorrow: Ecclesiological and Pastoral Challenges”.",
+          "fr": "Je suis heureux qu’au lendemain de lacélébration du Jubilé des familles, des enfants, des grands-parents et des personnes âgées, un groupe d’experts se soit réuni auDicastère pour les laïcs, la famille et la viepour réfléchir sur le thème: Evangéliser avec les familles d’aujourd’hui et de demain. Défis ecclésiologiques et pastoraux.",
+          "de": "Ich freue mich, dass nach der Feier des Jubiläums der Familien, Kinder, Großeltern und Älteren eine Gruppe von Fachleuten am Dikasterium für die Laien, die Familie und das Leben zusammengekommen ist, um über das Thema »Mit den Familien von heute und morgen evangelisieren. Ekklesiologische und pastorale Herausforderungen« nachzudenken.",
+          "it": "Sono lieto che, all’indomani dellacelebrazione del Giubileo delle Famiglie, dei Bambini, dei Nonni e degli Anziani, un gruppo di esperti si sia riunito presso ilDicastero per i Laici, la Famiglia e la Vitaa riflettere sul tema:Evangelizzare con le famiglie di oggi e di domani. Sfide ecclesiologiche e pastorali.",
+          "pl": "Cieszę się, że dzień po obchodachJubileuszu rodzin, dzieci, dziadków i osób starszych, grupa ekspertów zebrała się w Dykasterii ds. Świeckich, Rodziny i Życia, aby zastanowić się nad tematem:„Głosić Ewangelię wraz z rodzinami dzisiaj i jutra. Wyzwania eklezjologiczne i duszpasterskie”.",
+          "pt": "[2-3 de junho de 2025]",
+          "es": "[2-3 de junio de 2025]"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250528-messaggio-dicastero-prolaicis",
@@ -1022,41 +1498,28 @@
       "id": "20250527-ssc-napoli",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250527-ssc-napoli",
         "title": "Greeting of the Holy Father to the S.S.C. Napoli football team",
         "type": "Speeches",
         "date": "2025-05-27",
-        "excerpt": "Clementine HallTuesday, 27 May 2025",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallTuesday, 27 May 2025",
+          "de": "GRUSSWORT VON PAPST LEO XIV.AN DIE SPIELER UND DEN VORSTAND DES FUßBALLKLUBS NEAPEL",
+          "it": "Sala ClementinaMartedì, 27 maggio 2025",
+          "es": "Sala ClementinaMartes, 27 de mayo de 2025"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "20250527-ssc-napoli",
-        "original_type": "speeches"
-      }
-    },
-    {
-      "id": "20250526-messa-pace-africa",
-      "pope": {
-        "id": "leo-xiv",
-        "name": "Leo XIV",
-        "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
-      },
-      "document": {
-        "title": "Greeting of the Holy Father at the end of the Mass presided over by Card. Arinze, on the occasion of the Jubilee Pilgrimage for Peace in Africa",
-        "type": "Speeches",
-        "date": "2025-05-26",
-        "excerpt": "Altar of the Chair of St Peter's BasilicaMonday, 26 May 2025",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "20250526-messa-pace-africa",
         "original_type": "speeches"
       }
     }

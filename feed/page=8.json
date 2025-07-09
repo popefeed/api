@@ -3,7 +3,7 @@
     "page": 8,
     "per_page": 50,
     "total_pages": 37,
-    "total_posts": 1827,
+    "total_posts": 1828,
     "has_next": true,
     "has_prev": true,
     "next_page": 9,
@@ -11,20 +11,58 @@
   },
   "posts": [
     {
+      "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+      "pope": {
+        "id": "pius-xi",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
+        "handle": "piusxi",
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
+      },
+      "document": {
+        "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+        "title": "Firmissimam Constantiam",
+        "type": "Encyclical",
+        "date": "1937-03-28",
+        "excerpt": {
+          "en": "Venerable Brethren, Health and Apostolic Benediction.",
+          "it": "Venerabili Fratelli, salute e Apostolica Benedizione.",
+          "la": "Firmissimam constantiam plane cognitam habemus, grato cum solacio animi Nostri paterni, qua vos, Venerabiles Fratres, sacerdotes et plerique fideles Mexicani catholicam fidem profitemini atque iniquis obsistitis vexationibus eorum, qui, divinam Christi religionem penitus ignorantes, aut per hostium calumnias depravatam dignoscentes, frustra arbitrantur, se nequire sociales in populi utilitatem reformationes peragere, nisi religioni maximae partis civium repugnando."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
+        "original_type": "encyclicals"
+      }
+    },
+    {
       "id": "hf_p-xi_enc_19370319_divini-redemptoris",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19370319_divini-redemptoris",
         "title": "Divini Redemptoris",
         "type": "Encyclical",
         "date": "1937-03-19",
-        "excerpt": "Venerable Brethren, Health and Apostolic Benediction.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and Apostolic Benediction.",
+          "fr": "1. La promesse d'un Rédempteur illumine la première page de l'histoire humaine; aussi, la ferme espérance de jours meilleurs adoucit le regret du paradis perdu et soutint le genre humain cheminant au milieu des tribulations; mais, quand fut venue la plénitude des temps, le Sauveur du monde, par son apparition sur terre, combla l'attente et inaugura, dans tout l'univers, une nouvelle civilisation, la civilisation chrétienne, autrement plus parfaite que tous les progrès réalisés jusque-là, au prix de tant d'efforts, chez certains peuples privilégiés.",
+          "it": "Venerabili Fratelli, salute e Apostolica Benedizione.",
+          "la": "Divini Redemptoris promissio humani generis primordia illuminat; atque adeo praefidens meliorum temporum spes, quemadmodum dolorem mulsit ob amissum « paradisum voluptatis » (1), ita per afflictum trepidumque iter homines prosecuta est, usque dum, « ubi venit plenitudo temporis » (2), Servator noster adveniens, diuturni desiderii exspectationem explevit; ac novam universis gentibus cultioremque aetatem auspicatus est, quae a christiano nomine dicitur, quaeque illam in immensum propemodum evincit ac superat, quam nonnullae praestantiores nationes magna opera magnoque labore attigerant.",
+          "pt": "1. A promessa dum Redentor divino ilumina a primeira página da história da humanidade; e assim a firmíssima esperança de melhores dias, assim como suavizou a dor causada pela perda doparaísode delícias, assim foi acompanhando os homens através do seu caminho de amarguras e inquietações, até que enfim, quando chegou a plenitude do tempo, o nosso Salvador, vindo à terra, cumulou as ânsias dessa tão longa expectação da humanidade e inaugurou para todos os povos uma nova civilização cristã, que vence e quase imensamente supera a que algumas nações mais privilegiadas atingiram, à custa dos maiores esforços e trabalhos.",
+          "es": "1. La promesa de un Redentor divino ilumina la primera página de la historia de la humanidad; por esto la confiada esperanza de un futuro mejor suavizó el dolor del paraíso perdido (Cf.Gén3,23) y acompañó al género humano en su atribulado camino hasta que, en la plenitud de los tiempos (Gál4,4), el Salvador del mundo, apareciendo en la tierra, colmó la expectación e inauguró una nueva civilización universal, la civilización cristiana, inmensamente superior a la que el hombre había hasta entonces alcanzado trabajosamente en algunas naciones privilegiadas."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19370319_divini-redemptoris",
@@ -35,17 +73,25 @@
       "id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
         "title": "Mit Brennender Sorge",
         "type": "Encyclical",
         "date": "1937-03-14",
-        "excerpt": "Venerable Brethren, Greetings, and Apostolic Blessing.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Greetings, and Apostolic Blessing.",
+          "de": "Ehrwürdige Brüder!Gruß und Apostolischen Segen!",
+          "it": "Ai Venerabili Fratelli Arcivescovi e Vescovi e agli altri Ordinari di Germania aventi pace e comunione con la Sede Apostolica.",
+          "es": "1. Con viva preocupación y con asombro creciente venimos observando, hace ya largo tiempo, la vía dolorosa de la Iglesia y la opresión progresivamente agudizada contra los fieles, de uno u otro sexo, que le han permanecido devotos en el espíritu y en las obras; y todo esto en aquella nación y en medio de aquel pueblo al que San Bonifacio llevó un día el luminoso mensaje, la buena nueva de Cristo y del reino de Dios."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
@@ -56,17 +102,27 @@
       "id": "hf_p-xi_enc_29061936_vigilanti-cura",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_29061936_vigilanti-cura",
         "title": "Vigilanti Cura",
         "type": "Encyclical",
         "date": "1936-06-29",
-        "excerpt": "In following with vigilant eye, as Our Pastoral Office requires, the beneficent work of Our Brethren in the Episcopate and of the faithful, it has been highly pleasing to Us to learn of the fruits already gathered and of the progress which continues to be made by that prudent initiative launched more than two years ago as a holy crusade against the abuses of the motion pictures and entrusted in a special manner to the \"Legion of Decency\".",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "In following with vigilant eye, as Our Pastoral Office requires, the beneficent work of Our Brethren in the Episcopate and of the faithful, it has been highly pleasing to Us to learn of the fruits already gathered and of the progress which continues to be made by that prudent initiative launched more than two years ago as a holy crusade against the abuses of the motion pictures and entrusted in a special manner to the \"Legion of Decency\".",
+          "fr": "Avec une sollicitude toujours en éveil, comme nous le prescrit notre charge apostolique, nous suivons avec le plus grand intérêt les travaux dignes de toutes louanges de nos confrères dans l'Episcopat et du peuple chrétien tout entier. C'est ainsi, qu'à notre grande joie, nous avons appris l'initiative prévoyante, déjà riche de salutaires résultats et pleine de promesses plus heureuses encore, que, voilà plus de deux années déjà, vous avez jugé bon de prendre et d'appeler\"Légion de la décence\", dans le but d'anéantir, comme dans une croisade sacrée, les pernicieux effets du cinéma.",
+          "de": "Ehrwürdige Brüder und Schwestern, Gruß und Apostolischen Segen,",
+          "it": "Nel seguire con occhiovigile, come richiede il nostro pastorale ufficio, l'opera benefica dei nostri confratelli nell'episcopato e di tutto il popolo fedele, ci è stato sommamente gradito l'intendere i frutti che ha già raccolti e i progressi che va tuttora facendo quella provvida impresa da oltre un biennio iniziata, quasi una santa crociata, contro gli abusi degli spettacoli cinematografici, affidata in modo particolare alla\"Legione della decenza\".",
+          "la": "Vigilanti cura, ut Nostrum deposcit apostolicum officium, laudabilem omnem sacrorum Antistitum totiusque christiani populi operam prosequimur; atque adeo summo cum animi gaudio certiores facti sumus providum illud inceptum salutiferos iam edidisse fructus, atque ad uberiores usque contendere utilitates, quod vos plus duobus abhinc annis eo consilio instituistis peculiarique modo « Legioni a decentia » efficiendum credidistis, ut, sanctissimum veluti certamen, cinematographicae artis pravitatem compesceret.",
+          "pt": "Veneráveis IrmãosSaudação e Bênção Apostólica"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_29061936_vigilanti-cura",
@@ -77,17 +133,26 @@
       "id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
         "title": "Ad Catholici Sacerdotii",
         "type": "Encyclical",
         "date": "1935-12-20",
-        "excerpt": "1. By the inscrutable design of Divine Providence We were raised to this summit of the Catholic priesthood. From that moment Our thoughts were turned to all the innumerable children whom God entrusted to Us. Yet, in a special way, We have felt an affectionate and earnest solicitude towards those who have the commission to be \"the salt of the earth and the light of the world,\" for those who have been signaled out and adorned by the priestly character. In a still more special way Our thoughts have turned towards those dearly beloved young students who are being educated in the shadow of the sanctuary and are preparing themselves for this most noble charge, the priesthood.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "1. By the inscrutable design of Divine Providence We were raised to this summit of the Catholic priesthood. From that moment Our thoughts were turned to all the innumerable children whom God entrusted to Us. Yet, in a special way, We have felt an affectionate and earnest solicitude towards those who have the commission to be \"the salt of the earth and the light of the world,\" for those who have been signaled out and adorned by the priestly character. In a still more special way Our thoughts have turned towards those dearly beloved young students who are being educated in the shadow of the sanctuary and are preparing themselves for this most noble charge, the priesthood.",
+          "fr": "1. Depuis que, par un mystérieux dessein de la divine Providence, Nous Nous sommes vu élevé à ce sommet suprême du sacerdoce catholique, Nous n’avons jamais cessé, parmi les innombrables fils que Dieu Nous a donnés, de consacrer Nos soins les plus empressés et les plus affectueux à ceux qui, revêtus du caractère sacerdotal, ont la mission d’être le sel de la terre et la lumière du monde (Mt5, 13.14), et d’une manière encore plus spéciale, à ceux qui sont élevés à l’ombre du sanctuaire et se préparent à cette très noble mission.",
+          "it": "Sin da quando, per arcano disegno della divina Provvidenza, Ci vedemmo sollevati a questo supremo vertice del sacerdozio cattolico, non abbiamo mai cessato di rivolgere le nostre cure più sollecite e più affettuose a quelli tra gli innumerevoli figli che Dio Ci ha dati, i quali, insigniti del carattere sacerdotale, hanno la missione di essere \" il sale della terra e la luce del mondo \" [1], e in modo ancora più speciale ai dilettissimi giovani che si vanno educando all'ombra del santuario e si preparano a questa nobilissima missione.",
+          "la": "Ad catholici sacerdoti fastigium vixdum Nos arcano Providentis Dei consilio evecti, actuosam voluntatem Nostram ad eos convertere numquam destitimus, qui, in multis quos habemus in Christo filiis, sacerdotali dignitate aucti, id muneris susceperunt, ut « sal terrae et lux mundi » (1) evaderent; ac peculiari modo ad eam iuventutem Nobis sane carissimam curas adiicere non praetermisimus, quae, intra sacrarum aedium saepta, ad pernobile eiusmodi officium obeundum animum praeparat atque componit.",
+          "es": "l. Desde que, por ocultos designios de la divina Providencia, nos vimos elevados a este supremo grado del sacerdocio católico, nunca hemos dejado de dirigir nuestros más solícitos y afectuosos cuidados, entre los innumerables hijos que nos ha dado Dios, a aquellos que, engrandecidos con la dignidad sacerdotal, tienen la misión de ser la sal de la tierra y la luz del mundo[1], y de un modo todavía más especial, hacia aquellos queridísimos jóvenes que, a la sombra del santuario, se educan y se preparan para aquella misión tan nobilísima."
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
@@ -98,17 +163,23 @@
       "id": "hf_p-xi_enc_03061933_dilectissima-nobis",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_03061933_dilectissima-nobis",
         "title": "Dilectissima Nobis",
         "type": "Encyclical",
         "date": "1933-06-03",
-        "excerpt": "Venerable Brethren, Health and Apostolic Benediction.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and Apostolic Benediction.",
+          "la": "Dilectissima Nobis nullo non tempore fuit nobilis Hispanorum gens cum ob insignia in catholicam fidem civilemque christiani nominis cultum promerita, tum ob avitam flagrantissimamque cum Apostolica hac Sede animorum coniunctionem, tum nominatim ob magna eius instituta et apostolica incepta, per quae et ferax exstitit sanctorum virorum mater et missionalium inclytorumque religiosorum Ordinum Conditorum altrix; decus ii quidem atque firmamentum Ecclesiae Dei."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_03061933_dilectissima-nobis",
@@ -119,17 +190,22 @@
       "id": "hf_p-xi_enc_29091932_acerba-animi",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_29091932_acerba-animi",
         "title": "Acerba Animi",
         "type": "Encyclical",
         "date": "1932-09-29",
-        "excerpt": "Health, Venerable Brethren, and the Apostolic Blessing.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Health, Venerable Brethren, and the Apostolic Blessing."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_29091932_acerba-animi",
@@ -140,17 +216,22 @@
       "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
         "title": "Caritate Christi Compulsi",
         "type": "Encyclical",
         "date": "1932-05-03",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Benediction.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Benediction."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
@@ -161,17 +242,23 @@
       "id": "hf_p-xi_enc_19311225_lux-veritatis",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19311225_lux-veritatis",
         "title": "Lux Veritatis",
         "type": "Encyclical",
         "date": "1931-12-25",
-        "excerpt": "Venerabili Fratelli, salute e Apostolica Benedizione.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "it": "Venerabili Fratelli, salute e Apostolica Benedizione.",
+          "la": "Lux veritatis temporumque testis historia docet, si modo recte dispiciatur diligenterque exploretur, divinam illam a Iesu Christo datam pollicitationem : « Ego vobiscum sum... usque ad consummationem saeculi » (1) numquam Ecclesiae suae sponsae defuisse, adeoque numquam esse in posterum defuturam. Quin immo, quo asperioribus fluctibus divina Petri navis per saeculorum decursum iactatur, eo praesentius experitur atque validius caelestis gratiae auxilium. Quod quidem prima potissimum Ecclesiae aetate contigit, non modo cum christianum nomen exsecrabile habebatur piaculum, capite damnandum, sed etiam cum per haereticorum perfidiam, in orientalibus praesertim regionibus grassantium, germana Christi fides perturbata in gravissimum incidit discrimen. Quemadmodum enim catholici nominis insectatores, alius ex alio, misere praeterierunt, ipsumque corruit Romanorum imperium, ita haeretici omnes, veluti exarescentes palmites (2) a divina vite revulsi, non vitae umorem haurire, non fructus facere potuerunt."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19311225_lux-veritatis",
@@ -182,17 +269,22 @@
       "id": "hf_p-xi_enc_02101931_nova-impendet",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_02101931_nova-impendet",
         "title": "Nova Impendet",
         "type": "Encyclical",
         "date": "1931-10-02",
-        "excerpt": "Health, Venerable Brethren, and the Apostolic Blessing.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Health, Venerable Brethren, and the Apostolic Blessing."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_02101931_nova-impendet",
@@ -203,17 +295,22 @@
       "id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
         "title": "Non Abbiamo Bisogno",
         "type": "Encyclical",
         "date": "1931-06-29",
-        "excerpt": "Venerable Brethren, Health and Apostolic Benediction.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and Apostolic Benediction."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
@@ -224,17 +321,25 @@
       "id": "hf_p-xi_enc_19310515_quadragesimo-anno",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19310515_quadragesimo-anno",
         "title": "Quadragesimo Anno",
         "type": "Encyclical",
         "date": "1931-05-15",
-        "excerpt": "Venerable Brethren and Beloved Children, Health and Apostolic Benediction.",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren and Beloved Children, Health and Apostolic Benediction.",
+          "la": "Quadragesimo anno expleto, ex quo fel. rec.Leonis XIIIegregiae LitteraeRerum novarumprodiere, universus orbis catholicus grata recordatione perfunditur, easque digna celebratione commemorandas suscipit.",
+          "pt": "Veneráveis Irmãos e AmadosFilhos Saúde e Bênção Apostólica",
+          "es": "Venerables hermanos y queridos hijos:"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19310515_quadragesimo-anno",
@@ -245,17 +350,27 @@
       "id": "hf_p-xi_enc_19301231_casti-connubii",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19301231_casti-connubii",
         "title": "Casti Connubii",
         "type": "Encyclical",
         "date": "1930-12-31",
-        "excerpt": "Venerable Brethren and Beloved Children, Health and Apostolic Benediction.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren and Beloved Children, Health and Apostolic Benediction.",
+          "fr": "Aux Vénérables Frères, Patriarches, Primats, Archevêques, Evêques et autres ordinaires en paix et communion avec le Siège Apostolique",
+          "hu": "A tiszta házasságnak nagy méltósága leginkább abból ismerhető fel, hogy az Úr Krisztus, az örök Atya Fia, miután az emberi természetet magára öltötte, isteni szeretetének tervébe – mely szerint a mi emberi fajunk megváltását végrehajtotta – a házasságot mint a család és következőleg az emberi társadalom létokát és létalapját különös hangsúllyal belefoglalta, sőt azt az isteni alapítás őseredeti tisztaságába visszaállítván az Újszövetségben valódi és nagy (Ef 5,32) szentség rangjára emelte; s éppen ezért annak szabályozását és gondozását teljesen az ő Jegyesére, az Egyházra bízta.",
+          "it": "Quanto grande sia la dignità del casto connubio, si può principalmente riconoscere, Venerabili Fratelli, da ciò che Nostro Signore Gesù Cristo, Figlio dell’Eterno Padre, quando assunse la natura dell’uomo decaduto, in quella amorosissima economia con la quale compì la totale riparazione del nostro genere umano, non solo volle comprendere in maniera particolare anche questo principio e fondamento della società domestica e quindi del consorzio umano, ma richiamandolo inoltre alla primitiva purità dell’istituzione divina, lo elevò a vero e «grande» [1] Sacramento della Nuova Legge, affidandone perciò tutta la disciplina e la cura alla Chiesa sua Sposa.",
+          "la": "Casti connubii quanta sit dignitas, ex eo maxime dignosci potest, Venerabiles Fratres, quod Christus Dominus, Aeterni Patris Filius, carne lapsi hominis assumpta, non solum amantissimo illo consilio, quo universam nostri generis instaurationem peregit, hoc quoque societatis domesticae atque adeo humanae consortionis principium et fundamentum peculiari quadam ratione complecti voluit; sed illum etiam, ad pristinam divinae institutionis integritatem revocatum, ad verum et «magnum» (1) Novae Legis Sacramentum evexit, eiusque propterea disciplinam curamque totam Ecclesiae Sponsae Suae commisit.",
+          "es": "1. Cuán grande sea la dignidad del casto matrimonio, principalmente puede colegirse, Venerables Hermanos, de que habiendo Cristo, Señor nuestro e Hijo del Eterno Padre, tomado la carne del hombre caído, no solamente quiso incluir de un modo peculiar este principio y fundamento de la sociedad doméstica y hasta del humano consorcio en aquel su amantísimo designio de redimir, como lo hizo, a nuestro linaje, sino que también lo elevó a verdadero y gran[1]sacramento de la Nueva Ley, restituyéndolo antes a la primitiva pureza de la divina institución y encomendando toda su disciplina y cuidado a su Esposa la Iglesia."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19301231_casti-connubii",
@@ -266,17 +381,23 @@
       "id": "hf_p-xi_enc_19300420_ad-salutem-humani",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19300420_ad-salutem-humani",
         "title": "Ad Salutem Humani",
         "type": "Encyclical",
         "date": "1930-04-20",
-        "excerpt": "Ai Venerabili Fratelli Patriarchi,Primati, Arcivescovi, Vescovie agli altri Ordinari localiche hanno pace e comunione con la Sede Apostolica.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "it": "Ai Venerabili Fratelli Patriarchi,Primati, Arcivescovi, Vescovie agli altri Ordinari localiche hanno pace e comunione con la Sede Apostolica.",
+          "la": "Ad salutem humani generis constitutae providenter Ecclesiae quod Christus Iesus usque adhuc adfuerit praesentissimus sitque in posterum adfuturus, nisi id rei naturae ac necessitati prorsus congrueret et divini Conditoris sponsione, quam in Evangelio legimus, niteretur, ex ipsis tamen Ecclesiae fastis satis superque constaret, quam nulla unquam errorum lues inquinarit, nulla labefecerit, quantumvis frequentium, filiorum defectio, nullae impiorum hominum insectationes, vel ad atrocissima quaeque productae, prohibuerint quominus, in iuvenilem quendam revocata vigorem, perpetuo reviresceret. Quodsi non una eademque Dominus noster ratione, non una eademque via, instituti sui ad omne aevum pertinentis et stabilitati consuluit et incrementa provexit, at praecipue in unaquaque aetate insignes suscitavit homines, qui, suo ingenio laboribusque suis, ad temporum rerumque vices accommodatissimas, efficerent, ut de « potestate tenebrarum » cobibita ac devicta christianus populus identidem gauderet. Quem quidem divinae providentiae delectum multo, quam in plerosque, exquisitiorem liquet in Augustinum Tagastensem cecidisse, qui, cum et lucerna super candelabrum posita et cuiusvis eversor haeresis et aeternae dux salutis aequalibus suis apparuisset, non modo, saeculorum decursu, christifideles docere et consolari perrexit, verum nostra hac etiam aetate ad id summopere confert, ut fidei apud ipsos splendere veritas et divina item caritas flagrare ne desinat. Immo pervagata res est, Augustini scriptis, quod tam grandia sint, tam delectationis plena, haud paucos allici qui a Nobis dissident vel a fide omnino alieni videntur. Unde fit — cum in vertentem annum a beato maximi Episcopi et Doctoris obitu dies quindecies saecularis auspicato incidat — ut ad eius agendam celebrandamque memoriam fere ubique gentium christifideles exardescant et praeclara admirationis pietatisque apparent atque edituri sint testimonia. Itaque, Apostolico officio et incredibili quadam animi voluptate permoti, communi Nos eiusmodi praeconio cum deesse nolimus, tum vos omnes, Venerabiles Fratres, et clerum populumque cuiusque vestrum hortamur, gratias caelesti Patri Nobiscum singulares agatis, quod tot tamque ingentibus Ecclesiam suam beneficiis per Augustinum locupletare, qui ex impertita sibi divinorum ubertate munerum tantum lucri et fecit ipse et in catholicorum universitatem derivavit. Quos quidem hodie decet non tam de viro gloriari, ad corpus Christi mysticum quasi prodigialiter olim adiuncto, quo, historiae iudicio, maiorem celsioremque ubique terrarum paene nullum ante actae aetates tulere, quam eius imbuere se atque alere doctrina vitaeque exempla sanctissimae persequi."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19300420_ad-salutem-humani",
@@ -287,17 +408,27 @@
       "id": "hf_p-xi_enc_31121929_divini-illius-magistri",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_31121929_divini-illius-magistri",
         "title": "Divini Illius Magistri",
         "type": "Encyclical",
         "date": "1929-12-31",
-        "excerpt": "Venerable Brethren and Beloved Children, Health and Apostolic Benediction.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren and Beloved Children, Health and Apostolic Benediction.",
+          "fr": "Aux Patriarches, Primats, Archevêques, Evêques et autres Ordinaires de lieu, en paix et communion avec le Siège apostolique",
+          "it": "Rappresentanti in terra di quel Divino Maestro il quale, pure abbracciando nella immensità del Suo amore gli uomini tutti, anche peccatori e indegni, mostrò tuttavia di prediligere con una tenerezza specialissima i fanciulli e si espresse in quelle parole tanto commoventi: \"Lasciate che i pargoli vengano a me\" (Marc. X, 14), abbiamo anche Noi in tutte le occasioni cercato di mostrare la predilezione tutta paterna che loro portiamo, particolarmente nelle cure assidue e negli insegnamenti opportuni che toccano l'educazione cristiana della gioventù.",
+          "la": "Divini illius Magistri vices in terris gerentes, qui, etsi universam hominum familiam, vel ob commissa immerentium, infinita cantate sua complectebatur, teneriore tamen animo pueros pro secutus est atque in verba illa erupit amoris plelia: « Sinite parvulos venire ad me » (1), Nos quoque ullam, quae Nobis obversaretur, opportunitatem non praetermisimus, ut paternam voluntatem, qua in eos ferimur, data occasione, ostenderemus eo potissimum intendentes animum, ut sedulae iisdem tribuantur curae opportunaque tradantur praecepta, quae ad christianam pertineant iuventutis educationem. Itaque, Divini ipsius Magistri veluti vocem referentes, pluries, admonendo, cohortando, dirigendo, salutaria verba habuimus cum coram iuvenibus eorumque praeceptoribus, tum coram matribus patribusque familias, de iis rebus quae christianam attingunt educationem, ea quidem sollerti cura, quae communem omnium Patrem decet, eaque opportuna vel importuna, quae pastoralis est muneris, sedulitate, secundum illud Apostoli: « Insta opportune, importune: argue, obsecra, increpa in omni patientia et doctrina » (2); quod profecto haec nostra postulane tempora quibus nimium saepe dolendum est perspicua ratione rectoque iudicio de rebus etiam maximi ponderis carere multos.",
+          "pt": "Veneráveis Irmãose Amados filhosSaúde e Bênção Apostólica",
+          "es": "1. Representante en la tierra de aquel divino Maestro que, abrazando en la inmensidad de su amor a todos los hombres, aun a los pecadores e indignos, mostró, sin embargo, una predilección y una ternura especialísimas hacia los niños y se expresó con aquellas palabras tan conmovedoras:«Dejad quelos niños se acerquen a mí»(Mc10,14),Nos hemos demostrado también entodas las ocasiones la predilección enteramente paterna que por ellos sentimos, procurándoles todos los cuidados necesarios y todas las enseñanzas referentes a la educación cristiana de la juventud. Así, haciéndonos eco del divino Maestro, hemos dirigido palabras orientadoras de aviso, de exhortación y dirección a los jóvenes y a los educadores, a los padres y a las madres de familia, sobre varios puntos de la educación cristiana, con la solicitud propia del Padre común de todos los fieles y con la insistencia oportuna e importuna que, inculcada por el Apóstol, requiere el oficio pastoral: «Insistecon ocasión y sin ella, reprende, ruega, exhorta con toda paciencia y doctrina»(2Tim4,2);solicitud e insistencia exigidas por estos nuestros tiempos, en los cuales, por desgracia, se deplora una ausencia tan extraordinaria de claros y sanos principios, aun en los problemas más fundamentales."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_31121929_divini-illius-magistri",
@@ -308,17 +439,23 @@
       "id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
         "title": "Quinquagesimo Ante Anno",
         "type": "Encyclical",
         "date": "1929-12-23",
-        "excerpt": "Quando, or sono cinquant’anni, nel fiore dell’età fummo ordinati sacerdoti nella Basilica Lateranense, madre e centro di tutte le Chiese — ed in questi giorni specialmente il ricordo Ci commuove e soavemente Ci conforta — nessuno certamente avrebbe immaginato, e tanto meno Noi, che per arcano disegno della divina Provvidenza la Nostra umile persona sarebbe stata elevata a così alto fastigio, e che quel medesimo tempio sarebbe diventato un giorno la cattedrale del Nostro Episcopato romano.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "it": "Quando, or sono cinquant’anni, nel fiore dell’età fummo ordinati sacerdoti nella Basilica Lateranense, madre e centro di tutte le Chiese — ed in questi giorni specialmente il ricordo Ci commuove e soavemente Ci conforta — nessuno certamente avrebbe immaginato, e tanto meno Noi, che per arcano disegno della divina Provvidenza la Nostra umile persona sarebbe stata elevata a così alto fastigio, e che quel medesimo tempio sarebbe diventato un giorno la cattedrale del Nostro Episcopato romano.",
+          "la": "Quinquagesimo ante anno, cum florentes aetate, in ea ad Lateranum Ecclesia, quae est omnium Ecclesiarum Mater et Caput, sacerdotio aucti sumus — cuius quidem recordatione rei tangimur, hisce praesertim diebus, recreamurque suavissime —, nullo pacto cuiquam, nedum Nobis, coniicere licuisset, arcano divini Numinis consilio humilitatem Nostram eo usque evectum iri, ut templum id ipsum romani episcopatus Nostri cathedrale aliquando nancisceremur. Qua in re si Christi Iesu Pastorum Principis summam erga Nos indulgentiam demisso agnoscentes animo demiramur, fiet profecto nunquam, ut beneficia, quibus Ipse Vicarium in terris suum, etsi immerentem, in supremi Pontificatus decursu frui adhuc iussit, sat digne praedicemus, eo magis, quod iis quasi in cumulum accessit, ut quinquagesimus a suscepto sacerdotio annus solaciis Nobis omnibusque affluens laetitiis verteretur. Qui quidem annus, quantum in Nobis erat, praecipuis ut ne fructibus vacuus exsisteret — scilicet ut, fidelibus ad emendatius sanctiusque vitae institutum revocatis et societate hominum universa ad bona spiritus pluris facienda salubriter excitata, Dei misericordiam in laborantem Ecclesiam suam commoveremus —, in ipso anni limine, reserandis caelestis veniae gratiaeque thesauris, alterum veluti annum sacrum extra ordinem, in Iubilaei magni modum, toti christiano orbi, paternae impulsu caritatis, indiximus. Quem vero ex hac tanta commlmione precum sperabamus exitum, is non solum non defuit, verum etiam optatis cumulate Nostris, Deo dante, satisfecit. Animo enim reputantibus quam frequentes popularis pietatis gratulationisque acceperimus significationes, quam magnae in catholicum nomen utilitates defluxerint quamque illustria incepta et facinora, unius anni curriculo, ad effectum deducta sint, illud Nobis iure dicendum videtur, benignissimum Deum, a quo «omne datum optimum et omne donum perfectum» (1) descendit, tam breve aevi spatium peculiari quadam providentiae suae nota insignire voluisse. Eiusmodi igitur beneficia, a caelo in populi christiani commodum tam liberaliter profecta, placet Nobis hodie paulo fusius, quasi duodecim horum mensium rationes confecturis, commemorare, idcirco dumtaxat, ut una Nobiscum vos, Venerabiles Fratres, dilecti filii, omnipotenti bonorum omnium datori, qui temporum rerumque vices, fortiter suaviterque mortalium mulcendo animos, moderatur, debitas grates etiam atque etiam agatis."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
@@ -329,17 +466,25 @@
       "id": "hf_p-xi_enc_19291220_mens-nostra",
       "pope": {
         "id": "pius-xi",
-        "name": "Pius XI",
+        "name": {
+          "en": "Pius XI",
+          "la": "Pius PP. XI"
+        },
         "handle": "piusxi",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusxi"
+        "avatar": "https://api.popefeed.com/popes/pius-xi.jpg"
       },
       "document": {
+        "id": "hf_p-xi_enc_19291220_mens-nostra",
         "title": "Mens Nostra",
         "type": "Encyclical",
         "date": "1929-12-20",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Benediction.",
+          "it": "Vi sono certamente note, Venerabili Fratelli, le intenzioni che Ci mossero all’inizio di quest’anno a promulgare uno straordinario Giubileo per tutto il mondo cattolico in occasione del cinquantesimo anniversario del Nostro Sacerdozio. Infatti, come abbiamo solennemente dichiarato nella Costituzione Apostolica «Auspicantibus Nobis» del 6 gennaio 1929 [1], non solo intendevamo invitare tutti i diletti figli della grande famiglia, che il Cuore di Dio ha affidato al cuore Nostro, ad unirsi al giubileo del Padre comune per rendere comuni grazie al sommo Datore di ogni bene; ma in modo particolare Ci arrideva la dolce speranza che, aprendo più largamente i tesori spirituali di cui il Signore Ci ha costituiti amministratori, i fedeli ne avrebbero tratto felice opportunità per rinvigorirsi nella fede, per crescere nella pietà e nella perfezione cristiana e per riformare più efficacemente i costumi privati e pubblici: donde, come frutto della piena pacificazione dei singoli con se stessi e con Dio, sarebbe anche venuta la mutua pacificazione degli animi e dei popoli.",
+          "la": "Mens Nostra quae fuerit quive animus, cum, ineunte anno, extraordinarium Iubilaeum universo orbi catholico denuntiavimus ad anniversarium celebrandum diem quo ante quinquaginta annos, sacerdotali consecratione accepta, rei divinae ad altare operati primum sumus, id profecto, Venerabiles Fratres, neminem vestrum fugit. Ut enim Constitutione Apostolica «Auspicantibus Nobis», die 6 Ianuarii 1929 edita, solemniter declaravimus (1), ad id consilii non tantum adducebamur ut dilecti filii Nostri, ingens familia christiana quam benignissimum Dei Cor cordi Nostro credidit, communis Parentis laetitiae in partem vocati, animorum consensione gratias Nobiscum Summo bonorum omnium Datori agerent et haberent; verum etiam quod imprimis arridebat Nobis iucunda spes, fore ut reseratis, paterna liberalitate, caelestium munerum thesauris quorum dispensationi praepositi sumus, christiana plebs felici occasione esset usura ad fidem roborandam, pietatem perfectionemque augendam, moresque privatos et publicos ad Evangelii normam fideliter castigandos; unde, tamquam laetissimus fructus pacis veniaeque a Deo impetratae, pax singulorum atque societatis exspectanda foret.",
+          "es": "1. A ninguno de vosotros, venerables hermanos, se le oculta cuál fue nuestra intención o nuestro ánimo cuando, al comenzar este año, anunciamos al orbe católico un jubileo extraordinario para celebrar el quincuagésimo aniversario de aquel día en que, recibida la ordenación sacerdotal, ofrecimos por vez primera el santo sacrificio del altar."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-xi_enc_19291220_mens-nostra",
@@ -350,17 +495,24 @@
       "id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
         "title": "Fausto Appetente Die",
         "type": "Encyclical",
         "date": "1921-06-29",
-        "excerpt": "Venerable Brethren,Health and The Apostolic Benediction",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and The Apostolic Benediction",
+          "fr": "Vénérables Frères,Salut et bénédiction apostolique.",
+          "it": "Mentre si avvicina il lieto giorno nel quale, settecento anni fa, Domenico, grande astro di santità, passò dalle miserie terrene alle sedi dei beati, a Noi, che da tempo siamo fra i suoi più ferventi devoti, soprattutto da quando cominciammo a reggere la Chiesa di Bologna, che custodisce con religiosissima pietà le sue ceneri, a Noi — diciamo — giunge la grande gioia di poter esortare da questa Cattedra Apostolica il popolo cristiano a celebrare la memoria di un Santo così illustre. Così facendo, non solo intendiamo soddisfare la Nostra devozione, ma riteniamo anche di adempiere ad un grande dovere di gratitudine verso quel Santo legislatore e l’illustre Ordine da lui fondato."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
@@ -371,17 +523,25 @@
       "id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
         "title": "In Praeclara Summorum",
         "type": "Encyclical",
         "date": "1921-04-30",
-        "excerpt": "Beloved Children,Health and the Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Beloved Children,Health and the Apostolic Benediction.",
+          "fr": "Chers Fils,Salut et Bénédiction apostolique.",
+          "it": "Diletti figli, salute e Apostolica Benedizione.",
+          "la": "In praeclara summorum copia hominum, suo splendore et gloria fidem catholicam illustrandum, qui cum in omni genere, tum praesertim in litteris diseiplinisque optimis ita sunt versati ut, immortalibus facultatis suae editis fructibus, de civili societate aeque ac de Ecclesia bene meruerint, singularem plane Dantes Aligherius locum obtinet, cuius ab obitu plenus mox erit annus sexcentesimus. Profecto huius viri praestantia excellens num quam fortasse alias testatior fuit quam hoc tempore; nam ad eius ornandam memoriam non modo sese alacris comparat Italia, cui de tali sobole gloriar licet, sed apud omnes, quotquot sunt, excultas ad humanitatem gentes novimus propria quaedam constituta esse eruditorum consilia ob eam causam: ut hoc humani generis insigne decus communi orbis terrarum praeconio celebretur."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
@@ -392,17 +552,23 @@
       "id": "hf_ben-xv_enc_06011921_sacra-propediem",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_06011921_sacra-propediem",
         "title": "Sacra Propediem",
         "type": "Encyclical",
         "date": "1921-01-06",
-        "excerpt": "Venerable Brethren,Health and Apostolic The Benediction.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic The Benediction.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_06011921_sacra-propediem",
@@ -413,17 +579,24 @@
       "id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
         "title": "Annus Iam Plenus",
         "type": "Encyclical",
         "date": "1920-12-01",
-        "excerpt": "Venerable Brethren,Health and Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic Benediction.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Annus iam plenus est, cum, recenti adhuc bello, christianos omnes appellavimus, ut, Domini Nostri adventante Natali die, misericordia commoverentur puerorum Europae mediae, fame et inopia tam graviter laborantium ut macie extabescerent et mortem oppeterent. Implorationem vero Nostram, ab ea profectam caritate, quae universos, quotquot divinam imaginem in se referunt, nullo stirpium ac nationum discrimine, benigne complectitur, vehementer equidem laetamur non cecidisse irritam; idque est vobis praecipue, Venerabiles Fratres, exploratissimum, qui tam salutari in incepto operam Nobis studiumque vestrum in primis navastis. Etenim, veluti nobilissimo finito liberalitatis certamine, copiosa pecuniae vis undique gentium conrogata est, qua communis omnium Pater tot innocentium puerorum et necessitatibus consuleret et dolorem abstergeret; neque unquam desinemus Dei praedicare benignitatem, cui placuit tanta christianae beneficentiae emolumenta per Nos in derelictos filiolos derivari. Qua in re Nobis temperare non possumus quin Societati « Save the Children Fund » nuncupatae publicum praeconium tribuamus, quod in stipe, vestibus cibariisque colligendis nullam omnino curam ac diligentiam praetermiserit."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
@@ -434,17 +607,24 @@
       "id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
         "title": "Principi Apostolorum Petro",
         "type": "Encyclical",
         "date": "1920-10-05",
-        "excerpt": "Venerable Brothers,Greetings and The Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brothers,Greetings and The Apostolic Benediction.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Principi Apostolorum Petro illud est a divino Ecclesiae Conditore attributum, ut, fide omnis erroris immuni (1) cum Deo cohaerens, tanquam « coriphaeus Apostolici chori » (2) et communis omnium magister ac rector (3) Illius gregem pasceret, qui Ecclesiam suam, in ipsius Petri eiusque successorum visibilis, perennis ac solidi magisterii auctoritate (4) aedificavit (5); qua in mystica petra, idest totius ecclesiastici aedificii fundamento (6) quasi quodam in cardine et centro, non minus catholicae fidei quam christianae caritatis communio consisteret."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
@@ -455,17 +635,25 @@
       "id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
         "title": "Spiritus Paraclitus",
         "type": "Encyclical",
         "date": "1920-09-15",
-        "excerpt": "Since the Holy Spirit, the Comforter, had bestowed the Scriptures on the human race for their instruction in Divine things, He also raised up in successive ages saintly and learned men whose task it should be to develop that treasure and so provide for the faithful plenteous \"consolation from the Scriptures.\"[1] Foremost among these teachers stands St. Jerome. Him the Catholic Church acclaims and reveres as her \"Greatest Doctor,\" divinely given her for the understanding of the Bible. And now that the fifteenth centenary of his death is approaching we would not willingly let pass so favorable an opportunity of addressing you on the debt we owe him. For the responsibility of our Apostolic office impels us to set before you his wonderful example and so promote the study of Holy Scripture in accordance with the teaching of our predecessors, Leo XIII and Pius X, which we desire to apply more precisely still to the present needs of the Church. For St. Jerome - \"strenuous Catholic, learned in the Scriptures,\"[2] \"teacher of Catholics,\"[3] \"model of virtue, world's teacher\"[4] - has by his earnest and illuminative defense of Catholic doctrine on Holy Scripture left us most precious instructions. These we propose to set before you and so promote among the children of the Church, and especially among the clergy, assiduous and reverent study of the Bible.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Since the Holy Spirit, the Comforter, had bestowed the Scriptures on the human race for their instruction in Divine things, He also raised up in successive ages saintly and learned men whose task it should be to develop that treasure and so provide for the faithful plenteous \"consolation from the Scriptures.\"[1] Foremost among these teachers stands St. Jerome. Him the Catholic Church acclaims and reveres as her \"Greatest Doctor,\" divinely given her for the understanding of the Bible. And now that the fifteenth centenary of his death is approaching we would not willingly let pass so favorable an opportunity of addressing you on the debt we owe him. For the responsibility of our Apostolic office impels us to set before you his wonderful example and so promote the study of Holy Scripture in accordance with the teaching of our predecessors, Leo XIII and Pius X, which we desire to apply more precisely still to the present needs of the Church. For St. Jerome - \"strenuous Catholic, learned in the Scriptures,\"[2] \"teacher of Catholics,\"[3] \"model of virtue, world's teacher\"[4] - has by his earnest and illuminative defense of Catholic doctrine on Holy Scripture left us most precious instructions. These we propose to set before you and so promote among the children of the Church, and especially among the clergy, assiduous and reverent study of the Bible.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Spiritus Paraclitus, cum genus humanum, ut arcanis divinitatis imbueret, sacris Litteris locupletasset, sanctissimos doctissimosque viros, labentibus saeculis, non paucos providentissime excitavit, qui non modo caelestem illum thesaurum iacere sine fructu (1) non sinerent, sed suis et studiis et laboribus consolationem indeScripturarumChristifidelibus uberrimam compararent. Hos inter, principem sane, communi omnium consensu, locum obtinet Sanctus Hieronymus, quem Doctorem Maximum sacris Scripturis explanandis divinitus sibi datum catholica agnoscit et veneratur Ecclesia. Iamvero, cum ab eius obitu plenum proxime quintum et decimum saeculum commemoraturi simus, nolumus, Venerabiles Fratres, singularem opportunitatem praetermittere, quin de Hieronymi in scientia Seripturarum lau dibus ac promeritis vos data opera alloquamur. Conscientia enim apostolici muneris impellimur, ut, ad nobilissimam hanc disciplinam provehendam, insigne tanti viri exemplum ad imitandum proponamus, et quae fel. rec. decessores Nostri Leo XIII et Pius X monita et praescripta hoc in genere utilissima ediderunt, eadem, apostolica Nostra auctoritate, confirmemus et ad haec Ecclesiae tempora pressius aptemus. Etenim Hieronymus, « vir maxime catholicus et sacrae legis peritissimus » (2) atque « catholicorum magister » (3) itemque « morum exemplar mundique magister » (4), cum catholicam de sacris Libris doctrinam mirifice illustrarit acriterque defenderit, documenta sane plurima, eaque gravissima, Nobis affert, quae quidem usurpando, filios Ecclesiae universos, clericos potissimum, ad Scripturae divinae reverentiam, cum pia lectione assiduaque commentatione coniunctam, hortemur.",
+          "es": "1.El Espíritu Consolador, habiendo enriquecido al género humano en las Sagradas Letras para instruirlo en los secretos de la divinidad, suscitó en el transcurso de los siglos numerosos expositores santísimos y doctísimos, los cuales no sólo no dejarían infecundo este celestial tesoro[1], sino que habían de procurar a los fieles cristianos, con sus estudios y sus trabajos, la abundantísima consolación de las Escrituras. El primer lugar entre ellos, por consentimiento unánime, corresponde a San Jerónimo, a quien la Iglesia católica reconoce y venera como el Doctor Máximo concedido por Dios en la interpretación de las Sagradas Escrituras."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
@@ -476,17 +664,25 @@
       "id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
         "title": "Pacem, Dei Munus Pulcherrimum",
         "type": "Encyclical",
         "date": "1920-05-23",
-        "excerpt": "Venerable Brethren,Health and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic Benediction.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem",
+          "es": "1. La paz, este hermoso don de Dios, que, como dice San Agustín, «es el más consolador, el más deseable y el más excelente de todos»[1], esa paz que ha sido durante más de cuatro años el deseo de los buenos y el objeto de la oración de los fieles y de las lágrimas de las madres, ha empezado a brillar al fin sobre los pueblos. Nos somos los primeros en alegrarnos de ello. Pero esta paterna alegría se ve turbada por muchos motivos muy dolorosos. Porque, si bien la guerra ha cesado de alguna manera en casi todos los pueblos y se han firmado algunos tratados de paz, subsisten, sin embargo, todavía las semillas del antiguo odio. Y, como sabéis muy bien, venerables hermanos, no hay paz estable, no hay tratados firmes, por muy laboriosas y prolongadas que hayan sido las negociaciones y por muy solemne que haya sido la promulgación de esa paz y de esos tratados, si al mismo tiempo no cesan el odio y la enemistad mediante una reconciliación basada en la mutua caridad. De este asunto, que es de extraordinaria importancia para el bien común, queremos hablaros, venerables hermanos, advirtiendo al mismo tiempo a los pueblos que están confiados a vuestros cuidados."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
@@ -497,17 +693,24 @@
       "id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
         "title": "Paterno Iam Diu",
         "type": "Encyclical",
         "date": "1919-11-24",
-        "excerpt": "Venerable Brethren,Health and Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic Benediction.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Paterno iam diu animo ominabamur atque sperabamus fore, ut, restincto tandem immani bello suscitatoque christianae caritatis spiritu, qual fame et inedia, Europae praesertim mediae, regiones conficiebantur, illae ad meliorem condicionem, concordi bonorum omnium opera et conatu, paulatim adducerentur. Ai vero exspectationem Nostram eventus non omnem explevit; undique enim affertur, frequentissimos eos populos, quos diximus, tanta ciborum vestiumque laborare adhuc inopia, quantam mente effingere vix liceat. Miserrime perditur interea ac profligatur debiliorum corporum valetudo, atque in primis puerorum; quorum calamitate eo vehementius afficimur, quod ipsi non modo ignari insontesque sunt internecivi certaminis, quo terrarum orbem paene totum cruentari vidimus, sed futuri praeterea sunt novarum auctores stirpium quae nativam referent germinis infirmitatem."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
@@ -518,17 +721,24 @@
       "id": "hf_ben-xv_enc_14051919_in-hac-tanta",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_14051919_in-hac-tanta",
         "title": "In Hac Tanta",
         "type": "Encyclical",
         "date": "1919-05-14",
-        "excerpt": "Beloved Son and Venerable Brothers,Greetings and The Apostolic Blessing.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Beloved Son and Venerable Brothers,Greetings and The Apostolic Blessing.",
+          "it": "Diletto Figlio Nostro e Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_14051919_in-hac-tanta",
@@ -539,17 +749,25 @@
       "id": "hf_ben-xv_enc_01121918_quod-iam-diu",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_01121918_quod-iam-diu",
         "title": "Quod Iam Diu",
         "type": "Encyclical",
         "date": "1918-12-01",
-        "excerpt": "Venerable Brethren,Health and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic Benediction.",
+          "it": "Ai Patriarchi, Primati, Arcivescovi, Vescovi ed agli altri Ordinari localiche hanno pace e comunione con la Sede Apostolica.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem",
+          "es": "Venerables Hermanos: Salud y bendición apostólica"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_01121918_quod-iam-diu",
@@ -560,17 +778,25 @@
       "id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
         "title": "Humani Generis Redemptionem",
         "type": "Encyclical",
         "date": "1917-06-15",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Benediction.",
+          "fr": "Aux Vénérables Frères, Patriarches, Primats, Archevêques et Evêques et autres Ordinaires locaux en paix et communion avec le Siège Apostolique",
+          "it": "Ai Patriarchi, Primati, Arcivescovi,Vescovi e agli altri Ordinari localiche hanno pace e comunione con la Sede Apostolica.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
@@ -581,17 +807,25 @@
       "id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
       "pope": {
         "id": "benedict-xv",
-        "name": "Benedict XV",
+        "name": {
+          "en": "Benedict XV",
+          "la": "Benedictus PP. XV"
+        },
         "handle": "benedictxv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=benedictxv"
+        "avatar": "https://api.popefeed.com/popes/benedict-xv.jpg"
       },
       "document": {
+        "id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
         "title": "Ad Beatissimi Apostolorum",
         "type": "Encyclical",
         "date": "1914-11-01",
-        "excerpt": "Venerable Brethren,Greeting and Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Greeting and Apostolic Benediction.",
+          "fr": "A peine fûmes-Nous appelés par les secrets desseins de la Providence, sans aucun mérite de Notre part, à Nous asseoir sur le Siège du bienheureux Prince des Apôtres, que, considérant comme adressée à Nous-mêmes la parole de Notre-Seigneur Jésus-Christ à saint Pierre:Pasce agnos meos, pasce oves meas, (1) Nous tournâmes Nos regards, avec une souveraine affection, vers le troupeau confié à nos soins, troupeau immense en vérité, puisqu'il embrasse, sous un aspect ou sous un autre, l'universalité des hommes. Tous tant qu'ils sont, en effet, ils ont été rachetés de la servitude du péché par Jésus-Christ, qui a offert pour eux le prix de son sang, et il n'en est aucun qui soit exclu des bienfaits de cette rédemption. C'est pourquoi le divin Pasteur a pu dire de tout le genre humain, que pour une part Il le garde déjà enfermé dans l'enceinte de son Eglise, et que l'autre se verra forcée d'y entrer par les douces contraintes de son amour:Et alias oves habeo, quae non sunt ex hoc ovili ; et illas oportet me adducere et vocem meam audient.(2)",
+          "it": "Non appena per gl’inscrutabili disegni della Divina Provvidenza fummo chiamati, senza alcun merito Nostro, ad assiderCi sulla cattedra del beatissimo Principe degli Apostoli, Noi, ascoltando come diretta alla Nostra persona quella stessa voce che Cristo Signore rivolgeva a Pietro, «Pasci i miei agnelli, pasci le mie pecorelle»(1), immediatamente rivolgemmo uno sguardo d’inesprimibile affetto al gregge che veniva affidato alla Nostra cura: gregge veramente immenso, perché abbraccia, quali per un aspetto, quali per un altro, tutti gli uomini. Tutti infatti, quanti essi sono, furono liberati dalla servitù del peccato da Gesù Cristo, che per loro offrì il prezzo del suo sangue; né v’è alcuno che sia escluso dai vantaggi di questa redenzione. Onde il divino Pastore può ben dire che, mentre una parte del genere umano la tiene già avventuratamente accolta nell’ovile della Chiesa, l’altra Egli ve la sospingerà dolcemente: «Ho altre pecore che non sono di quest’ovile; occorre che io le conduca, e ascolteranno la mia voce»(2).",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
@@ -602,17 +836,24 @@
       "id": "hf_p-x_enc_24091912_singulari-quadam",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_24091912_singulari-quadam",
         "title": "Singulari quadam",
         "type": "Encyclical",
         "date": "1912-09-24",
-        "excerpt": "Beloved Son and Venerable Brethren, Health and the Apostolic Blessing.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Beloved Son and Venerable Brethren, Health and the Apostolic Blessing.",
+          "it": "Uno speciale affetto e benevolenza verso i cattolici di Germania, i quali, uniti a questa sede apostolica da un grande spirito di fede e di obbedienza, sogliono combattere con generosità e con forza in favore della chiesa, ci ha spinto, venerabili fratelli, a rivolgere tutto il nostro zelo e la nostra cura all'esame della controversia sulle associazioni operaie, che tra di essi si agita; sulla quale controversia, in questi ultimi anni, già più volte ci avevano dato informazioni, oltre alla maggior parte di voi, anche prudenti e autorevoli persone di entrambe le tendenze. E con tanto zelo ci siamo dedicati a questa cosa, in quanto, nella coscienza dell'apostolico ufficio, comprendiamo che è Nostro sacro dovere sforzarci di far sì che questi Nostri carissimi figli conservino la dottrina cattolica nella sua purezza e integrità, e di non permettere in alcun modo che la stessa loro fede sia messa in pericolo. È chiaro infatti che, se non vengono tempestivamente esortati a vigilare, c'è pericolo che essi, a poco a poco e quasi senza accorgersene, si adattino a una specie di cristianesimo vago e non definito, che si suol chiamare interconfessionale, e che si diffonde sotto la falsa etichetta di comunità cristiana, mentre evidentemente nulla vi è di più contrario alla predicazione di Gesù Cristo. E inoltre, essendo Nostro sommo desiderio di favorire e rafforzare la concordia tra i cattolici, vogliamo rimuovere qualsiasi causa di dissensi, che, disperdendo le forze dei buoni, non possono giovare se non agli avversari della religione; ché anzi desideriamo vivamente che i nostri anche con i loro concittadini che non professano la religione cattolica coltivino quella pace che è indispensabile al governo dell'umana società e alla prosperità dello stato. - Sebbene poi, come abbiamo detto, ci fosse noto lo stato della questione, abbiamo tuttavia voluto, prima di darne un giudizio, chiedere il parere di ciascuno di voi, venerabili fratelli, e ognuno di voi ha risposto alla Nostra richiesta con quella diligenza e con quella prontezza che la gravità della questione richiedeva.",
+          "la": "Dilecte Fili Noster et Venerabiles FratresSalutem et Apostolicam Benedictionem"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-x_enc_24091912_singulari-quadam",
@@ -623,17 +864,23 @@
       "id": "hf_p-x_enc_07061912_lacrimabili-statu",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_07061912_lacrimabili-statu",
         "title": "Lacrimabili Statu",
         "type": "Encyclical",
         "date": "1912-06-07",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Blessing.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Blessing.",
+          "it": "Profondamente commosso per lo stato lagrimevole degli indios dell'America del Sud, il Nostro illustre predecessore Benedetto XIV prese, come vi è noto, seriamente a cuore la loro causa con la letteraImmensa pastorum,in data 22 dicembre 1741; e poiché quasi le cose stesse, deplorate in essa da lui, abbiamo a deplorare tuttora anche Noi in molti luoghi, Ci affrettiamo perciò a richiamare al vostro pensiero la memoria di quella lettera. Ivi infatti, insieme ad altre cose, di questo pure Benedetto si duole, che, cioè, sebbene da lungo tempo la sede apostolica molto si fosse adoperata per sollevare la loro misera sorte, vi fossero tuttavia anche allora «uomini professanti la vera fede, i quali, quasi del tutto dimentichi dei sensi di carità infusi nei nostri cuori dallo Spirito santo, si credono lecito verso i miseri indios, non solamente se privi della luce della fede, ma anche se bagnati del santo lavacro della rigenerazione, o di ridurli in schiavitù o di venderli ad altri come schiavi, o di privarli dei loro beni, e di comportarsi con essi con tale inumanità da distoglierli soprattutto dall'abbracciare la fede di Cristo, e raffermarli sempre più nell'odio contro di essa»."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-x_enc_07061912_lacrimabili-statu",
@@ -644,17 +891,24 @@
       "id": "hf_p-x_enc_24051911_iamdudum",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_24051911_iamdudum",
         "title": "Iamdudum",
         "type": "Encyclical",
         "date": "1911-05-24",
-        "excerpt": "Venerable Brethren,Health and Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and Apostolic Benediction.",
+          "it": "Noi riteniamo che a voi tutti sia ben noto, venerabili fratelli, come già da tempo sia in atto in Portogallo un indicibile susseguirsi di eventi volto ad opprimere la chiesa con misfatti di ogni genere. Chi ignora infatti che da quando ha assunto la forma di repubblica il governo di quella nazione ha immediatamente intrapreso, in un modo o in un altro, a decretare cose tali che manifestano un odio implacabile verso la religione cattolica? Abbiamo visto che sono state tolte di mezzo con la forza le famiglie dei religiosi, e questi, in massima parte, sono stati espulsi in modo rozzo e disumano dai confini del Portogallo. Abbiamo visto che, con la pervicace intenzione di profanare ogni civile disciplina e di non lasciare nessuna vestigia di realtà religiosa nei comportamenti della vita sociale, sono stati eliminati dal numero delle festività i giorni festivi della chiesa; il giuramento è stato privato dell'intrinseca caratteristica religiosa; è stata promulgata in gran fretta la legge relativa al divorzio; è stato eliminato l'insegnamento della dottrina cristiana dalle scuole pubbliche. Infine, lasciando da parte altre cose che sarebbe lungo elencare, in modo ancor più violento da costoro sono stati attaccati i sacri presuli, e due fra i più ragguardevoli vescovi, quello di Porto e quello di Beja, uomini illustri sia per integrità di vita che per grandi benemerenze verso la patria e la chiesa, sono stati cacciati dalle sedi della loro onorabile funzione. - Avendo poi i nuovi governanti del Portogallo prodotto tanti e tali esempi di imperioso arbitrio, voi sapete con quanta pazienza e moderazione si è comportata questa Santa Sede nei loro confronti. Con estrema attenzione infatti abbiamo ritenuto che si dovesse evitare di compiere qualsiasi cosa che potesse ritenersi compiuta in modo ostile verso la repubblica. Conservavamo infatti qualche speranza che costoro manifestassero infine progetti più ragionevoli, e finalmente, con un qualche accordo, dessero soddisfazione alla chiesa riguardo alle offese perpetrate. In verità ci siamo del tutto sbagliati: ecco che all'infame comportamento impongono quasi un compimento con la promulgazione di una pessima e dannosissima legge relativa alla separazione degli affari dello stato e della chiesa. A questo punto la coscienza dell'ufficio apostolico non Ci permette più in alcun modo di sopportare con rassegnazione e di lasciar correre nel silenzio una ferita così grave inferta al diritto e alla dignità della religione cattolica. Quindi, con questa lettera, facciamo appello a voi, venerabili fratelli, e denunciamo alla cristianità universale l'indegnità di questo fatto.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem"
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-x_enc_24051911_iamdudum",
@@ -665,17 +919,24 @@
       "id": "hf_p-x_enc_26051910_editae-saepe",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_26051910_editae-saepe",
         "title": "Editae Saepe",
         "type": "Encyclical",
         "date": "1910-05-26",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Blessing.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Blessing.",
+          "it": "Venerabili fratelli,salute ed apostolica benedizione",
+          "la": "Editae saepe Dei ore sententiae et sacris expressae litteris in hunc fere modum, iusti memoriam fore cum laudibus sempiternam eundemque loqui etiam defunctum [1], diuturna Ecclesiae opera et voce maxime comprobantur. Haec namque sanctitatis parens et altrix, iuvenili robore vigens ac Numinis afflatu semper actapropter inhabitantem spiritum eius in nobis[2], quemadmodum iustorum sobolem nobilissimam ipsa una gignit, enutrit, ulnisque complectitur suis, ita materni amoris instinctu de ipsorum retinenda memoria atque honore instaurando se praebet apprime sollicitam. Ex ea recordatione superna quadam suavitate perfunditur et a mortalis huius peregrinationis miseriis contuendis abducitur, quod beatos illos caelicolas gaudium suum et coronam esse iam cernat; quod in ipsis eminentem agnoscat Sponsi caelestis imaginem; quod novo testimonio suis filiis antiqua dicta confirmet:diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti[3]. Horum autem praeclara facinora, non modo sunt ad commemorandum iucunda, sed etiam ad imitandum illustria, et magnus virtutis excitator est concentus ille sanctorum Paullinae resonans voci:imitatores mei estote sicut et ego Christi[4]."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-x_enc_26051910_editae-saepe",
@@ -686,17 +947,23 @@
       "id": "hf_p-x_enc_21041909_communium-rerum",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_21041909_communium-rerum",
         "title": "Communium Rerum",
         "type": "Encyclical",
         "date": "1909-04-21",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Benediction.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Benediction.",
+          "it": "Fra le acerbità dei tempi e le recenti calamità che opprimono l’animo Nostro di dolore, Ci è di grato conforto la gara unanime, onde tutto il popolo cristiano è stato testé, e continua ad esserespettacolo al mondo e agli angeli ed agli uomini[1]. La qual gara, se dalla vista delle presenti sventure poté avere eccitamento più pronto, come da causa unica provenne dalla carità di Gesù Cristo Signore nostro. E poiché la carità degna di tale nome non è fiorita nel mondo né può fiorire se non per Cristo, da Cristo solo dobbiamo riconoscere ogni frutto ch’ella reca fra noi, anzi pure fra gli stessi uomini rilassati nella fede o nemici della religione, nei quali, se appare qualche vestigio di carità vera, è tutto merito di quella civiltà che Cristo è venuto a portare nel mondo e che essi non sono riusciti ancora a scacciare in tutto da sé e dalla società cristiana."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-x_enc_21041909_communium-rerum",
@@ -707,17 +974,27 @@
       "id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
         "title": "Pascendi Dominici Gregis",
         "type": "Encyclical",
         "date": "1907-09-08",
-        "excerpt": "To the Patriarchs, Primates, Archbishops, Bishopsand other Local Ordinaries in Peaceand Communion with the Apostolic See.",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Patriarchs, Primates, Archbishops, Bishopsand other Local Ordinaries in Peaceand Communion with the Apostolic See.",
+          "fr": "Aux Patriarches, Primats, Archevêques et Evêques, en grâce et communion avec le Siège Apostolique.Vénérables Frères,Salut et Bénédiction Apostolique.1. A la mission qui Nous a été confiée d'en haut de paître le troupeau du Seigneur, Jésus-Christ a assigné comme premier devoir de garder avec un soin jaloux le dépôt traditionnel de la foi, à l'encontre des profanes nouveautés de langage comme des contradictions de la fausse science. Nul âge, sans doute, où une telle vigilance ne fût nécessaire au peuple chrétien: car il n'a jamais manqué, suscités par l'ennemi du genre humain, d'hommes au langage pervers (1), diseurs de nouveautés et séducteurs (2), sujets de l'erreur et entraînant à l'erreur (3). Mais, il faut bien le reconnaître, le nombre s'est accru étrangement, en ces derniers temps, des ennemis de la Croix de Jésus-Christ qui, avec un art tout nouveau et souverainement perfide, s'efforcent d'annuler les vitales énergies de l'Eglise, et même, s'ils le pouvaient, de renverser de fond en comble le règne de Jésus-Christ. Nous taire n'est plus de mise, si Nous voulons ne point paraître infidèle au plus sacré de Nos devoirs, et que la bonté dont Nous avons usé jusqu'ici, dans un espoir d'amendement, ne soit taxée d'oubli de Notre charge.",
+          "it": "L'officio divinamente commessoCi di pascere il gregge del Signore ha, fra i primi doveri imposti da Cristo, quello di custodire con ogni vigilanza il deposito della fede trasmessa ai santi, ripudiando le profane novità di parole e le opposizioni di una scienza di falso nome. La quale provvidenza del Supremo Pastore non vi fu tempo che non fosse necessaria alla Chiesa cattolica: stanteché per opera del nemico dell'uman genere, mai non mancarono \"uomini di perverso parlare (Act. XX, 30), cianciatori di vanità e seduttori (Tit. I, 10), erranti e consiglieri agli altri di errore (IITim. III, 13)\". Pur nondimeno gli è da confessare che in questi ultimi tempi, è cresciuto oltre misura il numero dei nemici della croce di Cristo; che, con arti affatto nuove e piene di astuzia, si affaticano di render vana la virtù avvivatrice della Chiesa e scrollare dai fondamenti, se venga lor fatto, lo stesso regno di Gesù Cristo. Per la qual cosa non Ci è oggimai più lecito di tacere, seppur non vogliamo aver vista di mancare al dovere Nostro gravissimo, e che Ci sia apposta a trascuratezza di esso la benignità finora usata nella speranza di più sani consigli.",
+          "la": "Pascendi dominici gregis mandatum Nobis divinitus officium id munus in primis a Christo assignatum habet, ut traditae sanctis fidei depositum vigilantissime custodiat, repudiatis profanis vocum novitatibus atque oppositionibus falsi nominis scientiae. Quae quidem supremi providentia pastoris nullo plane non tempore catholico agmini necessaria fuit; etenim, auctore humani generis hoste, numquam defuereviri loquentesperversa (Act. xx. 30),vaniloqui et seductores(Tit. i. 10),errantes et in errorem mittentes(II. Tim. iii. 13). Verumtamen inimicorum crucis Christi, postrema hac aetate, numerum crevisse admodum fatendum est; qui, artibus omnino novis astuque plenis, vitalem Ecclesiae vim elidere, ipsumque, si queant, Christi regnum evertere funditus nituntur. Quare silere Nobis diutius haud licet, ne muneri sanctissimo deesse videamur, et benignitas, qua, spe sanioris consilii, huc usque usi sumus, officii oblivio reputetur.",
+          "pt": "Veneráveis Irmãos,saúde e bênção apostólica",
+          "es": "Al oficio de apacentar la grey del Señor que nos ha sido confiada de lo alto, Jesucristo señaló como primer deber el de guardar con suma vigilancia el depósito tradicional de la santa fe, tanto frente a las novedades profanas del lenguaje como a las contradicciones de una falsa ciencia. No ha existido época alguna en la que no haya sido necesaria a la grey cristiana esa vigilancia de su Pastor supremo; porque jamás han faltado, suscitados por el enemigo del género humano, «hombres de lenguaje perverso»(1), «decidores de novedades y seductores»(2), «sujetos al error y que arrastran al error»(3)."
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
@@ -728,17 +1005,23 @@
       "id": "hf_p-x_enc_06011907_une-fois-encore",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_06011907_une-fois-encore",
         "title": "Une Fois Encore",
         "type": "Encyclical",
         "date": "1907-01-06",
-        "excerpt": "Venerable Brethren and Beloved Sons, Health and Apostolic Benediction.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren and Beloved Sons, Health and Apostolic Benediction.",
+          "fr": "A Nos vénérés Frères les Cardinaux, Archevêques et Evêques de France, au Clergé et au Peuple français"
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-x_enc_06011907_une-fois-encore",
@@ -749,17 +1032,24 @@
       "id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
         "title": "Gravissimo Officii Munere",
         "type": "Encyclical",
         "date": "1906-08-10",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Benediction.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Benediction.",
+          "it": "Noi aderiamo oggi a un grave dovere della Nostra carica, dovere assunto nei vostri riguardi allorché annunciammo, dopo la promulgazione della legge di rottura fra la Repubblica Francese e la Chiesa, che avremmo indicato a tempo opportuno ciò che a Noi sarebbe apparso necessario di fare per difendere e conservare la Religione nella vostra patria.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
@@ -770,17 +1060,23 @@
       "id": "hf_p-x_enc_28071906_pieni-l-animo",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_28071906_pieni-l-animo",
         "title": "Pieni L'Animo",
         "type": "Encyclical",
         "date": "1906-07-28",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Blessing.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Blessing.",
+          "it": "Pieni l'animo di salutare timore per la ragione severissima, Che dovremo rendere un giorno al Principe dei pastori Gesù Cristo a riguardo del gregge da Lui affidatoCi, passiamo i dì Nostri in una Continua sollecitudine, a preservare, quanto è possibile, i fedeli dai mali perniciosissimi, onde è afflitta di presente l'umana società. Teniamo perciò come detta a Noi la parola del profeta «Parla senza mai stancarti, fa' che la tua voce sia forte come una tromba» (Is.LVIII, 1); e non manchiamo, ora di viva voce ed ora per lettere, di avvertire, di pregare, di riprendere, eccitando sopra tutto lo zelo dei Nostri fratelli nell'episcopato, onde spieghi Ciascuno la più sollecita vigilanza sulla porzione dell'ovile, a cui lo Spirito Santo lo ebbe preposto."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-x_enc_28071906_pieni-l-animo",
@@ -791,17 +1087,23 @@
       "id": "hf_p-x_enc_05041906_tribus-circiter",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_05041906_tribus-circiter",
         "title": "Tribus Circiter",
         "type": "Encyclical",
         "date": "1906-04-05",
-        "excerpt": "Venerable Brethren, Health and the Apostolic Benediction.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren, Health and the Apostolic Benediction.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_p-x_enc_05041906_tribus-circiter",
@@ -812,17 +1114,25 @@
       "id": "hf_p-x_enc_11021906_vehementer-nos",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_11021906_vehementer-nos",
         "title": "Vehementer Nos",
         "type": "Encyclical",
         "date": "1906-02-11",
-        "excerpt": "To Our Well-beloved Sons, Francois Marie Richard, Cardinal Archbishop of Paris; Victor Lucien Lecot, Cardinal Archbishop of Bordeaux; Pierre Hector Couillie, Cardinal Archbishop of Lyons; Joseph Guillaume Laboure, Cardinal Archbishop of Rennes; and to all Our Venerable Brethren, the Archbishops and Bishops, and to all the Clergy and People of France.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To Our Well-beloved Sons, Francois Marie Richard, Cardinal Archbishop of Paris; Victor Lucien Lecot, Cardinal Archbishop of Bordeaux; Pierre Hector Couillie, Cardinal Archbishop of Lyons; Joseph Guillaume Laboure, Cardinal Archbishop of Rennes; and to all Our Venerable Brethren, the Archbishops and Bishops, and to all the Clergy and People of France.",
+          "fr": "Aux archevêques, évêques, au clergé et au peuple français, à nos bien aimés fils : François-Marie Richard, cardinal prêtre de la Sainte Eglise romaine, archevêque de Paris ; Victor-Lucien Lecot, cardinal prêtre de la Sainte Eglise romaine, archevêque de Bordeaux ; Pierre-Hector Coullié, cardinal prêtre de la Sainte Eglise romaine, archevêque de Lyon ; Joseph-Guillaume Labouré, cardinal prêtre de la Sainte Eglise romaine, archevêque de Rennes, et à tous nos vénérables frères, les archevêques et évêques et à tout le clergé et le peuple français, Pie X, Pape :Vénérables frères, bien aimés fils, salut et bénédiction apostolique.",
+          "it": "Siamo pieni d'inquietitudine e d'angoscia quando soffermiamo il pensiero su di voi. E come potrebbe essere diversamente, dopo la promulgazione della legge che, spezzando violentemente i legami secolari, con i quali la vostra Nazione era unita alla Sede Apostolica, crea alla Chiesa cattolica in Francia una situazione indegna di lei e quanto mai lamentevole?",
+          "la": "Venerabiles Fratres et dilecti Filii salutem et Apostolicam, benedictionem."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-x_enc_11021906_vehementer-nos",
@@ -833,17 +1143,25 @@
       "id": "hf_p-x_enc_11061905_il-fermo-proposito",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_11061905_il-fermo-proposito",
         "title": "Il Fermo Proposito",
         "type": "Encyclical",
         "date": "1905-06-11",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Blessing.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Blessing.",
+          "fr": "Aux Evêques d'ItalieVénérables Frères, Salut et Bénédiction apostolique.",
+          "it": "Il fermo proposito, che fin dai primordi del Nostro Pontificato abbiamo concepito, di voler consacrare tutte le forze che la benignità del Signore si degna concederCi alla restaurazione di ogni cosa in Cristo, Ci risveglia nel cuore una grande fiducia nella potente grazia di Dio, senza la quale nulla di grande e di fecondo per la salute delle anime possiamo pensare od imprendere quaggiù. Nello stesso tempo però sentiamo più che mai vivo il bisogno di essere secondati unanimemente e costantemente nella nobile impresa da voi, Venerabili Fratelli, chiamati a parte dell’ufficio Nostro pastorale, da ognuno del Clero e dei singoli fedeli alle vostre cure commessi. Tutti in vero nella Chiesa di Dio siamo chiamati a formare quell’unico corpo, il cui capo è Cristo: corpo strettamente compaginato, come insegna l’Apostolo Paolo (Eph. IV, 16), e ben commesso in tutte le sue giunture comunicanti, e questo in virtù dell’operazione proporzionata di ogni singolo membro, onde il corpo stesso prende l’aumento suo proprio e di mano in mano si perfeziona nel vincolo della carità. E se in quest’opera di \"edificazione Corpo di Cristo\" (Eph. IV, 12) è Nostro primo ufficio d’insegnare, additare il retto modo da seguire e proporne i mezzi, di ammonire ed esortare paternamente, è altresì dovere di tutti i Nostri figliuoli dilettissimi, sparsi pel mondo, di accogliere le parole Nostre, di attuarle dapprima in se stessi e di concorrere efficacemente ad attuarle eziandio negli altri, ciascuno secondo la grazia da Dio ricevuta, secondo il suo stato ed ufficio, secondo lo zelo che ne infiamma il cuore.",
+          "la": "Venerabiles Fratres,salutem et Apostolicam benedictionem."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-x_enc_11061905_il-fermo-proposito",
@@ -854,17 +1172,25 @@
       "id": "hf_p-x_enc_15041905_acerbo-nimis",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_15041905_acerbo-nimis",
         "title": "Acerbo Nimis",
         "type": "Encyclical",
         "date": "1905-04-15",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Blessing.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Blessing.",
+          "fr": "Vénérables Frères,Salut et Bénédiction Apostolique.C’est dans un temps bien ingrat et difficile que les secrets desseins de Dieu ont appelé Notre petitesse à exercer la charge de suprême Pasteur sur tout le troupeau du Christ. L’homme ennemi rôde depuis longtemps autour de la bergerie et l’assiège d’embûches si perfidement calculées qu’on croit voir réalisée, maintenant plus que jamais, la prédiction de l’Apôtre aux Anciens de l’Eglise d’Ephèse : Je sais que parmi vous pénétreront des loups ravisseurs, qui n’épargneront pas le troupeau. (Act. XX, 29)De cet amoindrissement des choses religieuses, tous ceux qui ont encore le zèle de la gloire divine recherchent les causes et les raisons ; les uns en donnent une, les autres une autre, et chacun selon son opinion propose des moyens différents pour défendre ou rétablir le règne de Dieu sur terre. Quant à Nous, Vénérables Frères, sans désapprouver le reste, Nous croyons qu’il faut adhérer au jugement de ceux qui attribuent le relâchement actuel des âmes et leur faiblesse, avec les maux si graves qui en résultent, principalement à l’ignorance des choses divines. C’est exactement ce que Dieu disait par la bouche du Prophète Osée : Il n’y a plus de science de Dieu sur la terre. La calomnie, le mensonge, l’homicide, le vol et l’adultère débordent, et le sang suit le sang. Voilà pourquoi la terre gémira et tous ceux qui l’habitent seront affaiblis. (Osée, IV, 1)Et en effet, qu’il y ait actuellement dans le peuple chrétien bon nombre d’hommes absolument ignorants des choses qu’on doit connaître pour son salut éternel, c’est une plainte générale et malheureusement trop fondée. Et quand Nous parlons du peuple chrétien, Nous n’entendons pas seulement le petit peuple ou les gens de la classe inférieure, qui souvent trouvent encore une sorte d’excuse à leur ignorance, parce qu’ils dépendent de maîtres durs et ne sont guère libres de songer à eux-mêmes et à leurs intérêts. Il s’agit aussi et surtout de ceux qui, ne manquant ni de talent ni de culture, possèdent abondamment la science profane, mais qui, pour ce qui regarde la Religion, vivent absolument à l’aventure et sans réflexion. On peut à peine dire de quelles épaisses ténèbres ils sont enveloppés, et, chose plus affligeante, ils y demeurent tranquillement plongés ! Dieu, le souverain Auteur et Maître de toutes choses, la Sagesse de la Foi chrétienne, ils n’y pensent presque jamais. L’Incarnation du Verbe de Dieu, la Rédemption du genre humain accomplie par Lui, ils n’en savent rien ; rien non plus de la Grâce, qui est le grand moyen d’acquérir les biens éternels; rien de l’auguste Sacrifice ni des Sacrements, par lesquels nous obtenons et gardons en nous cette Grâce. Quant au péché, on ne tient nul compte de ce qu’il renferme de malice ou de honte; par suite, nul souci de l’éviter ou de s’en débarrasser; et ainsi l’on arrive au dernier jour. Alors, quand il ne reste à l’agonisant que quelques instants qui devraient être consacrés à des Actes d’amour pour Dieu, le Prêtre, afin de ne pas laisser perdre tout espoir de salut, est contraint de les employer à un enseignement sommaire de la Religion: trop heureux encore si le moribond n’est pas tellement dominé par une coupable ignorance, comme il arrive trop souvent, qu’il juge inutile toute intervention du prêtre et croie pouvoir, le cœur léger, sans avoir rien fait pour apaiser Dieu, entrer dans le redoutable chemin de l’Eternité. Aussi Notre prédécesseur Benoît XIV a eu raison d’écrire: Nous affirmons qu’une grande partie de ceux qui sont condamnés aux supplices éternels doivent cet irréparable malheur à l’ignorance des Mystères de la Foi, qu’on doit nécessairement savoir et croire pour être admis au nombre des élus. (Instit., XXVI, 18)Les choses étant ainsi, comment s’étonner, Vénérables Frères, si l’on voit régner en ce moment et se développer de jour en jour, non point chez les nations barbares, mais parmi les peuples qui portent le nom de Chrétiens, une telle corruption de mœurs et une telle dépravation des habitudes ? L’Apôtre Paul, écrivant aux Ephésiens, disait: Que la fornication et tout genre d’impureté, ainsi que l’avarice, ne soient même pas nommés parmi vous, comme il convient à des Saints, et qu’il n’y ait aussi ni turpitude ni sots discours (Ephes., V, 3). Mais à cette sainteté et à cette pudeur qui refrènent les passions, il donne pour fondement l’intelligence des choses divines: Prenez donc garde, Frères, de marcher avec précaution, non comme des insensés, mais comme des sages. Ne devenez pas des imprévoyants, mais des hommes qui comprennent la Volonté de Dieu (Ephes., V, 15).Et c’est avec grande raison. Car la volonté de l’homme garde à peine un reste de cet amour de l’honnête et du juste, que Dieu son Créateur avait mis en lui et qui l’entraînait en quelque sorte vers le bien, non pas apparent, mais réel. Dépravée par la corruption du péché originel et ne connaissant plus, pour ainsi dire, Dieu son Créateur, elle dirige toutes ses intentions vers l’amour de la vanité et la recherche du mensonge. Cette volonté égarée et aveuglée par les mauvaises passions a donc besoin d’un guide qui lui montre le chemin, pour la faire rentrer dans les sentiers de la justice qu’elle a eu le tort d’abandonner. Ce guide, nous n’avons pas à le chercher au dehors, il nous est donné par la nature: c’est notre intelligence. S’il lui manque la vraie Lumière, c’est à dire la connaissance des choses divines, ce sera l’histoire de l’aveugle conduisant un aveugle: tous deux tombent dans le fossé. Le saint roi David, louant Dieu d’avoir mis la lumière de la Vérité dans l’intelligence humaine, disait : La lumière de Votre face, ô Seigneur, est empreinte sur nous (Ps. IV, 7). Et l’effet de cette communication de la Lumière, il l’indique en ajoutant: Vous m’avez mis la joie dans mon cœur, - cette joie qui, dilatant notre cœur, nous fait courir dans la voie des divins Préceptes.Un peu de réflexion éclaircira ce point. La Doctrine chrétienne nous manifeste Dieu et Ses infinies perfections bien plus clairement que ne le font les facultés naturelles. Cette Doctrine nous oblige à honorer Dieu par la Foi, qui vient de l’intelligence; par l’Espérance, qui vient de la volonté; par la Charité, qui vient du cœur, et ainsi elle soumet tout l’homme au souverain Créateur et Maître. De même, la doctrine de Jésus-Christ est la seule qui nous révèle la véritable et haute dignité de l’homme: car elle nous le présente comme Fils du Père qui est aux cieux, fait à Son image et destiné à vivre avec Lui dans l’Eternité bienheureuse. De cette dignité et de sa connaissance, le Christ déduit pour les hommes l’obligation de s’aimer les uns les autres comme des Frères, et de vivre ici-bas comme il sied à des enfants de lumière, non dans les festins et les orgies, non dans la débauche et l’impudicité, non dans les disputes et les rivalités (Rom., XIII, 13); Il veut aussi que nous jetions dans le sein de Dieu tous nos soucis, parce qu’Il a soin de nous; Il nous commande de donner aux pauvres, de faire du bien à ceux qui nous haïssent, de préférer les intérêts éternels de l’âme aux biens passagers de ce monde. Et sans toucher à tous les détails, n’est-ce pas l’enseignement du Christ qui, à l’homme aux prétentions orgueilleuses, conseille et prescrit cet abaissement de soi qui conduit à la véritable gloire? Quiconque s’humiliera... sera le plus grand dans le Royaume des cieux (Matth., XVIII, 4). La même Doctrine nous enseigne la prudence de l’esprit, qui nous met en garde contre la prudence de la chair; la justice, qui nous fait accorder à chacun son droit; la force, qui nous dispose à tout souffrir, le cœur haut, pour Dieu et pour l’éternelle béatitude; enfin la tempérance, qui nous porte à chérir même la pauvreté, pour le Royaume de Dieu, et à nous glorifier jusque dans la croix, sans souci de l’humiliation. Il est donc établi que non seulement notre intelligence emprunte à la Doctrine chrétienne la lumière qui lui permet d’acquérir la vérité, mais aussi que notre volonté y puise l’ardeur qui nous élève à Dieu et nous unit à Lui par l’exercice de la vertu.Loin de nous, toutefois, d’en conclure que la perversité du cœur et la corruption des mœurs ne puissent se rencontrer avec la science de la Religion. Plût à Dieu que les faits prouvassent moins souvent le contraire ! Ce que Nous affirmons, c’est que, chez les hommes dont l’intelligence est enveloppée des ténèbres d’une épaisse ignorance, il ne saurait subsister de volonté droite ni de mœurs pures. Celui qui marche les yeux ouverts peut sans doute s’écarter du chemin droit et vrai: mais celui qui est frappé de cécité va sûrement au devant du danger. Ajoutez-y que la corruption des mœurs, là où la lumière de la Foi n’est pas absolument éteinte, laisse quelque espoir d’amendement; mais quand la dépravation des mœurs et la disparition de la Foi par suite de l’ignorance se trouvent réunies, il n’y a plus guère de remède et la route est ouverte pour la ruine finale.Puis donc que l’ignorance de la Religion cause tant et de si graves dommages et que, d’autre part, l’Instruction religieuse est si nécessaire et si utile (car on attendrait en vain l’accomplissement de ses devoirs chrétiens d’un homme qui les ignore), il faut voir maintenant à qui incombe le soin de préserver les intelligences de cette ignorance fatale et de leur inculquer la science nécessaire.Là-dessus, Vénérables Frères, le doute n’est pas possible : cette charge très grave regarde tous les Pasteurs des âmes. De par le précepte du Christ, ils sont tenus de connaître et de nourrir les brebis qui leur sont confiées. Or, ici, nourrir, c’est tout d’abord enseigner: Je vous donnerai (ainsi que Dieu le promettait par Jérémie) des Pasteurs selon Mon cœur, et ils vous nourriront de science et de doctrine (Jér., III, 15). De là ces paroles de l’Apôtre: Le Christ ne m’a pas envoyé baptiser, mais évangéliser (ICor., I, 17). Il veut dire que le premier rôle de ceux qui sont préposés d’une façon quelconque au gouvernement de l’Eglise est d’apprendre aux Fidèles les choses saintes.Nous jugeons superflu de faire l’éloge de cet enseignement et de montrer de quel prix il est devant Dieu. Assurément, la pitié que nous témoignons aux pauvres pour le soulagement de leur détresse reçoit de Dieu de grandes louanges; mais qui pourrait nier le mérite bien supérieur du zèle et du travail que nous employons à procurer, non pas des avantages passagers aux corps, mais des biens éternels aux âmes, en les instruisant et les exhortant ? Non, rien ne saurait être plus désirable, rien plus agréable pour Jésus-Christ le Sauveur des âmes, qui a dit de Lui-même par la bouche d’Isaïe: Il M’a envoyé évangéliser les pauvres (Luc, IV, 18).Mais il importe ici, Vénérables Frères, de nous arrêter à une réflexion spéciale et d’y insister: c’est qu’il n’existe pas pour le Prêtre, quel qu’il soit, de devoir plus grave ni d’obligation plus étroite. Car qui niera que le Prêtre doive joindre la science à la sainteté de vie ? Les lèvres du Prêtre garderont la science (Malach. , II, 7). Et, en effet, l’Eglise l’exige très sévèrement de ceux qui doivent être initiés au Sacerdoce. Pourquoi ? Parce que le peuple chrétien attend d’eux la connaissance de la loi divine et que Dieu les destine à la distribuer : Ils demanderont à sa bouche la Loi parce qu’il est l’ange du Dieu des armées (Ibid.).C’est pour cela que l’Evêque au moment de l’ordination, s’adressant aux candidats du sacerdoce, leur dit : Que votre Doctrine soit pour le peuple de Dieu une médecine spirituelle; que tous soient de prévoyants collaborateurs de notre charge, en sorte que, méditant jour et nuit la Loi sainte, ils croient ce qu’il auront lu et enseignent ce qu’ils croiront (Pontif.Rom.).Si ces choses regardent tous les Prêtres, que dirons-nous de ceux qui, honorés du titre et du pouvoir de Curés, remplissent la charge de Directeur des âmes en vertu de leur dignité et d’une sorte de contrat? Ceux-là, dans une certaine mesure, doivent prendre rang parmi les Pasteurs et les Docteurs que le Christ a établis pour que les Fidèles ne soient plus comme des enfants, flottants et emportés à tout vent de doctrine, par la malice des hommes..., mais que, confessant la Vérité, ils croissent à tous égards dans la Charité, en Celui qui est notre Chef, le Christ (Ephes., IV,14,15).C’est pourquoi le saint Concile de Trente, traitant des Pasteurs des âmes, déclare que leur premier et principal devoir est d’instruire le Peuple chrétien (Sess. V, 2 ; sess. XXII, 8 ; sess. XXIV, 4 et 7). Il leur ordonne donc, au moins les Dimanches et jours de Fêtes solennelles, de parler au peuple sur la Religion ; au saint Temps de l’Avent et du Carême, ils doivent le faire chaque jour, ou du moins trois fois par semaine. Ce n’est pas tout. Il ajoute que les Curés sont tenus, au moins les Dimanches et Fêtes, par eux-mêmes ou par d’autres, d’instruire les enfants dans les Vérités de la Foi et de les former à l’obéissance envers Dieu et leurs parents. Quand il s’agira d’administrer les Sacrements, il veut qu’on instruise de leur vertu ceux qui doivent y participer, en employant un langage facile et usuel.Notre prédécesseur Benoît XIV a résumé et précisé, dans sa ConstitutionEtsiminime, toutes ces prescriptions du saint Concile: Deux principales obligations ont été imposées par le Concile de Trente aux Pasteurs des âmes : l’une, d’adresser au peuple, les jours fériés, des discours sur les choses divines; l’autre d’apprendre aux enfants et à tous les ignorants les éléments de la Loi divine et de la Foi. Le sage Pontife a raison de distinguer les deux obligations, celle du discours qui consiste dans l’explication de l’Evangile et celle de l’Instruction religieuse. Peut-être, en effet, certains Prêtres, désireux de diminuer leur besogne, voudraient se persuader que le Prône peut tenir lieu de catéchèse: il suffit de réfléchir pour voir que c’est une erreur. Le discours qu’on fait sur le saint Evangile s’adresse à des auditeurs qui doivent déjà posséder les éléments de la Foi. On peut appeler cela le pain qu’on distribue aux adultes. Mais l’enseignement catéchétique est ce lait dont l’Apôtre saint Pierre dit que les Fidèles doivent le désirer sans artifice comme des enfants nouveau-nés.La tâche du Catéchiste consiste à prendre pour sujet une Vérité qui se rapporte à la Foi ou à la morale chrétienne, et à la mettre en lumière sous toutes ses faces. Mais, comme le but de l’enseignement doit être la réforme de la vie, le Catéchiste comparera ce que Dieu commande de faire et ce que les hommes font dans la réalité. Puis, profitant des exemples qu’il aura su tirer à propos soit des saintes Ecritures, soit de l’Histoire ecclésiastique ou de la Vie des Saints, il expliquera aux auditeurs et leur montrera, pour ainsi dire du doigt, comment ils ont à régler leur conduite. Il terminera par une exhortation qui puisse leur faire détester et fuir les vices et leur faire suivre le chemin de la vertu.Nous savons bien que cet enseignement de la Doctrine chrétienne déplaît à beaucoup, sous prétexte qu’il est médiocrement estimé, d’ordinaire, et peu fait pour gagner les faveurs du public. Cette appréciation, à Notre avis, est celle d’hommes qui prennent pour guide la légèreté plutôt que la vérité. Nous ne refusons pas Notre juste approbation aux orateurs sacrés qui, par un zèle sincère pour la gloire de Dieu, s’emploient à venger et à défendre la Foi ou à louer les Saints; mais leur travail demande un autre travail préalable, celui des Catéchistes: si ce dernier fait défaut, les fondements font défaut, et c’est en vain que travailleront ceux qui bâtissent la demeure. Trop souvent il arrive que des discours très élégants, accueillis par les applaudissements d’un auditoire très nombreux, n’aboutissent qu’à chatouiller les oreilles, sans remuer les cœurs. Au contraire, une Instruction catéchétique, bien que modeste et simple, sera cette parole que Dieu Lui-même exalte par la voix d’Isaïe : Comme la pluie et la neige descendent du ciel et n’y retournent pas, mais abreuvent la terre, la fécondent et la font germer, fournissent la semence au semeur et le pain à l’affamé : telle la parole qui sort de Ma bouche. Elle ne reviendra pas à Moi sans effet, mais elle accomplira tout ce que Je voulais et produira les fruits pour lesquels Je l’ai envoyée (Isai., LV, 10,11).Nous croyons qu’il faut en penser autant de ces Prêtres qui, pour mettre en lumière les Vérités de la Religion, composent des ouvrages de grand travail: ils méritent les plus beaux éloges. Cependant, combien petit est le nombre de ceux qui étudient ces volumes et en retirent un fruit proportionné au travail des auteurs et à leurs vœux ! L’enseignement de la Doctrine chrétienne, s’il est bien donné, n’est jamais sans profit pour les auditeurs.Et, pour enflammer le zèle des Ministres de Dieu, il sera bon de le répéter encore: grand est le nombre - et il grandit tous les jours - de ceux qui ignorent tout, en fait de Religion, ou qui ont de Dieu et de la Foi chrétienne une connaissance si insuffisante qu’elle ne les empêche pas, dans le plein jour de la Vérité catholique, de vivre à la façon des idolâtres. Combien, hélas! nous ne disons pas d’enfants, mais d’adultes et d’hommes sur le déclin de l’âge, qui ne savent rien des principauxMystères de la Foi et qui, entendant nommer le Christ, répondent: Qui est-Il..., pour que je croie en Lui ? (2)De là vient qu’ils ne se font pas un reproche de susciter et d’entretenir des haines, d’établir les contrats les plus injustes, de se livrer à des spéculations malhonnêtes, d’accaparer le bien d’autrui par une lourde usure, et autres méfaits pareils. En outre, ignorant la Loi du Christ qui ne condamne pas seulement les actes honteux, mais défend même d’y penser volontairement et de les désirer, il se peut bien que, pour une raison ou pour une autre, il se gardent des plaisirs coupables, mais ils accueilleront sans le moindre scrupule les pensées les plus impures, multipliant les iniquités au delà du nombre de leurs cheveux. Et ces choses se rencontrent (disons-le encore une fois) non pas seulement dans les campagnes ou chez le pauvre peuple, mais aussi, et peut-être plus fréquemment, chez des hommes d’une classe plus élevée, voire même chez ceux que la science gonfle, qui, forts, d’une vaine érudition, croient pouvoir se moquer de la Religion et blasphèment tout ce qu’ils ignorent.Or, si l’on ne saurait attendre une moisson d’une terre qui n’aurait pas reçu de semence, comment espérer des générations ayant des bonnes mœurs, si elles n’ont pas été, à temps, instruites dans la Doctrine chrétienne ? De là nous devons conclure que, si la Foi s’est alanguie de nos jours au point d’être presque mourante chez beaucoup, c’est que le devoir de l’Instruction religieuse est accompli trop négligemment ou complètement omis. Car on aurait tort, pour se donner une semblant d’excuse, de dire que la Foi nous est accordée en don gratuit et conférée à chacun dans le saint Baptême. Sans doute, nous tous qui sommes baptisés en Jésus-Christ, nous avons en nous la Foi infuse: mais cette semence divine ne monte pas et ne pousse pas de fortes branches, si elle est abandonnée à elle-même et réduite à n’agir que par une sorte de vertu innée. Il existe aussi dans l’homme, dès qu’il vit, une intelligence: elle a pourtant besoin de la parole maternelle, qui l’éveille en quelque sorte et la met, comme on dit, en action. Il n’en arrive pas autrement au Chrétien, qui, en renaissant dans l’eau et le Saint-Esprit, porte désormais en lui la Foi: il lui faut néanmoins l’enseignement de l’Eglise, pour que cette Foi puisse s’alimenter, grandir et fructifier. C’est en ce sens que l’Apôtre disait: La Foi vient de la prédication entendue et la prédication se fait par la Parole du Christ (Rom., X, 17); et pour montrer la nécessité de l’enseignement, il ajoute : Comment entendront-ils sans un prédicateur (Ibid., 14) ?Si les explications qui précèdent démontrent de quelle importance est l’Instruction religieuse du peuple, Nous devons veiller avec le plus grand soin à ce que l’enseignement de la Doctrine chrétienne, qui (selon l’expression de Notre prédécesseur Benoît XIV) est l’institution utile entre toutes pour la gloire de Dieu et le salut des âmes, reste partout en vigueur ou, s’il est négligé quelque part, soit restauré.Voulant donc, Vénérables Frères, satisfaire à ce très grave devoir du suprême Apostolat et assurer partout, pour une pratique si importante, une seule et même méthode, de Notre autorité suprême, Nous établissons et ordonnons expressément ce qui suit, pour être observé et exécuté dans tous les Diocèses :1. Tous les Curés et, en général, tous ceux qui ont charge d’âmes, aux jours de Dimanches et de Fêtes de l’année sans en excepter aucun, pendant une heure entière, enseigneront, d’après un petit livre de Catéchisme, aux enfants des deux sexes, ce qu’ils doivent croire et pratiquer pour faire leur salut.2. De plus, à des époques fixes de l’année, ils prépareront les garçons et les filles, par une instruction faite plusieurs jours de suite, à bien recevoir les sacrements de Pénitence et de Confirmation.3. De même et avec un soin très spécial, tous les jours du Carême et, s’il en est besoin, à d’autres jours encore après les Fêtes de Pâques, ils disposeront les jeunes garçons et les jeunes filles, par les leçons et les exhortations convenables, à s’approcher saintement pour la première fois de la sainte Table.4. Dans toute et chaque Paroisse sera établie canoniquement une Association dite de la Doctrine chrétienne. Par elle, les Curés, surtout là où le nombre des prêtres est trop petit, trouveront, pour les aider dans l’enseignement du Catéchisme, des Laïques qui se dévoueront à ce ministère par zèle pour la gloire de Dieu et aussi pour gagner les indulgences que les Pontifes romains ont largement dispensées.5. Dans les villes plus considérables, dans celles surtout qui ont des Universités, des Lycées, des Collèges, on fondera des cours de Religion pour instruire dans les Vérités de la Foi et dans les pratiques de la Vie chrétienne les jeunes gens qui fréquentent des écoles publiques où la Religion ne figure pas au programme.6. Mais parce que, de nos temps surtout, l’âge plus avancé n’a pas moins besoin d’enseignement religieux que l’enfance, tous les Curés et les autres Prêtres ayant charge d’âmes, sans préjudice de l’Homélie ordinaire sur l’Evangile qui doit se faire tous les jours fériés à la Messe Paroissiale, choisiront l’heure qui pourra attirer une assistance plus nombreuse, en dehors de celle qui est réservée à l’instruction des enfants, pour adresser aux Fidèles une catéchèse en un langage facile, approprié à leur intelligence. Dans ce but, ils se serviront du Catéchisme de Trente, de façon à traiter dans l’espace de quatre ou cinq ans toute la matière du Symbole, des Sacrements, du Décalogue, de la Prière et des Commandements de l’Eglise.Voilà, Vénérables Frères, ce que Nous établissons et ordonnons par Autorité apostolique. A vous maintenant de faire en sorte que, dans vos diocèses respectifs, cela soit mis à exécution sans retard et intégralement. Vous devrez donc veiller et pourvoir, en vertu de votre autorité, à ce que Nos prescriptions ne soient pas livrées à l’oubli ou, ce qui reviendrait au même, exécutées avec mollesse et nonchalance. Pour éviter ce malheur en pratique, il faudra que vous recommandiez sans cesse et avec instances aux Curés de ne pas improviser leurs leçons de Catéchisme, mais d’y apporter une préparation soignée, de ne point parler le langage de la sagesse humaine, mais de se conformer, dans la simplicité de cœur et dans la sincérité de Dieu (IICor., I, 12), à l’exemple du Christ, qui, en révélant des choses cachées depuis la création du monde, disait pourtant toutes ces choses en paraboles à la foule et ne lui parlant qu’en paraboles (Matth., XIII, 35, 34). Ainsi faisaient les Apôtres, instruits par le Seigneur; voici comme en parle saint Grégoire le Grand: Ils se préoccupèrent souverainement de prêcher aux peuples ignorants dans un langage clair et intelligible, non sublime et ardu (Moral., II, XVII, 26). Or, aujourd’hui, pour les choses de la Religion, la plupart des hommes doivent être rangés parmi les ignorants.Nous ne voudrions pas cependant que, par amour de cette simplicité, on en vînt à croire qu’il n’est besoin, pour traiter ces matières, ni de travail ni de réflexion: elles en réclament, au contraire, plus que tout autre genre. Il est bien plus facile de trouver un orateur parlant avec abondance et éclat qu’un Catéchiste faisant une instruction de tout point louable. Donc, quelque facilité de pensée et de parole qu’on ait reçue de la nature, il faut tenir pour certain qu’on ne parlera jamais de la Doctrine chrétienne aux enfants ou au peuple avec un fruit réel pour l’âme, sans être préparé et armé par une longue méditation. Ils se trompent, ceux qui, comptant sur l’ignorance et la lenteur d’esprit du peuple, croient pouvoir se permettre quelque négligence. Bien au contraire, plus les auditeurs qu’on a sont incultes, plus il faut employer d’application et de soin pour mettre les Vérités les plus sublimes, si éloignées de l’intelligence vulgaire, à la portée des esprits simples ou grossiers, à qui elles sont aussi nécessaires qu’aux savants pour gagner le bonheur éternel.Qu’il Nous soit permis, à la fin de cette Lettre, Vénérables Frères, de vous adresser la parole de Moïse: Si quelqu’un est du parti du Seigneur, qu’il se joigne à moi (Exod., XXXII, 26). Considérez, Nous vous en prions instamment, combien d’âmes se perdent par la seule ignorance des choses divines. Vous avez peut-être établi dans vos Diocèses, pour le bien de votre troupeau, nombre d’institutions utiles et dignes de tout éloge: veuillez néanmoins, de préférence à tout, avec toute l’énergie, tout le zèle, toute la persévérance que vous pourrez, employer vos soins et vos efforts à obtenir que la connaissance de la Doctrine chrétienne atteigne et pénètre profondément les âmes. Que chacun (ce sont les paroles de l’Apôtre Pierre que Nous répétons) mette au service des autres le don qu’il a reçu, comme de bons dispensateurs de la Grâce de Dieu sous toutes ses formes (IPetr., IV, 10).Puissent votre sollicitude et vos pieuses industries, grâce à l’intercession de la Bienheureuse Vierge immaculée, être fécondées par la Bénédiction Apostolique, qu’en témoignage de Notre charité et comme gage des faveurs célestes, Nous vous accordons très affectueusement, ainsi qu’au Clergé et au peuple qui vous sont confiés.Donné à Rome, près Saint-Pierre, le 15 avril 1905, la deuxième année de Notre Pontificat.",
+          "it": "Venerabili Fratelli,salute ed apostolica benedizione.",
+          "la": "Venerabiles Fratres,salutem et Apostolicam benedictionem."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-x_enc_15041905_acerbo-nimis",
@@ -875,17 +1201,25 @@
       "id": "hf_p-x_enc_12031904_iucunda-sane",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_12031904_iucunda-sane",
         "title": "Iucunda Sane",
         "type": "Encyclical",
         "date": "1904-03-12",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Benediction.",
+          "fr": "Aux Patriarches, Primats, Archevêques, Evêques et autres ordinaires en paix et en communion avec le Siège Apostolique",
+          "it": "Gioconda certo torna la memoria, venerabili fratelli, di quel grande «incomparabile uomo» (Martyrologium Romanum,3 sept.), il pontefice Gregorio, primo di questo nome, la cui solennità centenaria, al volgere del secolo XIII dalla sua morte, stiamo per celebrare. Da quel Dio, che «mortifica e vivifica, ... che umilia e solleva» (1 Re2,6.7), tra le cure quasi innumerabili del ministero Nostro apostolico, tra le tante angosce dell'animo per i molti e gravi doveri che il governo della chiesa universale C'impone, tra le insistenti sollecitudini di soddisfare nel miglior modo possibile voi, venerabili fratelli, chiamati a partecipare del Nostro apostolato, e i fedeli tutti affidati alle Nostre cure, non senza una particolare provvidenza fu disposto, così pensiamo, che il Nostro sguardo negli inizi del Nostro sommo pontificato si rivolga subito su questo santissimo e illustre antecessore Nostro, onore della chiesa e decoro. L'animo infatti si apre a grande fiducia nella sua validissima intercessione presso Dio, e si riconforta nel ricordare sia le massime sublimi che inculcò con l'alto suo magistero, sia le virtù santamente da lui praticate. E se per la forza delle une e per la fecondità delle altre egli impresse nella chiesa di Dio un'orma sì vasta, sì profonda, sì duratura, che giustamente i contemporanei e i posteri gli diedero il nome di «Grande», e oggi ancora dopo tanti secoli si verifica l'elogio della sua iscrizione sepolcrale: «egli vive eterno in ogni luogo per le innumerabili sue buone opere» (Apud Ioannem Diaconum,Vita Gregorii,lib. IV, c. 68), non può fare che ai seguaci tutti dei suoi mirabili esempi, col conforto della grazia divina, non sia dato di adempiere i propri doveri per quanto lo consenta l'umana debolezza.",
+          "la": "Venerabiles Frodres, salutem et Apostolicam benedictionem."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-x_enc_12031904_iucunda-sane",
@@ -896,17 +1230,25 @@
       "id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
         "title": "Ad Diem Illum Laetissimum",
         "type": "Encyclical",
         "date": "1904-02-02",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Blessing.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Blessing.",
+          "fr": "Aux Patriarches, Primats, Archevêques, Evêques et autres ordinaires en paix et en communion avec le Siège ApostoliqueVénérables Frères,Salut et Bénédiction Apostolique",
+          "it": "Il Corso del tempo ci condurrà tra pochi mesi al giorno d'incomparabile letizia allorché, cinquant'anni or sono, circondato da una magnifica corona di Cardinali e di Vescovi, il Nostro Predecessore Pio IX, Pontefice di santa memoria, dichiarò e proclamò quale rivelazione divina per l'autorità del magistero apostolico, che Maria è stata, fin dal primo istante della Sua concezione, totalmente immune dal peccato originale. Proclamazione che nessuno ignora essere stata accolta da tutti i fedeli dell'universo con tale gioia e entusiasmo quale non si ebbe mai a memoria d'uomo e con manifestazione di fede, sia nei riguardi dell'Augusta Madre di Dio, sia per il Vicario di Gesù Cristo, così grandiosa e così unanime.",
+          "la": "Venerabiles Fratres, salutem et Apostolicam benedictionem."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
@@ -917,17 +1259,25 @@
       "id": "hf_p-x_enc_04101903_e-supremi",
       "pope": {
         "id": "pius-x",
-        "name": "Pius X",
+        "name": {
+          "en": "Pius X",
+          "la": "S. Pius PP. X"
+        },
         "handle": "piusx",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=piusx"
+        "avatar": "https://api.popefeed.com/popes/pius-x.jpg"
       },
       "document": {
+        "id": "hf_p-x_enc_04101903_e-supremi",
         "title": "E Supremi",
         "type": "Encyclical",
         "date": "1903-10-04",
-        "excerpt": "Venerable Brethren,Health and the Apostolic Benediction.",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Venerable Brethren,Health and the Apostolic Benediction.",
+          "fr": "Aux Patriarches, Primats, Archevêques, Evêques et autres ordinaires en paix et en communion avec le siège apostolique.Vénérables Frères Salut et Bénédiction Apostolique.",
+          "it": "Venerabili Fratelli,salute e Apostolica Benedizione.",
+          "la": "Sanctissimi Domini Nostri divina providentia Pii Papae X ad Patriarchas Primates Archiepiscopos Episcopos aliosque locorum Ordinarios pacem et communionem cum Apostolica Sede habentes."
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "hf_p-x_enc_04101903_e-supremi",
@@ -938,17 +1288,22 @@
       "id": "hf_l-xiii_enc_24121902_dum-multa",
       "pope": {
         "id": "leo-xiii",
-        "name": "Leo XIII",
+        "name": {
+          "en": "Leo XIII",
+          "la": "Leo PP. XIII"
+        },
         "handle": "leoxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiii"
+        "avatar": "https://api.popefeed.com/popes/leo-xiii.jpg"
       },
       "document": {
+        "id": "hf_l-xiii_enc_24121902_dum-multa",
         "title": "Dum Multa",
         "type": "Encyclical",
         "date": "1902-12-24",
-        "excerpt": "To the Venerable Brothers, the Archbishop of Quitoand the other Bishopsof Ecuador.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Venerable Brothers, the Archbishop of Quitoand the other Bishopsof Ecuador."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_l-xiii_enc_24121902_dum-multa",
@@ -959,17 +1314,23 @@
       "id": "hf_l-xiii_enc_08121902_fin-dal-principio",
       "pope": {
         "id": "leo-xiii",
-        "name": "Leo XIII",
+        "name": {
+          "en": "Leo XIII",
+          "la": "Leo PP. XIII"
+        },
         "handle": "leoxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiii"
+        "avatar": "https://api.popefeed.com/popes/leo-xiii.jpg"
       },
       "document": {
+        "id": "hf_l-xiii_enc_08121902_fin-dal-principio",
         "title": "Fin dal Principio",
         "type": "Encyclical",
         "date": "1902-12-08",
-        "excerpt": "To the Bishops of Italy.",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To the Bishops of Italy.",
+          "it": "Fin dal principio del Nostro Pontificato ponendo Noi mente alle gravi condizioni della società, non tardammo a riconoscere, come uno dei più urgenti doveri dell’apostolico ufficio fosse quello di rivolgere specialissime cure alla educazione del Clero. Vedevamo infatti che ogni Nostro divisamento ad operare nel popolo una restaurazione di vita cristiana sarebbe tornato invano, ove nel ceto ecclesiastico non si serbasse integro e vigoroso lo spirito sacerdotale. Pertanto mai non cessammo, quanto era da Noi, di provvedervi, sia con opportune istituzioni, sia con parecchi documenti diretti a tale intento. Ed ora una particolare sollecitudine verso il Clero d’Italia Ci muove, Venerabili Fratelli, a trattare ancora una volta un argomento di sì grande rilievo. - Belle invero e continue testimonianze esso ne porge di dottrina, di pietà, di zelo; tra le quali Ci piace di additar con lode l’alacrità onde, secondando l’impulso e la direzione dei Vescovi, coopera al movimento cattolico che Ci è sommamente a cuore. Non possiamo tuttavia dissimulare la preoccupazione dell’animo Nostro al vedere come da qualche tempo vada qua e là serpeggiando una cotal brama d’innovazioni inconsulte, così, rispetto alla formazione, come all’azione multiforme dei sacri ministri. Ora è facile avvisare le gravi conseguenze che sarebbero a deplorarsi, ove a siffatte tendenze innovatrici non si apportasse pronto rimedio. Ond’è che a preservare il clero italiano dalle influenze perniciose dei tempi, stimiamo cosa opportuna, Venerabili Fratelli, richiamare in questa Nostra lettera i veri e invariabili principi che debbono regolare l’educazione ecclesiastica e tutto il sacro ministero."
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "hf_l-xiii_enc_08121902_fin-dal-principio",
@@ -980,17 +1341,22 @@
       "id": "hf_l-xiii_enc_22111902_quae-ad-nos",
       "pope": {
         "id": "leo-xiii",
-        "name": "Leo XIII",
+        "name": {
+          "en": "Leo XIII",
+          "la": "Leo PP. XIII"
+        },
         "handle": "leoxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiii"
+        "avatar": "https://api.popefeed.com/popes/leo-xiii.jpg"
       },
       "document": {
+        "id": "hf_l-xiii_enc_22111902_quae-ad-nos",
         "title": "Quae Ad Nos",
         "type": "Encyclical",
         "date": "1902-11-22",
-        "excerpt": "To Cardinal Skrbensky, Archbishop of Prague and to theOther Archbishops and Bishops of Bohemia and Moravia.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To Cardinal Skrbensky, Archbishop of Prague and to theOther Archbishops and Bishops of Bohemia and Moravia."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_l-xiii_enc_22111902_quae-ad-nos",
@@ -1001,17 +1367,24 @@
       "id": "hf_l-xiii_enc_28051902_mirae-caritatis",
       "pope": {
         "id": "leo-xiii",
-        "name": "Leo XIII",
+        "name": {
+          "en": "Leo XIII",
+          "la": "Leo PP. XIII"
+        },
         "handle": "leoxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiii"
+        "avatar": "https://api.popefeed.com/popes/leo-xiii.jpg"
       },
       "document": {
+        "id": "hf_l-xiii_enc_28051902_mirae-caritatis",
         "title": "Mirae Caritatis",
         "type": "Encyclical",
         "date": "1902-05-28",
-        "excerpt": "To Our Venerable Brethren, the Patriarchs, Primates,Archbishops, Bishops, and other Local Ordinaries,having Peace and Communion with the Holy See.",
-        "language_count": 3,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To Our Venerable Brethren, the Patriarchs, Primates,Archbishops, Bishops, and other Local Ordinaries,having Peace and Communion with the Holy See.",
+          "it": "È nostro altissimo dovere tenere sempre presenti e diligentemente imitare i luminosi esempi della carità ammirabile di Gesù Cristo per la salvezza degli uomini. Abbiamo cercato fino ad oggi di fare questo, col suo divino aiuto, e Ci studieremo di continuare a farlo, fino alla fine della Nostra vita, Costretti a vivere in tempi assai avversi alla verità e alla giustizia, per quanto dipendeva da Noi, con gli insegnamenti, con le ammonizioni, con gli atti, come ne fa fede anche l’ultima lettera apostolica a voi indirizzata, non abbiamo mai tralasciato nulla di quello che poteva servire meglio sia a dissipare il molteplice contagio degli errori, sia a rinvigorire la pratica della vita cristiana. Fra questi atti, ve ne sono due più recenti, fra loro strettamente connessi, la memoria dei quali Ci torna di opportuna consolazione, in mezzo a tante cause di amarezza. L’uno ebbe luogo quando stimammo bene che tutta la famiglia umana si consacrasse al Cuore augustissimo di Cristo redentore; l’altro quando esortammo seriamente tutti coloro che si professano cristiani ad unirsi a lui stesso, il quale è in modo divino \"via, verità, vita\" non soltanto per i singoli individui, ma anche per l’intera società.",
+          "la": "Mirae caritatis in hominum salutem exempla, quae a Iesu Christo praelucent, Nos quidem pro sanctitate officii inspicere et persequi adhuc studuimus, ad extremumque vitae spiritum, ipso opitulante, studebimus. Nam tempora nacti nimis acriter veritati et iustitiae infensa, quantum erat in Nobis, docendo, admonendo, agendo, prout nuperrima ad vos epistola Apostolica confirmavit, nequaquam intermisimus ea late praestare, quae sive ad multiplicem errorum contagionem depellendam, sive ad nervos intendendos christianae vitae aptius conducere viderentur. In his autem duo sunt recentioris memoriae, omnino inter se coniuncta, unde Nosmetipsi opportunae consolationis fructum, tot prementibus aegritudinis causis, recolendo percipimus. Alterum, quum optimum factu censuimus augusto Cordi Christi Redemptoris universitatem humani generis peculiari ritu devoveri; alterum, quum omnes christianum nomen profitentes gravissime hortati sumus, ut Ei ipsi adhaererent, qui vel singulis vel iure sociatisvia,Veritas,vitadivinitus est. — Nunc vero eadem ipsa, advigilante in Ecclesiae tempora, Apostolica caritate movemur ac prope impellimur ut aliud quiddam ad ea proposita iam confecta, tamquam perfectionem suam addamus, ut videlicet christiano populo maiorem in modum commendemus sanctissimam Eucharistiam, quippe donum divinissimum ex intimo plane Corde prolatum eiusdem Redemptoris,desiderio desiderantissingularem huiusmodi cum hominibus coniunctionem, maximeque factum ad saluberrimos fructus redemptionis eius dilargiendos. Quamquam in hoc etiam rerum genere nonnulla vel antehac Nos auctoritate et studio curavimus. Iucundumque memoratu est inter cetera legitima Nos comprobatione ac privilegiis auxisse Instituta et Sodalitia non pauca, divinae Hostiae perpetua vice adorandae addicta; operam item dedisse ut conventus eucharistici digna cum celebritate parique utilitate haberentur, iisdem praeterea similisque causae operibus patronum caelestem attribuisse Paschalem Baylon, qui mysterii eucharistici cultor extitit insigniter pius. — Itaque, Venerabiles Fratres, de hoc ipso mysterio in quo tuendo illustrandoque constanter tum Ecclesiae sollertia, non sine praeclaris Martyrum palmis, elaboravit, tum praestantissimorum hominum doctrina, eloquentia variaeque artes splendide contenderunt, libet capita quaedam alloquendo complecti; idque ut apertior atque expressior patescat eiusdem virtus, qua maxime parte se dat praesentissimam hisce necessitatibus temporum allevandis. Sane, quandoquidem Christus Dominus sub excessum mortalis cursus istud reliquit caritatis immensae in homines monumentum, idemque praesidium maximumpro mundi vita(Ioann. VI, 52) nihil Nobis de vita proxime cessuris optare felicius possumus quam ut liceat excitare in omnium animis atque alere memoris gratiae debitaeque religionis affectum erga Sacramentum mirabile, in quo salutis et pacis, solicitis omnium studiis quaesitae, spem atque efficientiam maxime niti arbitramur."
+        },
+        "language_count": 3
       },
       "metadata": {
         "document_id": "hf_l-xiii_enc_28051902_mirae-caritatis",
@@ -1022,41 +1395,25 @@
       "id": "hf_l-xiii_enc_30041902_quod-votis",
       "pope": {
         "id": "leo-xiii",
-        "name": "Leo XIII",
+        "name": {
+          "en": "Leo XIII",
+          "la": "Leo PP. XIII"
+        },
         "handle": "leoxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiii"
+        "avatar": "https://api.popefeed.com/popes/leo-xiii.jpg"
       },
       "document": {
+        "id": "hf_l-xiii_enc_30041902_quod-votis",
         "title": "Quod Votis",
         "type": "Encyclical",
         "date": "1902-04-30",
-        "excerpt": "To Our Beloved Sons Anthony Joseph Cardinal Gruscha, Archbishop of Vienna; George Cardinal Kopp, Bishop of Wroclaw, Leo Cardinal De Skrbensky, Archbishop of Prague; John Cardinal Puzyna, Bishop of Cracow; and the Other Venerable Brother Archbishops and Bishops of Austria.",
-        "language_count": 1,
-        "pdf_available": true
+        "excerpt": {
+          "en": "To Our Beloved Sons Anthony Joseph Cardinal Gruscha, Archbishop of Vienna; George Cardinal Kopp, Bishop of Wroclaw, Leo Cardinal De Skrbensky, Archbishop of Prague; John Cardinal Puzyna, Bishop of Cracow; and the Other Venerable Brother Archbishops and Bishops of Austria."
+        },
+        "language_count": 1
       },
       "metadata": {
         "document_id": "hf_l-xiii_enc_30041902_quod-votis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_l-xiii_enc_15041902_in-amplissimo",
-      "pope": {
-        "id": "leo-xiii",
-        "name": "Leo XIII",
-        "handle": "leoxiii",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiii"
-      },
-      "document": {
-        "title": "In Amplissimo",
-        "type": "Encyclical",
-        "date": "1902-04-15",
-        "excerpt": "To James Cardinal Gibbons and the Archbishops,and Bishops of the United States.",
-        "language_count": 1,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_l-xiii_enc_15041902_in-amplissimo",
         "original_type": "encyclicals"
       }
     }

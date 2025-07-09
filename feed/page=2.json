@@ -3,7 +3,7 @@
     "page": 2,
     "per_page": 50,
     "total_pages": 37,
-    "total_posts": 1827,
+    "total_posts": 1828,
     "has_next": true,
     "has_prev": true,
     "next_page": 3,
@@ -11,20 +11,59 @@
   },
   "posts": [
     {
+      "id": "20250526-messa-pace-africa",
+      "pope": {
+        "id": "leo-xiv",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
+        "handle": "leoxiv",
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
+      },
+      "document": {
+        "id": "20250526-messa-pace-africa",
+        "title": "Greeting of the Holy Father at the end of the Mass presided over by Card. Arinze, on the occasion of the Jubilee Pilgrimage for Peace in Africa",
+        "type": "Speeches",
+        "date": "2025-05-26",
+        "excerpt": {
+          "en": "Altar of the Chair of St Peter's BasilicaMonday, 26 May 2025",
+          "fr": "Autel de la Chaire de la basilique Saint-PierreLundi 26 mai 2025",
+          "de": "Kathedra-Altar des PeterdomsMontag, 26. Mai 2025",
+          "it": "Altare della Cattedra della Basilica di San PietroLunedì, 26 maggio 2025"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "20250526-messa-pace-africa",
+        "original_type": "speeches"
+      }
+    },
+    {
       "id": "20250525-sindaco-roma",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250525-sindaco-roma",
         "title": "Greeting of the Holy Father to the Mayor of Rome",
         "type": "Speeches",
         "date": "2025-05-25",
-        "excerpt": "Piazza dell’Aracoeli, at the foot of the Capitoline stepsSunday, 25 May 2025",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Piazza dell’Aracoeli, at the foot of the Capitoline stepsSunday, 25 May 2025",
+          "fr": "Piazza dell'Ara Coeli (au pied des marches du Capitole de Rome)Dimanche 25 mai 2025",
+          "de": "Piazza dell'Ara Coeli (an der Treppe, die zum Kapitol hinaufführt)Sonntag, 25. Mai 2025",
+          "it": "Piazza dell'Ara Coeli (ai piedi della scalinata del Campidoglio)Domenica, 25 maggio 2025",
+          "pl": "Plac dell’Ara Coeli (u stóp Schodów Kapitolińskich)Niedziela, 25 maja 2025 r.",
+          "es": "Plaza del Ara Coeli (al pie de la escalinata del Campidoglio)Domingo, 25 de mayo de 2025"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "20250525-sindaco-roma",
@@ -35,17 +74,27 @@
       "id": "20250525-possesso-cattedra-laterano",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250525-possesso-cattedra-laterano",
         "title": "Papal Mass For The Possession Of The Chair Of The Bishop Of Rome",
         "type": "Homilies",
         "date": "2025-05-25",
-        "excerpt": "Lateran Basilica6thSunday in the Time of Easter, 25 May 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Lateran Basilica6thSunday in the Time of Easter, 25 May 2025",
+          "fr": "Basilique Saint-Jean-de-LatranVIedimanche de Pâques, 25 mai 2025",
+          "de": "Lateranbasilika6. Sonntag der Osterzeit, 25. Mai 2025",
+          "it": "Basilica di San Giovanni in LateranoVI Domenica di Pasqua, 25 maggio 2025",
+          "pl": "Bazylika Świętego Jana na LateranieVI Niedziela Wielkanocna, 25 maja 2025 r.",
+          "es": "Basílica de San Juan de LetránVI Domingo de Pascua, 25 de mayo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250525-possesso-cattedra-laterano",
@@ -56,17 +105,26 @@
       "id": "20250525-visita-santamaria-maggiore",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250525-visita-santamaria-maggiore",
         "title": "Visit to the Basilica of St. Mary Major and veneration of the Icon of the Blessed Virgin Mary ‘Salus Populi Romani’",
         "type": "Speeches",
         "date": "2025-05-25",
-        "excerpt": "Basilica of Saint Mary Major6thSunday in the Time of Easter, 25 May 2025",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Basilica of Saint Mary Major6thSunday in the Time of Easter, 25 May 2025",
+          "fr": "Basilique Sainte-Marie-MajeureVIe dimanche de Pâques, 25 mai 2025",
+          "it": "Basilica di Santa Maria MaggioreVI Domenica di Pasqua, 25 maggio 2025",
+          "pl": "Bazylika Matki Bożej WiększejVI Niedziela Wielkanocna, 25 maja 2025 r.",
+          "es": "Basílica de Santa María la MayorVI Domingo de Pascua, 25 de mayo de 2025"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250525-visita-santamaria-maggiore",
@@ -77,17 +135,28 @@
       "id": "20250524-dipendenti-curia-scv",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250524-dipendenti-curia-scv",
         "title": "Meeting of the Holy Father with Employees of the Holy See and the Vatican City State",
         "type": "Speeches",
         "date": "2025-05-24",
-        "excerpt": "Audience HallSaturday, 24 May 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Audience HallSaturday, 24 May 2025",
+          "fr": "Salle Paul VISamedi 24 mai 2025",
+          "de": "ANSPRACHE VON PAPST LEO XIV.AudienzhalleSamstag, 24. Mai 2025",
+          "it": "Aula Paolo VISabato, 24 maggio 2025",
+          "pl": "Aula Pawła VISobota, 24 maja 2025 r.",
+          "pt": "Sala Paulo VISábado, 24 de maio de 2025",
+          "es": "Aula Pablo VISábado, 24 de mayo de 2025"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250524-dipendenti-curia-scv",
@@ -98,17 +167,26 @@
       "id": "20250523-messaggio-movimento-anabattista",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250523-messaggio-movimento-anabattista",
         "title": "Message of the Holy Father to the Participants in the Commemoration of 500 years of the Anabaptist movement [Zurich, 29 May 2025]",
         "type": "Messages",
         "date": "2025-05-23",
-        "excerpt": "As you gather to commemorate 500 years of the Anabaptist movement, I cordially greet all of you, dear friends, in the first words spoken by the risen Jesus: “Peace be with you!” (Jn20:19).",
-        "language_count": 5,
-        "pdf_available": true
+        "excerpt": {
+          "en": "As you gather to commemorate 500 years of the Anabaptist movement, I cordially greet all of you, dear friends, in the first words spoken by the risen Jesus: “Peace be with you!” (Jn20:19).",
+          "de": "Während Sie sich versammelt haben, um der 500-jährigen Geschichte der Täuferbewegung zu gedenken, grüße ich Sie alle herzlich, liebe Freunde, mit den ersten Worten, die der auferstandene Jesus gesprochen hat: »Friede sei mit euch!« (Joh20,19).",
+          "it": "Mentre siete riuniti per commemorare i 500 anni del movimento anabattista, vi saluto cordialmente, cari amici, con le prime parole pronunciate da Gesù risorto: «Pace a voi!» (Gv20, 19).",
+          "pl": "[Zurych, 29 maja 2025 r.]",
+          "es": "[Zúrich, 29 de mayo de 2025]"
+        },
+        "language_count": 5
       },
       "metadata": {
         "document_id": "20250523-messaggio-movimento-anabattista",
@@ -119,17 +197,28 @@
       "id": "20250522-pom",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250522-pom",
         "title": "To Members of Pontifical Mission Societies",
         "type": "Speeches",
         "date": "2025-05-22",
-        "excerpt": "Clementine HallThursday, 22 May 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallThursday, 22 May 2025",
+          "fr": "Salle ClémentineJeudi 22 mai 2025",
+          "de": "Sala ClementinaDonnerstag, 22. Mai 2025",
+          "it": "Sala ClementinaGiovedì, 22 maggio 2025",
+          "pl": "Sala KlementyńskaCzwartek, 22 maja 2025 r.",
+          "pt": "Sala ClementinaQuinta-feira, 22 de maio de 2025",
+          "es": "Sala ClementinaJueves, 22 de mayo de 2025"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250522-pom",
@@ -140,17 +229,29 @@
       "id": "20250520-visita-sanpaolo",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250520-visita-sanpaolo",
         "title": "Visit to the Tomb of St. Paul",
         "type": "Homilies",
         "date": "2025-05-20",
-        "excerpt": "Basilica of Saint Paul outside the WallsTuesday, 20 May 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Basilica of Saint Paul outside the WallsTuesday, 20 May 2025",
+          "fr": "Basilique Saint-Paul-hors-les-MursMardi 20 mai 2025",
+          "de": "Basilika St. Paul vor den MauernDienstag, 20. Mai 2025",
+          "it": "Basilica di San Paolo fuori le muraMartedì, 20 maggio 2025",
+          "pl": "Bazylika Świętego Pawła za MuramiWtorek, 20 maja 2025 r.",
+          "pt": "Basílica de São Paulo ExtramurosTerça-feira, 20 de maio de 2025",
+          "es": "Basílica de San Pablo ExtramurosMartes, 20 de mayo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250520-visita-sanpaolo",
@@ -161,17 +262,25 @@
       "id": "20250520-videomessaggio-universita-rio",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250520-videomessaggio-universita-rio",
         "title": "Video Message of the Holy Father on the occasion of the meeting of Universities in Rio de Janeiro onLaudato si'",
         "type": "Messages",
         "date": "2025-05-20",
-        "excerpt": "[Pontifical Catholic University of Rio de Janeiro (PUC-Rio), 20-24 May 2025]",
-        "language_count": 4,
-        "pdf_available": true
+        "excerpt": {
+          "en": "[Pontifical Catholic University of Rio de Janeiro (PUC-Rio), 20-24 May 2025]",
+          "it": "[Pontificia Università Cattolica di Rio de Janeiro (PUC-Rio), 20-24 maggio 2025]",
+          "pt": "[Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), 20-24 de maio de 2025]",
+          "es": "[Pontificia Universidad Católica de Río de Janeiro (PUC-Rio), 20-24 de mayo de 2025]"
+        },
+        "language_count": 4
       },
       "metadata": {
         "document_id": "20250520-videomessaggio-universita-rio",
@@ -182,17 +291,29 @@
       "id": "20250519-altre-religioni",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250519-altre-religioni",
         "title": "To Representatives of other Churches and Ecclesial Communities, and Other Religions",
         "type": "Speeches",
         "date": "2025-05-19",
-        "excerpt": "Clementine HallMonday, 19 May 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Clementine HallMonday, 19 May 2025",
+          "fr": "Chers frères et sœurs !",
+          "de": "Sala ClementinaMontag, 19. Mai 2025",
+          "it": "Sala ClementinaLunedì, 19 maggio 2025",
+          "pl": "Sala KlementyńskaPoniedziałek 19 maja 2025 r.",
+          "pt": "Segunda-feira, 19 de maio de 2025",
+          "es": "Sala ClementinaLunes, 19 de mayo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250519-altre-religioni",
@@ -203,17 +324,30 @@
       "id": "20250518-inizio-pontificato",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250518-inizio-pontificato",
         "title": "5thSunday in the Time of Easter - Holy Mass for the Beginning of the Pontificate of Pope Leo XIV",
         "type": "Homilies",
         "date": "2025-05-18",
-        "excerpt": "Saint Peter's SquareSunday, 18 May 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرَّابع عشر",
+          "hr": "Trg svetog PetraNedjelja, 18. svibnja 2025.",
+          "en": "Saint Peter's SquareSunday, 18 May 2025",
+          "fr": "Place Saint-PierreVe dimanche de Pâques, 18 mai 2025",
+          "de": "Liebe Brüder Kardinäle,Brüder im Bischofs- und Priesteramt,verehrte Autoritäten und Mitglieder des Diplomatischen Korps!!Ein herzlicher Gruß an die Pilger, die anlässlich des Jubiläums der Bruderschaften angereist sind!",
+          "it": "Piazza San PietroDomenica, 18 maggio 2025",
+          "pl": "Plac Świętego PiotraNiedziela, 18 maja 2025 r.",
+          "pt": "Praça de São PedroV Domingo de Páscoa, 18 de maio de 2025",
+          "es": "Plaza de San PedroDomingo 18 de mayo de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250518-inizio-pontificato",
@@ -224,17 +358,28 @@
       "id": "20250517-centesimus-annus-pro-pontifice",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250517-centesimus-annus-pro-pontifice",
         "title": "To the members of the \"Centesimus Annus Pro Pontifice\" Foundation",
         "type": "Speeches",
         "date": "2025-05-17",
-        "excerpt": "Clementine HallSaturday, 17 May 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallSaturday, 17 May 2025",
+          "fr": "Je remercie le Président et les membres de la FondationCentesimus Annus Pro Pontifice, et je salue chacun de vous qui participez à la Conférence internationale annuelle et à l’Assemblée générale.",
+          "de": "[Der Heilige Vater begann mit einem Gruß auf Englisch]: Guten Morgen an alle![und fuhr dann auf Italienisch fort]: Guten Tag!",
+          "it": "Sala ClementinaSabato, 17 maggio 2025",
+          "pl": "Sala KlementyńskaSobota, 17 maja 2025 r.",
+          "pt": "Sala ClementinaSábado, 17 de maio de 2025",
+          "es": "Queridos hermanos y hermanas, ¡bienvenidos!"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250517-centesimus-annus-pro-pontifice",
@@ -245,17 +390,29 @@
       "id": "20250516-corpo-diplomatico",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250516-corpo-diplomatico",
         "title": "To Members of the Diplomatic Corps",
         "type": "Speeches",
         "date": "2025-05-16",
-        "excerpt": "Clementine HallFriday, 16 May 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Clementine HallFriday, 16 May 2025",
+          "fr": "Salle ClémentineVendredi 16 mai 2025",
+          "de": "Sala ClementinaFreitag, 16. Mai 2025",
+          "it": "Sala ClementinaVenerdì, 16 maggio 2025",
+          "pl": "Sala KlementyńskaPiątek, 16 maja 2025 r.",
+          "pt": "Sexta-feira, 16 de maio de 2025",
+          "es": "Sala ClementinaViernes, 16 de mayo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250516-corpo-diplomatico",
@@ -266,17 +423,23 @@
       "id": "20250516-lettera-diocesi-plock",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250516-lettera-diocesi-plock",
         "title": "Letter of the Holy Father to the special envoy at the celebrations of the 950th anniversary of the diocese of Płock [7 June 2025]",
         "type": "Letters",
         "date": "2025-05-16",
-        "excerpt": "Venerabili Fratri NostroLADISLAO S.R.E. Cardinali NEMET, S.V.D.Archiepiscopo Metropolitae Belogradensi",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "la": "Venerabili Fratri NostroLADISLAO S.R.E. Cardinali NEMET, S.V.D.Archiepiscopo Metropolitae Belogradensi",
+          "pl": "Przewielebnemu Mojemu BratuWŁADYSŁAWOWI NEMETOWI,ze Zgromadzenia Słowa BożegoKardynałowi Świętego Kościoła RzymskiegoArcybiskupowi Metropolicie Belgradu"
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250516-lettera-diocesi-plock",
@@ -287,17 +450,27 @@
       "id": "20250515-fratelli-scuole-cristiane",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250515-fratelli-scuole-cristiane",
         "title": "To the Brothers of the Christian Schools",
         "type": "Speeches",
         "date": "2025-05-15",
-        "excerpt": "Clementine HallThursday, 15 May 2025[Multimedia]___________________________________",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Clementine HallThursday, 15 May 2025[Multimedia]___________________________________",
+          "fr": "Salle ClémentineJeudi 15 mai 2025",
+          "it": "Sala ClementinaGiovedì, 15 maggio 2025",
+          "pl": "Sala KlementyńskaCzwartek, 15 maja 2025 r.",
+          "pt": "Sala ClementinaQuinta-feira, 15 de maio de 2025",
+          "es": "Jueves, 15 de mayo de 2025"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "20250515-fratelli-scuole-cristiane",
@@ -308,17 +481,28 @@
       "id": "20250514-giubileo-chiese-orientali",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250514-giubileo-chiese-orientali",
         "title": "To participants in the Jubilee of the Oriental Churches",
         "type": "Speeches",
         "date": "2025-05-14",
-        "excerpt": "Audience HallWednesday, 14 May 2025",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Audience HallWednesday, 14 May 2025",
+          "fr": "Salle Paul VIMercredi 14 mai 2025",
+          "it": "Aula Paolo VIMercoledì, 14 maggio 2025",
+          "pl": "Aula Pawła VIŚroda, 14 maja 2025 r.",
+          "pt": "Sala Paulo VIQuarta-feira, 14 de maio de 2025",
+          "es": "Aula Pablo VIMiércoles, 14 de mayo de 2025"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20250514-giubileo-chiese-orientali",
@@ -329,17 +513,29 @@
       "id": "20250512-media",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250512-media",
         "title": "Audience of the Holy Father Leo XIV to representatives of the media",
         "type": "Speeches",
         "date": "2025-05-12",
-        "excerpt": "Audience HallMonday, 12 May 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Audience HallMonday, 12 May 2025",
+          "fr": "Salle Paul VILundi 12 mai 2025",
+          "de": "Guten Morgen und vielen Dank für diesen wunderbaren Empfang! Wenn die Leute am Anfang klatschen, so heißt es, hat das nicht viel zu bedeuten ... Wenn Sie am Ende noch wach sind und Sie immer noch klatschen wollen ... Vielen herzlichen Dank!",
+          "it": "Aula Paolo VILunedì, 12 maggio 2025",
+          "pl": "Aula Pawła VIPoniedziałek, 12 maja 2025 roku",
+          "pt": "Sala Paulo VISegunda-feira, 12 de maio de 2025",
+          "es": "Aula Pablo VILunes, 12 de mayo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250512-media",
@@ -350,17 +546,27 @@
       "id": "20250511-messa-grotte-vaticane",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250511-messa-grotte-vaticane",
         "title": "Holy Mass in the Crypt of Saint Peter’s Basilica",
         "type": "Homilies",
         "date": "2025-05-11",
-        "excerpt": "Vatican GrottoesSunday, 11 May 2025",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Vatican GrottoesSunday, 11 May 2025",
+          "fr": "Je vais commencer par un mot en anglais, et peut-être un autre en italien.",
+          "it": "Comincerò con una parola in inglese e poi magari un'altra in italiano.",
+          "pl": "Niedziela, 11 maja 2025 r.",
+          "pt": "Domingo, 11 de maio de 2025",
+          "es": "Domingo, 11 de mayo de 2025"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "20250511-messa-grotte-vaticane",
@@ -371,17 +577,29 @@
       "id": "20250510-collegio-cardinalizio",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250510-collegio-cardinalizio",
         "title": "Address of the Holy Father to the College of Cardinals",
         "type": "Speeches",
         "date": "2025-05-10",
-        "excerpt": "Thank you very much, Your Eminence. Before taking our seats, let us begin with a prayer, asking the Lord to continue to accompany this College, and above all the entire Church with this spirit, with enthusiasm, but also with deep faith. Let us pray together in Latin.",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "كلمة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Thank you very much, Your Eminence. Before taking our seats, let us begin with a prayer, asking the Lord to continue to accompany this College, and above all the entire Church with this spirit, with enthusiasm, but also with deep faith. Let us pray together in Latin.",
+          "fr": "Merci beaucoup, Éminence. Avant de prendre place, commençons par une prière, en demandant au Seigneur de continuer à accompagner ce Collège et surtout toute l'Église dans cet esprit, avec enthousiasme, mais aussi avec une foi profonde. Prions ensemble en latin.",
+          "de": "Vielen Dank, Eminenz. Bevor wir Platz nehmen, wollen wir mit einem Gebet beginnen und darum bitten, dass der Herr dieses Kollegium und vor allem die ganze Kirche weiterhin mit diesem Geist, auch mit Begeisterung, aber in tiefem Glauben, begleiten möge. Lasst uns gemeinsam auf Latein beten.",
+          "it": "Tante grazie, Eminenza. Prima di prendere i posti cominciamo con una preghiera, chiedendo che il Signore continui ad accompagnare questo Collegio e soprattutto tutta la Chiesa con questo spirito, anche entusiasmo, però di profonda fede. Preghiamo insieme in latino.",
+          "pl": "Sobota, 10 maja 2025 r.",
+          "pt": "Sábado, 10 de maio de 2025",
+          "es": "Sábado, 10 de mayo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250510-collegio-cardinalizio",
@@ -392,17 +610,30 @@
       "id": "20250509-messa-cardinali",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250509-messa-cardinali",
         "title": "Holy Mass pro Ecclesia celebrated by the Roman Pontiff Leo XIV with the Cardinals",
         "type": "Homilies",
         "date": "2025-05-09",
-        "excerpt": "Sistine ChapelFriday, 9 May 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عظة قداسة البابا لاوُن الرَّابع عشر",
+          "en": "Sistine ChapelFriday, 9 May 2025",
+          "fr": "Chapelle SixtineVendredi 9 mai 2025",
+          "de": "Sixtinische KapelleFreitag, 9. Mai 2025",
+          "it": "Cappella SistinaVenerdì, 9 maggio 2025",
+          "la": "In Sacello Sixtino, die IX mensis Maii MMXXV",
+          "pl": "Kaplica SykstyńskaPiątek, 9 maja 2025 r.",
+          "pt": "Capela SistinaSexta-feira, 9 de maio de 2025",
+          "es": "Capilla SixtinaViernes, 9 de mayo de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250509-messa-cardinali",
@@ -413,17 +644,30 @@
       "id": "20250508-prima-benedizione-urbietorbi",
       "pope": {
         "id": "leo-xiv",
-        "name": "Leo XIV",
+        "name": {
+          "en": "Leo XIV",
+          "la": "Leo PP. XIV"
+        },
         "handle": "leoxiv",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+        "avatar": "https://api.popefeed.com/popes/leo-xiv.jpg"
       },
       "document": {
+        "id": "20250508-prima-benedizione-urbietorbi",
         "title": "First Blessing ‘Urbi et Orbi’ of the Holy Father Leo XIV",
         "type": "Messages",
         "date": "2025-05-08",
-        "excerpt": "Central Loggia of the Vatican BasilicaThursday, 8 May 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "بركة قداسة البابا لاوُن الرّابع عشر",
+          "hr": "Središnja loža Bazilike svetoga PetraČetvrtak, 8. svibnja 2025.",
+          "en": "Central Loggia of the Vatican BasilicaThursday, 8 May 2025",
+          "fr": "Loggia des bénédictions de la basilique Saint-PierreJeudi 8 mai 2025",
+          "de": "Benediktionsloggia des PeterdomsDonnerstag, 8. Mai 2025",
+          "it": "Loggia centrale della Basilica di San PietroGiovedì, 8 maggio 2025",
+          "pl": "Loggia Błogosławieństw Bazyliki Świętego PiotraCzwartek, 8 maja 2025 r.",
+          "pt": "Quinta-feira, 8 de maio de 2025",
+          "es": "Logia central de la Basílica de San Pedro"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250508-prima-benedizione-urbietorbi",
@@ -434,17 +678,29 @@
       "id": "20250420-omelia-pasqua",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250420-omelia-pasqua",
         "title": "Easter Sunday - Mass of the Day",
         "type": "Homilies",
         "date": "2025-04-20",
-        "excerpt": "Saint Peter's SquareEaster Sunday, 20 April 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في يوم عيد الفصح المجيد",
+          "en": "Saint Peter's SquareEaster Sunday, 20 April 2025",
+          "fr": "Place Saint-PierreDimanche de Pâques 20 avril 2025",
+          "de": "Als Maria von Magdala sah, dass der Stein vom Grab weggewälzt worden war, lief sie schnell los, um Petrus und Johannes davon zu berichten. Als die beiden Jünger die aufwühlende Nachricht hörten, machten auch sie sich auf und – so das Evangelium – »liefen beide zusammen« (Joh20,4). Alle Hauptpersonen der Ostergeschichte laufen! Und in diesem „Laufen“ kommt einerseits ihre Sorge zum Ausdruck, dass jemand den Leichnam des Herrn weggenommen haben könnte; andererseits spricht die Eile von Maria Magdalena, Petrus und Johannes von ihrer Sehnsucht, vom Drang ihres Herzens, der inneren Haltung derer, die sich auf die Suche nach Jesus machen. Er ist nämlich vom Tod auferstanden und befindet sich daher nicht mehr im Grab. Man muss ihn woanders suchen.",
+          "it": "Piazza San PietroDomenica di Pasqua, 20 aprile 2025",
+          "pl": "Niedziela Zmartwychwstania Pańskiego, 20 kwietnia 2025 r.",
+          "pt": "Praça São PedroDomingo de Páscoa, 20 de abril de 2025",
+          "es": "Plaza de San PedroDomingo de Pascua, 20 de abril de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250420-omelia-pasqua",
@@ -455,17 +711,30 @@
       "id": "20250419-omelia-veglia-pasquale",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250419-omelia-veglia-pasquale",
         "title": "Easter Vigil in the Holy Night of Easter",
         "type": "Homilies",
         "date": "2025-04-19",
-        "excerpt": "St Peter's BasilicaHoly Saturday, 19 April 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "ألقاها الكاردينال جوفاني باتيستا ري",
+          "hr": "Basilika svetog PetraVelika subota, 19. travnja 2025.",
+          "en": "St Peter's BasilicaHoly Saturday, 19 April 2025",
+          "fr": "Basilique Saint-PierreSamedi Saint, 19 avril 2025",
+          "de": "Es ist Nacht, wenn die Osterkerze sich langsam auf den Altar zubewegt. Es ist Nacht, wenn der Gesang des Hymnus unsere Herzen jubeln lässt, da die Erde »überstrahlt [ist] vom Glanz aus der Höhe. Licht des großen Königs umleuchtet dich. Siehe, geschwunden ist allerorten das Dunkel« (Exsultet). Die im eben verkündeten Evangelium erzählten Begebenheiten ereignen sich gegen Ende der Nacht (vgl.Lk24,1-12): Kurz vor Sonnenaufgang beginnt das göttliche Licht der Auferstehung zu erstrahlen und es ereignet sich das Pascha des Herrn; im ersten Licht der Morgenröte sieht man, dass der große Stein, der vor dem Grab Jesu lag, weggewälzt worden ist und einige Frauen, in Trauerschleier gehüllt, zu diesem Ort kommen. Dunkelheit umhüllt die Erschütterung und Angst der Jünger. Alles geschieht in der Nacht.",
+          "it": "Basilica di San PietroSabato Santo, 19 aprile 2025",
+          "pl": "Bazylika Świętego PiotraWielka Sobota, 19 kwietnia 2025 r.",
+          "pt": "Basílica de São PedroSábado Santo, 19 de abril de 2025",
+          "es": "Basílica de San PedroSábado Santo, 19 de abril de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250419-omelia-veglia-pasquale",
@@ -476,17 +745,29 @@
       "id": "20250417-omelia-crisma",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250417-omelia-crisma",
         "title": "Holy Chrism Mass",
         "type": "Homilies",
         "date": "2025-04-17",
-        "excerpt": "St Peter's BasilicaHoly Thursday, 17 April 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "يوم خميس الأسرار 17 نيسان/أبريل 2025",
+          "en": "St Peter's BasilicaHoly Thursday, 17 April 2025",
+          "fr": "Basilique Saint-PierreJeudi Saint, 17 avril 2025",
+          "de": "Liebe Bischöfe und Priester,liebe Brüder und Schwestern!",
+          "it": "Basilica di San PietroGiovedì Santo, 17 aprile 2025",
+          "pl": "Bazylika Świętego PiotraWielki Czwartek, 17 kwietnia 2025 r.",
+          "pt": "Basílica de São PedroQuinta-feira Santa, 17 de abril de 2025",
+          "es": "Basílica de San PedroJueves Santo, 17 de abril de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250417-omelia-crisma",
@@ -497,17 +778,29 @@
       "id": "20250413-omelia-palme",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250413-omelia-palme",
         "title": "Palm Sunday",
         "type": "Homilies",
         "date": "2025-04-13",
-        "excerpt": "St Peter's SquareSunday, 13 April 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "\"تَبارَكَ المَلِكُ الآتي بِاسمِ الرَّبّ!\" (لوقا 19، 38). هكذا هتفت الجموع ليسوع عند دخوله إلى أورشليم. دخل المسيح المنتَظَر من باب المدينة المقدّسة، الباب الذي فُتِحَ على مصراعيه لاستقبال من سيخرج منه بعد أيام قليلة ملعونًا ومُدانًا، وحاملًا صليبه.",
+          "en": "St Peter's SquareSunday, 13 April 2025",
+          "fr": "Place Saint-PierreDimanche 13 avril 2025",
+          "de": "»Gesegnet sei der König, der kommt, im Namen des Herrn« (Lk19,38). So jubelt die Menge Jesus zu, als er in Jerusalem einzieht. Der Messias kommt durch das Tor der heiligen Stadt, das weit geöffnet ist, um den zu empfangen, der wenige Tage später als Verfluchter und Verurteilter mit dem Kreuz beladen dort wieder hinausgehen wird.",
+          "it": "Piazza San PietroDomenica, 13 aprile 2025",
+          "pl": "Plac św. PiotraNiedziela Palmowa, 13 kwietnia 2025 r.",
+          "pt": "Praça São PedroDomingo, 13 de abril de 2025",
+          "es": "Plaza de San PedroDomingo, 13 de abril de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250413-omelia-palme",
@@ -518,17 +811,30 @@
       "id": "20250406-omelia-giubileo-ammalati",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250406-omelia-giubileo-ammalati",
         "title": "Jubilee of the Sick and Health Care Workers - Holy Mass",
         "type": "Homilies",
         "date": "2025-04-06",
-        "excerpt": "Saint Peter's Square5th Sunday in Lent, 6 April 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في القدّاس الإلهيّ في سنة اليوبيل",
+          "hr": "Jubilej bolesnika i svijeta zdravstva",
+          "en": "Saint Peter's Square5th Sunday in Lent, 6 April 2025",
+          "fr": "Place Saint-PierreVedimanche de Carême, 6 avril 2025",
+          "de": "Petersplatz5. Sonntag der Fastenzeit, 6. April 2025",
+          "it": "Piazza San PietroV Domenica di Quaresima, 6 aprile 2025",
+          "pl": "Plac Świętego PiotraV Niedziela Wielkiego Postu, 6 kwietnia 2025 r.",
+          "pt": "Praça São PedroV Domingo da Quaresma, 6 de abril de 2025",
+          "es": "Plaza de San PedroQuinto domingo de Cuaresma, 6 de abril de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250406-omelia-giubileo-ammalati",
@@ -539,17 +845,30 @@
       "id": "20250309-omelia-giubileo-volontariato",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250309-omelia-giubileo-volontariato",
         "title": "Jubilee of the World of Volunteering – Holy Mass",
         "type": "Homilies",
         "date": "2025-03-09",
-        "excerpt": "Saint Peter's Square1stSunday in the Season of Lent, 9 March 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في القدّاس الإلهيّ في سنة اليوبيل",
+          "hr": "Sveta misa prigodom Jubileja svijeta volonterstva",
+          "en": "Saint Peter's Square1stSunday in the Season of Lent, 9 March 2025",
+          "fr": "Place Saint-PierrePremier dimanche de Carême, 9 mars 2025",
+          "de": "Petersplatz1. Sonntag der Fastenzeit, 9. März 2025",
+          "it": "Piazza San PietroI Domenica di Quaresima, 9 marzo 2025",
+          "pl": "Plac Świętego PiotraI Niedziela Wielkiego Postu, 9 marca 2025 r.",
+          "pt": "Basílica de São PedroI Domingo da Quaresma, 9 de março de 2025",
+          "es": "Plaza de San PedroPrimer domingo de Cuaresma, 9 de marzo de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250309-omelia-giubileo-volontariato",
@@ -560,17 +879,29 @@
       "id": "20250305-omelia-ceneri",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250305-omelia-ceneri",
         "title": "Holy Mass, Blessing and Imposition of the Ashes",
         "type": "Homilies",
         "date": "2025-03-05",
-        "excerpt": "HOMILY OF THE HOLY FATHER FRANCISREAD BY CARDINAL ANGELO DE DONATISBasilica of Santa SabinaWednesday, 5 March 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "ألقاها الكاردينال أنجيلو دي دوناتيس",
+          "en": "HOMILY OF THE HOLY FATHER FRANCISREAD BY CARDINAL ANGELO DE DONATISBasilica of Santa SabinaWednesday, 5 March 2025",
+          "fr": "Basilique Sainte-SabineMercredi 5 mars 2025",
+          "de": "Basilika Santa SabinaMittwoch, 5. März 2025",
+          "it": "Basilica di Santa SabinaMercoledì, 5 marzo 2025",
+          "pl": "Bazylika Świętej SabinyŚroda Popielcowa, 5 marca 2025 r.",
+          "pt": "Basílica de Santa SabinaQuarta-feira, 5 de março de 2025",
+          "es": "Basílica de Santa SabinaMiércoles 5 de marzo de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250305-omelia-ceneri",
@@ -581,17 +912,30 @@
       "id": "20250223-omelia-giubileo-diaconi",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250223-omelia-giubileo-diaconi",
         "title": "Jubilee of Deacons - Holy Mass with Ordination of Deacons",
         "type": "Homilies",
         "date": "2025-02-23",
-        "excerpt": "Saint Peter's Basilica7thSunday in Ordinary Time, 23 February 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في القدّاس الإلهيّ ورسامة الشّمامسة",
+          "hr": "Bazilika svetog PetraSedma nedjelja kroz godinu, 23. veljače 2025.",
+          "en": "Saint Peter's Basilica7thSunday in Ordinary Time, 23 February 2025",
+          "fr": "Basilique Saint-PierreVIIedimanche du Temps ordinaire, 23 février 2025",
+          "de": "Petersdom7. Sonntag im Jahreskreis, 23. Februar 2025",
+          "it": "Basilica di San PietroVII Domenica del Tempo Ordinario, 23 febbraio 2025",
+          "pl": "Bazylika Świętego PiotraVII Niedziela Zwykła, 23 lutego 2025 r.",
+          "pt": "Basílica de São PedroVII Domingo do Tempo Comum, 23 de fevereiro de 2025",
+          "es": "Basílica de San PedroVII Domingo del Tiempo Ordinario, 23 de febrero de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250223-omelia-giubileo-diaconi",
@@ -602,17 +946,29 @@
       "id": "20250216-omelia-giubileo-artisti",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250216-omelia-giubileo-artisti",
         "title": "Jubilee of Artists and the World of Culture – Holy Mass",
         "type": "Homilies",
         "date": "2025-02-16",
-        "excerpt": "Saint Peter's Basilica6thSunday in Ordinary Time, 16 February 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "ألقاها الكاردينال خوسيه تولنتينو دي ميندونكا",
+          "en": "Saint Peter's Basilica6thSunday in Ordinary Time, 16 February 2025",
+          "fr": "Basilique Saint-PierreVIedimanche du Temps ordinaire, 16 février 2025",
+          "de": "Petersdom6. Sonntag im Jahreskreis, 16. Februar 2025",
+          "it": "Basilica di San PietroVI Domenica del Tempo Ordinario, 16 febbraio 2025",
+          "pl": "Bazylika Świętego PiotraVI Niedziela Zwykła, 16 lutego 2025 r.",
+          "pt": "Basílica de São PedroVI Domingo do Tempo Comum, 16 de fevereiro de 2025",
+          "es": "Basílica de San Pedro,VI Domingo del Tiempo Ordinario, 16 de febrero de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250216-omelia-giubileo-artisti",
@@ -623,17 +979,30 @@
       "id": "20250209-omelia-giubileo-forzearmate",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250209-omelia-giubileo-forzearmate",
         "title": "Jubilee of the Armed Forces, Police and Security Personnel – Holy Mass",
         "type": "Homilies",
         "date": "2025-02-09",
-        "excerpt": "Saint Peter's Square5th Sunday in Ordinary Time, 9 February 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في القدّاس الإلهيّ في سنة اليوبيل",
+          "hr": "Jubilej oružanih, redarstvenih i snaga sigurnosti",
+          "en": "Saint Peter's Square5th Sunday in Ordinary Time, 9 February 2025",
+          "fr": "Place Saint-PierreVedimanche du temps ordinaire, 9 février 2025",
+          "de": "Petersplatz5. Sonntag im Jahreskreis, 9. Februar 2025",
+          "it": "Piazza San PietroV Domenica del Tempo Ordinario, 9 febbraio 2025",
+          "pl": "Plac Świętego PiotraV Niedziela Zwykła, 9 lutego 2025 r.",
+          "pt": "Praça São PedroV Domingo do Tempo Comum, 9 de fevereiro de 2025",
+          "es": "Plaza de San PedroV Domingo del Tiempo Ordinario, 9 de febrero de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250209-omelia-giubileo-forzearmate",
@@ -644,17 +1013,31 @@
       "id": "20250201-udienza-giubilare",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250201-udienza-giubilare",
         "title": "Jubilee Audience: To hope is to turn around. Mary Magdalene",
         "type": "Audiences",
         "date": "2025-02-01",
-        "excerpt": "Audience HallSaturday, 1 February 2025",
-        "language_count": 10,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "2. الرّجاء هو أن نلتَفِت. مريم المجدليّة",
+          "zh_tw": "Aula Paolo VISabato, 1° febbraio 2025",
+          "hr": "Dvorana Pavla VI.Subota, 1. veljače 2025.",
+          "en": "Audience HallSaturday, 1 February 2025",
+          "fr": "Salle Paul VISamedi 1erfévrier 2025",
+          "de": "Das Heilige Jahr ist ein Neuanfang für die Menschen und für die Erde. Es ist eine Zeit, in der alles im Rahmen des Traumes Gottes gesehen und neu überdacht werden muss. Und wir wissen, dass das Wort »Umkehr« eine Richtungsänderung bedeutet. Alles kann schließlich aus einer anderen Perspektive gesehen werden, und so gehen auch unsere Schritte auf neue Ziele zu. So entsteht Hoffnung, die nie enttäuscht. Davon erzählt die Bibel auf vielfältige Weise. Und auch unsere Erfahrung des Glaubens hat Impulse erhalten durch Begegnungen mit Menschen, die ihr Leben verändert haben und sozusagen in Gottes Träume eingetreten sind. Denn auch wenn es so viel Böses in der Welt gibt, können wir diejenigen erkennen, die anders sind: ihre Größe, die oft mit ihrer Kleinheit zusammenfällt, berührt uns.",
+          "it": "Aula Paolo VISabato, 1° febbraio 2025",
+          "pl": "Aula Pawła VISobota, 1 lutego 2025 r.",
+          "pt": "Sala Paulo VISábado, 1 de fevereiro de 2025",
+          "es": "Aula Pablo VISábado, 1 de febrero 2025"
+        },
+        "language_count": 10
       },
       "metadata": {
         "document_id": "20250201-udienza-giubilare",
@@ -665,17 +1048,29 @@
       "id": "20250126-domenica-parola-didio",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250126-domenica-parola-didio",
         "title": "Sunday of the Word of God - Jubilee of the World of Communication",
         "type": "Homilies",
         "date": "2025-01-26",
-        "excerpt": "Saint Peter's BasilicaIII Sunday in Ordinary Time, 26 January 2025",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "(الأحد الثّالث من زمن السّنة)",
+          "en": "Saint Peter's BasilicaIII Sunday in Ordinary Time, 26 January 2025",
+          "fr": "Basilique Saint-PierreIIIedimanche du Temps ordinaire, 26 janvier 2025",
+          "de": "PREDIGT VON PAPST FRANZISKUSPetersdom3. Sonntag im Jahreskreis, 26. Januar 2025",
+          "it": "Basilica di San PietroIII Domenica del Tempo Ordinario, 26 gennaio 2025",
+          "pl": "Bazylika Świętego PiotraIII Niedziela Zwykła, 26 stycznia 2025 r.",
+          "pt": "Basílica de São PedroTerceiro Domingo do Tempo Comum, 26 de janeiro de 2025",
+          "es": "Basílica de San PedroIII Domingo del Tiempo Ordinario, 26 de enero de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250126-domenica-parola-didio",
@@ -686,17 +1081,28 @@
       "id": "20250125-vespri-unita-cristiani",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250125-vespri-unita-cristiani",
         "title": "Solemnity of the Conversion of Saint Paul the Apostle - Celebration of Second Vespers",
         "type": "Homilies",
         "date": "2025-01-25",
-        "excerpt": "58thWEEK OF PRAYER FOR CHRISTIAN UNITYHOMILY OF THE HOLY FATHER",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في صلاة الغروب الثّانية يوم عيد اهتداء القدّيس بولس",
+          "en": "58thWEEK OF PRAYER FOR CHRISTIAN UNITYHOMILY OF THE HOLY FATHER",
+          "fr": "CÉLÉBRATION DES SECONDES VÊPRESLVIIIe SEMAINE DE PRIÈRE POUR L'UNITÉ DES CHRÉTIENS",
+          "de": "Feier der Zweiten Vesper58. GEBETSWOCHE FÜR DIE EINHEIT DER CHRISTEN",
+          "it": "Basilica di San Paolo fuori le MuraSabato, 25 gennaio 2025",
+          "pt": "Basílica de São Paulo ExtramurosSábado, 25 de janeiro de 2025",
+          "es": "Basílica de San Pablo extramurosSábado, 25 de enero de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250125-vespri-unita-cristiani",
@@ -707,17 +1113,23 @@
       "id": "20250112-omelia-battesimo",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250112-omelia-battesimo",
         "title": "Feast of the Baptism of the Lord – Holy Mass and administration of the Sacrament of Baptism to some new-born Babies",
         "type": "Homilies",
         "date": "2025-01-12",
-        "excerpt": "Sixtine ChapelSunday, 12 January 2025",
-        "language_count": 2,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Sixtine ChapelSunday, 12 January 2025",
+          "it": "Cappella SistinaDomenica, 12 gennaio 2025"
+        },
+        "language_count": 2
       },
       "metadata": {
         "document_id": "20250112-omelia-battesimo",
@@ -728,17 +1140,31 @@
       "id": "20250111-udienza-giubilare",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250111-udienza-giubilare",
         "title": "Jubilee Audience: To hope is to begin again – John the Baptist",
         "type": "Audiences",
         "date": "2025-01-11",
-        "excerpt": "Audience HallSaturday, 11 January 2025",
-        "language_count": 10,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "1. الرّجاء هو أن نبدأ من جديد – يوحنّا المعمدان",
+          "zh_tw": "Aula Paolo VISabato, 11 gennaio 2025",
+          "hr": "Dvorana Pavla VI.Subota, 11. siječnja 2025.",
+          "en": "Audience HallSaturday, 11 January 2025",
+          "fr": "Salle Paul VISamedi 11 janvier 2025",
+          "de": "Liebe Brüder und Schwestern, guten Tag!",
+          "it": "Aula Paolo VISabato, 11 gennaio 2025",
+          "pl": "Aula Pawła VISobota, 11 stycznia 2025 r.",
+          "pt": "Sala Paulo VISábado, 11 de janeiro de 2025",
+          "es": "Sala Pablo VISábado, 11 de enero de 2025"
+        },
+        "language_count": 10
       },
       "metadata": {
         "document_id": "20250111-udienza-giubilare",
@@ -749,17 +1175,30 @@
       "id": "20250106-omelia-epifania",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250106-omelia-epifania",
         "title": "Holy Mass on the Solemnity of the Epiphany of the Lord",
         "type": "Homilies",
         "date": "2025-01-06",
-        "excerpt": "Saint Peter's BasilicaMonday, 6. January 2025",
-        "language_count": 9,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في عيد ظهور الرّبّ يسوع",
+          "hr": "Bazilika Sv. Petra, 6. siječnja 2025.",
+          "en": "Saint Peter's BasilicaMonday, 6. January 2025",
+          "fr": "Basilique Saint-PierreLundi 6 janvier 2025",
+          "de": "»Wir haben seinen Stern aufgehen sehen und sind gekommen, um ihm zu huldigen« (Mt2,2): Das ist das Zeugnis, das die Sterndeuter den Bewohnern Jerusalems geben und mit dem sie ihnen verkünden, dass der König der Juden geboren wurde.",
+          "it": "Basilica di San PietroLunedì, 6 gennaio 2025",
+          "pl": "Bazylika Świętego PiotraPoniedziałek, 6 stycznia 2025 r.",
+          "pt": "Basílica de São PedroSegunda-feira, 6 de janeiro de 2025",
+          "es": "Basílica de San PedroLunes, 6 de enero de 2025"
+        },
+        "language_count": 9
       },
       "metadata": {
         "document_id": "20250106-omelia-epifania",
@@ -770,17 +1209,29 @@
       "id": "20250101-omelia-madredidio-pace",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20250101-omelia-madredidio-pace",
         "title": "Holy Mass on the Solemnity of Mary, Mother of God",
         "type": "Homilies",
         "date": "2025-01-01",
-        "excerpt": "HOLY MASS ON THE SOLEMNITY OF MARY, MOTHER OF GOD58thWORLD DAY OF PEACE",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "عيد القدّيسة مريم والدة الله",
+          "en": "HOLY MASS ON THE SOLEMNITY OF MARY, MOTHER OF GOD58thWORLD DAY OF PEACE",
+          "fr": "MESSE EN LA SOLENNITÉ DE MARIE MÈRE DE DIEULVIIIeJOURNÉE MONDIALE DE LA PAIX",
+          "de": "Zu Beginn eines neuen Jahres, das der Herr unserem Leben gewährt, ist es gut, den Blick unseres Herzens auf Maria zu richten. Denn als Mutter verweist sie uns auf die Beziehung zu ihrem Sohn: Sie bringt uns zurück zu Jesus, sie spricht zu uns über Jesus, sie führt uns zu Jesus. So tauchen wir am Hochfest der Gottesmutter Maria erneut in das Weihnachtsgeheimnis ein: Gott wurde im Schoß Marias einer von uns, und wir, die wir die Heilige Pforte zum Beginn des Jubiläums geöffnet haben, werden heute daran erinnert, dass »Maria die Tür ist, durch die Christus in diese Welt eingetreten ist« (Hl. Ambrosius,Brief 42, 4:PL, VII).",
+          "it": "Basilica di San PietroMercoledì, 1° gennaio 2025",
+          "pl": "Bazylika Świętego PiotraŚroda, 1 stycznia 2025 r.",
+          "pt": "Basílica de São PedroQuarta-feira, 1° de janeiro de 2025",
+          "es": "Basílica de San PedroMiércoles, 1 de enero de 2025"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20250101-omelia-madredidio-pace",
@@ -791,17 +1242,28 @@
       "id": "20241231-omelia-te-deum",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241231-omelia-te-deum",
         "title": "Celebration of Vespers and Te Deum in Thanksgiving for the past year",
         "type": "Homilies",
         "date": "2024-12-31",
-        "excerpt": "Saint Peter's BasilicaTuesday, 31 December 2024",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Saint Peter's BasilicaTuesday, 31 December 2024",
+          "fr": "Basilique Saint-PierreMardi 31 décembre 2024",
+          "de": "Dies ist die Stunde, Dank zu sagen, und wir haben die Freude, dies zu tun, während wir die heilige Mutter Gottes ehren. Sie, die das Geheimnis Jesu in ihrem Herzen bewahrt, lehrt auch uns, die Zeichen der Zeit im Licht dieses Geheimnisses zu deuten.",
+          "it": "Basilica di San PietroMartedì, 31 dicembre 2024",
+          "pl": "Bazylika Świętego PiotraWtorek, 31 grudnia 2024 r.",
+          "pt": "Basílica de São PedroTerça-feira, 31 de dezembro de 2024",
+          "es": "Basílica de San PedroMartes, 31 de diciembre de 2024"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20241231-omelia-te-deum",
@@ -812,17 +1274,28 @@
       "id": "20241226-apertura-portasanta-rebibbia",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241226-apertura-portasanta-rebibbia",
         "title": "Opening of the Holy Door in the Prison of Rebibbia and Holy Mass",
         "type": "Homilies",
         "date": "2024-12-26",
-        "excerpt": "Prison of Rebibbia, RomaThursday, 26 December 2024",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Prison of Rebibbia, RomaThursday, 26 December 2024",
+          "fr": "Prison romaine de Rebibbia, RomeJeudi 26 décembre 2024",
+          "de": "Strafanstalt Rebibbia, RomDonnerstag, 26. Dezember 2024",
+          "it": "Casa Circondariale di Rebibbia, RomaGiovedì, 26 dicembre 2024",
+          "pl": "Zakład Karny Rebibbia w RzymieCzwartek, 26 grudnia 2024 r.",
+          "pt": "Prisão de Rebibbia, em Romaquinta-feira, 26 de dezembro de 2024",
+          "es": "Centro de detención de Rebibbia, RomaJueves, 26 de diciembre de 2024"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20241226-apertura-portasanta-rebibbia",
@@ -833,17 +1306,29 @@
       "id": "20241224-omelia-natale",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241224-omelia-natale",
         "title": "Holy Mass on the Solemnity of the Nativity of the Lord",
         "type": "Homilies",
         "date": "2024-12-24",
-        "excerpt": "Saint Peter's BasilicaTuesday, 24 December 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "الثّلاثاء 24 كانون الأوّل/ديسمبر 2024",
+          "en": "Saint Peter's BasilicaTuesday, 24 December 2024",
+          "fr": "Basilique Saint-PierreMardi 24 décembre 2024",
+          "de": "Ein in Licht gehüllter Engel des Herrn erleuchtet die Nacht und verkündet den Hirten die frohe Botschaft: »Ich verkünde euch eine große Freude, die dem ganzen Volk zuteilwerden soll: Heute ist euch in der Stadt Davids der Retter geboren; er ist der Christus, der Herr« (Lk2,10-11). Inmitten des Staunens der Armen und des Gesangs der Engel öffnet sich der Himmel auf Erden: Gott ist einer von uns geworden, um uns ihm gleich zu machen, er ist zu uns herabgestiegen, um uns wieder aufzurichten und in die Umarmung des Vaters zurückzuführen.",
+          "it": "Basilica di San PietroMartedì, 24 dicembre 2024",
+          "pl": "Bazylika Świętego PiotraWtorek, 24 grudnia 2024 r.",
+          "pt": "Basílica VaticanaTerça-feira, 24 de dezembro de 2024",
+          "es": "Basílica de San PedroMartes, 24 de diciembre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241224-omelia-natale",
@@ -854,17 +1339,29 @@
       "id": "20241215-ajaccio-messa",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241215-ajaccio-messa",
         "title": "Apostolic Journey to Ajaccio: Holy Mass at “Place d’Austerlitz” (“U Casone”)",
         "type": "Homilies",
         "date": "2024-12-15",
-        "excerpt": "“Place d’Austerlitz” (“U Casone”) - AjaccioSunday, 15 December 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "الزيارة الرّسوليّة إلى أجاكسيو (جزيرة كورسيكا)",
+          "en": "“Place d’Austerlitz” (“U Casone”) - AjaccioSunday, 15 December 2024",
+          "fr": "Place d’Austerlitz (“ U Casone ”) - AjaccioDimanche 15 décembre 2024",
+          "de": "HEILIGE MESSEPREDIGT DES HEILIGEN VATERS“Place d’Austerlitz” (“U Casone”) - AjaccioDomenica, 15 dicembre 2024",
+          "it": "“Place d’Austerlitz” (“U Casone”) - AjaccioDomenica, 15 dicembre 2024",
+          "pl": "„Place d'Austerlitz„ (”U Casone\") - AjaccioNiedziela, 15 grudnia 2024 r.",
+          "pt": "Praça de Austerlitz (“U Casone”)Domingo, 15 de dezembro de 2024",
+          "es": "“Place d’Austerlitz” (“U Casone”) - AjaccioDomingo, 15 de diciembre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241215-ajaccio-messa",
@@ -875,17 +1372,27 @@
       "id": "20241212-omelia-guadalupe",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241212-omelia-guadalupe",
         "title": "Blessed Virgin Mary of Guadalupe - Holy Mass",
         "type": "Homilies",
         "date": "2024-12-12",
-        "excerpt": "Saint Peter's BasilicaThursday, 12 December 2024",
-        "language_count": 6,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Saint Peter's BasilicaThursday, 12 December 2024",
+          "fr": "Basilique Saint-PierreJeudi 12 décembre 2024",
+          "de": "Wir blicken auf das Bild Marias, Maria von Guadalupe, die schwanger ist, die die Geburt des Erlösers verkündet, schwanger als Mutter.",
+          "it": "Basilica di San PietroGiovedì, 12 dicembre 2024",
+          "pt": "Basílica de São PedroQuinta-feira, 12 de dezembro de 2024",
+          "es": "Basílica de San PedroJueves, 12 de diciembre de 2024"
+        },
+        "language_count": 6
       },
       "metadata": {
         "document_id": "20241212-omelia-guadalupe",
@@ -896,17 +1403,29 @@
       "id": "20241208-omelia-nuovi-cardinali",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241208-omelia-nuovi-cardinali",
         "title": "Holy Mass with the new Cardinals and the College of Cardinals",
         "type": "Homilies",
         "date": "2024-12-08",
-        "excerpt": "Saint Peter's BasilicaSolemnity of the Immaculate Conception of the Blessed Virgin MarySunday, 8 December 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في عيد الحبل الطّاهر بمريم العذراء",
+          "en": "Saint Peter's BasilicaSolemnity of the Immaculate Conception of the Blessed Virgin MarySunday, 8 December 2024",
+          "fr": "Basilique Saint-PierreSolennité de l'Immaculée Conception de la Bienheureuse Vierge MarieIIe Dimanche de l'Avent, 8 décembre 2024",
+          "de": "PetersdomHochfest der ohne Erbsünde empfangenen Jungfrau und Gottesmutter MariaSonntag, 8. Dezember 2024",
+          "it": "Basilica di San PietroSolennità dell'Immacolata Concezione della Beata Vergine MariaDomenica, 8 dicembre 2024",
+          "pl": "Bazylika Świętego PiotraUroczystość Niepokalanego Poczęcia Najświętszej Maryi PannyNiedziela, 8 grudnia 2024 r.",
+          "pt": "Basilica di San PietroSolenidade da Imaculada Conceição da Bem-Aventurada Virgem MariaDomingo, 8 de dezembro de 2024",
+          "es": "Basílica de San PedroSolemnidad de la Inmaculada Concepción de la Bienaventurada Virgen MaríaDomingo, 8 de diciembre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241208-omelia-nuovi-cardinali",
@@ -917,17 +1436,29 @@
       "id": "20241207-omelia-concistoro",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241207-omelia-concistoro",
         "title": "Ordinary Public Consistory for the creation of new Cardinals",
         "type": "Homilies",
         "date": "2024-12-07",
-        "excerpt": "Saint Peter's BasilicaSaturday, 7 December 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في انعقاد اجتماع مجمع الكرادلة لتعيّين الكرادلة الجُدُد",
+          "en": "Saint Peter's BasilicaSaturday, 7 December 2024",
+          "fr": "Place Saint-PierreSamedi 7 décembre 2024",
+          "de": "Denken wir ein wenig über diese Erzählung nach: Jesus zieht hinauf nach Jerusalem. Es ist kein Aufstieg zur Herrlichkeit dieser Welt, sondern zur Herrlichkeit Gottes, was einen Abstieg in die Abgründe des Todes bedeutet. In der Heiligen Stadt wird er nämlich am Kreuz sterben, um uns wieder Leben zu schenken. Doch Jakobus und Johannes, die sich stattdessen ein anderes Schicksal für ihren Meister vorstellen, bitten ihn um zwei Ehrenplätze: »Lass in deiner Herrlichkeit einen von uns rechts und den anderen links neben dir sitzen« (Mk10,37).",
+          "it": "Basilica VaticanaSabato, 7 dicembre 2024",
+          "pl": "Bazylika Świętego PiotraSobota, 7 grudnia 2024 r.",
+          "pt": "Basílica de São PedroSábado, 7 de dezembro de 2024",
+          "es": "Basílica de San PedroSábado, 7 de diciembre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241207-omelia-concistoro",
@@ -938,17 +1469,29 @@
       "id": "20241124-omelia-cristore-delluniverso",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241124-omelia-cristore-delluniverso",
         "title": "Our Lord Jesus Christ, King of the Universe - Holy Mass",
         "type": "Homilies",
         "date": "2024-11-24",
-        "excerpt": "Solemnity of Our Lord Jesus Christ, King of the UniverseSaint Peter's Basilica - Sunday, 24 November 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في نهاية السّنة الليتورجيّة، الكنيسة تحتفل بعيد يسوع المسيح ملك الكون. وتدعونا إلى أن ننظر إليه، إلى الرّبّ يسوع، أصل وكمال كلّ شيء (راجع قولسي 1، 16-17)، الذي \"مُلكُه لا يَنقرِض\" (دانيال 7، 14).",
+          "en": "Solemnity of Our Lord Jesus Christ, King of the UniverseSaint Peter's Basilica - Sunday, 24 November 2024",
+          "fr": "XXXIXeJOURNÉE MONDIALE DE LA JEUNESSE",
+          "de": "Am Ende des liturgischen Jahres feiert die Kirche das Hochfest unseres Herrn Jesus Christus, des Königs des Weltalls.Sie lädt uns ein, auf ihn zu blicken, auf den Herrn zu blicken, den Ursprung und die Vollendung aller Dinge (vgl.Kol1,16-17), dessen »Reich niemals unter geht« (Dan7,14).",
+          "it": "Solennità di Nostro Signore Gesù Cristo Re dell'UniversoDomenica, 24 novembre 2024",
+          "pl": "Bazylika Świętego PiotraUroczystość Jezusa Chrystusa Króla WszechświataNiedziela, 24 listopada 2024 r.",
+          "pt": "Solenidade de Nosso Senhor Jesus Cristo, Rei do UniversoBasílica de São Pedro - Domingo, 24 de novembro de 2024",
+          "es": "Solemnidad de Nuestro Señor Jesucristo Rey del UniversoDomingo, 24 de noviembre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241124-omelia-cristore-delluniverso",
@@ -959,17 +1502,29 @@
       "id": "20241117-omelia-giornatamondiale-poveri",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241117-omelia-giornatamondiale-poveri",
         "title": "Holy Mass on the occasion of the World Day of the Poor",
         "type": "Homilies",
         "date": "2024-11-17",
-        "excerpt": "Saint Peter's BasilicaXXXIII Sunday in Ordinary Time, 17 November 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "الكلام الذي أصغينا إليه قبل قليل يمكنه أن يبعثَ فينا مشاعر القلق، لكنّه في الحقيقة إعلان كبير للرّجاء. في الواقع، إن كان يسوع من جهة قد يبدو أنّه يصف الحالة النّفسيّة لِمَن رأى دمار أورشليم ويعتقد أنّ النّهاية قد حانت، فهو في الوقت نفسه يُعلن عن شيء استثنائيّ: في ساعة الظّلام واليأس بالتّحديد، وحين يبدو أنّ كلّ شيء قد انهار، الله يأتي، ويقترب، ويجمعنا ليخلّصنا.",
+          "en": "Saint Peter's BasilicaXXXIII Sunday in Ordinary Time, 17 November 2024",
+          "fr": "Basilique Saint-PierreXXXIIIedimanche du Temps ordinaire, 17 novembre 2024",
+          "de": "Petersdom33. Sonntag im Jahreskreis, 17. November 2024",
+          "it": "Basilica di San PietroXXXIII Domenica del Tempo Ordinario, 17 novembre 2024",
+          "pl": "Bazylika Świętego PiotraXXXIII Niedziela Zwykła, 17 listopada 2024 r.",
+          "pt": "Basílica de São PedroXXXIII Domingo do Tempo Comum, 17 de novembro de 2024",
+          "es": "Basílica de San PedroXXXIII Domingo del Tiempo Ordinario, 17 de noviembre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241117-omelia-giornatamondiale-poveri",
@@ -980,17 +1535,28 @@
       "id": "20241104-omelia-cardinali-defunti",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241104-omelia-cardinali-defunti",
         "title": "Mass for deceased Cardinals and Bishops",
         "type": "Homilies",
         "date": "2024-11-04",
-        "excerpt": "Saint Peter's Basilica - Altar of the ChairMonday, 4 November 2024",
-        "language_count": 7,
-        "pdf_available": true
+        "excerpt": {
+          "en": "Saint Peter's Basilica - Altar of the ChairMonday, 4 November 2024",
+          "fr": "Basilique Saint-Pierre - Autel de la ChaireLundi 4 novembre 2024",
+          "de": "Heilige Messe für die im Laufe des vergangenen Jahres verstorbenen Kardinäle und Bischöfe",
+          "it": "Basilica di San Pietro - Altare della CattedraLunedì, 4 novembre 2024",
+          "pl": "Bazylika Świętego Piotra, Ołtarz Katedry",
+          "pt": "Basílica de São Pedro - Altar da CátedraSegunda-feira, 4 de novembro de 2024",
+          "es": "Basílica de San Pedro - Altar de la CátedraLunes, 4 de noviembre de 2024"
+        },
+        "language_count": 7
       },
       "metadata": {
         "document_id": "20241104-omelia-cardinali-defunti",
@@ -1001,17 +1567,29 @@
       "id": "20241027-omelia-conclusione-sinodo",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241027-omelia-conclusione-sinodo",
         "title": "Conclusion of the Ordinary General Assembly of the Synod of Bishops – Holy Mass",
         "type": "Homilies",
         "date": "2024-10-27",
-        "excerpt": "Saint Peter's BasilicaXXX Sunday in Ordinary Time, 27 October 2024",
-        "language_count": 8,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في ختام الجمعيّة العامّة العاديّة لسينودس الأساقفة",
+          "en": "Saint Peter's BasilicaXXX Sunday in Ordinary Time, 27 October 2024",
+          "fr": "Basilique Saint-PierreXXXedimanche du Temps ordinaire, 27 octobre 2024",
+          "de": "Petersdom30. Sonntag im Jahreskreis, 27. Oktober 2024",
+          "it": "Basilica di San PietroXXX Domenica del tempo Ordinario, 27 ottobre 2024",
+          "pl": "Bazylika Świętego PiotraXXX Niedziela Zwykła, 27 października 2024 r.",
+          "pt": "Basílica de São PedroXXX Domingo do Tempo Comum, 27 de outubro de 2024",
+          "es": "Basílica de San PedroXXX domingo del tiempo ordinario, 27 de octubre de 2024"
+        },
+        "language_count": 8
       },
       "metadata": {
         "document_id": "20241027-omelia-conclusione-sinodo",
@@ -1022,42 +1600,35 @@
       "id": "20241024-enciclica-dilexit-nos",
       "pope": {
         "id": "francesco",
-        "name": "Francis",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
         "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
+        "id": "20241024-enciclica-dilexit-nos",
         "title": "Dilexit nos",
         "type": "Encyclical",
         "date": "2024-10-24",
-        "excerpt": "1. “HE LOVED US”, Saint Paul says of Christ (cf.Rom8:37), in order to make us realize that nothing can ever “separate us” from that love (Rom8:39). Paul could say this with certainty because Jesus himself had told his disciples, “I have loved you” (Jn15:9, 12). Even now, the Lord says to us, “I have called you friends” (Jn15:15). His open heart has gone before us and waits for us, unconditionally, asking only to offer us his love and friendship. For “he loved us first” (cf.1 Jn4:10). Because of Jesus, “we have come to know and believe in the love that God has for us” (1 Jn4:16).",
-        "language_count": 10,
-        "pdf_available": true
+        "excerpt": {
+          "ar": "في الحبّ الإنسانيّ والحبّ الإلهيّ",
+          "be": "(пераклад Секцыі па перакладзе літургічных тэкстаў і афіцыйных дакументаў КасцёлаКамісіі Божага Культу і Дысцыпліны Сакрамэнтаўпры Канферэнцыі Каталіцкіх Біскупаў у Беларусі)",
+          "en": "1. “HE LOVED US”, Saint Paul says of Christ (cf.Rom8:37), in order to make us realize that nothing can ever “separate us” from that love (Rom8:39). Paul could say this with certainty because Jesus himself had told his disciples, “I have loved you” (Jn15:9, 12). Even now, the Lord says to us, “I have called you friends” (Jn15:15). His open heart has gone before us and waits for us, unconditionally, asking only to offer us his love and friendship. For “he loved us first” (cf.1 Jn4:10). Because of Jesus, “we have come to know and believe in the love that God has for us” (1 Jn4:16).",
+          "fr": "1. « Il nous a aimés » dit saint Paul, en parlant du Christ (Rm8, 37), nous faisant découvrir que rien « ne pourra nous séparer » (Rm8, 39) de son amour. Il l’affirme avec certitude car le Christ l’a dit lui-même à ses disciples : « Je vous ai aimés » (Jn15, 9.12). Il a dit aussi : « Je vous appelle amis » (Jn15, 15). Son cœur ouvert nous précède et nous attend inconditionnellement, sans exiger de préalable pour nous aimer et nous offrir son amitié : « Il nous a aimés le premier » (1 Jn4, 19). Grâce à Jésus, « nous avons reconnu l’amour que Dieu a pour nous et nous y avons cru » (1 Jn4, 16).",
+          "de": "1. „Er hat uns geliebt“, sagt Paulus über Christus (vgl.Röm8,37), um uns erkennen zu lassen, dass uns nichts von dieser Liebe „scheiden kann“ (vgl.Röm8,39). Paulus sagte dies mit Überzeugung, denn Christus selbst hatte seinen Jüngern versichert: „Ich habe euch geliebt“ (vgl.Joh15,9.12). Er hat uns auch gesagt: „Ich nenne euch Freunde“ (vgl.Joh15,15). Sein offenes Herz kommt uns zuvor und wartet bedingungslos auf uns, ohne Vorleistungen zu erwarten, um uns lieben und uns seine Freundschaft anbieten zu können: Er hat uns zuerst geliebt (vgl. 1Joh4,10). Dank Jesus „haben wir die Liebe, die Gott zu uns hat, erkannt und gläubig angenommen“ (vgl. 1Joh4,16).",
+          "it": "1. «Ci ha amati», dice San Paolo riferendosi a Cristo (Rm8,37), per farci scoprire che da questo amore nulla «potrà mai separarci» (Rm8,39). Paolo lo affermava con certezza perché Cristo stesso aveva assicurato ai suoi discepoli: «Io ho amato voi» (Gv15,9.12). Ci ha anche detto: «Vi ho chiamato amici» (Gv15,15). Il suo cuore aperto ci precede e ci aspetta senza condizioni, senza pretendere alcun requisito previo per poterci amare e per offrirci la sua amicizia: Egli ci ha amati per primo (cfr1 Gv4,10). Grazie a Gesù «abbiamo conosciuto e creduto l’amore che Dio ha in noi» (1 Gv4,16). I.",
+          "la": "1. «Dilexit nos», autumat sanctus Paulus, ad Christum se referens (Rm8, 37), ut nobis ostendat quomodo ab hac caritate nihil umquam possit «nos separare» (8,39). Paulus id certo affirmabat, eo quod ipse Christus suis praestiterat discipulis: «Ego dilexi vos» (Io15,9.12). Qui etiam dixit: «Vos autem dixi amicos» (15,15). Eius cor patens nos antecedit et ullis sine condicionibus nos exspectat, nihil praevium requirens, ut nos diligat nobisque suam praebeat amicitiam: Ipse primus dilexit nos (cfr1 Io4,10). Per Iesum «nos, qui credidimus, novimus caritatem, quam habet Deus in nobis» (4,16).",
+          "pl": "1. „Umiłował nas” – mówi św. Paweł odnosząc się do Chrystusa (Rz8, 37), abyśmy odkryli, że od tej miłości nic „nie zdoła nas odłączyć” (Rz8, 39). Paweł stwierdzał to z przekonaniem, ponieważ sam Chrystus zapewnił o tym swoich uczniów: „Ja was umiłowałem” (J15, 9.12). Powiedział nam także: „nazwałem was przyjaciółmi” (J15, 15). Jego otwarte Serce uprzedza nas i czeka bezwarunkowo na nas, nie stawiając żadnych wstępnych wymagań, aby móc nas kochać i ofiarować nam swoją przyjaźń: On pierwszy nas umiłował (por.1 J4, 10). Dzięki Jezusowi „myśmy poznali i uwierzyli miłości, jaką Bóg ma ku nam” (1 J4, 16).",
+          "pt": "1. «Amou-nos», diz São Paulo referindo-se a Cristo (Rm8, 37), para nos ajudar a descobrir que nada «será capaz de separar-nos» desse amor (Rm8, 39). Paulo afirmava-o com firme certeza, porque o próprio Cristo tinha garantido aos seus discípulos: «Eu vos amei» (Jo15, 9.12). Disse também: «Chamei-vos amigos» (Jo15, 15). O seu coração aberto precede-nos e espera-nos incondicionalmente, sem exigir qualquer pré-requisito para nos amar e oferecer a sua amizade: Ele amou-nos primeiro (cf.1Jo4, 10). Graças a Jesus, «conhecemos o amor que Deus nos tem, pois cremos nele» (1 Jo4, 16).",
+          "es": "1. «Nos amó», dice san Pablo refiriéndose a Cristo (Rm8,37), para ayudarnos a descubrir que de ese amor nada «podrá separarnos» (Rm8,39). Pablo lo afirmaba con certeza porque Cristo mismo lo había asegurado a sus discípulos: «los he amado» (Jn15,9.12). También nos dijo: «los llamo amigos» (Jn15,15). Su corazón abierto nos precede y nos espera sin condiciones, sin exigir un requisito previo para poder amarnos y proponernos su amistad: «nos amó primero» (1 Jn4,10). Gracias a Jesús «nosotros hemos conocido el amor que Dios nos tiene y hemos creído» en ese amor (1 Jn4,16)."
+        },
+        "language_count": 10
       },
       "metadata": {
         "document_id": "20241024-enciclica-dilexit-nos",
         "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "20241020-omelia-canonizzazione",
-      "pope": {
-        "id": "francesco",
-        "name": "Francis",
-        "handle": "francesco",
-        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
-      },
-      "document": {
-        "title": "Holy Mass and Canonization",
-        "type": "Homilies",
-        "date": "2024-10-20",
-        "excerpt": "Saint Peter's SquareXXIX Sunday in Ordinary Time, 20 October 2024",
-        "language_count": 8,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "20241020-omelia-canonizzazione",
-        "original_type": "homilies"
       }
     }
   ]
