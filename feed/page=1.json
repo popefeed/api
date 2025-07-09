@@ -2,8 +2,8 @@
   "meta": {
     "page": 1,
     "per_page": 50,
-    "total_pages": 3,
-    "total_posts": 123,
+    "total_pages": 37,
+    "total_posts": 1827,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
@@ -11,1053 +11,1053 @@
   },
   "posts": [
     {
-      "id": "20241024-enciclica-dilexit-nos",
+      "id": "20250705-insegnanti-giovani",
       "pope": {
-        "id": "francesco",
-        "name": "Francis",
-        "handle": "pontifex",
-        "avatar": "http://localhost:8000/popes/francesco.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Dilexit nos",
-        "type": "Encyclical",
-        "date": "2024-10-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 10,
+        "title": "To Teachers of Catholic Schools in Ireland, England, Wales, and Scotland; and to the Young People of the Diocese of Copenhagen",
+        "type": "Speeches",
+        "date": "2025-07-05",
+        "excerpt": "Clementine HallSaturday, 5 July 2025",
+        "language_count": 3,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "20241024-enciclica-dilexit-nos",
-        "original_type": "encyclicals"
+        "document_id": "20250705-insegnanti-giovani",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "papa-francesco_20201003_enciclica-fratelli-tutti",
+      "id": "20250705-agostiniane",
       "pope": {
-        "id": "francesco",
-        "name": "Francis",
-        "handle": "pontifex",
-        "avatar": "http://localhost:8000/popes/francesco.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Fratelli tutti",
-        "type": "Encyclical",
-        "date": "2020-10-03",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 18,
+        "title": "To the Augustinian Sisters, Servants of Jesus and Mary",
+        "type": "Speeches",
+        "date": "2025-07-05",
+        "excerpt": "In the name of the Father, of the Son, and of the Holy Spirit,",
+        "language_count": 5,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "papa-francesco_20201003_enciclica-fratelli-tutti",
-        "original_type": "encyclicals"
+        "document_id": "20250705-agostiniane",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "papa-francesco_20150524_enciclica-laudato-si",
+      "id": "20250705-messaggio-losservatore-strada",
       "pope": {
-        "id": "francesco",
-        "name": "Francis",
-        "handle": "pontifex",
-        "avatar": "http://localhost:8000/popes/francesco.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Laudato si'",
-        "type": "Encyclical",
-        "date": "2015-05-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 17,
+        "title": "Message of the Holy Father on the third anniversary of the monthly magazine “L'Osservatore di Strada”",
+        "type": "Messages",
+        "date": "2025-07-05",
+        "excerpt": "Cari amici dell'Osservatore di Strada che oggi fate festa per i tre anni dalla nascita del mensile la cui prima uscita avvenne il 29 giugno 2022, auguri!",
+        "language_count": 2,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "papa-francesco_20150524_enciclica-laudato-si",
-        "original_type": "encyclicals"
+        "document_id": "20250705-messaggio-losservatore-strada",
+        "original_type": "messages"
       }
     },
     {
-      "id": "papa-francesco_20130629_enciclica-lumen-fidei",
+      "id": "20250702-chiesa-grecocatt-ucraina",
       "pope": {
-        "id": "francesco",
-        "name": "Francis",
-        "handle": "pontifex",
-        "avatar": "http://localhost:8000/popes/francesco.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Lumen fidei",
-        "type": "Encyclical",
-        "date": "2013-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 15,
+        "title": "To Members of the Synod of the Ukrainian Greek-Catholic Church",
+        "type": "Speeches",
+        "date": "2025-07-02",
+        "excerpt": "Consistory HallWednesday, 2 July 2025",
+        "language_count": 5,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "papa-francesco_20130629_enciclica-lumen-fidei",
-        "original_type": "encyclicals"
+        "document_id": "20250702-chiesa-grecocatt-ucraina",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_ben-xvi_enc_20090629_caritas-in-veritate",
+      "id": "20250630-messaggio-giornata-curacreato",
       "pope": {
-        "id": "benedict-xvi",
-        "name": "Benedict XVI",
-        "handle": "benedictxvi",
-        "avatar": "http://localhost:8000/popes/benedict-xvi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Caritas in veritate",
-        "type": "Encyclical",
-        "date": "2009-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 15,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xvi_enc_20090629_caritas-in-veritate",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xvi_enc_20071130_spe-salvi",
-      "pope": {
-        "id": "benedict-xvi",
-        "name": "Benedict XVI",
-        "handle": "benedictxvi",
-        "avatar": "http://localhost:8000/popes/benedict-xvi.jpg"
-      },
-      "document": {
-        "title": "Spe salvi",
-        "type": "Encyclical",
-        "date": "2007-11-30",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 14,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xvi_enc_20071130_spe-salvi",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xvi_enc_20051225_deus-caritas-est",
-      "pope": {
-        "id": "benedict-xvi",
-        "name": "Benedict XVI",
-        "handle": "benedictxvi",
-        "avatar": "http://localhost:8000/popes/benedict-xvi.jpg"
-      },
-      "document": {
-        "title": "Deus caritas est",
-        "type": "Encyclical",
-        "date": "2005-12-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 14,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xvi_enc_20051225_deus-caritas-est",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_20030417_eccl-de-euch",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Ecclesia de Eucharistia",
-        "type": "Encyclical",
-        "date": "2003-04-17",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 11,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_20030417_eccl-de-euch",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_14091998_fides-et-ratio",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Fides et Ratio",
-        "type": "Encyclical",
-        "date": "1998-09-14",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 16,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_14091998_fides-et-ratio",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_25051995_ut-unum-sint",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Ut Unum Sint",
-        "type": "Encyclical",
-        "date": "1995-05-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 12,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_25051995_ut-unum-sint",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_25031995_evangelium-vitae",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Evangelium Vitae",
-        "type": "Encyclical",
-        "date": "1995-03-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 12,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_25031995_evangelium-vitae",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_06081993_veritatis-splendor",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Veritatis Splendor",
-        "type": "Encyclical",
-        "date": "1993-08-06",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 11,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_06081993_veritatis-splendor",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_01051991_centesimus-annus",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Centesimus Annus",
-        "type": "Encyclical",
-        "date": "1991-05-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 10,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_01051991_centesimus-annus",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_07121990_redemptoris-missio",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Redemptoris Missio",
-        "type": "Encyclical",
-        "date": "1990-12-07",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 11,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_07121990_redemptoris-missio",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Sollicitudo Rei Socialis",
-        "type": "Encyclical",
-        "date": "1987-12-30",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Message of the Holy Father on the occasion of the World Day of Prayer for the Care of Creation [1 September 2025]",
+        "type": "Messages",
+        "date": "2025-06-30",
+        "excerpt": "MESSAGE OF HIS HOLINESSPOPE LEO XIVFOR THE 10thWORLD DAY OF PRAYERFOR THE CARE OF CREATION 2025",
         "language_count": 9,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_jp-ii_enc_30121987_sollicitudo-rei-socialis",
-        "original_type": "encyclicals"
+        "document_id": "20250630-messaggio-giornata-curacreato",
+        "original_type": "messages"
       }
     },
     {
-      "id": "hf_jp-ii_enc_25031987_redemptoris-mater",
+      "id": "20250630-capitoli-generali-suore",
       "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Redemptoris Mater",
-        "type": "Encyclical",
-        "date": "1987-03-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Participants in the General Chapters of the Daughters of Divine Charity, of the Sisters of the Order of Saint Basil the Great, of the Augustinian Sisters of Amparo and of the Franciscan Sisters of the Sacred Heart",
+        "type": "Speeches",
+        "date": "2025-06-30",
+        "excerpt": "Clementine HallMonday, 30 June 2025",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250630-capitoli-generali-suore",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250630-messaggio-fao",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of the Holy Father to Participants in the 44thSession of the FAO Conference",
+        "type": "Messages",
+        "date": "2025-06-30",
+        "excerpt": "MESSAGE OF POPE LEO XIVTO PARTICIPANTS IN THE 44thSESSIONOF THE FAO CONFERENCE",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250630-messaggio-fao",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250629-omelia-pallio",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass and Blessing of the Sacred Pallium for the new Metropolitan Archbishops on the Solemnity of Saints Peter and Paul",
+        "type": "Homilies",
+        "date": "2025-06-29",
+        "excerpt": "Saint Peter's BasilicaSunday, 29 June 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250629-omelia-pallio",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250628-patriarcato-ecumenico",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Address of His Holiness Pope Leo XIV to the Delegation of the Ecumenical Patriarchate on the occasion of the Solemnity of Saints Peter and Paul",
+        "type": "Speeches",
+        "date": "2025-06-28",
+        "excerpt": "Your Eminences,Dear Brothers in Christ,",
+        "language_count": 6,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250628-patriarcato-ecumenico",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250628-chiesa-greco-cattolica-ucraina",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To Pilgrims of the Ukrainian Greek-Catholic Church",
+        "type": "Speeches",
+        "date": "2025-06-28",
+        "excerpt": "St. Peter's BasilicaSaturday, 28 June 2025",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250628-chiesa-greco-cattolica-ucraina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250628-congregazione-vallombrosana",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Audience with participants in the General Chapter of Vallombrosians",
+        "type": "Speeches",
+        "date": "2025-06-28",
+        "excerpt": "In the name of the Father, and the Son, and the Holy Spirit.",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250628-congregazione-vallombrosana",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250627-messaggio-santificazione-sacerdotale",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of the Holy Father to Priests on the Occasion of the World Day of Prayer for the Sanctification of Priests",
+        "type": "Messages",
+        "date": "2025-06-27",
+        "excerpt": "[27 June 2025 - Solemnity of the Most Sacred Heart of Jesus]",
         "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_jp-ii_enc_25031987_redemptoris-mater",
-        "original_type": "encyclicals"
+        "document_id": "20250627-messaggio-santificazione-sacerdotale",
+        "original_type": "messages"
       }
     },
     {
-      "id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
+      "id": "20250627-omelia-giubileo-sacerdoti",
       "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Dominum et vivificantem",
-        "type": "Encyclical",
-        "date": "1986-05-18",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 9,
+        "title": "Most Sacred Heart of Jesus - Holy Mass and priestly Ordinations",
+        "type": "Homilies",
+        "date": "2025-06-27",
+        "excerpt": "Saint Peter’s Basilica, Altar of the ConfessionFriday, 27 June 2025",
+        "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_jp-ii_enc_18051986_dominum-et-vivificantem",
-        "original_type": "encyclicals"
+        "document_id": "20250627-omelia-giubileo-sacerdoti",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
+      "id": "20250626-roaco",
       "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Slavorum Apostoli",
-        "type": "Encyclical",
-        "date": "1985-06-02",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 9,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_19850602_slavorum-apostoli",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_14091981_laborem-exercens",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Laborem Exercens",
-        "type": "Encyclical",
-        "date": "1981-09-14",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 9,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_14091981_laborem-exercens",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Dives in Misericordia",
-        "type": "Encyclical",
-        "date": "1980-11-30",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 10,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_30111980_dives-in-misericordia",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_jp-ii_enc_04031979_redemptor-hominis",
-      "pope": {
-        "id": "john-paul-ii",
-        "name": "John Paul II",
-        "handle": "johnpaulii",
-        "avatar": "http://localhost:8000/popes/john-paul-ii.jpg"
-      },
-      "document": {
-        "title": "Redemptor Hominis",
-        "type": "Encyclical",
-        "date": "1979-03-04",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 10,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_jp-ii_enc_04031979_redemptor-hominis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-vi_enc_25071968_humanae-vitae",
-      "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
-      },
-      "document": {
-        "title": "Humanae Vitae",
-        "type": "Encyclical",
-        "date": "1968-07-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 10,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-vi_enc_25071968_humanae-vitae",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-vi_enc_24061967_sacerdotalis",
-      "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
-      },
-      "document": {
-        "title": "Sacerdotalis Caelibatus",
-        "type": "Encyclical",
-        "date": "1967-06-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 6,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-vi_enc_24061967_sacerdotalis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-vi_enc_26031967_populorum",
-      "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
-      },
-      "document": {
-        "title": "Populorum Progressio",
-        "type": "Encyclical",
-        "date": "1967-03-26",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Participants in the Plenary Session of the “Reunion of Aid Agencies for the Oriental Churches” (ROACO)",
+        "type": "Speeches",
+        "date": "2025-06-26",
+        "excerpt": "Clementine HallThursday, 26 June 2025",
         "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-vi_enc_26031967_populorum",
-        "original_type": "encyclicals"
+        "document_id": "20250626-roaco",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-vi_enc_15091966_christi-matri",
+      "id": "20250626-incontro-dicastero-clero",
       "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Christi Matri",
-        "type": "Encyclical",
-        "date": "1966-09-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 6,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-vi_enc_15091966_christi-matri",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-vi_enc_03091965_mysterium",
-      "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
-      },
-      "document": {
-        "title": "Mysterium Fidei",
-        "type": "Encyclical",
-        "date": "1965-09-03",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Participants in the Meeting of Priests promoted by the Dicastery for the Clergy",
+        "type": "Speeches",
+        "date": "2025-06-26",
+        "excerpt": "Auditorium of Via della Conciliazione, RomeThursday, 26 June 2025",
         "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-vi_enc_03091965_mysterium",
-        "original_type": "encyclicals"
+        "document_id": "20250626-incontro-dicastero-clero",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-vi_enc_29041965_mense-maio",
+      "id": "20250626-redentoristi-scalabriniani",
       "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Mense Maio",
-        "type": "Encyclical",
-        "date": "1965-04-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Redemptorist and Scalabrinian Bishops",
+        "type": "Speeches",
+        "date": "2025-06-26",
+        "excerpt": "Consistory HallThursday, 26 June 2025",
         "language_count": 5,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-vi_enc_29041965_mense-maio",
-        "original_type": "encyclicals"
+        "document_id": "20250626-redentoristi-scalabriniani",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-vi_enc_06081964_ecclesiam",
+      "id": "20250626-consiglio-sinodo",
       "pope": {
-        "id": "paul-vi",
-        "name": "Paul VI",
-        "handle": "paulvi",
-        "avatar": "http://localhost:8000/popes/paul-vi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Ecclesiam Suam",
-        "type": "Encyclical",
-        "date": "1964-08-06",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 7,
+        "title": "Meeting with the Members of the Ordinary Council of the General Secretariat of the Synod",
+        "type": "Speeches",
+        "date": "2025-06-26",
+        "excerpt": "Via della Conciliazione, 34Giovedì, 26 giugno 2025",
+        "language_count": 2,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-vi_enc_06081964_ecclesiam",
-        "original_type": "encyclicals"
+        "document_id": "20250626-consiglio-sinodo",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_j-xxiii_enc_01071962_paenitentiam",
+      "id": "20250626-giornata-lotta-droga",
       "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Paenitentiam Agere",
-        "type": "Encyclical",
-        "date": "1962-07-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_01071962_paenitentiam",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_j-xxiii_enc_11111961_aeterna-dei",
-      "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
-      },
-      "document": {
-        "title": "Aeterna Dei Sapientia",
-        "type": "Encyclical",
-        "date": "1961-11-11",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_11111961_aeterna-dei",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_j-xxiii_enc_15051961_mater",
-      "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
-      },
-      "document": {
-        "title": "Mater et Magistra",
-        "type": "Encyclical",
-        "date": "1961-05-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 7,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_15051961_mater",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_j-xxiii_enc_28111959_princeps",
-      "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
-      },
-      "document": {
-        "title": "Princeps Pastorum",
-        "type": "Encyclical",
-        "date": "1959-11-28",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_28111959_princeps",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_j-xxiii_enc_26091959_grata-recordatio",
-      "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
-      },
-      "document": {
-        "title": "Grata Recordatio",
-        "type": "Encyclical",
-        "date": "1959-09-26",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_26091959_grata-recordatio",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_j-xxiii_enc_19590801_sacerdotii",
-      "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
-      },
-      "document": {
-        "title": "Sacerdotii Nostri Primordia",
-        "type": "Encyclical",
-        "date": "1959-08-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 6,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_19590801_sacerdotii",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_j-xxiii_enc_29061959_ad-petri",
-      "pope": {
-        "id": "john-xxiii",
-        "name": "John XXIII",
-        "handle": "johnxxiii",
-        "avatar": "http://localhost:8000/popes/john-xxiii.jpg"
-      },
-      "document": {
-        "title": "Ad Petri Cathedram",
-        "type": "Encyclical",
-        "date": "1959-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_j-xxiii_enc_29061959_ad-petri",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_14071958_meminisse-iuvat",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Meminisse Iuvat",
-        "type": "Encyclical",
-        "date": "1958-07-14",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_14071958_meminisse-iuvat",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Ad Apostolorum Principis",
-        "type": "Encyclical",
-        "date": "1958-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_29061958_ad-apostolorum-principis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_08091957_miranda-prorsus",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Miranda Prorsus",
-        "type": "Encyclical",
-        "date": "1957-09-08",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 7,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_08091957_miranda-prorsus",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Le Pèlerinage de Lourdes",
-        "type": "Encyclical",
-        "date": "1957-07-02",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_02071957_le-pelerinage-de-lourdes",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_16051957_invicti-athletae",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Invicti Athletae",
-        "type": "Encyclical",
-        "date": "1957-05-16",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Participants in the International Day against Drug Abuse and Illicit Trafficking",
+        "type": "Speeches",
+        "date": "2025-06-26",
+        "excerpt": "San Damaso courtyardThursday, 26 June 2025",
         "language_count": 3,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_16051957_invicti-athletae",
-        "original_type": "encyclicals"
+        "document_id": "20250626-giornata-lotta-droga",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xii_enc_21041957_fidei-donum",
+      "id": "20250625-seminaristi-triveneto",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Fidei Donum",
-        "type": "Encyclical",
-        "date": "1957-04-21",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
+        "title": "To the Seminarians of the Dioceses of Triveneto",
+        "type": "Speeches",
+        "date": "2025-06-25",
+        "excerpt": "Largo Giovanni Paolo IIWednesday, 25 June 2025",
+        "language_count": 3,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_21041957_fidei-donum",
-        "original_type": "encyclicals"
+        "document_id": "20250625-seminaristi-triveneto",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xii_enc_05111956_datis-nuperrime",
+      "id": "20250625-giubileo-vescovi",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Datis Nuperrime",
-        "type": "Encyclical",
-        "date": "1956-11-05",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Meditation of the Holy Father on the occasion of the Jubilee of Bishops",
+        "type": "Speeches",
+        "date": "2025-06-25",
+        "excerpt": "Altar of the Cathedra in Saint Peter's BasilicaWednesday, 25 June 2025",
+        "language_count": 9,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_05111956_datis-nuperrime",
-        "original_type": "encyclicals"
+        "document_id": "20250625-giubileo-vescovi",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xii_enc_01111956_laetamur-admodum",
+      "id": "20250624-giubileo-seminaristi",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Laetamur Admodum",
-        "type": "Encyclical",
-        "date": "1956-11-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Meditation of the Holy Father on the occasion of the Jubilee of Seminarians",
+        "type": "Speeches",
+        "date": "2025-06-24",
+        "excerpt": "Altar of the Confessio in Saint Peter's BasilicaTuesday, 24 June 2025",
+        "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_01111956_laetamur-admodum",
-        "original_type": "encyclicals"
+        "document_id": "20250624-giubileo-seminaristi",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
+      "id": "20250624-messaggio-ordine-malta",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Luctuosissimi Eventus",
-        "type": "Encyclical",
-        "date": "1956-10-28",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Message of the Holy Father to members of the Sovereign Military Order of Malta, on the occasion of the celebration of the Solemnity of Saint John the Baptist",
+        "type": "Messages",
+        "date": "2025-06-24",
+        "excerpt": "I am particularly glad to address this message of mine to you on the occasion of the celebration of the solemnity of Saint John the Baptist, Patron of your religious Order, which bears his name.",
+        "language_count": 2,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_28101956_luctuosissimi-eventus",
-        "original_type": "encyclicals"
+        "document_id": "20250624-messaggio-ordine-malta",
+        "original_type": "messages"
       }
     },
     {
-      "id": "hf_p-xii_enc_15051956_haurietis-aquas",
+      "id": "20250622-omelia-corpus-domini",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Haurietis Aquas",
-        "type": "Encyclical",
-        "date": "1956-05-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Most Holy Body and Blood of Christ - Holy Mass, Procession and Eucharistic Blessing",
+        "type": "Homilies",
+        "date": "2025-06-22",
+        "excerpt": "Saint John Lateran SquareSunday, 22 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250622-omelia-corpus-domini",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250621-giubileo-governanti",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To Participants in the Jubilee of Governments",
+        "type": "Speeches",
+        "date": "2025-06-21",
+        "excerpt": "Hall of BenedictionSaturday, 21 June 2025",
         "language_count": 6,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_15051956_haurietis-aquas",
-        "original_type": "encyclicals"
+        "document_id": "20250621-giubileo-governanti",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xii_enc_25121955_musicae-sacrae",
+      "id": "20250620-sacerdoti",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Musicae Sacrae",
-        "type": "Encyclical",
-        "date": "1955-12-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_25121955_musicae-sacrae",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Ad Caeli Reginam",
-        "type": "Encyclical",
-        "date": "1954-10-11",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 5,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_11101954_ad-caeli-reginam",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Ad Sinarum Gentem",
-        "type": "Encyclical",
-        "date": "1954-10-07",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_07101954_ad-sinarum-gentem",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Ecclesiae Fastos",
-        "type": "Encyclical",
-        "date": "1954-06-05",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_05061954_ecclesiae-fastos",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_25031954_sacra-virginitas",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Sacra Virginitas",
-        "type": "Encyclical",
-        "date": "1954-03-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Priests of the Pontifical Ecclesiastical Academy returning after a missionary year",
+        "type": "Speeches",
+        "date": "2025-06-20",
+        "excerpt": "Apostolic PalaceFriday, 20 June 2025",
         "language_count": 4,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xii_enc_25031954_sacra-virginitas",
-        "original_type": "encyclicals"
+        "document_id": "20250620-sacerdoti",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250620-capitoli-generali",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the Participants in the General Chapters of the Conventual Franciscans and of the Order of the Most Holy Trinity and of the Captives (Trinitarians)",
+        "type": "Speeches",
+        "date": "2025-06-20",
+        "excerpt": "Clementine HallFriday, 20 June 2025",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250620-capitoli-generali",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250619-lettera-paraylemonial",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Letter of the Holy Father to the Special Envoy for the celebrations of the 350th anniversary of the apparitions of the Sacred Heart of Jesus [Sanctuary of Paray-le-Monial, 27 June 2025]",
+        "type": "Letters",
+        "date": "2025-06-19",
+        "excerpt": "Venerabili Fratri NostroFRANCISCO XAVERIO S.R.E.Cardinali BUSTILLO, O.F.M. Conv.Episcopo Adiacensi",
+        "language_count": 1,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250619-lettera-paraylemonial",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "20250618-fondazione-bartolucci",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To participants in the event promoted by the Cardinal Domenico Bartolucci Foundation",
+        "type": "Speeches",
+        "date": "2025-06-18",
+        "excerpt": "Sala RegiaWednesday, 18 June 2025",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250618-fondazione-bartolucci",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250617-cei",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the Italian Episcopal Conference",
+        "type": "Speeches",
+        "date": "2025-06-17",
+        "excerpt": "Hall of BenedictionTuesday, 17 June 2025",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250617-cei",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250617-messaggio-ia",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of the Holy Father to participants in the Second Annual Conference on Artificial Intelligence, Ethics, and Corporate Governance [Rome, 19–20 June 2025]",
+        "type": "Messages",
+        "date": "2025-06-17",
+        "excerpt": "[Palazzo Piacentini (in via Veneto, where the Ministry of Enterprises and Made in Italy (Mimit) has its headquarters)and in the Sala Regia of the Apostolic Palace in the Vatican, 19-20 June 2025]",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250617-messaggio-ia",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250616-specola",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the participants of the Summer School of Astrophysics promoted by the Vatican Observatory",
+        "type": "Speeches",
+        "date": "2025-06-16",
+        "excerpt": "Consistory HallMonday, 16 June 2025",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250616-specola",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250616-vescovi-madagascar",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the Bishops of Madagascar",
+        "type": "Speeches",
+        "date": "2025-06-16",
+        "excerpt": "Hall of PopesMonday, 16 June 2025",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250616-vescovi-madagascar",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250616-pellegrini-congo",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To pilgrims from the Democratic Republic of Congo, gathered for the Beatification of Floribert Bwana Chui",
+        "type": "Speeches",
+        "date": "2025-06-16",
+        "excerpt": "Clementine HallMonday, 16 June 2025",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250616-pellegrini-congo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250615-omelia-giubileo-sport",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass for the Jubilee of Sport on the Solemnity of the Holy Trinity",
+        "type": "Homilies",
+        "date": "2025-06-15",
+        "excerpt": "Saint Peter's BasilicaSunday, 15 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250615-omelia-giubileo-sport",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250614-videomessaggio-giovani",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Video Message of the Holy Father to the young people of Chicago and the whole world",
+        "type": "Messages",
+        "date": "2025-06-14",
+        "excerpt": "It’s a pleasure for me to greet all of you gathered together at White Sox Park on this great celebration as a community of faith in the Archdiocese of Chicago. A special greeting to Cardinal Cupich, to the auxiliary bishops, to all my friends who are gathered today on this: the feast of the Most Holy Trinity.",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250614-videomessaggio-giovani",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250614-udienza-giubilare",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Jubilee Audience:To hope is to connect. Irenaeus of Lyon",
+        "type": "Audiences",
+        "date": "2025-06-14",
+        "excerpt": "Saint Peter's BasilicaSaturday, 14 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250614-udienza-giubilare",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "20250613-messaggio-giornata-poveri",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of the Holy Father for the 9th World Day of the Poor [16 November 2025]",
+        "type": "Messages",
+        "date": "2025-06-13",
+        "excerpt": "MESSAGE OF THE HOLY FATHER FOR THE 9thWORLD DAY OF THE POOR",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250613-messaggio-giornata-poveri",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250609-omelia-giubileo-santa-sede",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass for the Jubilee of the Holy See",
+        "type": "Homilies",
+        "date": "2025-06-09",
+        "excerpt": "Saint Peter's BasilicaBlessed Virgin Mary Mother of the Church - Monday, 9 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250609-omelia-giubileo-santa-sede",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250608-omelia-pentecoste",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Pentecost Sunday - Holy Mass in the Jubilee of Movements, Associations and New Communities",
+        "type": "Homilies",
+        "date": "2025-06-08",
+        "excerpt": "St. Peter's SquareSunday, 8 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250608-omelia-pentecoste",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250607-veglia-pentecoste",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Jubilee of Ecclesial Movements - Vigil of Pentecost",
+        "type": "Homilies",
+        "date": "2025-06-07",
+        "excerpt": "St. Peter's SquareSaturday, 7 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250607-veglia-pentecoste",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250604-messaggio-sacerdoti-parigi",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of the Holy Father for the Gathering of Priests belonging to the Ecclesiastical Province of Paris [5 June 2025]",
+        "type": "Messages",
+        "date": "2025-06-04",
+        "excerpt": "I fraternally greet His Excellency Archbishop Laurent Ulrich, as well as all the bishops of the Province of Paris. And I greet you all, dear priests, gathered here in Notre-Dame Cathedral on the occasion of your “Jubilee of Priests” and the sixtieth anniversary of the ConstitutionPresbyterorum ordinis, which you will be reflecting on.",
+        "language_count": 3,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250604-messaggio-sacerdoti-parigi",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250601-omelia-giubileo-famiglie",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass for the Jubilee of Families, Children, Grandparents and the Elderly",
+        "type": "Homilies",
+        "date": "2025-06-01",
+        "excerpt": "St Peter's Square7thSunday of Easter - Sunday, 1 June 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250601-omelia-giubileo-famiglie",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250531-conclusione-mesemariano",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Conclusion of the month of May",
+        "type": "Speeches",
+        "date": "2025-05-31",
+        "excerpt": "Lourdes Grotto in the Vatican GardensSaturday, 31 May 2025",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250531-conclusione-mesemariano",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250531-ordinazioni-presbiterali",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass with Presbyteral Ordinations",
+        "type": "Homilies",
+        "date": "2025-05-31",
+        "excerpt": "Saint Peter's BasilicaFeast of the Visitation of the Blessed Virgin Mary - Saturday, 31 May 2025",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250531-ordinazioni-presbiterali",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250530-movimenti-pace",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the Members of the Popular Movements for Peace",
+        "type": "Speeches",
+        "date": "2025-05-30",
+        "excerpt": "Clementine HallFriday, 30 May 2025",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250530-movimenti-pace",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250529-lettera-arcidiocesi-rijeka",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Letter of the Holy Father to the Special Envoy to the celebrations for the centenary of the Metropolitan Archdiocese of Rijeka, Croatia [14 June 2025]",
+        "type": "Letters",
+        "date": "2025-05-29",
+        "excerpt": "Venerabili Fratri NostroMATTHAEO MARIAE S.R.E. Cardinali ZUPPIArchiepiscopo Metropolitae BononiensiConferentiae Episcoporum Italiae Praesidi",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250529-lettera-arcidiocesi-rijeka",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "20250528-messaggio-vescovi-francia",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of the Holy Father Leo XIV to the Bishops’ Conference of France on the occasion of the 100thanniversary of the canonization of Saint John Eudes, Saint John Mary Vianney, and Saint Thérèse of the Child Jesus",
+        "type": "Messages",
+        "date": "2025-05-28",
+        "excerpt": "MESSAGE OF THE HOLY FATHER LEO XIVTO THE BISHOPS’ CONFERENCE OF FRANCEON THE OCCASION OF THE 100thANNIVERSARY OF THE CANONIZATIONOF SAINT JOHN EUDES, SAINT JOHN MARY VIANNEY,AND SAINT THÉRÈSE OF THE CHILD JESUS AND THE HOLY FACE",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250528-messaggio-vescovi-francia",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250528-messaggio-dicastero-prolaicis",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Message of His Holiness Pope Leo XIV to Participants in the Seminar “Evangelizing with the Families of Today and Tomorrow: Ecclesiological and Pastoral Challenges”, organised by the Dicastery for Laity, Family and Life",
+        "type": "Messages",
+        "date": "2025-05-28",
+        "excerpt": "I am pleased that following the celebration of theJubilee for Families, Children, Grandparents, and the Elderlya group of experts has gathered at theDicastery for Laity, Family and Lifeto reflect on the theme,“Evangelizing with the Families of Today and Tomorrow: Ecclesiological and Pastoral Challenges”.",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250528-messaggio-dicastero-prolaicis",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250527-ssc-napoli",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Greeting of the Holy Father to the S.S.C. Napoli football team",
+        "type": "Speeches",
+        "date": "2025-05-27",
+        "excerpt": "Clementine HallTuesday, 27 May 2025",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250527-ssc-napoli",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250526-messa-pace-africa",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Greeting of the Holy Father at the end of the Mass presided over by Card. Arinze, on the occasion of the Jubilee Pilgrimage for Peace in Africa",
+        "type": "Speeches",
+        "date": "2025-05-26",
+        "excerpt": "Altar of the Chair of St Peter's BasilicaMonday, 26 May 2025",
+        "language_count": 5,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250526-messa-pace-africa",
+        "original_type": "speeches"
       }
     }
   ]

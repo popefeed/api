@@ -2,8 +2,8 @@
   "meta": {
     "page": 2,
     "per_page": 50,
-    "total_pages": 3,
-    "total_posts": 123,
+    "total_pages": 37,
+    "total_posts": 1827,
     "has_next": true,
     "has_prev": true,
     "next_page": 3,
@@ -11,1053 +11,1053 @@
   },
   "posts": [
     {
-      "id": "hf_p-xii_enc_08091953_fulgens-corona",
+      "id": "20250525-sindaco-roma",
       "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Fulgens Corona",
-        "type": "Encyclical",
-        "date": "1953-09-08",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_08091953_fulgens-corona",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_24051953_doctor-mellifluus",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Doctor Mellifluus",
-        "type": "Encyclical",
-        "date": "1953-05-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_24051953_doctor-mellifluus",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_15121952_orientales",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Orientales Ecclesias",
-        "type": "Encyclical",
-        "date": "1952-12-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_15121952_orientales",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_15091951_ingruentium-malorum",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Ingruentium Malorum",
-        "type": "Encyclical",
-        "date": "1951-09-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_15091951_ingruentium-malorum",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
-      "pope": {
-        "id": "pius-xii",
-        "name": "Pius XII",
-        "handle": "piusxii",
-        "avatar": "http://localhost:8000/popes/pius-xii.jpg"
-      },
-      "document": {
-        "title": "Sempiternus Rex Christus",
-        "type": "Encyclical",
-        "date": "1951-09-08",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xii_enc_08091951_sempiternus-rex-christus",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Ingravescentibus Malis",
-        "type": "Encyclical",
-        "date": "1937-09-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 1,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_29091937_ingravescentibus-malis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Firmissimam Constantiam",
-        "type": "Encyclical",
-        "date": "1937-03-28",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_19370328_firmissimam-constantiam",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_19370319_divini-redemptoris",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Divini Redemptoris",
-        "type": "Encyclical",
-        "date": "1937-03-19",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Greeting of the Holy Father to the Mayor of Rome",
+        "type": "Speeches",
+        "date": "2025-05-25",
+        "excerpt": "Piazza dell’Aracoeli, at the foot of the Capitoline stepsSunday, 25 May 2025",
         "language_count": 6,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19370319_divini-redemptoris",
-        "original_type": "encyclicals"
+        "document_id": "20250525-sindaco-roma",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
+      "id": "20250525-possesso-cattedra-laterano",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Mit Brennender Sorge",
-        "type": "Encyclical",
-        "date": "1937-03-14",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Papal Mass For The Possession Of The Chair Of The Bishop Of Rome",
+        "type": "Homilies",
+        "date": "2025-05-25",
+        "excerpt": "Lateran Basilica6thSunday in the Time of Easter, 25 May 2025",
+        "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_14031937_mit-brennender-sorge",
-        "original_type": "encyclicals"
+        "document_id": "20250525-possesso-cattedra-laterano",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_p-xi_enc_29061936_vigilanti-cura",
+      "id": "20250525-visita-santamaria-maggiore",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Vigilanti Cura",
-        "type": "Encyclical",
-        "date": "1936-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 6,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_29061936_vigilanti-cura",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Ad Catholici Sacerdotii",
-        "type": "Encyclical",
-        "date": "1935-12-20",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Visit to the Basilica of St. Mary Major and veneration of the Icon of the Blessed Virgin Mary ‘Salus Populi Romani’",
+        "type": "Speeches",
+        "date": "2025-05-25",
+        "excerpt": "Basilica of Saint Mary Major6thSunday in the Time of Easter, 25 May 2025",
         "language_count": 5,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19351220_ad-catholici-sacerdotii",
-        "original_type": "encyclicals"
+        "document_id": "20250525-visita-santamaria-maggiore",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xi_enc_03061933_dilectissima-nobis",
+      "id": "20250524-dipendenti-curia-scv",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Dilectissima Nobis",
-        "type": "Encyclical",
-        "date": "1933-06-03",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
+        "title": "Meeting of the Holy Father with Employees of the Holy See and the Vatican City State",
+        "type": "Speeches",
+        "date": "2025-05-24",
+        "excerpt": "Audience HallSaturday, 24 May 2025",
+        "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_03061933_dilectissima-nobis",
-        "original_type": "encyclicals"
+        "document_id": "20250524-dipendenti-curia-scv",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xi_enc_29091932_acerba-animi",
+      "id": "20250523-messaggio-movimento-anabattista",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Acerba Animi",
-        "type": "Encyclical",
-        "date": "1932-09-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 1,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_29091932_acerba-animi",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Caritate Christi Compulsi",
-        "type": "Encyclical",
-        "date": "1932-05-03",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 1,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_19311225_lux-veritatis",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Lux Veritatis",
-        "type": "Encyclical",
-        "date": "1931-12-25",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_19311225_lux-veritatis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_02101931_nova-impendet",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Nova Impendet",
-        "type": "Encyclical",
-        "date": "1931-10-02",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 1,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_02101931_nova-impendet",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Non Abbiamo Bisogno",
-        "type": "Encyclical",
-        "date": "1931-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 1,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-xi_enc_29061931_non-abbiamo-bisogno",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-xi_enc_19310515_quadragesimo-anno",
-      "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
-      },
-      "document": {
-        "title": "Quadragesimo Anno",
-        "type": "Encyclical",
-        "date": "1931-05-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Message of the Holy Father to the Participants in the Commemoration of 500 years of the Anabaptist movement [Zurich, 29 May 2025]",
+        "type": "Messages",
+        "date": "2025-05-23",
+        "excerpt": "As you gather to commemorate 500 years of the Anabaptist movement, I cordially greet all of you, dear friends, in the first words spoken by the risen Jesus: “Peace be with you!” (Jn20:19).",
         "language_count": 5,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19310515_quadragesimo-anno",
-        "original_type": "encyclicals"
+        "document_id": "20250523-messaggio-movimento-anabattista",
+        "original_type": "messages"
       }
     },
     {
-      "id": "hf_p-xi_enc_19301231_casti-connubii",
+      "id": "20250522-pom",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Casti Connubii",
-        "type": "Encyclical",
-        "date": "1930-12-31",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "To Members of Pontifical Mission Societies",
+        "type": "Speeches",
+        "date": "2025-05-22",
+        "excerpt": "Clementine HallThursday, 22 May 2025",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250522-pom",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250520-visita-sanpaolo",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Visit to the Tomb of St. Paul",
+        "type": "Homilies",
+        "date": "2025-05-20",
+        "excerpt": "Basilica of Saint Paul outside the WallsTuesday, 20 May 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250520-visita-sanpaolo",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250520-videomessaggio-universita-rio",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Video Message of the Holy Father on the occasion of the meeting of Universities in Rio de Janeiro onLaudato si'",
+        "type": "Messages",
+        "date": "2025-05-20",
+        "excerpt": "[Pontifical Catholic University of Rio de Janeiro (PUC-Rio), 20-24 May 2025]",
+        "language_count": 4,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250520-videomessaggio-universita-rio",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250519-altre-religioni",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To Representatives of other Churches and Ecclesial Communities, and Other Religions",
+        "type": "Speeches",
+        "date": "2025-05-19",
+        "excerpt": "Clementine HallMonday, 19 May 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250519-altre-religioni",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250518-inizio-pontificato",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "5thSunday in the Time of Easter - Holy Mass for the Beginning of the Pontificate of Pope Leo XIV",
+        "type": "Homilies",
+        "date": "2025-05-18",
+        "excerpt": "Saint Peter's SquareSunday, 18 May 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250518-inizio-pontificato",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250517-centesimus-annus-pro-pontifice",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the members of the \"Centesimus Annus Pro Pontifice\" Foundation",
+        "type": "Speeches",
+        "date": "2025-05-17",
+        "excerpt": "Clementine HallSaturday, 17 May 2025",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250517-centesimus-annus-pro-pontifice",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250516-corpo-diplomatico",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To Members of the Diplomatic Corps",
+        "type": "Speeches",
+        "date": "2025-05-16",
+        "excerpt": "Clementine HallFriday, 16 May 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250516-corpo-diplomatico",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250516-lettera-diocesi-plock",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Letter of the Holy Father to the special envoy at the celebrations of the 950th anniversary of the diocese of Płock [7 June 2025]",
+        "type": "Letters",
+        "date": "2025-05-16",
+        "excerpt": "Venerabili Fratri NostroLADISLAO S.R.E. Cardinali NEMET, S.V.D.Archiepiscopo Metropolitae Belogradensi",
+        "language_count": 2,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250516-lettera-diocesi-plock",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "20250515-fratelli-scuole-cristiane",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "To the Brothers of the Christian Schools",
+        "type": "Speeches",
+        "date": "2025-05-15",
+        "excerpt": "Clementine HallThursday, 15 May 2025[Multimedia]___________________________________",
         "language_count": 6,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19301231_casti-connubii",
-        "original_type": "encyclicals"
+        "document_id": "20250515-fratelli-scuole-cristiane",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xi_enc_19300420_ad-salutem-humani",
+      "id": "20250514-giubileo-chiese-orientali",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Ad Salutem Humani",
-        "type": "Encyclical",
-        "date": "1930-04-20",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
+        "title": "To participants in the Jubilee of the Oriental Churches",
+        "type": "Speeches",
+        "date": "2025-05-14",
+        "excerpt": "Audience HallWednesday, 14 May 2025",
+        "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19300420_ad-salutem-humani",
-        "original_type": "encyclicals"
+        "document_id": "20250514-giubileo-chiese-orientali",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "hf_p-xi_enc_31121929_divini-illius-magistri",
+      "id": "20250512-media",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Divini Illius Magistri",
-        "type": "Encyclical",
-        "date": "1929-12-31",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Audience of the Holy Father Leo XIV to representatives of the media",
+        "type": "Speeches",
+        "date": "2025-05-12",
+        "excerpt": "Audience HallMonday, 12 May 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250512-media",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250511-messa-grotte-vaticane",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass in the Crypt of Saint Peter’s Basilica",
+        "type": "Homilies",
+        "date": "2025-05-11",
+        "excerpt": "Vatican GrottoesSunday, 11 May 2025",
         "language_count": 6,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_31121929_divini-illius-magistri",
-        "original_type": "encyclicals"
+        "document_id": "20250511-messa-grotte-vaticane",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
+      "id": "20250510-collegio-cardinalizio",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
       },
       "document": {
-        "title": "Quinquagesimo Ante Anno",
-        "type": "Encyclical",
-        "date": "1929-12-23",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Address of the Holy Father to the College of Cardinals",
+        "type": "Speeches",
+        "date": "2025-05-10",
+        "excerpt": "Thank you very much, Your Eminence. Before taking our seats, let us begin with a prayer, asking the Lord to continue to accompany this College, and above all the entire Church with this spirit, with enthusiasm, but also with deep faith. Let us pray together in Latin.",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250510-collegio-cardinalizio",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250509-messa-cardinali",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "Holy Mass pro Ecclesia celebrated by the Roman Pontiff Leo XIV with the Cardinals",
+        "type": "Homilies",
+        "date": "2025-05-09",
+        "excerpt": "Sistine ChapelFriday, 9 May 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250509-messa-cardinali",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250508-prima-benedizione-urbietorbi",
+      "pope": {
+        "id": "leo-xiv",
+        "name": "Leo XIV",
+        "handle": "leoxiv",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=leoxiv"
+      },
+      "document": {
+        "title": "First Blessing ‘Urbi et Orbi’ of the Holy Father Leo XIV",
+        "type": "Messages",
+        "date": "2025-05-08",
+        "excerpt": "Central Loggia of the Vatican BasilicaThursday, 8 May 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250508-prima-benedizione-urbietorbi",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250420-omelia-pasqua",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Easter Sunday - Mass of the Day",
+        "type": "Homilies",
+        "date": "2025-04-20",
+        "excerpt": "Saint Peter's SquareEaster Sunday, 20 April 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250420-omelia-pasqua",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250419-omelia-veglia-pasquale",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Easter Vigil in the Holy Night of Easter",
+        "type": "Homilies",
+        "date": "2025-04-19",
+        "excerpt": "St Peter's BasilicaHoly Saturday, 19 April 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250419-omelia-veglia-pasquale",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250417-omelia-crisma",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Holy Chrism Mass",
+        "type": "Homilies",
+        "date": "2025-04-17",
+        "excerpt": "St Peter's BasilicaHoly Thursday, 17 April 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250417-omelia-crisma",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250413-omelia-palme",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Palm Sunday",
+        "type": "Homilies",
+        "date": "2025-04-13",
+        "excerpt": "St Peter's SquareSunday, 13 April 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250413-omelia-palme",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250406-omelia-giubileo-ammalati",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Jubilee of the Sick and Health Care Workers - Holy Mass",
+        "type": "Homilies",
+        "date": "2025-04-06",
+        "excerpt": "Saint Peter's Square5th Sunday in Lent, 6 April 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250406-omelia-giubileo-ammalati",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250309-omelia-giubileo-volontariato",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Jubilee of the World of Volunteering – Holy Mass",
+        "type": "Homilies",
+        "date": "2025-03-09",
+        "excerpt": "Saint Peter's Square1stSunday in the Season of Lent, 9 March 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250309-omelia-giubileo-volontariato",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250305-omelia-ceneri",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Holy Mass, Blessing and Imposition of the Ashes",
+        "type": "Homilies",
+        "date": "2025-03-05",
+        "excerpt": "HOMILY OF THE HOLY FATHER FRANCISREAD BY CARDINAL ANGELO DE DONATISBasilica of Santa SabinaWednesday, 5 March 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250305-omelia-ceneri",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250223-omelia-giubileo-diaconi",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Jubilee of Deacons - Holy Mass with Ordination of Deacons",
+        "type": "Homilies",
+        "date": "2025-02-23",
+        "excerpt": "Saint Peter's Basilica7thSunday in Ordinary Time, 23 February 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250223-omelia-giubileo-diaconi",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250216-omelia-giubileo-artisti",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Jubilee of Artists and the World of Culture – Holy Mass",
+        "type": "Homilies",
+        "date": "2025-02-16",
+        "excerpt": "Saint Peter's Basilica6thSunday in Ordinary Time, 16 February 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250216-omelia-giubileo-artisti",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250209-omelia-giubileo-forzearmate",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Jubilee of the Armed Forces, Police and Security Personnel – Holy Mass",
+        "type": "Homilies",
+        "date": "2025-02-09",
+        "excerpt": "Saint Peter's Square5th Sunday in Ordinary Time, 9 February 2025",
+        "language_count": 9,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250209-omelia-giubileo-forzearmate",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250201-udienza-giubilare",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Jubilee Audience: To hope is to turn around. Mary Magdalene",
+        "type": "Audiences",
+        "date": "2025-02-01",
+        "excerpt": "Audience HallSaturday, 1 February 2025",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250201-udienza-giubilare",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "20250126-domenica-parola-didio",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Sunday of the Word of God - Jubilee of the World of Communication",
+        "type": "Homilies",
+        "date": "2025-01-26",
+        "excerpt": "Saint Peter's BasilicaIII Sunday in Ordinary Time, 26 January 2025",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250126-domenica-parola-didio",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250125-vespri-unita-cristiani",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Solemnity of the Conversion of Saint Paul the Apostle - Celebration of Second Vespers",
+        "type": "Homilies",
+        "date": "2025-01-25",
+        "excerpt": "58thWEEK OF PRAYER FOR CHRISTIAN UNITYHOMILY OF THE HOLY FATHER",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20250125-vespri-unita-cristiani",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250112-omelia-battesimo",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Feast of the Baptism of the Lord – Holy Mass and administration of the Sacrament of Baptism to some new-born Babies",
+        "type": "Homilies",
+        "date": "2025-01-12",
+        "excerpt": "Sixtine ChapelSunday, 12 January 2025",
         "language_count": 2,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19291223_quinquagesimo-ante-anno",
-        "original_type": "encyclicals"
+        "document_id": "20250112-omelia-battesimo",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_p-xi_enc_19291220_mens-nostra",
+      "id": "20250111-udienza-giubilare",
       "pope": {
-        "id": "pius-xi",
-        "name": "Pius XI",
-        "handle": "piusxi",
-        "avatar": "http://localhost:8000/popes/pius-xi.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Mens Nostra",
-        "type": "Encyclical",
-        "date": "1929-12-20",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Jubilee Audience: To hope is to begin again – John the Baptist",
+        "type": "Audiences",
+        "date": "2025-01-11",
+        "excerpt": "Audience HallSaturday, 11 January 2025",
+        "language_count": 10,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-xi_enc_19291220_mens-nostra",
-        "original_type": "encyclicals"
+        "document_id": "20250111-udienza-giubilare",
+        "original_type": "audiences"
       }
     },
     {
-      "id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
+      "id": "20250106-omelia-epifania",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Fausto Appetente Die",
-        "type": "Encyclical",
-        "date": "1921-06-29",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
+        "title": "Holy Mass on the Solemnity of the Epiphany of the Lord",
+        "type": "Homilies",
+        "date": "2025-01-06",
+        "excerpt": "Saint Peter's BasilicaMonday, 6. January 2025",
+        "language_count": 9,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_ben-xv_enc_29061921_fausto-appetente-die",
-        "original_type": "encyclicals"
+        "document_id": "20250106-omelia-epifania",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
+      "id": "20250101-omelia-madredidio-pace",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "In Praeclara Summorum",
-        "type": "Encyclical",
-        "date": "1921-04-30",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Holy Mass on the Solemnity of Mary, Mother of God",
+        "type": "Homilies",
+        "date": "2025-01-01",
+        "excerpt": "HOLY MASS ON THE SOLEMNITY OF MARY, MOTHER OF GOD58thWORLD DAY OF PEACE",
+        "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_ben-xv_enc_30041921_in-praeclara-summorum",
-        "original_type": "encyclicals"
+        "document_id": "20250101-omelia-madredidio-pace",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_ben-xv_enc_06011921_sacra-propediem",
+      "id": "20241231-omelia-te-deum",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Sacra Propediem",
-        "type": "Encyclical",
-        "date": "1921-01-06",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
+        "title": "Celebration of Vespers and Te Deum in Thanksgiving for the past year",
+        "type": "Homilies",
+        "date": "2024-12-31",
+        "excerpt": "Saint Peter's BasilicaTuesday, 31 December 2024",
+        "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_ben-xv_enc_06011921_sacra-propediem",
-        "original_type": "encyclicals"
+        "document_id": "20241231-omelia-te-deum",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
+      "id": "20241226-apertura-portasanta-rebibbia",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Annus Iam Plenus",
-        "type": "Encyclical",
-        "date": "1920-12-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
+        "title": "Opening of the Holy Door in the Prison of Rebibbia and Holy Mass",
+        "type": "Homilies",
+        "date": "2024-12-26",
+        "excerpt": "Prison of Rebibbia, RomaThursday, 26 December 2024",
+        "language_count": 7,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_ben-xv_enc_01121920_annus-iam-plenus",
-        "original_type": "encyclicals"
+        "document_id": "20241226-apertura-portasanta-rebibbia",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
+      "id": "20241224-omelia-natale",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Principi Apostolorum Petro",
-        "type": "Encyclical",
-        "date": "1920-10-05",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
+        "title": "Holy Mass on the Solemnity of the Nativity of the Lord",
+        "type": "Homilies",
+        "date": "2024-12-24",
+        "excerpt": "Saint Peter's BasilicaTuesday, 24 December 2024",
+        "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_ben-xv_enc_05101920_principi-apostolorum-petro",
-        "original_type": "encyclicals"
+        "document_id": "20241224-omelia-natale",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
+      "id": "20241215-ajaccio-messa",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Spiritus Paraclitus",
-        "type": "Encyclical",
-        "date": "1920-09-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
+        "title": "Apostolic Journey to Ajaccio: Holy Mass at “Place d’Austerlitz” (“U Casone”)",
+        "type": "Homilies",
+        "date": "2024-12-15",
+        "excerpt": "“Place d’Austerlitz” (“U Casone”) - AjaccioSunday, 15 December 2024",
+        "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_ben-xv_enc_15091920_spiritus-paraclitus",
-        "original_type": "encyclicals"
+        "document_id": "20241215-ajaccio-messa",
+        "original_type": "homilies"
       }
     },
     {
-      "id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
+      "id": "20241212-omelia-guadalupe",
       "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Pacem, Dei Munus Pulcherrimum",
-        "type": "Encyclical",
-        "date": "1920-05-23",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
-      "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
-      },
-      "document": {
-        "title": "Paterno Iam Diu",
-        "type": "Encyclical",
-        "date": "1919-11-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xv_enc_24111919_paterno-iam-diu",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xv_enc_14051919_in-hac-tanta",
-      "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
-      },
-      "document": {
-        "title": "In Hac Tanta",
-        "type": "Encyclical",
-        "date": "1919-05-14",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xv_enc_14051919_in-hac-tanta",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xv_enc_01121918_quod-iam-diu",
-      "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
-      },
-      "document": {
-        "title": "Quod Iam Diu",
-        "type": "Encyclical",
-        "date": "1918-12-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xv_enc_01121918_quod-iam-diu",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
-      "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
-      },
-      "document": {
-        "title": "Humani Generis Redemptionem",
-        "type": "Encyclical",
-        "date": "1917-06-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xv_enc_15061917_humani-generis-redemptionem",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
-      "pope": {
-        "id": "benedict-xv",
-        "name": "Benedict XV",
-        "handle": "benedictxv",
-        "avatar": "http://localhost:8000/popes/benedict-xv.jpg"
-      },
-      "document": {
-        "title": "Ad Beatissimi Apostolorum",
-        "type": "Encyclical",
-        "date": "1914-11-01",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_24091912_singulari-quadam",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Singulari quadam",
-        "type": "Encyclical",
-        "date": "1912-09-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_24091912_singulari-quadam",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_07061912_lacrimabili-statu",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Lacrimabili Statu",
-        "type": "Encyclical",
-        "date": "1912-06-07",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_07061912_lacrimabili-statu",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_24051911_iamdudum",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Iamdudum",
-        "type": "Encyclical",
-        "date": "1911-05-24",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_24051911_iamdudum",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_26051910_editae-saepe",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Editae Saepe",
-        "type": "Encyclical",
-        "date": "1910-05-26",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_26051910_editae-saepe",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_21041909_communium-rerum",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Communium Rerum",
-        "type": "Encyclical",
-        "date": "1909-04-21",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_21041909_communium-rerum",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Pascendi Dominici Gregis",
-        "type": "Encyclical",
-        "date": "1907-09-08",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
+        "title": "Blessed Virgin Mary of Guadalupe - Holy Mass",
+        "type": "Homilies",
+        "date": "2024-12-12",
+        "excerpt": "Saint Peter's BasilicaThursday, 12 December 2024",
         "language_count": 6,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-x_enc_19070908_pascendi-dominici-gregis",
+        "document_id": "20241212-omelia-guadalupe",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241208-omelia-nuovi-cardinali",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Holy Mass with the new Cardinals and the College of Cardinals",
+        "type": "Homilies",
+        "date": "2024-12-08",
+        "excerpt": "Saint Peter's BasilicaSolemnity of the Immaculate Conception of the Blessed Virgin MarySunday, 8 December 2024",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241208-omelia-nuovi-cardinali",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241207-omelia-concistoro",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Ordinary Public Consistory for the creation of new Cardinals",
+        "type": "Homilies",
+        "date": "2024-12-07",
+        "excerpt": "Saint Peter's BasilicaSaturday, 7 December 2024",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241207-omelia-concistoro",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241124-omelia-cristore-delluniverso",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Our Lord Jesus Christ, King of the Universe - Holy Mass",
+        "type": "Homilies",
+        "date": "2024-11-24",
+        "excerpt": "Solemnity of Our Lord Jesus Christ, King of the UniverseSaint Peter's Basilica - Sunday, 24 November 2024",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241124-omelia-cristore-delluniverso",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241117-omelia-giornatamondiale-poveri",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Holy Mass on the occasion of the World Day of the Poor",
+        "type": "Homilies",
+        "date": "2024-11-17",
+        "excerpt": "Saint Peter's BasilicaXXXIII Sunday in Ordinary Time, 17 November 2024",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241117-omelia-giornatamondiale-poveri",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241104-omelia-cardinali-defunti",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Mass for deceased Cardinals and Bishops",
+        "type": "Homilies",
+        "date": "2024-11-04",
+        "excerpt": "Saint Peter's Basilica - Altar of the ChairMonday, 4 November 2024",
+        "language_count": 7,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241104-omelia-cardinali-defunti",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241027-omelia-conclusione-sinodo",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Conclusion of the Ordinary General Assembly of the Synod of Bishops – Holy Mass",
+        "type": "Homilies",
+        "date": "2024-10-27",
+        "excerpt": "Saint Peter's BasilicaXXX Sunday in Ordinary Time, 27 October 2024",
+        "language_count": 8,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241027-omelia-conclusione-sinodo",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241024-enciclica-dilexit-nos",
+      "pope": {
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
+      },
+      "document": {
+        "title": "Dilexit nos",
+        "type": "Encyclical",
+        "date": "2024-10-24",
+        "excerpt": "1. “HE LOVED US”, Saint Paul says of Christ (cf.Rom8:37), in order to make us realize that nothing can ever “separate us” from that love (Rom8:39). Paul could say this with certainty because Jesus himself had told his disciples, “I have loved you” (Jn15:9, 12). Even now, the Lord says to us, “I have called you friends” (Jn15:15). His open heart has gone before us and waits for us, unconditionally, asking only to offer us his love and friendship. For “he loved us first” (cf.1 Jn4:10). Because of Jesus, “we have come to know and believe in the love that God has for us” (1 Jn4:16).",
+        "language_count": 10,
+        "pdf_available": true
+      },
+      "metadata": {
+        "document_id": "20241024-enciclica-dilexit-nos",
         "original_type": "encyclicals"
       }
     },
     {
-      "id": "hf_p-x_enc_06011907_une-fois-encore",
+      "id": "20241020-omelia-canonizzazione",
       "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
+        "id": "francesco",
+        "name": "Francis",
+        "handle": "francesco",
+        "avatar": "https://via.placeholder.com/56x56/9CA3AF/ffffff?text=francesco"
       },
       "document": {
-        "title": "Une Fois Encore",
-        "type": "Encyclical",
-        "date": "1907-01-06",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
+        "title": "Holy Mass and Canonization",
+        "type": "Homilies",
+        "date": "2024-10-20",
+        "excerpt": "Saint Peter's SquareXXIX Sunday in Ordinary Time, 20 October 2024",
+        "language_count": 8,
         "pdf_available": true
       },
       "metadata": {
-        "document_id": "hf_p-x_enc_06011907_une-fois-encore",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Gravissimo Officii Munere",
-        "type": "Encyclical",
-        "date": "1906-08-10",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 3,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_10081906_gravissimo-officii-munere",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_28071906_pieni-l-animo",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Pieni L'Animo",
-        "type": "Encyclical",
-        "date": "1906-07-28",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_28071906_pieni-l-animo",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_05041906_tribus-circiter",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Tribus Circiter",
-        "type": "Encyclical",
-        "date": "1906-04-05",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 2,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_05041906_tribus-circiter",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_11021906_vehementer-nos",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Vehementer Nos",
-        "type": "Encyclical",
-        "date": "1906-02-11",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_11021906_vehementer-nos",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_11061905_il-fermo-proposito",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Il Fermo Proposito",
-        "type": "Encyclical",
-        "date": "1905-06-11",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_11061905_il-fermo-proposito",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_15041905_acerbo-nimis",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Acerbo Nimis",
-        "type": "Encyclical",
-        "date": "1905-04-15",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_15041905_acerbo-nimis",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_12031904_iucunda-sane",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Iucunda Sane",
-        "type": "Encyclical",
-        "date": "1904-03-12",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_12031904_iucunda-sane",
-        "original_type": "encyclicals"
-      }
-    },
-    {
-      "id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
-      "pope": {
-        "id": "pius-x",
-        "name": "Pius X",
-        "handle": "piusx",
-        "avatar": "http://localhost:8000/popes/pius-x.jpg"
-      },
-      "document": {
-        "title": "Ad Diem Illum Laetissimum",
-        "type": "Encyclical",
-        "date": "1904-02-02",
-        "excerpt": "Read the full text of this encyclicals and discover the teachings within...",
-        "language_count": 4,
-        "pdf_available": true
-      },
-      "metadata": {
-        "document_id": "hf_p-x_enc_02021904_ad-diem-illum-laetissimum",
-        "original_type": "encyclicals"
+        "document_id": "20241020-omelia-canonizzazione",
+        "original_type": "homilies"
       }
     }
   ]

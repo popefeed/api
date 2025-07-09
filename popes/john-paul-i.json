@@ -38,7 +38,38 @@
             ]
         }
     },
-    "documents": {},
+    "documents": {
+        "homilies": [
+            {
+                "id": "hf_jp-i_hom_23091978",
+                "pope_id": "john-paul-i",
+                "type": "homilies",
+                "date": "1978-09-23",
+                "title": "Possession of the Chair of the Bishop of Rome",
+                "excerpt": {
+                    "en": "Heartfelt thanks to the Cardinal Vicar for the delicate words with which—in the name of the Episcopal Council, the Chapter of the Lateran, the Clergy, the men and women Religious, and of the faithful—he decided to express the devotion and the intentions of effective collaboration in the diocese of Rome. The first concrete evidence of this collaboration is the immense sum placed at my disposal in order to provide with a church and a parochial structure a peripheral area of the City hitherto deprived of this essential community help for the Christian life. Truly touched, I thank you.",
+                    "fr": "Je remercie de tout cœur le Cardinal-Vicaire pour les délicates paroles par lesquelles — en son nom comme au nom du Conseil Episcopal, du Chapitre du Latran, du clergé, des religieux, des religieuses et des fidèles — il a voulu exprimer sa dévotion et la leur ainsi que les propos d'activé collaboration dans le diocèse de Rome. Le premier témoignage de cette collaboration m'en est donné par la très importante somme recueillie parmi les fidèles du diocèse et mise à la disposition pour donner une église et desstructures paroissiales à une agglomération sise, à la périphérie de la ville, encore démunie de ces éléments communautaires essentiels, si nécessaires pour la vie chrétienne. Oui, vraiment, merci de tout cœur.",
+                    "it": "Ringrazio di cuore il Cardinale Vicario per le delicate parole, con le quali - anche a nome del Consiglio Episcopale, del Capitolo Lateranense, del Clero, dei Religiosi, delle Religiose e dei fedeli - ha voluto esprimere la devozione ed i propositi di fattiva collaborazione nella diocesi di Roma. Prima testimonianza concreta di questa collaborazione vuol essere la somma ingente raccolta tra i fedeli della diocesi e messa a mia disposizione per provvedere di chiesa e di strutture parrocchiali una borgata periferica della Città, ancora priva di questi essenziali sussidi comunitari di vita cristiana. Ringrazio veramente commosso.",
+                    "pt": "Agradeço de coração ao Cardeal Vigário as delicadas palavras com que — também em nome do Conselho Episcopal, do Cabido Lateranense, do Clero, dos Religiosos, das Religiosas e dos fiéis — quis expressar a dedicação e o propósito de colaboração prática, na diocese de Roma. O primeiro testemunho concreto desta colaboração pretende ser a soma ingente recolhida entre os fiéis da diocese e posta à minha disposição a fim de prover de igreja e de estruturas paroquiais um bairro periférico da Cidade, ainda destituído destes essenciais auxílios comunitários de vida cristã. Agradeço, sinceramente comovido.",
+                    "es": "Agradezco de corazón al cardenal Vicario las delicadas palabras con las que en nombre también del consejo episcopal, cabildo lateranense, clero, religiosos, religiosas y fieles ha querido expresar la devoción y propósitos de activa colaboración en la diócesis de Roma. Primer testimonio concreto de esta colaboración es la suma ingente recogida entre los fieles de la diócesis y puesta a mi disposición para proveer de templo y de estructuras parroquiales a una barriada periférica de la ciudad, privada todavía de esos esenciales elementos comunitarios de vida cristiana. Doy las gracias, verdaderamente conmovido."
+                }
+            },
+            {
+                "id": "hf_jp-i_hom_03091978",
+                "pope_id": "john-paul-i",
+                "type": "homilies",
+                "date": "1978-09-03",
+                "title": "Inauguration of Petrine Ministry",
+                "excerpt": {
+                    "en": "Venerable Brothers and dear Sons and Daughters,",
+                    "fr": "Vénérables Frères et chers fils,",
+                    "it": "Venerabiles Fratres ac dilecti Filii,",
+                    "pt": "Nesta sacra celebração, com a qual damos solene início ao ministério de Supremo Pastor que foi posto sobre os nossos ombros, o primeiro pensamento, de adoração e de súplica, vai para Deus, infinito e eterno, o qual, com uma sua decisão humanamente inexplicável e com a sua benigníssima dignação, Nos elevou à Cátedra do bem-aventurado Pedro. Sobem-Nos aos lábios espontâneas as palavras de São Paulo:O abismo da riqueza, da sabedoria e da ciência de Deus! Que insondáveis são os seus desígnios e impenetráveis as suas vias!(Rom. 11, 33).",
+                    "es": "Venerabiles Fratres ac dilecti Filii,"
+                }
+            }
+        ]
+    },
     "image_url": null,
     "local_image_path": null,
     "coat_of_arms_url": null,

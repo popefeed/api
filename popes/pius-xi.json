@@ -152,7 +152,9 @@
                 "type": "encyclicals",
                 "date": "1932-09-29",
                 "title": "Acerba Animi",
-                "excerpt": {}
+                "excerpt": {
+                    "en": "Health, Venerable Brethren, and the Apostolic Blessing."
+                }
             },
             {
                 "id": "hf_p-xi_enc_03051932_caritate-christi-compulsi",
@@ -271,6 +273,58 @@
                     "it": "Vi sono certamente note, Venerabili Fratelli, le intenzioni che Ci mossero all’inizio di quest’anno a promulgare uno straordinario Giubileo per tutto il mondo cattolico in occasione del cinquantesimo anniversario del Nostro Sacerdozio. Infatti, come abbiamo solennemente dichiarato nella Costituzione Apostolica «Auspicantibus Nobis» del 6 gennaio 1929 [1], non solo intendevamo invitare tutti i diletti figli della grande famiglia, che il Cuore di Dio ha affidato al cuore Nostro, ad unirsi al giubileo del Padre comune per rendere comuni grazie al sommo Datore di ogni bene; ma in modo particolare Ci arrideva la dolce speranza che, aprendo più largamente i tesori spirituali di cui il Signore Ci ha costituiti amministratori, i fedeli ne avrebbero tratto felice opportunità per rinvigorirsi nella fede, per crescere nella pietà e nella perfezione cristiana e per riformare più efficacemente i costumi privati e pubblici: donde, come frutto della piena pacificazione dei singoli con se stessi e con Dio, sarebbe anche venuta la mutua pacificazione degli animi e dei popoli.",
                     "la": "Mens Nostra quae fuerit quive animus, cum, ineunte anno, extraordinarium Iubilaeum universo orbi catholico denuntiavimus ad anniversarium celebrandum diem quo ante quinquaginta annos, sacerdotali consecratione accepta, rei divinae ad altare operati primum sumus, id profecto, Venerabiles Fratres, neminem vestrum fugit. Ut enim Constitutione Apostolica «Auspicantibus Nobis», die 6 Ianuarii 1929 edita, solemniter declaravimus (1), ad id consilii non tantum adducebamur ut dilecti filii Nostri, ingens familia christiana quam benignissimum Dei Cor cordi Nostro credidit, communis Parentis laetitiae in partem vocati, animorum consensione gratias Nobiscum Summo bonorum omnium Datori agerent et haberent; verum etiam quod imprimis arridebat Nobis iucunda spes, fore ut reseratis, paterna liberalitate, caelestium munerum thesauris quorum dispensationi praepositi sumus, christiana plebs felici occasione esset usura ad fidem roborandam, pietatem perfectionemque augendam, moresque privatos et publicos ad Evangelii normam fideliter castigandos; unde, tamquam laetissimus fructus pacis veniaeque a Deo impetratae, pax singulorum atque societatis exspectanda foret.",
                     "es": "1. A ninguno de vosotros, venerables hermanos, se le oculta cuál fue nuestra intención o nuestro ánimo cuando, al comenzar este año, anunciamos al orbe católico un jubileo extraordinario para celebrar el quincuagésimo aniversario de aquel día en que, recibida la ordenación sacerdotal, ofrecimos por vez primera el santo sacrificio del altar."
+                }
+            }
+        ],
+        "homilies": [
+            {
+                "id": "hf_p-xi_hom_19271030_vix-elapso",
+                "pope_id": "pius-xi",
+                "type": "homilies",
+                "date": "",
+                "title": "30 October 1927: Eucharistic Celebration for the first Episcopal Ordination of a Japanese Bishop",
+                "excerpt": {
+                    "it": "A Mons. Hayosaka,Vescovo di Nagasaki"
+                }
+            },
+            {
+                "id": "hf_p-xi_hom_19261028_iam-finis",
+                "pope_id": "pius-xi",
+                "type": "homilies",
+                "date": "",
+                "title": "28 October 1926: Eucharistic Celebration for the first Episcopal Ordination of six Chinese Bishops",
+                "excerpt": {
+                    "it": "È finito il rito solenne con il quale qui, presso la tomba degli Apostoli, vi abbiamo conferito la pienezza del sacerdozio; e perché questo avvenimento fosse per Noi e per voi più lieto e memorabile, Noi abbiamo scelto che si compiesse in questo stesso giorno nel quale sette anni or sono, Noi ricevemmo la consacrazione episcopale. Per tale preziosissimo favore Noi, Venerabili Fratelli, siamo e saremo per sempre grati a Dio, datore di ogni bene. Ma ora non possiamo trattenere l’interna gioia della quale siamo totalmente pervasi nel vedere consacrati per la prima volta, qui a Roma, dal Romano Pontefice, Vescovi del Clero indigeno cinese, proposti a reggere diversi Vicariati Apostolici e destinati a portare fra i loro connazionali la fede cattolica e a dilatare fra essi il regno di Cristo. È questo un proposito veramente salutare, che Noi oggi possiamo felicemente portare a termine, e che ardentemente desideriamo e con l’aiuto di Dio confidiamo di potere, a poco a poco, attuare anche in altre regioni."
+                }
+            },
+            {
+                "id": "hf_p-xi_hom_19250531_vianney-eudes",
+                "pope_id": "pius-xi",
+                "type": "homilies",
+                "date": "",
+                "title": "31 May 1925: Solemn Canonization of Blesseds John Baptist M. Vianney and John Eudes and the Eucharistic Celebration for the Feast of Pentecost",
+                "excerpt": {
+                    "la": "Ad triplicem postulationeminstanter,instantius, instantissimefactam per Advocatum Consistorialem Augustum Milani, ab E.mo P. D. Antonio Card. Vico, Canonizationis Postulatore, R.mus D. Nicolaus Sebastiani, Secretarius Litterarum ad Principes, Sanctitatis Suae nomine, haece respondit:"
+                }
+            },
+            {
+                "id": "hf_p-xi_hom_19250517_benedictus-deus",
+                "pope_id": "pius-xi",
+                "type": "homilies",
+                "date": "",
+                "title": "17 May 1925: Eucharistic Celebration for the Canonization of Saint Theresa of the Child Jesus",
+                "excerpt": {
+                    "it": "«Sia benedetto Dio, Padre del Signore Nostro Gesù Cristo, Padre misericordioso e Dio di ogni consolazione» [1], il quale, fra le tante sollecitudini dell’apostolico ufficio, Ci donò questa consolazione, cioè di ascrivere per prima all’albo dei Santi quella Vergine che pure per prima, dopo l’inizio del Pontificato, elevammo all’onore dei Beati. Si tratta di colei che si fece infante nello spirito: di quella infanzia che non è possibile separare dalla grandezza d’animo ma la cui gloria, secondo le stesse promesse di Gesù Cristo, è assolutamente degna di essere consacrata nella Gerusalemme celeste e presso la Chiesa militante."
+                }
+            },
+            {
+                "id": "hf_p-xi_hom_19220604_accipietis-virtutem",
+                "pope_id": "pius-xi",
+                "type": "homilies",
+                "date": "",
+                "title": "4 June 1922: Eucharistic Celebration on the occasion of the third centenary of the Congregation of \"Propaganda Fide\"",
+                "excerpt": {
+                    "it": "«Avrete forza dallo Spirito Santo che scenderà su di voi, e mi sarete testimoni fino agli estremi confini della terra» [1]. «Per tutta la terra è corsa la loro voce, e fino ai confini del mondo le loro parole» [2]."
                 }
             }
         ]
