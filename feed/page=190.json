@@ -1,0 +1,1438 @@
+{
+  "meta": {
+    "page": 190,
+    "per_page": 50,
+    "total_pages": 349,
+    "total_posts": 17444,
+    "has_next": true,
+    "has_prev": true,
+    "next_page": 191,
+    "prev_page": 189
+  },
+  "posts": [
+    {
+      "id": "hf_jp-ii_let_19800616_cardinale-civardi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19800616_cardinale-civardi",
+        "title": "Letter to Cardinal Civardi on the 50th anniversary of priesthood",
+        "type": "Letters",
+        "date": "1980-06-16",
+        "excerpt": {
+          "it": "Al Venerabile Fratello NostroERNESTO di S.R.C. Cardinale CIVARDITra poco, venerabile fratello nostro, molto gradito ti tornerà il ricordo della vita ben trascorsa e delle opere buone, poiché stai per compire felicemente e prosperamente dieci lustri del tuo sacerdozio. Infatti cinquant’anni or sono proprio nel giorno dedicato alla memoria del martirio degli Apostoli Pietro e Paolo tu, ordinato sacerdote, incominciasti a servire Cristo Gesù maestro, sacerdote e re e a partecipare al suo ministero (cf.Presbyterorum Ordinis, 1). Nel compiere questo ufficio impiegasti la tua attività e il tuo lavoro negli studi sacri e nella salvezza delle anime.",
+          "la": "Venerabili Fratri NostroERNESTO S.R.E Cardinali CIVARDIPeriucunda sane bene actae vitae multorumque bene factorum recordatio mox tibi occurret, Venerabilis Frater Noster, cum in eo sit, ut decem sacerdotii tui lustra feliciter fausteque expleas."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19800616_cardinale-civardi",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19800603_card-marty",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19800603_card-marty",
+        "title": "Letter to Cardinal François Marty, Archbishop of Paris",
+        "type": "Letters",
+        "date": "1980-06-03",
+        "excerpt": {
+          "la": "Singulari cum amoris affectu hodie ad te mentem convertimus, adventante vitae tunc felici eventu: etenim die XXVIII huius mensis quinquagesimum annum implebis, ex quo, in sortem Domini vocatus, sacerdotium iniisti. Qui dilectionis senses, quo in te ferimur, in recenti itinere, quo loca quaedam Galliae invisimus, est admodum confirmatus. Viget enim apud Nos memoria hospitalitatis, qua sumus perhumane excepti; praesentes cognovimus egregiam existimationem, qua credentes et non credentes, praesertim vero humiles nati ac tenues, te prosequuntur."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19800603_card-marty",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800602_message-usa",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800602_message-usa",
+        "title": "Message to the people of the United States of America",
+        "type": "Messages",
+        "date": "1980-06-02",
+        "excerpt": {
+          "en": "My heart is still full of joy as I recall the warmth of your affection, and the cordiality with which you received me during my visit to your great country.",
+          "it": "Il mio cuore è ancora gonfio di gioia se ripenso al calore del vostro affetto, e alla cordialità con cui mi avete ricevuto durante la mia visita nel vostro grande paese.",
+          "pt": "O meu coração sente-se ainda cheio de alegria quando recordo o calor do vosso afecto e a cordialidade com que me recebestes durante a minhavisita ao vosso grande país.",
+          "es": "Mi corazón rebosa aún de alegría cuando recuerdo el calor de vuestro afecto y la cordialidad con que me recibisteis durantemi visita a vuestro gran país."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800602_message-usa",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_polacchi-parigi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_polacchi-parigi",
+        "title": "To the Polish Community of Paris",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "fr": "Mes chers compatriotes, Frères et Sœurs,",
+          "it": "Cari compatrioti, fratelli e sorelle!",
+          "pt": "1. Alegra-me muitíssimo o facto de poder encontrar-me com a numerosa \"Polónia\" francesa, com os meus Compatriotas que vivem em terra da França ou que vieram dos países limítrofes, porque sei que se encontram presentes alguns deles.",
+          "es": "1. Me alegra muchísimo poder encontrarme con la numerosa \"Polonia\" francesa, con mis connacionales, que viven en tierra de Francia o que han venido de los países limítrofes, y se encuentran entre los presentes."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_polacchi-parigi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_altre-confessioni",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_altre-confessioni",
+        "title": "To representatives of other Christian Confessions in Paris",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "fr": "Chers Frères dans le Christ,",
+          "it": "Vi ringrazio per questo incontro che desideravo avere con voi durante la mia prima visita in Francia. Molto cordialmente saluto in primo luogo i nostri fratelli ortodossi, venuti soprattutto dalle regioni orientali per vivere in questo paese che li accoglieva, continuando in questo modo una lunga tradizione di cui Sant’Ireneo fu uno dei primi esempi. Non dimentico nemmeno i rappresentanti della Chiesa anglicana, e mi rivolgo ora ai rappresentanti del protestantesimo francese qui presenti.",
+          "pt": "Agradeço-vos este encontro que desejei ter convosco durante a minha primeira vista à França. Em primeiro lugar saúdo muito cordialmente os nossos irmãos ortodoxos, vindos em grande número de diversas regiões do Oriente para viverem neste, país que os acolhe, continuando deste modo a longa tradição de que Santo Ireneu foi uni dos primeiros exemplos. Não me esqueço do representante da Igreja anglicana. E agora dirijo-me aos representantes do protestantismo francês que estão aqui presentes.",
+          "es": "Os doy gracias por este encuentro, que yo deseaba tener con vosotros durante mi primera visita a Francia. Muy cordialmente saludo, ante todo, a nuestros hermanos ortodoxos, que vinieron principalmente de diversas regiones de Oriente a vivir en este país que les acogía, continuando así una larga tradición de la que San Ireneo fue uno de los primeros ejemplos. No olvido tampoco al representante de la Iglesia anglicana. Y me dirijo también a los representantes del protestantismo francés aquí presentes."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_altre-confessioni",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_mussulmani-francia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_mussulmani-francia",
+        "title": "To members of the Muslim Community in Paris",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "fr": "C’est avec une grande joie que je vous adresse mon salut, a vous Musulmans, nos frères dans la foi au Dieu unique. A travers vous, je salue tous vos frères et sœurs qui vivent aussi dans ce pays.",
+          "it": "È con grande gioia che vi rivolgo il mio saluto, a voi Mussulmani, nostri fratelli nella fede in un unico Dio. Tramite voi, saluto tutti i vostri fratelli e le vostre sorelle che vivono in questo paese.",
+          "pt": "É com grande alegria que vos dirijo a minha saudação, a vós Muçulmanos, nossos irmãos na fé em Deus único. Por vosso intermédio saúdo todos os vossos irmãos e irmãs que vivem também neste país.",
+          "es": "Es un gran placer para mí poder dirigir hoy mi saludo a vosotros musulmanes, hermanos nuestros en la fe en el único Dios. En vosotros saludo también a todos vuestros hermanos y hermanas que viven igualmente en este país."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_mussulmani-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_joc-saint-denis",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_joc-saint-denis",
+        "title": "To representatives of the Young Christian Workers (JOC) and Catholic Action",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "es": "Los sacerdotes obreros que trabajan con vosotros saben bien cuán importante es este momento de vuestra vida y este aspecto y finalidad de su apostolado. Habría muchos temas de que hablar; pero creo que entre todas las cuestiones, la fundamental es el hombre; el hombre con su dignidad, vocación y destino. Y por esto tenemos necesidad de Cristo, porque en este sentido El nos da respuesta total y apropiada. Puede decirse que esta respuesta supera a veces la capacidad y aptitud de las personas, pero siempre es respuesta total. Quisiera animaros a seguir adelante, a continuar poniendo a Jesucristo en el centro de la fe, de vuestro testimonio, de vuestro amor, luchas y preocupaciones. Seguid adelante teniendo siempre como punto de referencia al hombre en el pleno sentido de esta palabra; como el Hijo de Dios que vino a la tierra y se hizo hombre, uno de nosotros, para decirnos cuál es la verdadera dignidad de cada uno y hacernos captar esta dignidad. Os lo repito, ¡adelante! Y que Cristo mismo sea la luz de vuestras reuniones, reflexiones y solidaridad. Jesucristo es solidario con cada hombre, con nuestra humanidad, con cada persona humana. Procurad imitarle y seguir su ejemplo, y ser solidarios con los hombres, con vuestros hermanos y hermanas que a lo mejor no conocen a Jesús; con los que comienzan a conocerle, con los que ya lo conocen pero deben aumentar este conocimiento. Es este conocimiento precisamente, la respuesta total a la problemática de nuestra vida; nuestra vida tiene sentido gracias a esta respuesta. Adelante, adelante, y que Jesús está siempre entre vosotros, con vosotros, en medio de vosotros. Os deseo que su luz esté siempre en vuestras comunidades y familias. Os deseo que os hagáis apóstoles, pues como decía Cardjin: \"Son los obreros y los jóvenes quienes deben ser apóstoles de los obreros y de los jóvenes\". Esto os deseo y esto es lo que mi presencia quería testimoniar\"."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_joc-saint-denis",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_religiose-francia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_religiose-francia",
+        "title": "To women religious gathered in Rue du Bac Park in Paris",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "fr": "1.Au cours de mes voyages apostoliques, j'éprouve un bonheur très profond et toujours nouveau à rencontrer les religieuses, dont l’existence consacrée par les trois vœux évangéliques “appartient inséparablement à la vie et à la sainteté de l’Église”[1]. Bénissons ensemble le Seigneur qui a permis cette rencontre! Bénissons-le pour les fruits qui en résulteront dans vos vies personnelles, dans vos Congrégations, dans le peuple de Dieu! Merci d’être venues si nombreuses de tous les quartiers de Paris et de la région parisienne, et même de la province! Je suis heureux de vous exprimer, à vous qui êtes ici, comme à toutes le religieuses de France, mon estime, mon affection, mes encouragements.",
+          "it": "1. Durante i miei viaggi apostolici, sperimento una felicità profonda e sempre nuova quando incontro le religiose, la cui esistenza consacrata mediante i tre voti evangelici “appartiene inseparabilmente alla vita e alla santità della Chiesa” (Lumen Gentium, 44). Benediciamo insieme il Signore che ha permesso questo incontro! Benediciamolo per i frutti che ne deriveranno nella vostra vita personale, nelle vostre congregazioni, nel Popolo di Dio! Grazie di essere venute così numerose da tutti i quartieri di Parigi e della regione parigina, e perfino dalla provincia! Sono felice di esprimere a voi che siete qui, come a tutte le religiose di Francia, la mia stima, il mio affetto, il mio incoraggiamento.",
+          "pt": "1. Durante as minhas viagens apostólicas, sinto felicidade profunda e sempre nova quando me encontro com as Religiosas, cuja existência consagrada, mediante os três votos evangélicos, \"pertence inseparavelmente à vida e à santidade da Igreja\" (Lumen Gentium, n. 44). Bendigamos juntos ao Senhor que permitiu este encontro! Bendigamos-Lhe pelos frutos que surgirão na vossa vida pessoal, nas vossas Congregações e no povo de Deus! Obrigado por terdes vindo tão numerosas, de todos os bairros de Paris e da região parisiense, e até da província! Sinto-me feliz de vos exprimir a vós que estais aqui, como a todas as Religiosas da França, a minha estima, o meu afecto e encorajamento.",
+          "es": "Antes de pronunciar el discurso el Papa comentó:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_religiose-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_medaglia-miracolosa",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_medaglia-miracolosa",
+        "title": "Prayer in the Chapel of the Miraculous Medal in Paris",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "fr": "Je vous salue, Marie,pleine de grâce, le Seigneur est avec vous,vousêtes bénie entre toutes les femmes,et Jésus,le fruit de vos entrailles,est béni.Sainte Marie, Mère de Dieu,priez pour nous, pauvres pécheurs,maintenant et à l’heure de notre mort.Amen.",
+          "it": "Ave Maria,piena di grazia,il Signore è con te,tu sei benedetta fra tutte le donne,e benedetto è il frutto del ventre tuo,Gesù.Santa Maria, Madre di Dio,prega per noi poveri peccatori,adesso e nell’ora della nostra morte.Amen.",
+          "pt": "Ave, Maria,cheia de graça,o Senhor é convoscobendita sois vós entre as mulheresbendito é o fruto do vosso ventre, Jesus.",
+          "es": "Dios te salve, María,llena eres de gracia,el Señor es contigo,bendita tú eres entre todas las mujeresy bendito es el fruto de tu vientre, Jesús.Santa María, Madre de Dios,ruega por nosotros pecadores,ahora y en la hora de nuestra muerte.Amén."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_medaglia-miracolosa",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800531_apostolato-laici-francia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800531_apostolato-laici-francia",
+        "title": "To members of the Apostolate of Laity Movement in Paris",
+        "type": "Speeches",
+        "date": "1980-05-31",
+        "excerpt": {
+          "fr": "1. Je suis très heureux de rencontrer ce soir les responsables nationaux des mouvements d’apostolat des laïcs. Au-delà de vos personnes, je salue cordialement et encourage tous les membres de vos associations et leurs aumôniers.",
+          "de": "1. Ich bin sehr froh, heute Abend denen zu begegnen, die auf nationaler Ebene in den Bewegungen des Laienapostolats verantwortlich sind. Ich grüße auch herzlich und ermutige alle Mitglieder eurer Vereinigungen und ihre Geistlichen.",
+          "it": "1. Sono molto felice d’incontrare questa sera i responsabili nazionali dei movimenti d’apostolato dei laici. Oltre le vostre persone, saluto cordialmente ed incoraggio tutti i membri delle vostre associazioni e i loro assistenti spirituali.",
+          "pt": "1. Sinto-me felicíssimo por encontrar-me esta tarde com os responsáveis nacionais dos movimentos de apostolado dos Leigos. Para além das vossas pessoas, saúdo cordialmente e animo todos os membros das vossas associações e os seus assistentes. Como a vossa simples apresentação manifesta, o apostolado dos leigos floresce na França em grandíssima variedade. Sei que não é somente o génio bem cartesiano, de distinguir os diversos aspectos das coisas, que leva os vossos compatriotas neste sentido; mas bem mais o cuidado de corresponder o melhor possível quer às tarefas diferenciadas da Igreja, quer às situações de vida e idade, quer ainda aos meios de vida, sociais e profissionais. Assim a revisão de vida pode ganhar em precisão; e a acção em eficácia profunda. Reconheço nisso o sinal de um dinamismo e de uma riqueza que me levam a felicitar-vos.",
+          "es": "1. Me complace mucho encontrarme esta tarde con los responsables nacionales de los Movimientos de apostolado de los laicos. Además de los aquí presentes, reciban mi saludo cordial y mis palabras de aliento todos los miembros de vuestras Asociaciones y sus consiliarios."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800531_apostolato-laici-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800530_sindaco-parigi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800530_sindaco-parigi",
+        "title": "Greetings to the Mayor of Paris",
+        "type": "Speeches",
+        "date": "1980-05-30",
+        "excerpt": {
+          "fr": "J’ai été très sensible aux paroles de bienvenue que vous venez de m’adresser, au nom du Peuple de Paris, de ses élus, et en votre nom personnel. Invité de la France pour quelques jours - et avec quelle joie! - c’est dans sa prestigieuse capitale que j’effectuerai l’essentiel de mon séjour. A plusieurs reprises déjà, j’ai eu le bonheur d’y venir au cours des années passées, la découvrant chaque fois plus grande, plus belle aussi grâce aux efforts accomplis pour la mettre en valeur. C’est vraiment l’une des capitales du monde.",
+          "it": "Sono stato molto sensibile alle parole di benvenuto da lei rivoltemi, in nome degli abitanti di Parigi, dei suoi eletti, e a suo nome. Invitato per alcuni giorni dalla Francia - e con quale gioia! - è nella sua prestigiosa capitale che passerò quasi tutto il mio tempo. Ho già avuto l’onore di venirci molte volte negli anni passati, scoprendola ogni volta più grande, più bella grazie anche agli sforzi compiuti per valorizzarla. È veramente una delle capitali mondiali.",
+          "pt": "Muito me sensibilizaram as palavras de boas-vindas que vossa Excelência me dirigiu, em nome do Povo de Paris, das Personalidades eleitas e no seu nome pessoal. Convidado da França por alguns dias e com que ,alegria na sua importante capital que realizarei o essencial da minha estadia. Já tive diversas vezes a felicidade de aqui vir no decurso dos anos passados, descobrindo-a, cada vez maior e também mais bela, graças aos esforços empreendidos para a valorizar. É verdadeiramente uma das capitais do mundo.",
+          "es": "He apreciado mucho las palabras de bienvenida que me ha dirigido en nombre del pueblo de París, de sus representantes y en su propio nombre. Como invitado de Francia por unos días —¡y con qué satisfacción!—, efectuaré en su prestigiosa capital lo esencial de mi visita. En años pasados he tenido ya, en varias ocasiones, la dicha de visitarla, y la he encontrado cada vez más grande y también más bella, gracias a los esfuerzos llevados a cabo para realzarla. Verdaderamente es una de las capitales del mundo."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800530_sindaco-parigi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800530_arrivo-francia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800530_arrivo-francia",
+        "title": "Welcoming ceremony in Paris",
+        "type": "Speeches",
+        "date": "1980-05-30",
+        "excerpt": {
+          "fr": "Je suis particulièrement touché des paroles que vous venez de m’adresser, dès mon arrivée sur le sol de France. Je vous en remercie vivement. Vous l’avez fait en votre nom personnel, vous l’avez fait au nom du Peuple Français auquel, en votre personne, je voudrais adresser mon premier message.",
+          "de": "Ich bin von den Worten sehr berührt, die Sie unmittelbar nach meiner Ankunft auf dem Boden Frankreichs an mich gerichtet haben. Ich danke Ihnen ganz herzlich dafür. Sie haben in Ihrem eigenen Namen gesprochen und im Namen des französischen Volkes, an das ich‒in Ihrer Person‒meine erste Botschaft richten möchte.",
+          "it": "Sono particolarmente colpito dalle parole che mi avete rivolto al mio arrivo sul suolo di Francia. Vi ringrazio vivamente. L’avete fatto a titolo personale e l’avete fatto a nome del popolo francese, al quale, vostro tramite, vorrei rivolgere il mio primo messaggio.",
+          "pt": "Estou especialmente comovido com as palavras que acaba de me dirigir, logo à minha chegada ao solo da França. Agradeço-lhe de coração. Disse-as em seu nome pessoal e disse-as em nome do Povo Francês ao qual, na sua pessoa, eu desejaria dirigir a minha primeira mensagem.",
+          "es": "Me siento realmente impresionado por las palabras que acaba usted de dirigirme, al encontrarme bajo el sol de Francia. Se lo agradezco vivamente. Lo ha hecho personalmente y lo ha hecho también en nombre del pueblo francés, al cual, a través de su persona, querría dirigir mi primer mensaje."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800530_arrivo-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800530_messaggio-radiofonico-francesi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800530_messaggio-radiofonico-francesi",
+        "title": "Radio Message to the French People in Paris",
+        "type": "Messages",
+        "date": "1980-05-30",
+        "excerpt": {
+          "fr": "Ce soir, après avoir célébré la Messe au cœur de la capitale française devant Notre-Dame de Paris, je pense à tous ceux qui auraient aimé participer à ce rassemblement autour du Pape ou aux célébrations qui suivront, mais qui sont retenus chez eux: aux malades, à tous ceux qui sont sur leur lit d’hôpital, auxquels je souhaite réconfort et paix; aux handicapés et à leurs familles; aux prisonniers, que je visite en esprit et auxquels je souhaite la foi en la miséricorde de Dieu, l’espérance et le soutien fidèle de leurs familles; aux travailleurs auxquels l’horaire de leur emploi ou leur tour de service public ne permettent pas facilement de s’associer à de telles manifestations; à tous ceux enfin qui, pour d’autres raisons, ne pourront satisfaire leur désir de voir ou d’entendre le Pape. A tous, chers amis, je vous dis mon estime, je vous assure de ma prière et de mes vœux cordiaux pour vos familles.",
+          "it": "Questa sera, dopo aver celebrato la Messa nel cuore della capitale francese, davanti Notre-Dame de Paris, penso a tutti quelli che avrebbero voluto partecipare a questa riunione intorno al Papa, o alle celebrazioni che seguiranno, ma che non possono raggiungerci: i malati, tutti quelli su di un letto d’ospedale, ai quali auguro conforto e pace; gli handicappati e le loro famiglie; i prigionieri, che visito in spirito e ai quali auguro la fede nelle misericordia di Dio, la speranza e il sostegno fedele delle famiglie; i lavoratori il cui orario o turno di servizio non permette loro di accostarsi facilmente a queste manifestazioni; infine, tutti quelli che per altre ragioni non possono soddisfare il loro desiderio di vedere il Papa. A tutti, cari amici, esprimo la mia stima, assicuro la mia preghiera ed i miei cordiali auguri per le vostre famiglie.",
+          "pt": "Esta tarde, depois de ter celebrado a missa no coração da capital francesa diante da Notre-Dame de Paris, penso em todos os que desejariam participar nesta reunião ao redor do Papa ou nas celebrações que se seguirão, mas ficaram em casa: os doentes, os que estão hospitalizados, a quem auguro conforto e paz; os diminuídos e as suas famílias; os encarcerados, que visito em espírito e a quem auguro a fé na misericórdia de Deus, a esperança e o apoio fiel dos seus familiares; os trabalhadores cujo horário de emprego ou turno de serviço público não lhes permitem facilmente associar-se a tais manifestações; enfim, todos os que, por outras razões, não poderão satisfazer o seu desejo de ver ou de ouvir o Papa. A todos vós, caros amigos, manifesto a minha estima e asseguro a minha oração e os meus votos cordiais às vossas famílias.",
+          "es": "Esta noche, después de haber celebrado la Misa en el corazón de la capital francesa ante Notre Dame de París, pienso en todos los que hubieran querido participar en esta reunión en torno al Papa o en los actos que seguirán a ésta, pero están impedidos de hacerlo: los enfermos y cuantos se encuentran en un lecho de hospital, a los que deseo consuelo y paz; a los minusválidos y a sus familias; a los presos, a quienes visito en espíritu y les deseo fe en la misericordia de Dios, esperanza y el apoyo fiel de sus familias; a los obreros cuyo horario de trabajo o turno de servicio no les da la facilidad de unirse a tales manifestaciones; y en fin, a todos los que por otras razones no podrán satisfacer su deseo de ver al Papa. Queridos amigos: A todos expreso mi estima, prometo mi oración y aseguro mis cordiales deseos para vuestras familias."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800530_messaggio-radiofonico-francesi",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800530_sacerdoti-parigi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800530_sacerdoti-parigi",
+        "title": "To priests of Île de France gathered in the Cathedral of Notre Dame in Paris",
+        "type": "Speeches",
+        "date": "1980-05-30",
+        "excerpt": {
+          "fr": "1.C’est une très grande joie pour moi de m’adresser à vous dès ce soir - et en premier lieu - à vous prêtres et diacres de Paris et de région parisienne, et par vous à l’ensemble des prêtres et des diacres de France. Pour vous, je suis évêque: avec vous, je suis prêtre. Vous êtes mes frères, en vertu du sacrement de l’Ordre. La lettre que je vous ai adressée l’an dernier pour le Jeudi Saint vous disait déjà mon estime, mon affection, ma confiance toutes particulières. Après-demain, je rencontrerai longuement vos évêques, qui sont à un titre spécial mes frères; c’est en union avec eux que je vous parle. Mais à mes yeux, aux yeux du Concile, vous êtes inséparables des évêques, et je penserai à vous en m’entretenant avec eux. Une profonde communion unit les prêtres et les évêques, fondée sur le sacrement et le ministère.",
+          "it": "1. È una grande gioia per me rivolgermi a voi, questa sera - e in primo luogo - a voi sacerdoti e diaconi di Parigi e della regione parigina e attraverso voi all’insieme dei sacerdoti e dei diaconi di Francia. Per voi, io sono Vescovo; con voi, io sono sacerdote. Voi siete miei fratelli, in virtù del sacramento dell’ordine. La lettera che vi ho indirizzato l’anno scorso in occasione del Giovedì Santo vi diceva la mia stima, il mio affetto, la mia fiducia tutta particolare. Dopodomani io incontrerò lungamente i vostri Vescovi, che sono a titolo speciale miei fratelli; è in unione con loro che io vi parlo. Ma ai miei occhi. agli occhi del Concilio, voi siete inseparabili dai Vescovi ed io penserò a voi intrattenendomi con loro. Una profonda comunione unisce i sacerdoti e i Vescovi, fondata sul sacramento e il ministero. Cari amici, possiate comprendere l’amore che vi porto in Cristo Gesù! Sì, Cristo mi chiede, come all’apostolo Pietro, di “confermare i miei fratelli” e siete voi che prima di tutto ne dovete beneficiare.",
+          "pt": "1. É grande alegria para mim dirigir-me a vós já esta tarde — e em primeiro lugar —, a vós Sacerdotes e Diáconos de Paris e da região parisiense, e por meio de vós ao conjunto dos Sacerdotes e Diáconos da França. Para vós, sou Bispo; convosco sou Sacerdote. Sois meus irmãos em virtude do sacramento da Ordem. Acarta, que vos dirigi o ano passado para a Quinta-feira Santa, mostrava-vos já muito em particular, a minha estima, o meu afecto e a minha confiança. Depois de amanhã, encontrar-me-ei longamente com os vossos Bispos, que são a título especial meus irmãos; é em união com eles que vos falo. A meus olhos, porém, aos olhos do Concílio, vós sois inseparáveis dos Bispos, e pensarei em vós ao deter-me com eles. Profunda comunhão une os Sacerdotes e os Bispos, fundada no sacramento e no ministério. Caros amigos, oxalá compreendais o amor que vos dedico em Cristo Jesus. Se Cristo me pede, como ao Apóstolo Pedro, que \"fortaleça os meus irmãos\", sois vós com certeza quem primeiro devo beneficiar."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800530_sacerdoti-parigi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800530_partenza-francia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800530_partenza-francia",
+        "title": "Departure for Paris and Lisieux from the Airport of Fiumicino",
+        "type": "Speeches",
+        "date": "1980-05-30",
+        "excerpt": {
+          "fr": "1.Au moment où je m’apprête à quitter encore une fois la Cité du Vatican et le sol aimé de l’Italie pour me rendre en France, il m’est très agréable, Messieurs les Cardinaux, membres distingués du Corps Diplomatique accrédités près le Saint Siège, et représentants du gouvernement italien, de recevoir l’expression cordiale de votre affection et de votre encouragement, qui témoigne d’autre part que vous partagez les intentions qui inspirent le pèlerinage apostolique d’aujourd’hui.",
+          "de": "1. Während ich mich anschicke, neuerlich die Vatikanstadt und den geliebten Boden Italiens‒diesmal in Richtung Frankreich‒zu verlassen, nehme ich mit Freude von Ihnen, meine Herren Kardinäle, sehr geehrte Mitglieder des beim Hl. Stuhl akkreditierten Diplomatischen Corps und Vertreter der italienischen Regierung, den herzlichen Ausdruck der Zuneigung und Ermunterung entgegen, der auch von innerer Anteilnahme an Ziel und Sinn der heute beginnenden apostolischen Pilgerreise begleitet ist.",
+          "it": "1. Nell’accingermi a lasciare ancora una volta la Città del Vaticano e l’amato suolo d’Italia, diretto verso la Francia, mi è caro accogliere, Signori Cardinali, distinti Membri del Corpo Diplomatico accreditato presso la Santa Sede, e Rappresentanti del Governo Italiano, la vostra cordiale espressione di affetto e di incoraggiamento, che è, altresì, attestato di partecipazione interiore agli intendimenti che ispirano i propositi dell’odierno pellegrinaggio apostolico.",
+          "pt": "1. Prestes a deixar mais uma vez a Cidade do Vaticano e o querido solo da Itália, dirigindo-me para a França; é-me grato, Senhores Cardeais, distintos Membros do Corpo Diplomático acreditado junto da Santa Sé e Representantes do Governo Italiano, acolher a vossa cordial expressão de afecto e de encorajamento, que é, outrossim, testemunhada pela participação interior nos intuitos que inspiram os propósitos da actual peregrinação apostólica.",
+          "es": "1. Al disponerme a dejar otra vez la Ciudad del Vaticano y la amada tierra de Italia, para dirigirme a Francia me complace acoger, señores cardenales, distinguidos miembros del Cuerpo Diplomático acreditado ante la Santa Sede, y representantes del Gobierno Italiano, vuestra cordial expresión de afecto y de ánimo, que es, además, testimonio de participación interior en las intenciones que inspiran los propósitos de la actual peregrinación apostólica."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800530_partenza-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800530_messaggio-francia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800530_messaggio-francia",
+        "title": "Radio Message to the French People in Paris",
+        "type": "Speeches",
+        "date": "1980-05-30",
+        "excerpt": {
+          "fr": "Ce soir, après avoir célébré la Messe au cœur de la capitale française devant Notre-Dame de Paris, je pense à tous ceux qui auraient aimé participer à ce rassemblement autour du Pape ou aux célébrations qui suivront, mais qui sont retenus chez eux: aux malades, à tous ceux qui sont sur leur lit d’hôpital, auxquels je souhaite réconfort et paix; aux handicapés et à leurs familles; aux prisonniers, que je visite en esprit et auxquels je souhaite la foi en la miséricorde de Dieu, l’espérance et le soutien fidèle de leurs familles; aux travailleurs auxquels l’horaire de leur emploi ou leur tour de service public ne permettent pas facilement de s’associer à de telles manifestations; à tous ceux enfin qui, pour d’autres raisons, ne pourront satisfaire leur désir de voir ou d’entendre le Pape. A tous, chers amis, je vous dis mon estime, je vous assure de ma prière et de mes vœux cordiaux pour vos familles.",
+          "it": "Questa sera, dopo aver celebrato la Messa nel cuore della capitale francese, davanti Notre-Dame de Paris, penso a tutti quelli che avrebbero voluto partecipare a questa riunione intorno al Papa, o alle celebrazioni che seguiranno, ma che non possono raggiungerci: i malati, tutti quelli su di un letto d’ospedale, ai quali auguro conforto e pace; gli handicappati e le loro famiglie; i prigionieri, che visito in spirito e ai quali auguro la fede nelle misericordia di Dio, la speranza e il sostegno fedele delle famiglie; i lavoratori il cui orario o turno di servizio non permette loro di accostarsi facilmente a queste manifestazioni; infine, tutti quelli che per altre ragioni non possono soddisfare il loro desiderio di vedere il Papa. A tutti, cari amici, esprimo la mia stima, assicuro la mia preghiera ed i miei cordiali auguri per le vostre famiglie.",
+          "pt": "Esta tarde, depois de ter celebrado a missa no coração da capital francesa diante da Notre-Dame de Paris, penso em todos os que desejariam participar nesta reunião ao redor do Papa ou nas celebrações que se seguirão, mas ficaram em casa: os doentes, os que estão hospitalizados, a quem auguro conforto e paz; os diminuídos e as suas famílias; os encarcerados, que visito em espírito e a quem auguro a fé na misericórdia de Deus, a esperança e o apoio fiel dos seus familiares; os trabalhadores cujo horário de emprego ou turno de serviço público não lhes permitem facilmente associar-se a tais manifestações; enfim, todos os que, por outras razões, não poderão satisfazer o seu desejo de ver ou de ouvir o Papa. A todos vós, caros amigos, manifesto a minha estima e asseguro a minha oração e os meus votos cordiais às vossas famílias.",
+          "es": "Esta noche, después de haber celebrado la Misa en el corazón de la capital francesa ante Notre Dame de París, pienso en todos los que hubieran querido participar en esta reunión en torno al Papa o en los actos que seguirán a ésta, pero están impedidos de hacerlo: los enfermos y cuantos se encuentran en un lecho de hospital, a los que deseo consuelo y paz; a los minusválidos y a sus familias; a los presos, a quienes visito en espíritu y les deseo fe en la misericordia de Dios, esperanza y el apoyo fiel de sus familias; a los obreros cuyo horario de trabajo o turno de servicio no les da la facilidad de unirse a tales manifestaciones; y en fin, a todos los que por otras razones no podrán satisfacer su deseo de ver al Papa. Queridos amigos: A todos expreso mi estima, prometo mi oración y aseguro mis cordiales deseos para vuestras familias."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800530_messaggio-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800529_vescovi-italiani",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800529_vescovi-italiani",
+        "title": "To the 17th General Assembly of the Italian Bishops",
+        "type": "Speeches",
+        "date": "1980-05-29",
+        "excerpt": {
+          "it": "Venerati e cari Vescovi d’Italia!",
+          "pt": "Venerados e caros Bispos da Itália",
+          "es": "Venerados y queridos obispos de Italia:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800529_vescovi-italiani",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800528_francesi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800528_francesi",
+        "title": "Message to French people",
+        "type": "Speeches",
+        "date": "1980-05-28",
+        "excerpt": {
+          "fr": "Trois jours avant de partir à Paris, je veux d’abord exprimer ma vive gratitude à tous ceux qui m’ont invité: l’UNESCO, l’Épiscopat français, le Président de la République et les Autorités civiles; à ceux aussi qui m’ont manifesté leur attente. Car, en dehors des instances officielles que j’ai nommées, un grand nombre de personnes, de toute condition, et en particulier beaucoup de jeunes, ont exprimé leurs sentiments, surtout leur désir de notre rencontre, bien souvent par lettres.",
+          "de": "Drei Tage vor meiner Abreise nach Paris möchte ich zunächst allen, die mich eingeladen haben, meinen lebhaften Dank aussprechen: der UNESCO, den französischen Bischöfen, dem Präsidenten und den zivilen Behörden Frankreichs; und auch denjenigen, die mir ihre Erwartung kundgetan haben. Denn außer den offiziellen Stellen, die ich soeben genannt habe, hat eine große Zahl von Personen aus allen Schichten, besonders viele junge Menschen, ihren Gefühlen, vor allem ihrem Vertrauen und ihrer Hoffnung auf diese Begegnung in unzähligen Briefen Ausdruck verliehen. Dafür sei ihnen gedankt! Das alles hat ein bereits spürbar günstiges Klima zu schaffen vermocht, und ich möchte diese Erwartung auf die beste Weise erwidern.",
+          "it": "Tre giorni prima di partire per Parigi, voglio in primo luogo esprimere la mia viva gratitudine a tutti coloro che mi hanno invitato: l’Unesco, l’episcopato francese, il presidente della repubblica e le autorità civili; e anche a coloro che mi hanno manifestato la loro attesa. Perché, al di fuori delle istanze ufficiali che ho nominato, un gran numero di persone, di ogni condizione, e in particolare molti giovani, hanno espresso i loro sentimenti, soprattutto il loro desiderio del nostro incontro, molto spesso per lettera. Che essi siano ringraziati! Tutto ciò ha potuto creare un clima favorevole che già sento e vorrei rispondere a questa attesa nel migliore dei modi.",
+          "pt": "Três dias antes de partir para Paris, quero em primeiro lugar exprimir a minha gratidão a todos os que me convidaram: a UNESCO, o Episcopado francês, o Presidente da República e as Autoridades civis; àqueles que também manifestaram a sua expectativa. Pois, além das instâncias oficiais citadas, numerosas pessoas, de todas as condições, e em particular muitos jovens, exprimiram os seus sentimentos, sobretudo o seu desejo deste encontro, muitas vezes até por cartas. Que elas se sintam recompensadas! Tudo isto pôde criar um clima favorável, que sinto já, e quero corresponder da melhor maneira a esta expectativa.",
+          "es": "Tres días antes de salir para París, quiero, en primer lugar, expresar mi gratitud a cuantos me han invitado: la UNESCO, el Episcopado francés, el Presidente de la República y las autoridades civiles; y también a cuantos me han manifestado el deseo de verme. Pues, aparte de las instancias oficiales que he enumerado, gran número de personas de toda condición, y en particular muchos jóvenes han expresado sus sentimientos, sobre todo el deseo de nuestro encuentro, muy a menudo por carta. ¡Muchas gracias! Todo ello ha llegado a crear un clima favorable que ya percibo, y quisiera responder del modo mejor a esta expectación."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800528_francesi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800528_popolo-francese",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800528_popolo-francese",
+        "title": "Message to French people",
+        "type": "Messages",
+        "date": "1980-05-28",
+        "excerpt": {
+          "fr": "Trois jours avant de partir à Paris, je veux d’abord exprimer ma vive gratitude à tous ceux qui m’ont invité: l’UNESCO, l’Épiscopat français, le Président de la République et les Autorités civiles; à ceux aussi qui m’ont manifesté leur attente. Car, en dehors des instances officielles que j’ai nommées, un grand nombre de personnes, de toute condition, et en particulier beaucoup de jeunes, ont exprimé leurs sentiments, surtout leur désir de notre rencontre, bien souvent par lettres.",
+          "it": "Tre giorni prima di partire per Parigi, voglio in primo luogo esprimere la mia viva gratitudine a tutti coloro che mi hanno invitato: l’Unesco, l’episcopato francese, il presidente della repubblica e le autorità civili; e anche a coloro che mi hanno manifestato la loro attesa. Perché, al di fuori delle istanze ufficiali che ho nominato, un gran numero di persone, di ogni condizione, e in particolare molti giovani, hanno espresso i loro sentimenti, soprattutto il loro desiderio del nostro incontro, molto spesso per lettera. Che essi siano ringraziati! Tutto ciò ha potuto creare un clima favorevole che già sento e vorrei rispondere a questa attesa nel migliore dei modi.",
+          "pt": "Três dias antes de partir para Paris, quero em primeiro lugar exprimir a minha gratidão a todos os que me convidaram: a UNESCO, o Episcopado francês, o Presidente da República e as Autoridades civis; àqueles que também manifestaram a sua expectativa. Pois, além das instâncias oficiais citadas, numerosas pessoas, de todas as condições, e em particular muitos jovens, exprimiram os seus sentimentos, sobretudo o seu desejo deste encontro, muitas vezes até por cartas. Que elas se sintam recompensadas! Tudo isto pôde criar um clima favorável, que sinto já, e quero corresponder da melhor maneira a esta expectativa.",
+          "es": "Tres días antes de salir para París, quiero, en primer lugar, expresar mi gratitud a cuantos me han invitado: la UNESCO, el Episcopado francés, el Presidente de la República y las autoridades civiles; y también a cuantos me han manifestado el deseo de verme. Pues, aparte de las instancias oficiales que he enumerado, gran número de personas de toda condición, y en particular muchos jóvenes han expresado sus sentimientos, sobre todo el deseo de nuestro encuentro, muy a menudo por carta. ¡Muchas gracias! Todo ello ha llegado a crear un clima favorable que ya percibo, y quisiera responder del modo mejor a esta expectación."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800528_popolo-francese",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800526_vescovi-indonesia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800526_vescovi-indonesia",
+        "title": "To Bishops of Indonesia on their ad Limina visit",
+        "type": "Speeches",
+        "date": "1980-05-26",
+        "excerpt": {
+          "en": "Venerable and dear Brothers in the Episcopate,",
+          "it": "Venerabili e cari fratelli nell’Episcopato,",
+          "pt": "Veneráveis e caros Irmãos no Episcopado",
+          "es": "Venerables y queridos hermanos en el Episcopado:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800526_vescovi-indonesia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19800525_cardinale-hoffner",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19800525_cardinale-hoffner",
+        "title": "Letter to Cardinal Höffner for the 7th International Congress of Sacred Music",
+        "type": "Letters",
+        "date": "1980-05-25",
+        "excerpt": {
+          "it": "Al Venerabile Fratello NostroJOSEPH di S.R.C. Cardinale HÖFFNERArcivescovo di ColoniaMentre procede felicemente l’anno giubilare della veneranda Chiesa Cattedrale di Colonia, quella Arcidiocesi ospiterà i partecipanti al settimo Congresso Internazionale dl musica sacra; il quale avvenimento, senza dubbio, farà progredire e arricchirà il tesoro della musica della Chiesa. Infatti, l’opera svolta negli anni passati dai moderatori dell’Associazione Internazionale di Musica Sacra, sarà davvero vigorosamente confermata nel medesimo congresso. Vogliamo perciò che questo nostro Nunzio sia una testimonianza della gratitudine per il lavoro già compiuto in questo campo e insieme uno stimolo a proseguirla in futuro.",
+          "la": "Venerabili Fratri NostroIOSEPHO S.R.E. Cardinali HÖFFNERArchiepiscopo ColoniensiIubilari feliciter progrediente anno venerandi cathedralis Coloniensis templi, hospitio accipiet Archidioecesis illa participes Septimi Internationalis Congressus Musicae Sacrae; qui quidem sine dubio eventus tum progressionem tum etiam divitias addet musico Ecclesiae thesauro. Opus enim, quod Consociationis Internationalis Musicae Sacrae moderatores superioribus annis pro ipsa musica sacra expleverunt, in eodem revera Congressu valide confirmabitur. Nuntius igitur hic Noster simul volumus ut grati animi documentum sit de industria iam istis in rebus posita, simul incitamentum ad eam in posterum similiter tempus prosequendam.",
+          "pt": "Na feliz ocorrência do ano jubilar da veneranda catedral de Colónia, essa Arquidiocese receberá os participantes no VII Congresso Internacional de Música Sacra; acontecimento que sem dúvida trará não só progresso mas também riquezas ao tesouro musical da Igreja. Na verdade a obra, que os dirigentes da Associação Internacional de Música Sacra realizaram nos anos precedentes em favor da referida música, será com certeza notavelmente confirmada no mesmo Congresso. Queremos pois que esta Nossa mensagem não só constitua manifestação de reconhecimento pelo esforço realizado neste campo, mas também incentivo para que o esforço seja continuado de maneira semelhante no futuro."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19800525_cardinale-hoffner",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19800524_mons-pasztor",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19800524_mons-pasztor",
+        "title": "Letter to H.Em. Jan Pasztor",
+        "type": "Letters",
+        "date": "1980-05-24",
+        "excerpt": {
+          "la": "Commemoratura brevi tempore dioecesis Nitriensis undecimum saeculum est ex quo ipsa iure est condita: qui quidem eventus cum animos laetitia afficit tum ad deliberandum mentes impellit ad precandumque et homines etiam invitat ut anteactis in aetatibus lucem quaerant ac praesentis itineris ducem."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19800524_mons-pasztor",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800524_seminario-minore",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800524_seminario-minore",
+        "title": "To the community of the Roman Minor Seminary",
+        "type": "Speeches",
+        "date": "1980-05-24",
+        "excerpt": {
+          "it": "Come dirvi la mia grande gioia nel trovarmi oggi in mezzo a voi? È una visita, questa, che vi dovevo da tempo. Certamente, di tutte quelle compiute in vari punti della Diocesi di Roma, essa è tra le più desiderate e significative. Infatti, mi offre la possibilità di incontrare personalmente i componenti ed i responsabili della comunità, che coltiva, come in un vivaio, quei germogli destinati a diventare i ministri indispensabili alla vita cristiana di questa Chiesa locale, che è la diocesi del Papa. Perciò è con specialissimo calore che saluto tutti voi, Seminaristi interni ed esterni, ed Educatori del Seminario Minore Romano, ai quali è riservato il mio affetto paterno più genuino.",
+          "es": "¿Cómo os expresaría el gran gozo que siento al encontrarme hoy entre vosotros? Era ésta una visita que os debía desde hace tiempo. Ciertamente, de todas las realizadas a diversos puntos de la diócesis de Roma, ésta es una de las más deseadas y significativas. En efecto, me ofrece la posibilidad de encontrarme personalmente con los componentes y los responsables de la comunidad, en la que se cultivan, como en un vivero, las vocaciones de los niños destinados a ser los ministros indispensables para la vida cristiana de esta Iglesia local, que es la diócesis del Papa. Por eso, os saludo con especial calor a todos vosotros, seminaristas internos y externos, y educadores del seminario menor romano, a quienes reservo mi afecto paternal más genuino."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800524_seminario-minore",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800523_collegio-bergamo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800523_collegio-bergamo",
+        "title": "To young people gathered in Bergamo",
+        "type": "Speeches",
+        "date": "1980-05-23",
+        "excerpt": {
+          "it": "Cari giovani del Collegio Vescovile S. Alessandro!",
+          "pt": "Caros jovens do Colégio Diocesano Santo Alexandre!",
+          "es": "Queridos jóvenes del colegio episcopal San Alejandro:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800523_collegio-bergamo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800523_mercedari",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800523_mercedari",
+        "title": "To members of the Order of the Blessed Virgin Mary of Help",
+        "type": "Speeches",
+        "date": "1980-05-23",
+        "excerpt": {
+          "it": "Cari fratelli dell’Ordine della Beata Vergine Maria della Mercede,",
+          "pt": "Queridos irmãos da Ordemda Bem-Aventurada Virgem Maria das Mercês",
+          "es": "Queridos hermanos de la Orden de la Bienaventurada Virgen María de la Merced:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800523_mercedari",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800523_vescovi-malaysia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800523_vescovi-malaysia",
+        "title": "To Bishops of Malaysia, Singapore and Brunei on their ad Limina visit",
+        "type": "Speeches",
+        "date": "1980-05-23",
+        "excerpt": {
+          "en": "1.With deep fraternal affection in Christ Jesus, I welcome you today to the Vatican. Your presence here as pastors of the Church spread throughout Malaysia, Singapore and Brunei gives us the opportunity to express our unity in Christ and in the hierarchy of his Church. This is likewise a joyful occasion for reflecting briefly on the mystery of the Churchas it is lived in your lands and by your people.",
+          "it": "1. Con profondo affetto fraterno in Cristo Gesù, vi do il benvenuto oggi in Vaticano. La vostra presenza qui come pastori della Chiesa della Malaysia, Singapore e Brunei ci offre l’opportunità di esprimere la nostra unità in Cristo e nella gerarchia della sua Chiesa. Questa è anche una felice occasione per riflettere brevemente sul mistero della Chiesa come è vissuto nella vostra terra e fra la vostra gente.",
+          "pt": "1. Com profundo afecto fraternal em Cristo Jesus, dou-vos hoje as boas-vindas ao Vaticano. A vossa presença aqui — como Pastores da Igreja dispersa pela Malásia, Singapura e Brunei — dá-nos a oportunidade de exprimir a nossa unidade em Cristo e na hierarquia da Igreja. E é ao mesmo tempo alegre ocasião para reflectirmos brevemente sobre o mistério da Igreja, tal como é vivido nas vossas terras e pelos vossos fiéis.",
+          "es": "1. Con profundo afecto fraterno en Cristo Jesús os doy hoy la bienvenida al Vaticano. Vuestra presencia aquí en calidad de Pastores de la Iglesia esparcida por Malasia, Singapur y Brunei, nos ofrece la oportunidad deexpresar nuestra uniónen Cristo y en la jerarquía de su Iglesia. Es ésta asimismo una ocasión gozosapara reflexionar brevemente sobre el misterio de la Iglesiatal y como se vive en vuestra tierra y entre vuestro pueblo."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800523_vescovi-malaysia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800522_abbadesse-italia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800522_abbadesse-italia",
+        "title": "To the Benedictine Abbesses of Italy",
+        "type": "Speeches",
+        "date": "1980-05-22",
+        "excerpt": {
+          "it": "1. Al termine del vostro convegno di studio sulla “preghiera monastica considerata nel suo svolgersi dalle origini fino al Vaticano II”, avete desiderato incontrarvi con il Papa, per manifestare la vostra fede e la vostra filiale devozione, e per ascoltare una parola di incoraggiamento e di conforto. Vi ringrazio perciò, di cuore, e, nel porgervi il mio saluto particolarmente affettuoso, esprimo a voi e a tutte le consorelle il mio vivo apprezzamento per la vostra consacrazione religiosa e per il vostro costante impegno nell’aggiornamento e nell’approfondimento culturale e formativo.",
+          "pt": "Dilectas Abadessas beneditinas da Itália!",
+          "es": "Queridas abadesas benedictinas de Italia:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800522_abbadesse-italia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19800522_custode-assisi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19800522_custode-assisi",
+        "title": "Letter to Father Bernardino Farnetani",
+        "type": "Letters",
+        "date": "1980-05-22",
+        "excerpt": {
+          "it": "Reverendo Padre Bernardino FarnetaniCustode della Basilica di San Francesco in Assisi.",
+          "pt": "Reverendo PadreBernardino FarnetaniGuardião da Basílica de São Francisco, em Assis",
+          "es": "Rvdo. p. Bernardino Farnetani,guardián de la basílica de San Francisco, en Asís (Italia)."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19800522_custode-assisi",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800522_custode-assisi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800522_custode-assisi",
+        "title": "Message to Father Bernardino Farnetani",
+        "type": "Messages",
+        "date": "1980-05-22",
+        "excerpt": {
+          "it": "Reverendo Padre Bernardino FarnetaniCustode della Basilica di San Francesco in Assisi.",
+          "pt": "Reverendo PadreBernardino FarnetaniGuardião da Basílica de São Francisco, em Assis"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800522_custode-assisi",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800521_katholikentag",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800521_katholikentag",
+        "title": "Message for the 86th Katholikentag in Berlin",
+        "type": "Messages",
+        "date": "1980-05-21",
+        "excerpt": {
+          "fr": "Vénérés confrères dans l’épiscopat,chers frères et sœurs,",
+          "de": "Verehrte Mitbrüder, liebe Brüder und Schwestern!",
+          "it": "Venerati confratelli, cari fratelli e sorelle!",
+          "pt": "Veneráveis IrmãosCaros Irmãos e Irmãs",
+          "es": "Venerable hermano en el Episcopado,queridos hermanos y hermanas:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800521_katholikentag",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800517_communications-congress",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800517_communications-congress",
+        "title": "Message to participants in theReligious Communications Congressof Nashville, USA",
+        "type": "Messages",
+        "date": "1980-05-16",
+        "excerpt": {
+          "en": "Dear friends assembled in Nashvillefor the Religious Communications Congress.",
+          "it": "Cari amici riuniti a Nashvilleper il Religious Communications Congress.",
+          "pt": "Caros irmãos reunidos em Nashvillepara o Congresso Religioso de Comunicações",
+          "es": "Queridos hermanos reunidos en Nashville para el congreso de comunicaciones religiosas:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800517_communications-congress",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800502_pastorale-liverpool",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800502_pastorale-liverpool",
+        "title": "Messages for the opening of the National Pastoral Congress in Liverpool",
+        "type": "Messages",
+        "date": "1980-05-02",
+        "excerpt": {
+          "en": "It is with joy that I send you this message of greeting, as you gather in the Cathedral of Christ the King for the opening of your National Pastoral Congress.",
+          "it": "Il saluto per la sessione inaugurale",
+          "pt": "É com alegria, que eu vos envio esta mensagem de saudação, ao reunirdes-vos na catedral de Cristo Rei para a inauguração do vosso Congresso Nacional Pastoral.",
+          "es": "Mensaje al Congreso, inaugurado en Liverpool el 2 de mayo."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800502_pastorale-liverpool",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800429_iniziativa-giovanile",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800429_iniziativa-giovanile",
+        "title": "To the Executive Council of the Youth Initiative Centre",
+        "type": "Speeches",
+        "date": "1980-04-29",
+        "excerpt": {
+          "it": "Illustrissimi Signori e cari giovani,",
+          "pt": "Ilustríssimos Senhores e caros Jovens",
+          "es": "Ilustrísimos señores y queridos jóvenes:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800429_iniziativa-giovanile",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800428_ambasciatore-congo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800428_ambasciatore-congo",
+        "title": "To the Ambassador of the Popular Republic of Congo",
+        "type": "Speeches",
+        "date": "1980-04-28",
+        "excerpt": {
+          "fr": "Il y a quelque temps, désirant se donner les moyens d’établir, de façon permanente, un dialogue constructif, le Saint-Siège et votre pays ont décidé d’un commun accord de nouer entre eux des relations diplomatiques. Déjà un pro-Nonce Apostolique a été accrédité à Brazzaville. Je suis personnellement très heureux d’accueillir aujourd’hui le premier représentant mandaté de la République Populaire du Congo.",
+          "pt": "Há já algum tempo que a Santa Sé e o seu país, desejando darem-se os meios para estabelecer, de modo permanente, um diálogo construtivo, decidiram, de comum acordo, estabelecer entre si relações diplomáticas. Um Pró-Núncio Apostólico foi já acreditado em Brazzaville. E eu estou pessoalmente contente por receber hoje o primeiro representante acreditado pela República Popular do Congo.",
+          "es": "Deseando proporcionarse mutuamente los medios de entablar de modo permanente un diálogo constructivo, hace algún tiempo la Santa Sede y vuestro país decidieron de común acuerdo establecer relaciones diplomáticas mutuas. Ya ha sido acreditado en Brazzaville un Pro-Nuncio Apostólico. Personalmente me siento muy complacido hoy al recibir al primer Representante acreditado de la República Popular del Congo."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800428_ambasciatore-congo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800427_medici-cattolici",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800427_medici-cattolici",
+        "title": "To the Italian Association of Catholic Doctors",
+        "type": "Speeches",
+        "date": "1980-04-27",
+        "excerpt": {
+          "it": "Cari ed illustri Signori dell’Associazione Medici Cattolici Italiani!",
+          "pt": "Caros e ilustres Senhoresda Associação dos Médicos Católicos Italianos!",
+          "es": "Queridos e ilustres señores de la Asociación de Médicos Católicos Italianos. Me alegro de estar nuevamente con vosotros, en este patio de San Dámaso, después del encuentro, oficial y solemne por decirlo así, que tuve alcomienzo de mi pontificado con vuestra Asociación; os renuevo ahora mi complacencia y aplauso por la benemérita actividad humanitaria y, más aún, por la inspiración cristiana que la ilumina y dirige."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800427_medici-cattolici",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800426_pellegrinaggi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800426_pellegrinaggi",
+        "title": "To a group of Italian pilgrims gathered in Saint Peter's Square",
+        "type": "Speeches",
+        "date": "1980-04-26",
+        "excerpt": {
+          "it": "Ai numerosi pellegrini di Crema",
+          "pt": "1. Tenho o prazer de dirigir-vos uma saudação cordialíssima, que sem dúvida corresponde à espontaneidade e ao fervor da vossa presença hoje. Viestes a Roma sem dúvida para \"ver o Papa\", como se diz. Mas bem sabeis que isto não significa puro gesto de curiosidade; comporta, com efeito, a intenção profunda de reforçar a própria fé mediante a confirmação da vossa comunhão com ele, assim como São Paulo subiu \"a Jerusalém para visitar Cefas\" (Gál1, 18) e com ele aferir o seu compromisso apostólico. Sobre o pobre pescador de Betsaida, com efeito, como sobre \"rocha\" sólida, fundou Jesus a sua Igreja (cfr.Mt16, 18), que foi depois confiada ao ministério dos seus continuadores e representantes.",
+          "es": "1. Me complazco en dirigiros un cordialísimo saludo, que realmente corresponde a la espontaneidad y al fervor de vuestra presencia aquí. Habéis venido a Roma ciertamente \"para ver al Papa\", como suele decirse. Pero bien sabéis que ello no significa un mero gesto de curiosidad, sino que supone una profunda intención de reforzar la propia fe mediante la confirmación de vuestra comunión con él, al igual que San Pablo \"fue a Jerusalén para conocer a Cefas\" (Gál1, 18) y medir con él su propio compromiso apostólico. En efecto, sobre el humilde pescador de Betsaida, Jesús fundó, como sobre una sólida \"roca\", su Iglesia (cf.Mt16, 18), la cual fue después confiada al ministerio de sus continuadores y representantes."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800426_pellegrinaggi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800425_insegnanti-cattolici",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800425_insegnanti-cattolici",
+        "title": "To the General Council of the World Union of Catholic Teachers",
+        "type": "Speeches",
+        "date": "1980-04-25",
+        "excerpt": {
+          "fr": "Monsieur le Président,Mesdames, Messieurs,À l'occasion du XeCongrès de l’Union Mondiale des Enseignants Catholiques, qui s’est tenu l’été dernier sur le thème de “L’enseignant catholique pour la liberté, la justice et la paix”, j’ai voulu, par un message de mon, Secrétaire d’Etat, témoigner l’estime que je porte à ceste Union, et exprimer mes vœux pour ses travaux. En vous recevant aujourd’hui, vous les Membres du Conseil général accompagnés de votre Assistant ecclésiastique, je suis très heureux de vous confier personnellement mes pensées comme mes espoirs.",
+          "it": "In occasione del X Congresso dell’Unione mondiale degli insegnanti cattolici che si è tenuto la scorsa estate sul tema “L’insegnante cattolico per la libertà, la giustizia e la pace”, ho voluto, con un messaggio del mio segretario di Stato, testimoniare la stima che porto a questa unione, ed esprimere i miei voti per i suoi lavori. Ricevendovi oggi, voi membri del consiglio generale accompagnati dai vostri assistenti ecclesiastici, sono molto felice di affidarvi personalmente i miei pensieri e le mie speranze.",
+          "pt": "Senhor Presidente,minhas Senhoras e meus Senhores",
+          "es": "En ocasión del X Congreso de la Unión Mundial de Profesores Católicos celebrado el verano pasado sobre el tema \"La enseñanza católica por la libertad, la justicia y la paz\", quise testimoniar la estima que tengo de esta Unión y expresar mis deseos para sus actividades, a través de un mensaje de mi Secretario de Estado. Al recibiros hoy a vosotros, miembros del consejo general acompañados de vuestro consiliario eclesiástico, me complazco en confiaros personalmente mis pensamientos y esperanzas."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800425_insegnanti-cattolici",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800424_est-ovest",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800424_est-ovest",
+        "title": "To participants in the East-West International Congress",
+        "type": "Speeches",
+        "date": "1980-04-24",
+        "excerpt": {
+          "fr": "Je suis heureux de vous souhaiter la bienvenue, à vous qui participez au Congrès international Est-Ouest. Je vous ai volontiers ouvert les portes de ma maison, et je vous ouvre encore plus volontiers les portes de mon cœur.",
+          "it": "Sono felice di dare il benvenuto a voi che partecipate al Congresso internazionale Est-Ovest. Ho aperto volentieri le porte della mia casa, e vi apro ancor più volentieri le porte del mio cuore.",
+          "pt": "Tenho gosto de vos dar as boas-vindas, a vós que tomais parte no Congresso internacional Este-Oeste. De boa vontade vos abri as portas da minha casa, e ainda de melhor vontade vos abro as portas do meu coração.",
+          "es": "Me proporciona gran alegría daros la bienvenida a los participantes en el Congreso internacional \"Este-Oeste\". Con gusto os he abierto las puertas de mi casa, y con mayor gusto aún os abro las puertas de mi corazón."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800424_est-ovest",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800419_pellegrinaggi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800419_pellegrinaggi",
+        "title": "To Italian pilgrims from Rimini, Montefeltro, San Marino, Cesena and Sarsina",
+        "type": "Speeches",
+        "date": "1980-04-19",
+        "excerpt": {
+          "it": "Fratelli e figli carissimi delle diocesi di Rimini, San Marino-Montefeltro, Cesena e Sarsina.1. Siate i benvenuti nella casa del Papa, voi che recate l’entusiasmo, il vigore e la tenacia della gente di Romagna, l’antica Romandiola percorsa dalle schiere peregrinanti dei pii romei e che, ultima scintilla dell’impero di oriente sul suolo italico, ha avuto in passato stretti rapporti con questa sede apostolica. Infatti, la Romagna, regione dall’animo ardente e dal cuore generoso, nel corso dei secoli, mantenne sempre particolari legami col romano pontefice; essi, tuttavia, sono travalicati e trasfigurati da quelli della fede, che voi avete voluto sottolineare oggi con questa udienza così importante.",
+          "pt": "Irmãos e Filhos caríssimos das Dioceses de Rímini,São Marinho-Montefeltro, Cesena-Sarsina",
+          "es": "Hermanos e hijos queridísimosde las diócesis de Rímini, San Marino-Montefeltro,Cesena y Sarsina:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800419_pellegrinaggi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19800419_australia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19800419_australia",
+        "title": "Message to the Church in Australia for the National Vocations Awareness Week",
+        "type": "Messages",
+        "date": "1980-04-19",
+        "excerpt": {
+          "en": "Dear Catholic people of Australia,Dear brothers and sisters in our Lord Jesus Christ,For the first time, the Church in Australia is holding a \"National Vocations Awareness Week\".",
+          "it": "Cari Cattolici Australiani,Cari fratelli e sorelle nel nostro Signore Gesù Cristo,Per la prima volta, la Chiesa Australiana ha organizzato un “Giornata Nazionale di Riflessione sulle Vocazioni”.",
+          "pt": "Querido povo católico da Austrália,Queridos irmãos e irmãs em nosso Senhor Jesus Cristo",
+          "es": "Queridos católicos de Australia,queridos hermanos y hermanas en Nuestro Señor Jesucristo:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19800419_australia",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800418_movimenti-laicali",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800418_movimenti-laicali",
+        "title": "To Lay Movements of Spirituality",
+        "type": "Speeches",
+        "date": "1980-04-18",
+        "excerpt": {
+          "fr": "C’est pour moi une joie de m’adresser à vous, représentants de divers mouvements internationaux qui êtes en session à Rocca di Papa pour réfléchir à la vie spirituelle des laïcs que vous avez la tâche de promouvoir.",
+          "it": "È per me una gioia rivolgermi a voi, rappresentanti dei diversi movimenti internazionali che siete riuniti in sessione a Rocca di Papa per riflettere sulla vita spirituale dei laici che voi avete il compito di promuovere.",
+          "pt": "É para mim uma alegria dirigir-me a vós, representantes de diversos movimentos internacionais, que estais reunidos em Rocca di Papa para reflectir sobre a vida espiritual dos leigos que tendes a tarefa de promover.",
+          "es": "Es una alegría para mí dirigirme a vosotros, representantes de varios Movimientos internacionales reunidos en Rocca di Papa para reflexionar sobre la vida espiritual de los laicos que tenéis misión de impulsar."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800418_movimenti-laicali",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800417_cristianesimo-polonia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800417_cristianesimo-polonia",
+        "title": "To authors of the book Christian History in Poland",
+        "type": "Speeches",
+        "date": "1980-04-17",
+        "excerpt": {
+          "fr": "C’est pour moi une très grande joie de vous recevoir et de vous saluer ce matin. Est-il besoin de souligner que, si je suis toujours heureux lorsque j’ai l’occasion de rencontrer des universitaires, je le suis doublement aujourd’hui, puisqu’il s’agit d’historiens qui ont consacré leurs efforts à l’étude de “L’histoire du christianisme en Pologne”, et que vous avez eu la délicate attention de venir m’offrir cette belle œuvre.",
+          "it": "È per me una grandissima gioia ricevervi e salutarvi questa mattina. C’è forse bisogno di sottolineare che, se sono sempre felice di incontrare degli universitari, lo sono doppiamente oggi trattandosi di storici che hanno consacrato i loro sforzi allo studio della “storia del cristianesimo in Polonia”, e che siete venuti oggi ad offrirmi questa bella opera? Siate dunque certi della mia profonda gratitudine, voi tutti che avete collaborato alla sua realizzazione, autori ed editori. Spero che il risultato dei vostri sforzi, facendo conoscere il ruolo così importante giocato dal cattolicesimo nella storia del mio paese, contribuisca a far meglio capire al lettore di buona volontà come la stessa natura del cattolicesimo faccia si che esso debba avere il suo ruolo in qualsiasi società umana rispettosa dell’uomo nella sua totalità.",
+          "pt": "Minhas Senhoras e meus Senhores",
+          "es": "Es una gran alegría para mí recibiros y saludaros esta mañana. ¿Acaso es necesario hacer notar que si soy feliz siempre que tengo ocasión de encontrarme con universitarios, hoy lo soy doblemente pues se trata de historiadores que han dedicado sus esfuerzos al estudio de la \"Historia del cristianismo en Polonia\" y tienen la delicadeza de venir a presentarme esta hermosa obra? Estad seguros de mi gratitud profunda a cuantos habéis colaborado a su realización, tanto autores como editores. Yo espero que, pues se da a conocer el papel tan importante que ha desempeñado el catolicismo en la historia de mi país, vuestros esfuerzos contribuirán también a hacer comprender mejor al lector de buena voluntad, cómo la naturaleza misma del cristianismo hace que deba ocupar un puesto en toda sociedad humana interesada por el hombre en toda su integridad."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800417_cristianesimo-polonia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800417_vescovi-nicaragua",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800417_vescovi-nicaragua",
+        "title": "To Bishops of Nicaragua",
+        "type": "Speeches",
+        "date": "1980-04-17",
+        "excerpt": {
+          "fr": "C’est avec une joie particulière que je partage avec vous ces moments de vie ecclésiale intense, dans le cadre de la visite que vous me rendez aujourd’hui, vénérables frères, pasteurs de l’Église de Dieu, qui, au Nicaragua, chemine vers le Père.",
+          "it": "Con particolare gioia condivido con voi questi momenti di intensa vita ecclesiale, nel quadro della visita che oggi mi fate, venerabili fratelli, pastori della Chiesa di Dio che nel Nicaragua cammina verso la meta del Padre.",
+          "pt": "Com especial alegria compartilho convosco estes momentos de intensa vivência eclesial, no instante da visita que hoje me fazeis, Veneráveis Irmãos Pastores da Igreja de Deus que na Nicarágua caminha em direcção ao Pai.",
+          "es": "Queridos Hermanos en el Episcopado,"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800417_vescovi-nicaragua",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800414_giovani-rouen",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800414_giovani-rouen",
+        "title": "To young people of the Archdiocese of Rouen",
+        "type": "Speeches",
+        "date": "1980-04-14",
+        "excerpt": {
+          "fr": "Je suis heureux de vous rencontrer, comme j’aime rencontrer des jeunes chrétiens chaque fois que mon horaire le permet, pour être témoin de leur vitalité humaine et religieuse et encourager leur foi. Jésus a dit à Pierre: “Affermis tes frères”. C’est ce que je fais ce matin, en union avec votre Archevêque, vos aumôniers, les religieuses et laïcs qui vous apportent leur aide et que je félicite. L’évangélisation des jeunes demeure une part importante de notre ministère.",
+          "it": "Sono felice di incontrarvi, come sono felice di incontrare dei giovani cristiani ogni volta che i miei impegni lo permettono, per essere testimone della loro vitalità umana e religiosa, e per incoraggiare la loro fede. Gesù ha detto a Pietro: “Conferma i tuoi fratelli”. È quello che io faccio questa mattina, insieme al vostro Arcivescovo, ai vostri sacerdoti, ai religiosi e ai laici che vi forniscono il loro aiuto e con cui io mi complimento. L’evangelizzazione rimane una parte importante del nostro ministero.",
+          "pt": "Sinto-me feliz por me encontrar convosco, como também me é grato encontrar-me com jovens cristãos sempre que o tempo de que disponho o permite, para ser testemunha da sua vitalidade humana e religiosa e encorajar a sua fé. Jesus disse a Pedro: \"Confirma os teus irmãos\". É o que eu faço esta manhã, em união com o vosso Arcebispo, com os vossos capelães, com as religiosas e os leigos que vos dão a sua ajuda e a quem felicito. A evangelização dos jovens permanece como uma parte importante do nosso ministério.",
+          "es": "Me siento feliz de encontrarme con vosotros, pues me gusta reunirme con jóvenes cristianos, siempre que me lo permite el horario, para ser testigo de su vitalidad humana y religiosa, y alentar su fe. Jesús dijo a Pedro: “Confirma a tus hermanos”. Es lo que estoy haciendo esta mañana junto con vuestro arzobispo y consiliarios, y con las religiosas y laicos que os atienden y a quienes felicito. La evangelización de los jóvenes es siempre una parte importante de nuestro ministerio."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800414_giovani-rouen",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800414_azione-cattolica-lussemburgo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800414_azione-cattolica-lussemburgo",
+        "title": "To the Women Catholic Action of Luxembourg",
+        "type": "Speeches",
+        "date": "1980-04-14",
+        "excerpt": {
+          "fr": "Chers Jeunes de l’Action Catholique Féminine du Luxembourg,",
+          "it": "Care giovani dell’Azione Cattolica Femminile del Lussemburgo,",
+          "pt": "Queridas Jovens da Acção Católica Feminina do Luxemburgo",
+          "es": "Queridas jóvenes de la Acción Católica Femenina de Luxemburgo:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800414_azione-cattolica-lussemburgo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800413_torino-cottolengo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800413_torino-cottolengo",
+        "title": "Visit to the Cottolengo in Turin",
+        "type": "Speeches",
+        "date": "1980-04-13",
+        "excerpt": {
+          "it": "Carissimi fratelli e sorelle in Cristo Gesù!",
+          "pt": "Caríssimos irmãos e irmãs em Cristo Jesus!",
+          "es": "Queridísimos hermanos y hermanas en Cristo Jesús:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800413_torino-cottolengo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800413_torino",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800413_torino",
+        "title": "Meeting with the public authorities",
+        "type": "Speeches",
+        "date": "1980-04-13",
+        "excerpt": {
+          "it": "All’inizio della giornata che segna la mia visita-pellegrinaggio a Torino, sono lieto di incontrarmi, anzitutto, con le autorità qui presenti, e di indirizzare ad esse il mio saluto cordiale e rispettoso, manifestando, in pari tempo, la gioia per una tale occasione, che mi consente di esternare l’affetto e la stima che legano il Papa a questa città.",
+          "pt": "No início da jornada que assinala a minha visita-peregrinação a Turim, sinto-me contente por encontrar-me, antes de mais, com as Autoridades aqui presentes, e por dirigir-lhes as minhas saudações cordiais e respeitosas, manifestando, ao mesmo tempo, a alegria por uma tal oportunidade que me consente exteriorizar o afecto e a estima que ligam o Papa a esta Cidade.",
+          "es": "Al comienzo de la jornada que registra mi visita peregrinación a Turín, estoy contento de encontrarme, ante todo, con las autoridades aquí presentes, y de dirigirles mi saludo cordial y respetuoso, manifestando, al mismo tiempo, la alegría por esta ocasión que me permite exteriorizar el afecto y la estima que unen al Papa con esta ciudad."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800413_torino",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800413_torino-consolata",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800413_torino-consolata",
+        "title": "To the faithful gathered in the \"Shrine of the Madonna Consolata\"",
+        "type": "Speeches",
+        "date": "1980-04-13",
+        "excerpt": {
+          "it": "In questo santuario dedicato alla Madonna “Consolata”. così celebre e così caro ai torinesi, voglio specialmente ringraziare la Vergine santissima per la gioia e la consolazione che mi dà di poter pregare con voi e per voi, per il bene della città, di tutta la Chiesa e dell’umanità intera.",
+          "pt": "Neste Santuário dedicado a Nossa Senhora \"Consolata\", tão célebre e tão caro aos Turineses, quero agradecer especialmente a Virgem Santíssima pela alegria e consolação que me dá de poder rezar convosco e por vós, pelo bem da cidade, de toda a Igreja e da humanidade inteira.",
+          "es": "En este santuario dedicado a la Virgen \"Consolata\", tan célebre y tan querido para los turineses, quiero especialmente dar gracias a la Virgen Santísima por la alegría y el consuelo que me da el poder rezar con vosotros y por vosotros, por el bien de la ciudad, de toda la Iglesia y de toda la humanidad."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800413_torino-consolata",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800413_torino-cittadini",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800413_torino-cittadini",
+        "title": "Meeting with the people of Turin",
+        "type": "Speeches",
+        "date": "1980-04-13",
+        "excerpt": {
+          "fr": "Par ces paroles qui me sont chères et qui vous sont également familières, je salue Turin dans cette rencontre avec la ville tout entière et avec le monde du travail qui porte au sommet la joie et la richesse spirituelle de toutes les autres rencontres et qui termine ma visite d’aujourd’hui parmi vous. Par ces paroles, je vous salue tous et je vous porte tous dans mon cœur !",
+          "it": "1. Sia lodato Gesù Cristo!",
+          "pt": "Louvado seja Nosso Senhor Jesus Cristo!",
+          "es": "Con estas palabras para mí tan queridas y que a vosotros también os son familiares, saludo a Turín, en este encuentro con toda la ciudad y con el mundo del trabajo, en el que culminan la alegría y riqueza espirituales de todos los demás encuentros, y concluye mi estancia de hoy entre vosotros. Con estas palabras os saludo y os llevo a todos en el corazón."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800413_torino-cittadini",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19800413_torino-religiose",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19800413_torino-religiose",
+        "title": "Meeting with women religious in the Basilica of St Maria Ausiliatrice",
+        "type": "Speeches",
+        "date": "1980-04-13",
+        "excerpt": {
+          "it": "Questo incontro - l’incontro del Papa con le religiose di Torino - è motivo di vicendevole letizia spirituale: letizia che trabocca oggi dal mio cuore, traspare luminosa dai vostri volti e si esprime in un entusiasmo, che proclama a me e a tutta la Chiesa la vostra incontenibile gioia di essere consacrate totalmente e con cuore indiviso a Dio.",
+          "pt": "Este encontro — o encontro do Papa com as Religiosas de Turim é motivo de mútua alegria espiritual: alegria que transborda hoje do meu coração, transparece luminosa das vossas faces e se exprime num entusiasmo, que proclama, a mim e a toda a Igreja, a vossa incontível felicidade de serdes consagradas totalmente e com coração indiviso a Deus.",
+          "es": "Este encuentro —el encuentro del Papa con las religiosas de Turín— es motivo de mutua alegría espiritual: alegría que rebosa hoy en mi corazón, aparece luminosa en vuestros rostros y se manifiesta en un entusiasmo que proclama, ante mí y ante toda la Iglesia, vuestra incontenible alegría de estarconsagradas a Dios totalmente y con el corazón indiviso."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19800413_torino-religiose",
+        "original_type": "speeches"
+      }
+    }
+  ]
+}

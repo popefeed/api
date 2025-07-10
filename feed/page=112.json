@@ -1,0 +1,1456 @@
+{
+  "meta": {
+    "page": 112,
+    "per_page": 50,
+    "total_pages": 349,
+    "total_posts": 17444,
+    "has_next": true,
+    "has_prev": true,
+    "next_page": 113,
+    "prev_page": 111
+  },
+  "posts": [
+    {
+      "id": "hf_jp-ii_mes_19970925_beni-culturali",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19970925_beni-culturali",
+        "title": "Message on the occasion of the Second Plenary Assembly of the Pontifical Commission for the Cultural Heritage of the Church",
+        "type": "Messages",
+        "date": "1997-09-25",
+        "excerpt": {
+          "it": "Signori Cardinali,Venerati Fratelli nell'Episcopato e nel Sacerdozio,Illustri Signori e Signore!",
+          "pt": "Senhores CardeaisVenerados Irmãos no Episcopado e no SacerdócioIlustres Senhores e Senhoras",
+          "es": "Señores cardenales;venerados hermanos en el episcopado y en el sacerdocio;ilustres señores y señoras:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19970925_beni-culturali",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970925_comboniani",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970925_comboniani",
+        "title": "To the participants in the General Chapter of the Combonian Missionaries of the Heart of Jesus",
+        "type": "Speeches",
+        "date": "1997-09-25",
+        "excerpt": {
+          "en": "To the Very Reverend Father Manuel Augusto Lopes FerreiraSuperior General of the Comboni Missionaries of the Heart of Jesus",
+          "it": "Al Reverendissimo PadreManuel Augusto Lopes FerreiraSuperiore Generaledei Missionari Comboniani del Cuore di Gesù",
+          "pt": "Ao Reverendíssimo Padre Manuel Augusto Lopes FerreiraSuperior-Geral dos Missionários Combonianos do Coração de Jesus",
+          "es": "Al reverendo padreMANUEL AUGUSTO LOPES FERREIRAsuperior general de los Misioneros Combonianos del Corazón de Jesús"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970925_comboniani",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970922_palestina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970922_palestina",
+        "title": "Greeting to the members of the \"Palestinian Authority\"",
+        "type": "Speeches",
+        "date": "1997-09-22",
+        "excerpt": {
+          "en": "Distinguished Members of the Palestinian Authority,",
+          "fr": "Discours à une délégation de personnalités palestiniennes*",
+          "it": "Distinguidos miembros de la Autoridad palestina:",
+          "pt": "Distintos Membros da «Palestinian Authority»",
+          "es": "Distinguidos miembros de la Autoridad palestina:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970922_palestina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970922_claretianos",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970922_claretianos",
+        "title": "To the participants in the General Chapter of the Missionary Sons of the Immaculate Heart of Mary (Claretians)",
+        "type": "Speeches",
+        "date": "1997-09-22",
+        "excerpt": {
+          "en": "To the Superior General and Capitular Fathersof the Missionary Sonsof the Immaculate Heart of Mary",
+          "pt": "Ao Superior-Gerale aos Padres Capitulares dos MissionáriosFilhos do Imaculado Coração de Maria",
+          "es": "Al superior generaly a los padres capitularesde los Misioneros Hijos del Inmaculado Corazón de María"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970922_claretianos",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970921_aeronautica",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970921_aeronautica",
+        "title": "To the members of the 31st Wing of the Italian Air Force",
+        "type": "Speeches",
+        "date": "1997-09-21",
+        "excerpt": {
+          "en": "Dear Officers and Non-Commissioned Officers ofthe 31st Squadron of the Italian Air Force,",
+          "it": "Carissimi Ufficiali e Sottufficialidel trentunesimo Stormo dell'Aeronautica Militare!",
+          "pt": "Caríssimos Oficiais e Suboficiaisdo 31° Esquadrão da Aeronáutica Militar!",
+          "es": "Queridísimos oficiales y suboficiales de la 31ª escuadrilla de la Aeronáutica militar:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970921_aeronautica",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19970925_canisio",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19970925_canisio",
+        "title": "Letter to the Bishops of Germany on the 4th centenary of the death of St Peter Canisius",
+        "type": "Letters",
+        "date": "1997-09-19",
+        "excerpt": {
+          "en": "Venerable Brothers in the Episcopate,",
+          "de": "Als der hl. Petrus Canisius am 2. September 1549 den Segen Papst Pauls III. für seine Sendung nach Deutschland empfangen hatte, kniete er am Grabe des Apostelfürsten Petrus nieder, um dort zu beten. So tief hat ihn das, was er dabei innerlich erfuhr, geprägt, daß er noch in einem Fragment seiner Bekenntnisse davon spricht: »Du weißt, o Herr, wie sehr und wie oft du mir an jenem Tage Deutschland empfohlen hast. Von diesem Tage an sollte Deutschland mein Sorgen und mein Denken immer mehr einnehmen und ich sollte mich danach sehnen, . . . im Leben und im Tod mich für Deutschlands ewiges Heil zu opfern«(Petri Canisii,Epistulae, 1). Das war fortan sein Lebensprogramm, dem er bis zu seinem seligen Heimgang am 21. Dezember 1597 in heroischer Weise treu geblieben ist.",
+          "it": "1. Quando, il 2 settembre 1549, san Pietro Canisio ottenne la benedizione di Papa Paolo III per la sua missione in Germania, si inginocchiò sulla tomba del Capo degli Apostoli, Pietro, per pregare. Ciò che visse interiormente lo plasmò in maniera così profonda che in un frammento delle sue confessioni afferma: «Tu sai, O Signore, quanto intensamente mi affidasti quel giorno la Germania. Da allora la Germania ha occupato sempre più i miei pensieri e ho desiderato ardentemente offrire la mia vita e la mia morte per la salvezza eterna della Germania» (Pietro Canisio,Epistulae, 1). Questo era il programma di vita al quale rimase eroicamente fedele fino alla sua serena dipartita il 21 dicembre 1597.",
+          "pt": "1. Quando, a 2 de Setembro de 1549, São Pedro Canísio obteve a bênção do Papa Paulo III para a sua missão na Alemanha, ajoelhou-se junto do túmulo de Pedro, Príncipe dos Apóstolos, para orar. Aquilo que viveu interiormente plasmou-o de maneira tão profunda, que num trecho das suas confissões afirma: «Tu sabes, ó Senhor, quão intensamente naquele dia me confiaste a Alemanha. A partir de então, a Alemanha ocupou sempre mais os meus pensamentos e desejei ardentemente oferecer a minha vida e a minha morte pela sua salvação eterna» (1). Este era o programa de vida, ao qual permaneceu heroicamente fiel até à sua serena morte, no dia 21 de Dezembro de 1597.",
+          "es": "Venerados hermanos en el episcopado:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19970925_canisio",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970919_seminario-tomko",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970919_seminario-tomko",
+        "title": "To the participants in the Seminar promoted by the Congregation for the Evangelization of Peoples",
+        "type": "Speeches",
+        "date": "1997-09-19",
+        "excerpt": {
+          "en": "1. I am pleased to welcome you at the end of an intense session of information and reflection on the many aspects of your episcopal responsibility. I am grateful to Cardinal Jozef Tomko and to his staff at the Congregation for the Evangelization of Peoples who have organized these weeks of reflection. I warmly greet you all, most of you Bishops from Africa but also from Latin America and Oceania. I am also thinking of those of your confrères in Viêt Nam whom we were expecting, but who, to my regret, have been unable to join you.",
+          "fr": "Monsieur le Cardinal,Chers Frères dans l'Episcopat,",
+          "it": "1. Sono lieto di accogliervi al termine di una sessione intensa, destinata all'informazione e alla riflessione sui molteplici aspetti del vostro lavoro episcopale. La mia gratitudine va al Cardinale Jozef Tomko e ai collaboratori della Congregazione per l'Evangelizzazione dei Popoli che hanno organizzato queste settimane di riflessione. Saluto cordialmente tutti voi, Vescovi per la maggior parte dell'Africa, ma anche dell'America Latina e dell'Oceania. Il mio pensiero si volge anche ai vostri confratelli del Viêt-Nam che attendevamo, ma che, con mio rammarico, non hanno potuto unirsi a voi.",
+          "es": "Señor cardenal;queridos hermanos en el episcopado:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970919_seminario-tomko",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970918_ad-limina-sudan",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970918_ad-limina-sudan",
+        "title": "To the Bishops of Sudan on their \"ad Limina\" visit",
+        "type": "Speeches",
+        "date": "1997-09-18",
+        "excerpt": {
+          "en": "1. As I welcome you, the Bishops of the Sudan, on the occasion of your visitad Limina Apostolorum, I am reminded of my own visit to your country four years ago. It was with great joy and satisfaction that I went to Khartoum, even if it was not possible to travel to other areas, for it was important to me to address the message of reconciliation and hope, the message which is at the very heart of the Gospel, to all the Sudanese people, regardless of differences of religion or ethnic origin. I was especially happy for the opportunity to offer encouragement to the citizens of your country who are sons and daughters of the Church, and whose deeply felt aspiration is to live in peace and to work side by side with their fellow countrymen in building a better society for all. In thanking God for enabling me to make that visit, I thank him also \"for you because of the grace of God which was given you in Christ Jesus . . . who will sustain you to the end\" (1 Cor 1:4,8).",
+          "it": "1. Nel darvi il benvenuto, Vescovi del Sudan, in occasione della vostra visitaad Limina Apostolorum, ricordo la mia visita nel vostro Paese, quattro anni fa. Fu con grande gioia e soddisfazione che mi recai a Khartoum, anche se non fu possibile visitare altre aree, poiché era importante per me rivolgereil messaggio di riconciliazione e di speranza, il messaggio che è al centro del Vangelo, a tutto il popolo sudanese, senza distinzioni di religione o di origine etnica. Fui particolarmente lieto di poter offrire incoraggiamento agli abitanti del vostro Paese che sono figli e figlie della Chiesa, e la cui più profonda aspirazione è quella di vivere in pace e di lavorare insieme ai loro concittadini per edificare una società migliore per tutti. Nel ringraziare Dio per avermi permesso di fare quella visita, lo ringrazio anche «per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù... Egli vi confermerà fino alla fine» (1 Cor1, 4-8).",
+          "pt": "1. Ao dar-vos as boas-vindas, Bispos do Sudão, por ocasião da vossa visitaad limina Apostolorum, recordo a minha visita ao vosso País há quatro anos. Com grande alegria e satisfação fui a Cartum, ainda que não fosse possível visitar outras áreas, pois para mim era importante dirigir a mensagem de reconciliação e de esperança, a mensagem que está no centro do Evangelho, ao inteiro povo sudanês, sem distinções de religião ou de origem étnica. Senti-me particularmente feliz pela oportunidade de oferecer encorajamento aos habitantes do vosso país, que são filhos e filhas da Igreja, e cuja mais profunda aspiração é viver em paz e trabalhar juntamente com os seus concidadãos, para edificar uma sociedade melhor para todos. Ao dar graças a Deus por me ter permitido aquela visita, estou grato também «pela graça que Ele vos concedeu em Jesus Cristo..., o Qual vos confirmará até ao fim» (1Cor1, 4.8).",
+          "es": "Queridos hermanos en el episcopado:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970918_ad-limina-sudan",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19970914_celam",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19970914_celam",
+        "title": "Message to the members of the Latin American Episcopal Council gathered for the 26th General Assembly",
+        "type": "Messages",
+        "date": "1997-09-14",
+        "excerpt": {
+          "it": "1. Sono lieto di rivolgere un cordiale saluto ai membri del Consiglio Episcopale Latinoamericano - CELAM - che si riunisce a Rio de Janeiro dal 30 settembre al 3 ottobre, per celebrare la XXVI Assemblea Ordinaria, al fine diindicare alcune direttive e raccomandazioniper i tempi nuovi che si avvicinano.",
+          "pt": "1. É-me muito grato dirigir uma cordial saudação aos membros do Conselho Episcopal Latino-Americano — CELAM — que se reunirão no Rio de Janeiro, de 30 de Setembro a 3 de Outubro, para celebrar a sua XXVI Assembleia Ordinária, com o objectivo de indicar algumas linhas directrizes e recomendações para os novos tempos que se aproximam.",
+          "es": "Queridos Hermanos en el Episcopado:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19970914_celam",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970913_senegal",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970913_senegal",
+        "title": "Greeting to a group of pilgrims from Senegal",
+        "type": "Speeches",
+        "date": "1997-09-13",
+        "excerpt": {
+          "en": "I am pleased to welcome you at the end of your national pilgrimage. I cordially greet Bishop Théodore-Adrien Sarr of Kaolack, President of the Bishops’ Conference, who is leading your way.",
+          "fr": "C 'est avec plaisir que je vous accueille, au terme de votre pèlerinage national. Et je salue cordialement Monseigneur Théodore-Adrien Sarr, Évêque de Kaolack et Président de la Conférence épiscopale, qui guide votre marche. Votre itinéraire vous a conduits en trois lieux importants. L'étape centrale de votre périple a été la visite en Terre Sainte, qui demeure une source et une référence essentielle, la terre du peuple choisi, la terre où s'est incarné le Fils de Dieu et où il a annoncé l'Évangile et accompli l'acte fondamental de notre Rédemption. J'espère que, au retour de ce pèlerinage sur les pas de Jésus, vous reviendrez renforcés dans la foi en l'unique Médiateur entre Dieu et les hommes, et en l'Esprit de Pentecôte qui, depuis le Cénacle de Jérusalem, a lancé le grand mouvement de l'évangélisation. À Fatima, vous avez honoré la Mère du Seigneur, elle qui fut présente aux moments essentiels de la mission messianique du Christ et qui nous accompagne au long de l'histoire de l'Église. En elle nous est proposé le plus beau modèle de la foi et de la prière. Puisse votre méditation du rosaire être enrichie par votre pèlerinage!",
+          "pt": "É com prazer que vos acolho, no termo da vossa peregrinação nacional. Saúdo cordialmente D. T.-A. Sarr, Bispo de Kaolack e Presidente da Conferência Episcopal, que guia a vossa caminhada.",
+          "es": "Os acojo con alegría al concluir vuestra peregrinación nacional. Saludo cordialmente a monseñor Théodore-Adrien Sarr, obispo de Kaolack y presidente de la Conferencia episcopal, que guía vuestro grupo."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970913_senegal",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970912_ad-limina-etiopia",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970912_ad-limina-etiopia",
+        "title": "To the Bishops of Ethiopia and Eritrea on their \"ad Limina\" visit",
+        "type": "Speeches",
+        "date": "1997-09-12",
+        "excerpt": {
+          "en": "1. It is a great joy for me to welcome you,the Bishops of the Church in Ethiopia and Eritrea,on the occasion of your visitad limina Apostolorum:\"Grace to you and peace from God our Father and the Lord Jesus Christ\" (Rom 1:7). The ancient practice of \"coming to see Peter\" is reminiscent of the Apostle Paul’s visit to Jerusalem, to spend time with Cephas (cf. Gal. 1:18) whom the Lord had constituted the \"rock\" upon which he would build his Church. In the fraternal embrace of Peter and Paul the early Christian community recognized Paul’s Gentile converts as true brothers and sisters in the faith, and in Paul’s account of the abundant outpouring of grace upon these new believers the entire community found ever greater reason to praise God’s boundless mercy (cf. Acts 15:16ff.). In like manner, our coming together today reaffirms the communion of your particular Churches with the Successor of Peter and with the Church universal, and in intimate union of heart our voices join in the song of the psalmist: \"Let Ethiopia stretch out her hands to God. Sing to God, O kingdoms of the earth; sing praises to the Lord\" (Ps 68:31-32).",
+          "it": "1. E' per me motivo di grande gioia dare il benvenuto a voi, Vescovi della Chiesa di Etiopia e di Eritrea, in occasione della vostra visita \"ad Limina Apostolorum\": \"Grazia a voi e pace da Dio, Padre nostro, e dal Signore Gesù Cristo\" (Rm1, 7). L'antica pratica di \"venire a consultare Cefa\" è una reminiscenza della visita fatta dall'apostolo Paolo a Gerusalemme, per passarvi qualche tempo con Pietro (cfrGal1, 18), che il Signore aveva costituito \"Roccia\" su cui costruire la sua Chiesa. Nell'abbraccio fraterno di Pietro e Paolo la prima comunità cristiana lesse il dovere di trattare i pagani convertiti da Paolo come veri fratelli e sorelle nella fede. Al tempo stesso, nel racconto di Paolo circa l'abbondante effusione di grazia su questi nuovi fratelli, l'intera comunità trovò ragioni sempre più chiare per lodare la infinita misericordia di Dio (cfrAt15, 16ss). In modo analogo questo nostro raccoglierci oggi insieme riafferma la comunione delle vostre Chiese particolari con il Successore di Pietro e con la Chiesa universale. Così raccolti in intima comunione di cuore possiamo unire le nostre voci al canto del salmista: \"Verranno i grandi dall'Egitto, l'Etiopia tenderà le mani a Dio. Regni della terra, cantate a Dio, cantate inni al Signore (Sal68, 32-33).",
+          "pt": "1. É para mim motivo de grande alegria dar as boas-vindas a vós, Bispos da Igreja da Etiópia e da Eritreia, por ocasião da vossa visita «ad limina Apostolorum»: «Graça e paz vos sejam dadas da parte de Deus, nosso Pai, e do Senhor Jesus Cristo» (Rm1, 7). A antiga prática de «vir consultar Pedro» é uma reminiscência da visita que o apóstolo Paulo fez a Jerusalém, para passar ali algum tempo com Pedro (cf.Gl1, 18), que o Senhor tinha constituído em «Rocha» sobre a qual construir a sua Igreja. No abraço fraterno de Pedro e Paulo, a primeira comunidade cristã leu o dever de tratar os pagãos convertidos por Paulo, como verdadeiros irmãos e irmãs na fé. Ao mesmo tempo, na narração de Paulo acerca da abundante efusão de graça sobre estes novos irmãos, a inteira comunidade encontrou razões cada vez mais claras para louvar a infinita misericórdia de Deus (cf.Act15, 16 ss.). De modo análogo, este nosso encontro colectivo de hoje reafirma a comunhão das vossas Igrejas particulares com o Sucessor de Pedro e com a Igreja universal. Assim, reunidos em íntima comunhão de coração, podemos unir as nossas vozes ao cântico do salmista: «Do Egipto virão os grandes  e  a  Etiópia  estenderá  as mãos para o Senhor. Reinos da terra, louvai o Senhor, cantai salmos a Javé» (Sl68, 32-33).",
+          "es": "1. Es para mí motivo de gran alegría daros la bienvenida a vosotros,obispos de la Iglesia de Etiopía y Eritrea, con ocasión de vuestra visitaad limina Apostolorum: «A vosotros gracia y paz, de parte de Dios nuestro Padre y del Señor Jesucristo» (Rm1, 7). La antigua práctica de «venir a consultar a Cefas» es una reminiscencia de la visita que el apóstol Pablo hizo a Jerusalén, para pasar allí un tiempo con Pedro (cf.Ga1, 18), a quien el Señor había constituido en «roca» sobre la que se tenía que construir su Iglesia. En el abrazo fraterno de Pedro y Pablo la primera comunidad cristiana leyó el deber de tratar a los paganos convertidos por Pablo como verdaderos hermanos y hermanas en la fe. Al mismo tiempo, en el relato de Pablo sobre la abundante efusión de gracia sobre esos nuevos hermanos, toda la comunidad encontró razones cada vez más claras para alabar la infinita misericordia de Dios (cf.Hch15, 16 ss). De modo análogo, nuestro encuentro de hoy reafirma la comunión de vuestras Iglesias particulares con el Sucesor de Pedro y con la Iglesia universal. Así, reunidos en íntima comunión de corazón, podemos unir nuestras voces al canto del salmista: «Los magnates acudan desde Egipto, tienda hacia Dios sus manos Etiopía. ¡Cantad a Dios, reinos de la tierra, salmodiad para el Señor!» (Sal68, 32-33)."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970912_ad-limina-etiopia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970908_catechismo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970908_catechismo",
+        "title": "On the occasion of the ceremony of presentation of the Latin Typical Edition of the Catechism of the Catholic Church",
+        "type": "Speeches",
+        "date": "1997-09-08",
+        "excerpt": {
+          "en": "Your Eminences,Venerable Brothers in the Episcopate and the Priesthood,Dear Brothers and Sisters!",
+          "it": "Signori Cardinali,Venerati Fratelli nell'Episcopato e nel Sacerdozio,Carissimi Fratelli e Sorelle!",
+          "pt": "Senhores CardeaisVenerados Irmãos no Episcopado e no SacerdócioCaríssimos Irmãos e Irmãs!",
+          "es": "Señores cardenales;venerados hermanos en el episcopado y en el sacerdocio;amadísimos hermanos y hermanas:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970908_catechismo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19970908_missione-cittadina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19970908_missione-cittadina",
+        "title": "Letter to the youth of Rome",
+        "type": "Letters",
+        "date": "1997-09-08",
+        "excerpt": {
+          "en": "Dear Young People of Rome,",
+          "it": "1. Ripenso con gioia allaXII Giornata Mondiale della Gioventù, svoltasi a Parigi nello scorso mese di agosto. È stata una straordinaria esperienza spirituale, di cui rendo grazie al Signore. Al termine dellaCelebrazione Eucaristica nell’Ippodromo di Longchamp, che ha chiuso quell’indimenticabile incontro, ho dato appuntamento ai giovani del mondo intero a Roma, nell’estate dell’Anno 2000, per il Giubileo dei Giovani.",
+          "pt": "1. Com alegria volto com o pensamento àXII Jornada Mundial da Juventude, que se realizou em Paris no passado mês de Agosto. Foi uma extraordinária experiência espiritual, pela qual rendo graças ao Senhor. No final da Celebração eucarística no Hipódromo de Longchamp, que encerrou aquele encontro inesquecível, convidei os jovens do mundo inteiro para o encontro em Roma, no Verão do Ano 2000, para o Jubileu dos Jovens.",
+          "es": "1. Recuerdo con alegría la XII Jornada mundial de la juventud,que tuvo lugar en Parísel pasado mes de agosto. Fue una experiencia espiritual extraordinaria, por la cual doy gracias al Señor. Al final de lacelebración eucarística en el hipódromo de Longchamp, que clausuró ese inolvidable encuentro, cité a los jóvenes del mundo entero a Roma, en el verano del año 2000, para el jubileo de los jóvenes."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19970908_missione-cittadina",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970906_novarese",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970906_novarese",
+        "title": "Address to the Volunteers of Suffering",
+        "type": "Speeches",
+        "date": "1997-09-06",
+        "excerpt": {
+          "en": "Dear Brothers and Sisters,Dear Brothers in the Episcopate,",
+          "it": "1. Sono particolarmente lieto di questo nostro incontro e porgo a ciascuno di voi il mio più cordiale saluto, con uno speciale affettuoso pensiero per quanti, affrontando i disagi del viaggio, non hanno voluto mancare a questo appuntamento, pur venendo da molto lontano.",
+          "pt": "Caríssimos Irmãos e Irmãs!Irmãos no Episcopado",
+          "es": "Amadísimos hermanos y hermanas;hermanos en el episcopado:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970906_novarese",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970906_rosary",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970906_rosary",
+        "title": "Greetings at the conclusion of the recital of the Rosary",
+        "type": "Speeches",
+        "date": "1997-09-06",
+        "excerpt": {
+          "en": "With heartfelt sympathy I join the Students of the University of Dallas who are here to pray for the eternal rest of their classmate. I commend your friend to our Heavenly Father's eternal love, and I ask the Lord to comfort his family and all who mourn him with an increase of faith in the power of Jesus' resurrection.",
+          "it": "With heartfelt sympathy I join the Students of the University of Dallas who are here to pray for the eternal rest of their classmate. I commend your friend to our Heavenly Father's eternal love, and I ask the Lord to comfort his family and all who mourn him with an increase of faith in the power of Jesus' resurrection."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970906_rosary",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970904_ad-limina-svizzera",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970904_ad-limina-svizzera",
+        "title": "To the Bishops of the Episcopal Conference of Switzerland on their \"ad Limina\" visit",
+        "type": "Speeches",
+        "date": "1997-09-04",
+        "excerpt": {
+          "en": "1. With great joy I welcome you during yourad liminavisit to the seat of Peter’s Successor. First of all, I thank your President, Bishop Henri Salina, who has presented to me several aspects of Church life in your Swiss Dioceses as well as several issues which you must face as their Shepherds. I pray that the Lord will accompany you and that our discussions and your meetings with my collaborators in the Roman Curia and with each other will give you an opportunity to deepen and reinforce theaffectus collegialis;may these meetings also help you to continue your apostolic service in trusting co-operation within your Bishops’ Conference.",
+          "fr": "1. Mit großer Freude empfange ich euch im Laufe eures »Ad-limina«-Besuches am Sitz des Nachfolgers Petri. Zunächst danke ich eurem. Vorsitzenden, Msgr. Henri Salina, der mir einige Aspekte des kirchlichen Lebens in euren Schweizer Diözesen vorgestellt hat wie auch einige Fragen, die sich euch als deren Hirten stellen. Ich bitte den Herrn, er möge euch begleiten, damit unsere Gespräche und eure Begegnungen mit meinen Mitarbeitern an der römischen Kurie und untereinander eine Gelegenheit bieten, denaffectus collegialiszu vertiefen und zu bekräftigen; diese Begegnungen mögen euch außerdem dazu verhelfen, in vertrauensvoller Zusammenarbeit innerhalb eurer Bischofskonferenz euren apostolischen Dienst fortzuführen.",
+          "de": "1. Mit großer Freude empfange ich euch im Laufe eures »Ad-limina«-Besuches am Sitz des Nachfolgers Petri. Zunächst danke ich eurem. Vorsitzenden, Msgr. Henri Salina, der mir einige Aspekte des kirchlichen Lebens in euren Schweizer Diözesen vorgestellt hat wie auch einige Fragen, die sich euch als deren Hirten stellen. Ich bitte den Herrn, er möge euch begleiten, damit unsere Gespräche und eure Begegnungen mit meinen Mitarbeitern an der römischen Kurie und untereinander eine Gelegenheit bieten, denaffectus collegialiszu vertiefen und zu bekräftigen; diese Begegnungen mögen euch außerdem dazu verhelfen, in vertrauensvoller Zusammenarbeit innerhalb eurer Bischofskonferenz euren apostolischen Dienst fortzuführen.",
+          "it": "1. È con grande gioia che vi accolgo in occasione della vostra visitaad liminaalla sede del Successore di Pietro. Anzitutto ringrazio il vostro Presidente, Mons. Henri Salina, che mi ha illustrato alcuni aspetti della vita ecclesiale nelle vostre Diocesi svizzere e anche alcune questioni che voi come loro Pastori dovete affrontare. Prego il Signore affinché vi accompagni e i nostri discorsi e i vostri incontri con i miei collaboratori della Curia Romana e tra di voi offrano l'opportunità di approfondire e di rafforzare l'affectus collegialis; possano questi incontri, inoltre, aiutarvi a proseguire il vostro servizio apostolico in fiduciosa collaborazione in seno alla vostra Conferenza Episcopale.",
+          "pt": "1. É com grande alegria que vos acolho por ocasião da vossa visitaad Liminaà sede do Sucessor de Pedro. Antes de tudo, agradeço ao vosso Presidente, D. Henri Salina, que me ilustrou alguns aspectos da vida eclesial nas vossas Dioceses e também algumas questões que vós, como seus Pastores, deveis enfrentar. Oro ao Senhor para que vos acompanhe e para que os nossos diálogos e os vossos encontros com os meus colaboradores da Cúria Romana, e entre vós, ofereçam a oportunidade de aprofundar e revigorar oaffectus collegialis, e possam estes encontros, além disso, ajudar-vos a prosseguir o vosso serviço apostólico em colaboração confiante no seio da vossa Conferência Episcopal.",
+          "es": "Queridos hermanos en el episcopado:"
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970904_ad-limina-svizzera",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970904_ambassador-italy",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970904_ambassador-italy",
+        "title": "To the new Ambassador of Italy to the Holy See",
+        "type": "Speeches",
+        "date": "1997-09-04",
+        "excerpt": {
+          "en": "In receiving the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of the Italian Republic to the Holy See, I am pleased to extend a respectful and cordial greeting to the President of the Republic, the Honourable Oscar Luigi Scalfaro, and to the whole nation.",
+          "it": "Nel ricevere le Lettere che La accreditano Ambasciatore Straordinario e Plenipotenziario della Repubblica Italiana presso la Santa Sede, mi è grato rivolgere un pensiero deferente e cordiale al Signor Presidente della Repubblica, l'Onorevole Oscar Luigi Scalfaro, e alla Nazione tutta.",
+          "pt": "Ao receber as Cartas que o acreditam como Embaixador Extraordinário e Plenipotenciário da República Italiana junto da Santa Sé, é-me grato dirigir um deferente e cordial pensamento ao Presidente da República, Sua Excelência o Senhor Oscar Luigi Scalfaro, e à inteira Nação. Já são muitos os Estados representados junto desta Sé Apostólica, mas especialíssima é a relação com o País que, desde há dois mil anos, está tão próximo da sede originária do Sucessor de Pedro. Na verdade, o Papa jamais é estranho ao «bel paese che Appennin parte, il mar circonda e l’Alpe»; não foi nem o é devido ao múnus de Bispo de Roma, que especifica e encarna aqui o seu papel de Pastor da Igreja universal.",
+          "es": "Al recibir las cartas que lo acreditan como embajador extraordinario y plenipotenciario de la República italiana ante la Santa Sede, me complace dirigirle un saludo deferente y cordial al señor presidente de la República, el hon. Oscar Luigi Scalfaro, así como a la nación entera."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970904_ambassador-italy",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970831_dante",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970831_dante",
+        "title": "At a reading of Dante Alighieri's \"Divine Comedy\"",
+        "type": "Speeches",
+        "date": "1997-08-31",
+        "excerpt": {
+          "en": "1. I am pleased to extend a cordial welcome to each of you who have gathered in this courtyard of the Apostolic Palace in Castel Gandolfo to pay homage to the art and faith of the greatest Italian poet.",
+          "it": "1. Sono lieto di porgere il mio cordiale benvenuto a ciascuno di voi, convenuti in questo cortile del Palazzo Apostolico di Castelgandolfo, per rendere omaggio all'arte ed alla fede del più grande poeta italiano.",
+          "pt": "1. Estou feliz por apresentar as minhas cordiais boas-vindas a cada um de vós, reunidos neste pátio do Palácio Apostólico de Castel Gandolfo, para prestar homenagem à arte e à fé do maior poeta italiano.",
+          "es": "1. Me alegra dar mi cordial bienvenida a cada uno de vosotros, reunidos en este patio del palacio apostólico de Castelgandolfo, para rendir homenaje al arte y a la fe del más grande poeta italiano."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970831_dante",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970824_nunziatura-parigi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970824_nunziatura-parigi",
+        "title": "Apostolic Journey to Paris: Greetings from the balcony of the Apostolic Nunciature in Paris",
+        "type": "Speeches",
+        "date": "1997-08-24",
+        "excerpt": {
+          "en": "Unfortunately I have to leave Paris, after spending a wonderful Youth Day here. But one small consolation remains, that is, I am returning to Rome for the feast-day of St Louis, St Louis of the French.",
+          "fr": "Malheureusement, je dois quitter Paris, après avoir vécu ici une splendideJournée de la Jeunesse. Mais une petite consolation reste, cette consolation c'est que je retourne à Rome pour la Journée de saint Louis, saint Louis des Français.",
+          "it": "Purtroppo devo lasciare Parigi, dopo aver vissuto una splendida Giornata della Gioventù. Ma rimane una piccola consolazione, quella di tornare a Roma per la giornata di San Luigi, San Luigi dei Francesi.",
+          "es": "«Desgraciadamente, tengo que dejar París, después de haber vivido aquí una espléndida Jornada de la juventud. Pero me queda un pequeño consuelo: regreso a Roma para el día de san Luis, san Luis de los franceses."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970824_nunziatura-parigi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970824_youth-orly",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970824_youth-orly",
+        "title": "Apostolic Journey to Paris: Farewell ceremony at the airport of Orly",
+        "type": "Speeches",
+        "date": "1997-08-24",
+        "excerpt": {
+          "en": "Orly AirportSunday, 24 August 1997",
+          "fr": "1. Au terme de ma visite dans votre pays à l'occasion de laJournée mondiale de la Jeunesse, je tiens à vous dire ma gratitude pour l'accueil que vous m'avez réservé et que vous avez offert aux jeunes des cinq continents; je salue les dispositions qui ont été prises par votre gouvernement, pour assurer le bon déroulement des différentes rencontres qu'il m'a été donné de présider. Elles ont aussi permis aux jeunes venus du monde entier de découvrir la France, terre de culture et terre d'accueil. Je suis sûr qu'ils repartent fortifiés dans leur vie d'hommes et de femmes, et confortés dans leur foi; l'expérience du dialogue et de la fraternité qu'ils ont pu réaliser, dans les différentes régions et à Paris, les appelle à s'engager dans leur propre pays, pour le service de leurs frères. En même temps, par leur témoignage et leur enthousiasme, les jeunes rassemblés appellent tous nos contemporains à créer des liens d'entente et de solidarité.",
+          "it": "1. Al termine della visita nel vostro Paese in occasione dellaGiornata Mondiale della Gioventù, desidero esprimere la mia gratitudine per l’accoglienza riservatami ed offerta ai giovani dei cinque continenti; ringrazio per le disposizioni prese dal Suo governo, per assicurare il buono svolgimento dei diversi incontri che mi è stato dato di presiedere. Esse hanno pure permesso ai giovani venuti dal mondo intero di scoprire la Francia, terra di cultura e di accoglienza. Sono sicuro che essi ripartono fortificati nella loro vita di uomini e donne, e confortati nella loro fede; l’esperienza del dialogo e della fraternità che hanno potuto realizzare, nelle diverse regioni e a Parigi, li chiama ad impegnarsi nel proprio Paese, al servizio dei fratelli. Allo stesso tempo, mediante la loro testimonianza e il loro entusiasmo, i giovani radunati chiamano tutti i nostri contemporanei a creare legami d’intesa e di solidarietà.",
+          "pt": "1. Ao concluir a minha visita ao seu País por ocasião da Jornada Mundial da Juventude, desejo exprimir-lhe a minha gratidão pelo acolhimento que Vossa Excelência me reservou e ofereceu aos jovens dos cinco continentes; estou-lhe grato pelas disposições tomadas pelo seu Governo, para assegurar o bom desenvolvimento dos diferentes encontros a que me foi dado presidir. Elas permitiram também aos jovens, que vieram do mundo inteiro, descobrir a França, terra de cultura e acolhimento. Estou certo de que eles retornam fortificados na própria vida como homens e mulheres, e confortados na própria fé; a experiência do diálogo e da fraternidade que puderam realizar, nas diferentes regiões e em Paris, exorta-os a empenhar-se no próprio país, ao serviço dos seus irmãos. Ao mesmo tempo, através do seu testemunho e entusiasmo, os jovens reunidos chamam todos os nossos contemporâneos a criarem laços de entendimento e de solidariedade.",
+          "es": "1. Al término de mi visita a su país, con ocasión de laJornada mundial de la juventud, quiero expresarle mi gratitud por la acogida que me habéis dispensado y que habéis brindado a los jóvenes de los cinco continentes; agradezco las medidas adoptadas por su Gobierno para asegurar el buen desarrollo de los diferentes encuentros que he presidido. Gracias a ellas también los jóvenes procedentes de todo el mundo han podido descubrir a Francia, tierra de cultura y de acogida. Estoy seguro de que se van fortalecidos en su vida de hombres y mujeres, y confortados en su fe; la experiencia del diálogo y de la fraternidad que han podido realizar, tanto en las diferentes regiones como en París, los llama a comprometerse en su propio país al servicio de sus hermanos. Al mismo tiempo, con su testimonio y su entusiasmo, los jóvenes reunidos invitan a todos nuestros contemporáneos a crear vínculos de entendimiento y de solidaridad."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970824_youth-orly",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970823_youth-vigil",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970823_youth-vigil",
+        "title": "Apostolic Journey to Paris: Meditation during the Baptismal Vigil in Longchamp",
+        "type": "Speeches",
+        "date": "1997-08-23",
+        "excerpt": {
+          "en": "Longchamp RacecourseSaturday, 23 August 1997",
+          "fr": "1. Pour commencer, je vous salue tous, vous qui êtes ici rassemblés, en redisant les paroles du prophète Ezékiel, car elles comprennent une merveilleuse promesse de Dieu et elles expriment la joie de votre présence: « J'irai vous prendre dans toutes les nations. [...] Je vous donnerai un cœur nouveau, je mettrai en vous un esprit nouveau. J'enlèverai votre cœur de pierre, et je vous donnerai un cœur de chair. Je mettrai en vous mon esprit: alors vous suivrez mes lois, vous observerez mes commandements et vous y serez fidèles. [...] Vous serez mon peuple, et moi je serai votre Dieu » (Ez36,24-28).",
+          "de": "1. Zu Beginn begrüße ich euch alle, die ihr hier versammelt seid, mit den Worten des Propheten Ezechiel, denn sie enthalten eine wunderbare Verheißung Gottes, und sie drücken die Freude aus, die eure Anwesenheit bereitet: \"Ich hole euch heraus aus den Völkern. [...] Ich schenke euch ein neues Herz und lege einen neuen Geist in euch. Ich nehme das Herz von Stein aus eurer Brust und gebe euch ein Herz von Fleisch. Ich lege meinen Geist in euch und bewirke, daß ihr meinen Gesetzen folgt und auf meine Gebote achtet und sie erfüllt. [...] Ihr werdet mein Volk sein, und ich werde euer Gott sein\" (Ez36, 24-28).",
+          "it": "Ippodromo di Longchamp - Sabato, 23 agosto 1997",
+          "pt": "1. No início deste encontro, saúdo todos vós que estais aqui reunidos, repetindo as palavras do profeta Ezequiel, pois elas contêm uma maravilhosa promessa de Deus e exprimem a alegria da vossa presença: «Eu vos retirarei de entre as nações [...]. Dar-vos-ei um coração novo e introduzirei em vós um espírito novo: arrancarei do vosso peito o coração de pedra e vos darei um coração de carne. Dentro de vós porei o Meu espírito, fazendo com que sigais as Minhas leis e obedeçais e pratiqueis os Meus preceitos [...]. Sereis o Meu povo e Eu serei o vosso Deus» (Ez36, 24-28).",
+          "es": "1. Al empezar os saludo a todos vosotros que estáis aquí reunidos repitiendo las palabras del profeta Ezequiel, pues contienen una maravillosa promesa de Dios y expresan la alegría de vuestra presencia: \"Os recogeré de entre las naciones (...) os daré un corazón nuevo y os infundiré un espíritu nuevo; arrancaré de vuestra carne el corazón de piedra y os daré un corazón de carne. Os infundiré mi espíritu y haré que caminéis según mis preceptos, y que guardéis y cumpláis mis mandatos (...). Vosotros seréis mi pueblo y yo seré vuestro Dios\" (Ez36,24-28)."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970823_youth-vigil",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19970822_youth-frikart",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19970822_youth-frikart",
+        "title": "Apostolic Journey to Paris: Message to the youth in prison",
+        "type": "Letters",
+        "date": "1997-08-22",
+        "excerpt": {
+          "en": "To Bishop Claude FrikartAuxiliary Bishop of Parisfor the young prisoners",
+          "fr": "A Monseigneur Claude FrikartÉvêque auxiliaire de Parispour les jeunes détenus",
+          "it": "A Monsignor Claude Frikart,Vescovo Ausiliare di Parigiper i giovani detenuti",
+          "pt": "A D. CLAUDE FRIKARTBispo Auxiliar de Paris para os jovens prisioneiros",
+          "es": "A monseñor CLAUDE FRIKART, c.i.m.obispo auxiliar de París"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19970822_youth-frikart",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19970822_youth-via-crucis",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19970822_youth-via-crucis",
+        "title": "Apostolic Journey to Paris: Meditation on the Way of the Cross",
+        "type": "Letters",
+        "date": "1997-08-22",
+        "excerpt": {
+          "en": "To the Most Reverend James Francis StaffordPresident of the Pontifical Councilfor the Laityfor the Young People of theTwelfth World Youth Day,",
+          "fr": "À Monseigneur James Francis StaffordPrésident du Conseil pontifical pour les Laïcs",
+          "it": "Al Venerato FratelloMons. James Francis StaffordPresidente del Pontificio Consiglioper i Laiciper i partecipantialla XII Giornata Mondiale della Gioventùriuniti venerdì 22 agosto 1997,per meditare la Via Crucis",
+          "pt": "A D. JAMES FRANCIS STAFFORDPresidente do Pontifício Conselho para os Leigos",
+          "es": "A monseñorJAMES FRANCIS STAFFORDPresidente del Consejo pontificio para los laicos"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19970822_youth-via-crucis",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19970821_vocation",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19970821_vocation",
+        "title": "Apostolic Journey to Paris: Prayer Vigil for vocations, Paris",
+        "type": "Letters",
+        "date": "1997-08-21",
+        "excerpt": {
+          "en": "To the Most Reverend Louis-Marie Billé,Archbishop of Aix, Arles and Embrun,President of the French Bishops' Conferencefor the Young People gathered atNotre-Dame de Parison Thursday, 21 August 1997,to reflect and pray for vocations.",
+          "fr": "À Monseigneur Louis-Marie BilléArchevêque d'Aix, Arles et EmbrunPrésident de la Conférence des Évêques de France",
+          "it": "Al Venerato FratelloMons. LOUIS-MARIE BILLÉArcivescovo di Aix, Arles e EmbrunPresidente della Conferenza Episcopale Franceseper i giovani riuniti a Notre-Dame di Parigi,giovedì, 21 agosto 1997per riflettere e pregare sulle vocazioni",
+          "pt": "Ao Venerado Irmão D. LOUIS-MARIE BILLÉArcebispo de Aix, Arles e EmbrunPresidente da Conferência Episcopal Francesa",
+          "es": "A mons. LOUIS-MARIE BILLÉArzobispo de Aix, Arlés y EmbrunPresidente de la Conferencia de los obispos de Franciapara los jóvenes reunidos en Notre Dame de Parísel jueves 21 de agosto para reflexionary orar por las vocaciones"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19970821_vocation",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970821_arrivo-paris",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970821_arrivo-paris",
+        "title": "Apostolic Journey to Paris: Visit to the President of the Republic of France",
+        "type": "Speeches",
+        "date": "1997-08-21",
+        "excerpt": {
+          "en": "Palais de l'ÉlyséeThursday, 21 August 1997",
+          "fr": "Monsieur le Président de la République,",
+          "it": "Palazzo dell'Eliseo - Giovedì, 21 Agosto 1997",
+          "pt": "1. O seu acolhimento e as suas palavras sensibilizam-me profundamente, enquanto tenho a alegria de me encontrar mais uma vez na terra de França, por ocasião daXII Jornada Mundial da Juventude. Estou-lhe particularmente reconhecido pelas delicadas atenções que Vossa Excelência me testemunha; e aprecio a presença de numerosas personalidades que se dignaram participar nesta cerimónia.",
+          "es": "Señor presidente de la República:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970821_arrivo-paris",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970821_meditation",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970821_meditation",
+        "title": "Apostolic Journey to Paris: Meeting with youth, Paris",
+        "type": "Speeches",
+        "date": "1997-08-21",
+        "excerpt": {
+          "en": "Champ de MarsThursday, 21 August 1997",
+          "fr": "1. Nous venons d'entendre l'Évangile du lavement des pieds. Par ce geste d'amour, le soir du Jeudi Saint, le Seigneur nous aide à comprendre le sens de la Passion et de la Résurrection. Le temps que nous allons vivre ensemble est en relation avec la Semaine Sainte et, en particulier, avec les trois journées qui nous rappellent le mystère de la passion, de la mort et de la résurrection du Christ. Cela se rattache aussi à la démarche de l'initiation chrétienne et du catéchuménat, c'est-à-dire de la préparation des adultes au baptême, qui avait dans l'Église primitive une portée fondamentale. La liturgie du Carême marque les étapes de la préparation des catéchumènes au baptême, célébré pendant la Veillée pascale. Au cours des jours à venir, accompagnons le Christ dans les dernières étapes de sa vie terrestre et contemplons les grands aspects du mystère pascal, pour affermir la foi de notre Baptême; manifestons tout notre amour au Seigneur, comme Pierre l'a fait en lui disant par trois fois au bord du lac, après la Résurrection: « Tu sais bien que je t'aime » (cf.Jn21, 4-23).",
+          "de": "1. Wir haben soeben dasEvangelium von der Fußwaschunggehört.Durch diese Geste der Liebe am Abend des Gründonnerstags hilft der Herr uns den Sinn seines Leidens und seiner Auferstehung begreifen. Die Zeit, die wir miteinander verbringen werden, steht in Beziehung zur Heiligen Woche und insbesondere zu den drei Tagen, die uns an das Geheimnis des Leidens, des Todes und der Auferstehung Christi erinnern. Und sie orientiert sich auch an der christlichen Initiation und dem Katechumenat, d.h. die Vorbereitung der Erwachsenen auf die Taufe, die in der Urkirche von grundlegender Bedeutung war. Die Liturgie der Fastenzeit bezeichnet die Abschnitte des Weges, den die Katechumenen bis zur Feier der Taufe in der Ostervigil zurücklegten. Während der vor uns liegenden Tage begleiten wir Christus auf der letzten Strecke seines irdischen Weges und betrachten diegroßen Aspekte des Ostergeheimnisses, um den Glauben unserer Taufe zu bestärken. Wir wollen dem Herrn unsere ganze Liebe bezeigen, wie Petrus es tat, als er am Seeufer nach der Auferstehung dreimal zu ihm sagte: \" Du weißt, daß ich dich liebe\" (vgl.Joh21, 4-23).",
+          "it": "Campo di Marte - Giovedì, 21 agosto 1997",
+          "pt": "1. Acabámos de escutar o Evangelho do lava-pés. Mediante este gesto de amor, na noite de Quinta-Feira Santa, o Senhor ajuda-nos a compreender o sentido da Paixão e da Ressurreição. O tempo que juntos viveremos está relacionado com a Semana Santa e, em particular, com os três dias que nos recordam o mistério da paixão, da morte e da ressurreição de Cristo. Isto está relacionado também com o processo de iniciação cristã e do catecumenato, ou seja, da preparação dos adultos para o baptismo, que na Igreja primitiva possuía um valor fundamental. A liturgia da Quaresma assinala as etapas da preparação dos catecúmenos para o Baptismo, celebrado durante a Vigília pascal. No decurso dos próximos dias, acompanhemos Cristo nas últimas etapas da Sua vida terrestre e contemplemos os grandiosos aspectos do mistério pascal, para afirmarmos a fé do nosso Baptismo; manifestemos todo o nosso amor ao Senhor, como Pedro o fez, dizendo- Lhe por três vezes à margem do lago, depois da Ressurreição: «Tu sabes que Te amo!» (cf.Jo21, 4-23).",
+          "es": "1. Acabamos de escuchar elEvangelio del lavatorio de los pies. Con este gesto de amor, la noche del Jueves Santo, el Señor nos ayuda a comprender el sentido de la Pasión y la Resurrección. El tiempo que vamos a vivir juntos hacen referencia a la Semana Santa y, en particular, a los tres días que nos recuerdan el misterio de la Pasión, muerte y resurrección de Cristo. Lo cual nos remite también al proceso de iniciación cristiana y del catecumenado, es decir, la preparación de los adultos para el bautismo, que en la Iglesia primitiva tenía una importancia capital. La liturgia de la Cuaresma señala las etapas de la preparación de los catecúmenos para el bautismo, celebrado durante la Vigilia Pascual. En los próximos días acompañaremos a Cristo en las últimas etapas de su vida terrestre y contemplaremoslos grandes aspectos del misterio pascual, para dar firmeza a la fe de nuestro Bautismo; manifestemos todo nuestro amor al Señor, diciéndole, como hizo Pedro tres veces al borde del lago, después de la Resurrección: \" Tu sabes bien que te amo\" (cf.Jn21, 4-23)."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970821_meditation",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970821_youth-paris",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970821_youth-paris",
+        "title": "Apostolic Journey to Paris: Greeting to the young people at the Champ de Mars",
+        "type": "Speeches",
+        "date": "1997-08-21",
+        "excerpt": {
+          "en": "Champ de MarsThursday, 21 August 1997",
+          "fr": "L'Évêque de Rome vous salue et vous dit sa confiance et sa joie de vous rencontrer. Vous venez de différents pays et de tous les continents. Vous représentez non seulement la jeunesse française et européenne, mais aussi celle d'Amérique du Nord, d'Amérique centrale et du Sud, des Archipels et des Îles de l'Océan atlantique, la jeunesse de nombreux pays africains, des Îles de l'Océan indien, la jeunesse d'Asie, d'Australie, de l'Orient lointain et de toutes les mers qui entourent le continent asiatique, la jeunesse du Pacifique. C'est une Journée de la jeunesse véritablement mondiale ! Vous êtes l'espérance du monde, vous qui aspirez à une vie toujours plus belle, fondée sur les valeurs morales et spirituelles qui rendent libres et qui dirigent nos pas vers l'éternité.",
+          "de": "Liebe Jugend aus aller Welt!",
+          "it": "Campo di Marte - Giovedì, 21 Agosto 1997",
+          "pt": "O Bispo de Roma saúda-vos e transmite-vos a sua confiança e alegria por se encontrar convosco. Provindes de diferentes países e de todos os continentes. Representais não apenas a juventude francesa e europeia, mas também a da América do Norte, da América Central e do Sul, dos Arquipélagos e das Ilhas do Oceano Atlântico, a juventude de numerosos países africanos, das Ilhas do Oceano Índico, a juventude da Ásia, da Austrália, do Extremo Oriente e de todos os mares que circundam o continente asiático, e a juventude do Pacífico. É uma Jornada da Juventude verdadeiramente mundial! Vós sois a esperança do mundo, vós que aspirais a uma vida cada vez mais bela, fundamentada sobre os valores morais e espirituais que tornam livres e orientam os nossos passos rumo à eternidade.",
+          "es": "El Obispo de Roma os saluda y os expresa su confianza y la alegría de encontrarse con vosotros. Habéis venido de diferentes países y de todos los continentes. Representáis no solo a la juventud francesa y europea, sino también a la de América del Norte, de América central y del Sur, los Archipiélagos y las Islas del Océano Atlántico, a la juventud de muchos países africanos, las Islas del Océano Indico, a la juventud de Asia, de Australia, del Extremo Oriente y de todos los mares que rodean el continente asiático, a la juventud del Pacífico. ¡Esta es una Jornada de la Juventud realmente mundial! Vosotros sois la esperanza del mundo, aspiráis a una vida cada vez más hermosa, fundada en los valores morales y espirituales que hacen libres y que dirigen nuestros pasos hacia la eternidad."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970821_youth-paris",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970818_rottini",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970818_rottini",
+        "title": "To the Abbot President of the Italian Congregation of the Cistercian Order",
+        "type": "Speeches",
+        "date": "1997-08-18",
+        "excerpt": {
+          "en": "To my beloved Brother Luigi RottiniAbbot President of theItalian Congregation of the Cisterician Order",
+          "it": "Al diletto FratelloLUIGI ROTTINIAbate Presidente della Congregazione italianadell'Ordine Cistercense",
+          "pt": "Ao dilecto Irmão LUIGI ROTTINIAbade Presidente da Congregação italiana da Ordem Cisterciense",
+          "es": "Al querido hermano LUIGI ROTTINIAbad presidente de la Congregación italiana de la orden cisterciense"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970818_rottini",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19970815_pastorale-spagna",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19970815_pastorale-spagna",
+        "title": "Message to the participants in the Second Congress on the Pastoral Ministry of Evangelization held in Madrid",
+        "type": "Messages",
+        "date": "1997-08-15",
+        "excerpt": {
+          "es": "Amados hermanos en el episcopado de España;queridos sacerdotes, religiosos y religiosas;catequistas y demás agentes de pastoral:"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19970815_pastorale-spagna",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19970811_bishop-aquila",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19970811_bishop-aquila",
+        "title": "Letter to the Archbishop of Aquila on the 600th centenary of the birth of Blessed Andrew of Montereale",
+        "type": "Letters",
+        "date": "1997-08-11",
+        "excerpt": {
+          "en": "To my Venerable BrotherArchbishop Mario Peressinof L’Aquila, Italy",
+          "it": "Al Venerato FratelloMons. Mario Peressin,Arcivescovo de L'Aquila",
+          "pt": "Ao Venerado Irmão D. MARIO PERESINArcebispo de Áquila",
+          "es": "Al venerado hermanomonseñor MARIO PERESSINArzobispo de L’Aquila , Italia"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19970811_bishop-aquila",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970806_paolo-vi-ricordo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970806_paolo-vi-ricordo",
+        "title": "On the occasion of the 19th anniversary of the death of Pope Paul VI: Remarks at the beginning of the General Audience",
+        "type": "Speeches",
+        "date": "1997-08-06",
+        "excerpt": {
+          "en": "Today my thoughts turn first of all to my venerable Predecessor, the Servant of God Paul VI, on the 19th anniversary of his holy death at Castel Gandolfo on 6 August 1978, the Feast of the Transfiguration of the Lord.",
+          "it": "Il pensiero va, oggi, innanzitutto al mio venerato predecessore, il Servo di Dio Paolo VI, nel 19° anniversario della pia morte avvenuta a Castel Gandolfo il 6 agosto 1978, Festa della Trasfigurazione del Signore.",
+          "pt": "O pensamento dirige-se, hoje, antes de tudo para o meu venerado Predecessor, o Servo de Deus Paulo VI, no décimo nono aniversário da piedosa morte ocorrida em Castel Gandolfo, no dia 6 de Agosto de 1978, Festa da Transfiguração do Senhor.",
+          "es": "Nuestro pensamiento se dirige hoy ante todo a mi venerado predecesor el siervo de DiosPablo VI, en el 19° aniversario de su piadosa muerte, que tuvo lugar en Castelgandolfo el 6 de agosto de 1978, fiesta de la Transfiguración del Señor."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970806_paolo-vi-ricordo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970806_paolo-vi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970806_paolo-vi",
+        "title": "On the occasion of the 19th anniversary of the death of Pope Paul VI: Remarks at the beginning of the Eucharistic Celebration on the Feast of the Transfiguration of the Lord",
+        "type": "Speeches",
+        "date": "1997-08-06",
+        "excerpt": {
+          "en": "Today is the anniversary of the death of my venerable Predecessor, the Servant of God Paul VI, who died on the Feast of the Transfiguration of the Lord, 6 August 1978."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970806_paolo-vi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970802_agesci",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970802_agesci",
+        "title": "To the Italian Catholic Guides and Scouts Association (Agesci)",
+        "type": "Speeches",
+        "date": "1997-08-02",
+        "excerpt": {
+          "en": "To my Venerable Brother Bishop Arrigo Miglio of Iglesias, ItalyGeneral Chaplain of the AGESCI",
+          "it": "Al Venerato FratelloMons. Arrigo MiglioVescovo di IglesiasAssistente Ecclesiastico Generale dell'AGESCI",
+          "pt": "Ao Venerado Irmão D. ARRIGO MIGLIOBispo de IglesiasAssistente Eclesiástico Geral da AGESCI",
+          "es": "Al venerado hermano MonseñorARRIGO MIGLIOObispo de Iglesias (Italia)Asistente eclesiástico general de la AGESCI"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970802_agesci",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970802_rosary",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970802_rosary",
+        "title": "Greetings at the conclusion of the recital of the Rosary",
+        "type": "Speeches",
+        "date": "1997-08-02",
+        "excerpt": {
+          "it": "A tutti voi, che avete preso parte alla recita del santo Rosario, in questo primo sabato di agosto, rivolgo un cordiale saluto, estendendolo a quanti si sono uniti a noi mediante la radio e la televisione.",
+          "es": "A todos vosotros, que habéis participado en el rezo del santo rosario, en este primer sábado de agosto, dirijo un cordial saludo, que extiendo a los que se han unido a nosotros mediante la radio y la televisión."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970802_rosary",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970730_douglass",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970730_douglass",
+        "title": "Message to the participants in 23rd General Council of the World Alliance of Reformed Churches",
+        "type": "Speeches",
+        "date": "1997-07-30",
+        "excerpt": {
+          "en": "To Dr. Jane Dempsey DouglassPresident of theWorld Alliance of Reformed Churches",
+          "pt": "À Drª Jane Dempsey DouglassPresidente da Aliança Mundial das Igrejas Reformadas",
+          "es": "A la doctora JANE DEMPSEY DOUGLASSpresidenta de la Alianza mundial de Iglesias reformadas"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970730_douglass",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970726_rogazionisti",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970726_rogazionisti",
+        "title": "To the Rogationist Fathers of the Heart of Jesus",
+        "type": "Speeches",
+        "date": "1997-07-26",
+        "excerpt": {
+          "en": "Today’s Eucharistic celebration, on the liturgical commemoration of St Joachim and St Anne, parents of the Blessed Virgin Mary, has a particular meaning, especially for you, dear Rogationist Fathers of the Heart of Jesus, whom I cordially greet. I am pleased to join you in giving thanks to the Lord for the centenary of the birth of your congregation, which sprang from the generous heart of Bl. Annibale Maria Di Francia, the 70th anniversary of whose death occurs this year.",
+          "it": "L'odierna celebrazione eucaristica, nella memoria liturgica dei Santi Gioacchino ed Anna, genitori di Maria Santissima, riveste un significato particolare, specialmente per voi, cari Padri Rogazionisti del Cuore di Gesù, che saluto cordialmente. Sono lieto di unirmi a voi nel rendere grazie al Signore per il centenario della nascita della vostra Congregazione, sgorgata dal cuore generoso del beato Annibale Maria di Francia, di cui ricorre quest'anno il settantesimo della morte.",
+          "pt": "A hodierna celebração eucarística, na memória litúrgica dos Santos Joaquim e Ana, pais de Maria Santíssima, reveste um significado particular, de modo especial para vós, caros Padres Rogacionistas do Coração de Jesus, aos quais saúdo cordialmente. Estou feliz por me unir a vós ao dar graças ao Senhor pelo centenário do nascimento da vossa Congregação, que brotou do coração generoso do Beato Aníbal Maria de França, cujo septuagésimo aniversário da morte celebra-se neste ano. A Eucaristia é o ápice da oração eclesial: nela encontra cumprimento também a oração de Cristo e da Igreja pelas vocações, segundo o explícito mandato do Senhor: «Por isso, pedi ao Senhor da messe que mande trabalhadores para a Sua messe» (Mt9, 38). Nestas palavras evangélicas Aníbal Maria de França encontrou a «via» para responder plenamente à vontade de Deus. Fazendo-a sua, tornou próprios os sentimentos do Coração do Bom Pastor, repleto de compaixão pelo rebanho do Pai.",
+          "es": "Esta celebración eucarística, en la memoria litúrgica de san Joaquín y santa Ana, padres de la santísima Virgen, reviste un significado particular, especialmente para vosotros, queridos padres Rogacionistas del Corazón de Jesús, a quienes saludo cordialmente. Me alegra unirme a vosotros para dar gracias al Señor por el centenario del nacimiento de vuestra congregación, que brotó del corazón generoso del beato Aníbal María Di Francia, de cuya muerte se celebra este año el 70 aniversario."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970726_rogazionisti",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970719_castel-gandolfo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970719_castel-gandolfo",
+        "title": "Greetings to the people of Castel Gandolfo",
+        "type": "Speeches",
+        "date": "1997-07-19",
+        "excerpt": {
+          "en": "I greet the town of Castel Gandolfo with the town council and all those present.",
+          "it": "Sia lodato Gesù Cristo! Saluto la città di Castel Gandolfo, con la Giunta comunale e tutti i presenti."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970719_castel-gandolfo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970705_calasanz",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970705_calasanz",
+        "title": "To the participants in the 44th General Chapter of the Piarist Fathers",
+        "type": "Speeches",
+        "date": "1997-07-05",
+        "excerpt": {
+          "en": "1. I am pleased to extend my cordial greeting to you all, gathered in Rome for your General Chapter, which is being celebrated on the fourth anniversary of the opening of the first free popular public school in Europe, founded by St Joseph Calasanz in the spring of 1597 in the Trastevere district of Rome.",
+          "it": "1. Sono lieto di porgere il mio cordiale saluto a tutti voi, convenuti a Roma per il vostro Capitolo Generale, che si celebra nel quarto centenario dell'apertura della prima scuola pubblica popolare gratuita d'Europa, avviata da san Giuseppe Calasanzio sin dalla primavera del 1597 nel quartiere romano di Trastevere.",
+          "pt": "1. Estou feliz por dirigir a minha cordial saudação a todos vós, congregados em Roma para o vosso Capítulo Geral, que se celebra no quarto centenário da abertura da primeira escola pública popular gratuita da Europa, por obra de São José de Calasanz, na Primavera de 1597, no bairro romano denominado «Trastevere».",
+          "es": "1. Me alegra saludaros cordialmente a todos vosotros, reunidos en Roma para vuestro capítulo general, que se celebra en el IV centenario de la apertura de la primera escuela pública popular gratuita de Europa, por obra de san José de Calasanz, durante la primavera del año 1597, en el barrio romano de Trastévere."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970705_calasanz",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970705_rosary",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970705_rosary",
+        "title": "Greetings at the conclusion of the recital of the Rosary",
+        "type": "Speeches",
+        "date": "1997-07-05",
+        "excerpt": {
+          "it": "Rivolgo un cordiale saluto a tutti voi, carissimi Fratelli e Sorelle, che avete voluto prendere parte a questo momento di preghiera, nel primo sabato del mese di Luglio."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970705_rosary",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970704_burkina-niger",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970704_burkina-niger",
+        "title": "To the members of the Episcopal Conference of Burkina Faso and Niger on their \"ad Limina\" visit",
+        "type": "Speeches",
+        "date": "1997-07-04",
+        "excerpt": {
+          "en": "Dear Brothers in the Episcopate,",
+          "fr": "Je vous accueille avec grande joie dans cette maison, vous qui avez reçu du Seigneur la charge de guider son Église au Burkina-Faso et au Niger. Vous êtes venus à Rome accomplir votre visite auprès du tombeau des Apôtres et rencontrer le Successeur de Pierre afin de trouver lumière et soutien dans votre mission épiscopale « en vue de l'édification du Corps du Christ » [1], en communion avec l'Église universelle. Je remercie Mgr Jean-Baptiste Somé, Évêque de Diebougou et Président de votre Conférence épiscopale, pour ses aimables paroles et sa présentation clairvoyante de la vie de l'Église dans vos pays. À travers vous, j'adresse un salut affectueux à chacune de vos communautés diocésaines et à l'ensemble des habitants de votre région, dont j'ai pu apprécier à deux reprises l'hospitalité chaleureuse. Permettez-moi de nommer ici le cher Cardinal Paul Zoungrana, grande figure de l'Église au Burkina-Faso, ainsi que les nouveaux Évêques récemment élus, à qui je fais part de mes encouragements et de ma fervente prière. La création de nouveaux diocèses dans votre pays est un signe éloquent de la vitalité de l'Église parmi les peuples de cette région. En l'année où l'Église au Niger célèbre le cinquantième anniversaire de sa fondation, je suis heureux de m'associer à la joie et à l'espérance de Mgr Guy Romano, depuis peu nommé Évêque diocésain de Niamey, et de la communauté catholique de ce pays dont je connais le dynamisme évangélique.",
+          "it": "1. Vi accolgo con grande gioia in questa casa, voi che avete ricevuto dal Signore l'incarico di guidare la sua Chiesa in Burkina Faso e in Niger. Siete venuti a Roma per effettuare la vostra visita alle tombe degli Apostoli ed incontrare il Successore di Pietro, per trovare luce e sostegno nella vostra missione episcopale «al fine di edificare il corpo di Cristo» (Ef4, 12), in comunione con la Chiesa universale. Ringrazio Monsignor Jean-Baptiste Somé, Vescovo di Diébougou e Presidente della vostra Conferenza Episcopale, per le sue cordiali parole e la sua acuta presentazione della vita della Chiesa nei vostri Paesi. Attraverso di voi rivolgo un saluto affettuoso a ognuna delle vostre comunità diocesane e a tutti gli abitanti della vostra regione, la cui calorosa ospitalità ho potuto apprezzare in diverse occasioni. Permettetemi di ricordare qui il caro Cardinale Paul Zoungrana, grande figura della Chiesa in Burkina Faso, così come i nuovi Vescovi eletti di recente, ai quali rivolgo il mio incoraggiamento e la mia fervente preghiera. La creazione di nuove Diocesi nel vostro Paese è un segno eloquente della vitalità della Chiesa fra i popoli di questa regione. Nell'anno in cui la Chiesa in Niger celebra il cinquantesimo anniversario della sua fondazione, sono lieto di unirmi alla gioia e alla speranza di Monsignor Guy Romano, nominato da poco Vescovo diocesano di Niamey e della comunità cattolica di questo Paese di cui conosco il dinamismo evangelico.",
+          "pt": "1. Acolho-vos com grande alegria nesta casa, a vós que recebestes do Senhor o cargo de guiar a Sua Igreja no Burkina Fasso e no Níger. Viestes a Roma para efectuar a vossa visita ao túmulo dos Apóstolos e para vos encontrar com o Sucessor de Pedro, a fim de receberdes luz e apoio para a vossa missão episcopal, «para a edificação do Corpo de Cristo» (Ef4, 12), em comunhão com a Igreja universal. Agradeço a D. Jean- Baptiste Somé, Bispo de Diebugu e Presidente da vossa Conferência Episcopal, as amáveis palavras e a apresentação clarividente da vida da Igreja no vosso país. Através de vós, dirijo uma saudação afectuosa a cada uma das vossas comunidades diocesanas e ao conjunto dos habitantes da vossa região, cuja hospitalidade calorosa pude apreciar em duas ocasiões. Permiti-me citar aqui o Cardeal Zoungrana, grande figura da Igreja que está no Burkina Fasso, bem como os novos Bispos recentemente eleitos, a quem transmito o meu encorajamento e a minha ardente oração. A criação de novas Dioceses no vosso país é um sinal eloquente da vitalidade da Igreja no meio dos povos desta região. No ano em que a Igreja no Níger celebra o quinquagésimo aniversário da sua fundação, sinto-me feliz por me associar à alegria e à esperança de D. Guy Romano, há pouco nomeado Bispo de Niamey, e da comunidade católica desse país, cujo dinamismo evangélico me é conhecido.",
+          "es": "Queridos hermanos en el episcopado:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970704_burkina-niger",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970703_astrofisica",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970703_astrofisica",
+        "title": "To the participants in the Annual Summer School of Astrophysics sponsored by the Vatican Observatory",
+        "type": "Speeches",
+        "date": "1997-07-03",
+        "excerpt": {
+          "en": "Ladies and Gentlemen,Dear young friends,",
+          "pt": "Senhoras e SenhoresQueridos amigos jovens",
+          "es": "Señoras y señores;queridos jóvenes amigos:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970703_astrofisica",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970629_chicago-denver",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970629_chicago-denver",
+        "title": "To the pilgrims from the Archdioceses of Chicago and Denver (U.S.A.)",
+        "type": "Speeches",
+        "date": "1997-06-30",
+        "excerpt": {
+          "en": "Dear Archbishops George and Chaput,Dear Brothers and Sisters in Christ,",
+          "pt": "Prezados Arcebispos George e ChaputQueridos Irmãos e Irmãs em Cristo"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970629_chicago-denver",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970628_pietro-paolo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970628_pietro-paolo",
+        "title": "To the members of the Association of Sts Peter and Paul",
+        "type": "Speeches",
+        "date": "1997-06-28",
+        "excerpt": {
+          "en": "1. I am pleased to welcome you for the 25th anniversary of the foundation of the “Association of Sts Peter and Paul”, an association desired by my venerable Predecessor Paul VI. I extend my greeting to each one of you with the words of the Apostle Peter: “To those who have obtained a faith of equal standing with ours in the righteousness of our God and Saviour Jesus Christ: grace and peace” (2 Pt 1:1-2).",
+          "it": "1. Sono lieto di accogliervi, in occasione del venticinquesimo anniversario di istituzione dell'\"Associazione Santi Pietro e Paolo\", voluta dal mio venerato Predecessore Paolo VI. A ciascuno rivolgo il mio saluto con le parole dell'apostolo Pietro: \"A coloro che hanno ricevuto in sorte con noi la stessa preziosa fede per la giustizia del nostro Dio e salvatore Gesù Cristo: grazia e pace\" (2 Pt1, 2s).",
+          "pt": "1. Estou feliz em vos acolher, por ocasião do 25º aniversário de instituição da «Associação dos Santos Pedro e Paulo », desejada pelo meu Predecessor Paulo VI. A cada um dirijo a minha saudação com as palavras do Apóstolo Pedro: «Aos que receberam, pela justiça do nosso Deus e Salvador Jesus Cristo, uma fé preciosa como a nossa: graça e paz» (cf. 2Pd1, 1-2).",
+          "es": "1. Me alegra acogeros con ocasión del 25 aniversario de la fundación de la asociación «San Pedro y San Pablo», querida por mi venerado predecesor Pablo VI. A cada uno de vosotros os dirijo mi saludo con las palabras del apóstol Pedro: «A los que por la justicia de nuestro Dios y Salvador Jesucristo les ha cabido en suerte una fe tan preciosa como la nuestra, a vosotros, gracia y paz» (2 P1, 1-2)."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970628_pietro-paolo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970628_silvestrini",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970628_silvestrini",
+        "title": "Letter to Cardinal Achille Silvestrini on the occasion of the meeting of the Eastern Catholic Churches in Europe",
+        "type": "Speeches",
+        "date": "1997-06-28",
+        "excerpt": {
+          "en": "To Cardinal Achille SilvestriniPrefect of the Congregation for the Oriental Churches",
+          "it": "Al Signor CardinaleACHILLE SILVESTRINIPrefetto della Congregazione per le Chiese Orientali",
+          "pt": "Senhor Cardeal ACHILLE SILVESTRINIPrefeito da Congregação para as Igrejas Orientais",
+          "es": "Señor cardenalACHILLE SILVESTRINIPrefecto de la Congregación para las Iglesias orientales"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970628_silvestrini",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970628_pentecostal",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970628_pentecostal",
+        "title": "To the members of the Joint International Commission for Catholic–Pentecostal Dialogue",
+        "type": "Speeches",
+        "date": "1997-06-28",
+        "excerpt": {
+          "en": "It is a joy for me to meet the Catholic-Pentecostal Commission as you celebrate twenty-five years of international ecumenical dialogue. This is an achievement for which we must give heartfelt thanks to God.",
+          "pt": "É uma alegria para mim encontrar-me com aComissão católico-pentecostal, no momento em que celebrais vinte e cinco anos de diálogo ecuménico internacional. Trata-se de uma conquista pela qual devemos dar graças a Deus.",
+          "es": "Me alegra encontrarme con la Comisión católico-pentecostal, con ocasión del 25 aniversario del diálogo ecuménico internacional. Se trata de un logro del que debemos dar sinceramente gracias a Dios."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970628_pentecostal",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970627_herzegovina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970627_herzegovina",
+        "title": "To a group of Faithful of the Diocese of Mostar-Duvno (Bosnia and Herzegovina)",
+        "type": "Speeches",
+        "date": "1997-06-27",
+        "excerpt": {
+          "it": "Venerato Fratello nell'Episcopato,cari Fratelli e Sorelle!",
+          "pt": "Venerado Irmão no Episcopado,caros Irmãos e Irmãs!",
+          "es": "Venerado hermano en el episcopado;queridos hermanos y hermanas:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970627_herzegovina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970627_suore-immacolata",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970627_suore-immacolata",
+        "title": "To the Armenian Sisters of the Immaculate Conception",
+        "type": "Speeches",
+        "date": "1997-06-27",
+        "excerpt": {
+          "en": "Reverend Mother Superior,Dear Sisters of the Congregation of the Armenian Sisters of the Immaculate Conception,",
+          "fr": "Révérende Mère Supérieure,Chères Sœurs de la Congrégation des Sœurs arméniennesde l'Immaculée Conception,",
+          "it": "Reverenda Madre Superiora,Care Sorelle della Congregazione delle Suore dell'Immacolata Concezione,",
+          "pt": "Reverenda Madre SuperioraQueridas Irmãs da Congregaçãoda Imaculada Conceição",
+          "es": "Reverenda madre superiora;queridas religiosas de la congregaciónde Hermanas armenias de la Inmaculada Concepción:"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970627_suore-immacolata",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970626_ambassador-equador",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970626_ambassador-equador",
+        "title": "To the new Ambassador of Ecuador to the Holy See",
+        "type": "Speeches",
+        "date": "1997-06-26",
+        "excerpt": {
+          "en": "1. I am pleased to receive the Letters accrediting Your Excellency as Ambassador Extraordinary and Plenipotentiary of the Republic of Ecuador to the Holy See on this occasion which also gives me the opportunity to offer you my most cordial welcome.",
+          "pt": "1. É-me grato receber as Cartas que acreditam Vossa Excelência como Embaixador Extraordinário e Plenipotenciário da República do Equador junto da Santa Sé, neste acto que me oferece também a possibilidade de lhe dar as minhas cordiais boas-vindas.",
+          "es": "1.Me es grato recibir las cartas que acreditan a vuestra excelencia como embajador extraordinario y plenipotenciario de la República del Ecuador ante la Santa Sede, en este acto que me ofrece también la oportunidad de darle mi más cordial bienvenida."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970626_ambassador-equador",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970624_nicolini",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970624_nicolini",
+        "title": "Message to Giulio Nicolini, Bishop of Cremona to mark the 8th Centenary of the death of St Homobonus",
+        "type": "Speeches",
+        "date": "1997-06-24",
+        "excerpt": {
+          "en": "To My Venerable Brother Giulio NicoliniBishop of Cremona",
+          "it": "Al Venerato FratelloGiulio NicoliniVescovo di Cremona",
+          "pt": "Ao Venerado Irmão GIULIO NICOLINIBispo de Cremona",
+          "es": "Al venerado hermano GIULIO NICOLINIObispo de Cremona (Italia)"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970624_nicolini",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19970624_xuriach",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19970624_xuriach",
+        "title": "Letter to the Superior General of the Piarist Fathers",
+        "type": "Speeches",
+        "date": "1997-06-24",
+        "excerpt": {
+          "en": "To the Very Reverend Father José Maria Balcells XuriachSuperior General of the Piarist Fathers",
+          "it": "Al Reverendissimo PadreJOSE' MARIA BALCELLS XURIACHPreposito Generale dei Padri Scolopi",
+          "pt": "Rev.do Padre JOSÉ MARIA B. XURIACHPrepósito-Geral dos Padres das Escolas Pias",
+          "es": "Al reverendo padreJosé María BALCELLS XURIACHprepósito general de los padres escolapios"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19970624_xuriach",
+        "original_type": "speeches"
+      }
+    }
+  ]
+}

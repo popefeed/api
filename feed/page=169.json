@@ -1,0 +1,1360 @@
+{
+  "meta": {
+    "page": 169,
+    "per_page": 50,
+    "total_pages": 349,
+    "total_posts": 17444,
+    "has_next": true,
+    "has_prev": true,
+    "next_page": 170,
+    "prev_page": 168
+  },
+  "posts": [
+    {
+      "id": "hf_jp-ii_let_19841205_cardinale-palazzini",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841205_cardinale-palazzini",
+        "title": "Letter to Cardinal Pietro Palazzini, Prefect of the Sacred Congregation for the Causes of Saints, on occasion of the 50th anniversary of priesthood",
+        "type": "Letters",
+        "date": "1984-11-21",
+        "excerpt": {
+          "la": "Venerabili Fratri Nostro Petro S.R.E. Cardinali PalazziniSacrae Congregationis pro Causis Sanctorum Praefecto"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841205_cardinale-palazzini",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841120_parlamentari-usa",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841120_parlamentari-usa",
+        "title": "To members of the Committee on Ways and Means of the House of Representatives of the United States of America",
+        "type": "Speeches",
+        "date": "1984-11-20",
+        "excerpt": {
+          "en": "Ladies and Gentlemen, dear Friends,",
+          "it": "Signore e signori, cari amici."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841120_parlamentari-usa",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841119_ambasciatore-kenya",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841119_ambasciatore-kenya",
+        "title": "To the Ambassador of the Republic of Kenya to the Holy See",
+        "type": "Speeches",
+        "date": "1984-11-19",
+        "excerpt": {
+          "en": "It is my pleasure to greet you today as the Ambassador Extraordinary and Plenipotentiary of the Republic of Kenya to the Holy See. I deeply appreciate the sentiments which you have just expressed and I thank you for the cordial greetings you have conveyed on behalf of your President, His Excellency Daniel Toroitich arap Moi, as well as those of the Government and the people of Kenya. I would ask you in turn to give them the assurance of my own cordial good wishes.",
+          "fr": "Discurso al Embajador de KENIA,Excmo. Sr. Don Ben Edward MWANGI*",
+          "es": "Me complazco en recibirle hoy en su calidad de Embajador Extraordinario y Plenipotenciario de la Republica de Kenia ante la Santa Sede. Tengo en gran aprecio los sentimientos que usted acaba de manifestar y le doy las gracias por el saludo cordial que me ha transmitido en nombre de su Presidente, el Excmo. Sr. Don Daniel Toroitich Arap Moi, y también del Gobierno y pueblo de Kenia. Le ruego les exprese asimismo mis cordiales buenos deseos."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841119_ambasciatore-kenya",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841119_pont-cons-laici",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841119_pont-cons-laici",
+        "title": "To members of the Pontifical Council for the Laity",
+        "type": "Speeches",
+        "date": "1984-11-19",
+        "excerpt": {
+          "en": "Chers Frères et Soeurs dans le Christ,",
+          "fr": "Chers Frères et Soeurs dans le Christ,",
+          "it": "Cari fratelli e sorelle in Cristo."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841119_pont-cons-laici",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841117_plenaria-cor-unum",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841117_plenaria-cor-unum",
+        "title": "To participants in the Plenary Assembly of the Pontifical Council Cor Unum",
+        "type": "Speeches",
+        "date": "1984-11-17",
+        "excerpt": {
+          "fr": "Monsieur le Cardinal,Chers Frères dans l’épiscopat,Chers Frères et Sœurs,",
+          "it": "Signor cardinale,cari fratelli nell’episcopato,cari fratelli e sorelle."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841117_plenaria-cor-unum",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841116_unione-cristiani",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841116_unione-cristiani",
+        "title": "To members, consultors and staff of the Secretariat for Promoting Christian Unity",
+        "type": "Speeches",
+        "date": "1984-11-16",
+        "excerpt": {
+          "en": "Dear Brothers and Sisters in Christ,",
+          "fr": "Chers frères et sœurs dans le Christ,",
+          "it": "Cari fratelli e sorelle in Cristo."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841116_unione-cristiani",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841115_paraguay-ad-limina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841115_paraguay-ad-limina",
+        "title": "To Bishops of Paraguay on their ad Limina visit",
+        "type": "Speeches",
+        "date": "1984-11-15",
+        "excerpt": {
+          "it": "1. È con vera gioia che vi ricevo oggi, vescovi del Paraguay, venuti a Roma per compiere la vostra visita “ad limina apostolorum”. Vi conduce qui il vostro senso ecclesiale, la vostra fede e quella del vostro popolo che, agli inizi dell’evangelizzazione del continente americano, diede al mondo l’esempio ammirabile delle “reducciones” che resero famoso il nome della vostra terra. Vi spinge anche la vostra coscienza di pastori zelanti per il maggior bene del vostro popolo e dediti a procurarlo in comunione piena con il successore di Pietro, che oggi vi dice con affetto: siate i benvenuti a questo incontro.",
+          "es": "Queridos Hermanos en el episcopado:"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841115_paraguay-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841112_caritas-internationalis",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841112_caritas-internationalis",
+        "title": "To members of the executive Committee of Caritas Internationalis",
+        "type": "Speeches",
+        "date": "1984-11-12",
+        "excerpt": {
+          "fr": "Monsieur le Cardinal,Chers Frères et Sœurs,",
+          "it": "Signor cardinale,cari fratelli e sorelle."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841112_caritas-internationalis",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19841101_cardinale-caprio",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841101_cardinale-caprio",
+        "title": "Letter to Cardinal Giuseppe Caprio",
+        "type": "Letters",
+        "date": "1984-11-01",
+        "excerpt": {
+          "it": "Ho appreso con vivo compiacimento che presso l’ospedale generale regionale Miulli in Acquaviva delle Fonti (Bari) si terrà prossimamente un simposio internazionale sul tema: “La malattia di Hansen oggi”, promosso dal benemerito nosocomio in collaborazione con l’Università di studi di Bari."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841101_cardinale-caprio",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841029_parlamentari-ueo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841029_parlamentari-ueo",
+        "title": "To a group of European Parliamentary members",
+        "type": "Speeches",
+        "date": "1984-10-29",
+        "excerpt": {
+          "en": "Ladies, Gentlemen,In the course of the brief extraordinary session of your Assembly which you are holding in Rome, you have desired this meeting with the Pope. I appreciate this trusting gesture which allows me to greet the parliamentarians who belong to the seven countries of the WESTERN EUROPEAN UNION, and to express to them my esteem and my encouragement for their important task aimed at strengthening the ties and consolidating the peace in this part of Europe.1. This Union, a continuation of the Organization of the Treaty of Brussels, took its present form on 23 October 1954. I can understand your desire and your satisfaction in marking today its thirtieth anniversary. During this time, thank God, your countries have not been confronted with war, and this peace corresponds to one of your objectives. But tensions have not been lacking in the world that surrounds us, in Europe itself, and this cannot leave you indifferent, either with respect to the others or with respect to yourselves, for they affect the public opinion of your countries and undermine any true peace. Vicissitudes linked to social, economic and political problems have likewise touched your compatriots, from within, and your Union, from the very beginning, proposed also to contribute to facing the repercussions of these problems.2. To be sure, other very well structured European or intercon­tinental institutions, to which more­over your countries belong, but which have been enlarged to include other partners, are likewise labouring to supply adequate solutions on the level of security, social rights, cultural exchanges. But - more perhaps for countries like your own, very marked by their distinctive his­tory and by their rich patrimony - experience shows that unity progresses with difficulty in trying to achieve at once effectiveness and respect for the legitimate rights of each. Maturity in this domain is slow; the implementation of collaboration runs up against many obstacles and in practice must go forward with caution. This is why a solidarity that has deep roots within a limited group can favour a more direct participation of those concerned, it can be expedient and beneficial to the extent that this group remains attentive to the problems of others, open to successively enlarged solidarities, and having in view the realistic conditions for the reinforcing of justice, of liberty and of peace in the world. in this sense, I express my sincere desire that you realize together that which corresponds truly to the common good of your countries, which in turn will serve the interests of Europe and of the world community.3. Having underlined this service to man, to men without exception, I am sure that you understand that it is not within the competence of the Holy See to enter into the technical, military and political debates that constitute the object of your meeting. But, on another plane, the promotion of a community structure and, I dare say, its defence, depend also on moral and spiritual values, and there, the Church feels very much concerned. We have a certain idea of civilization, which, though it may take concrete form in diverse cultures within Europe as a whole, draws its strength, neverthe­less, from imperatives common to all: respect for the liberty and the fundamental rights of man, for his life, his conscience and his spiritual needs, for the vocation of the family, for an authentic democratic participation in. the affairs of the city and of the nation, and, inseparable to this, the search for justice for all, for the common good of all, concern for the lot of the poor, the rejection of violence, the struggle against individual and col­lective egoism, the good use of liberty, education in the profound meaning of life, in short, the service of that human dignity which God himself guarantees.4. Despite limitations and failures due to human weaknesses, Christianity has given the peoples of -Europe a sense of these values. It has set their foundations firm; it has formed generations in this way; it would like to, and it can, even today, accomplish this service. The civilization to which the European countries are justly attached will be strong, it will be able to defend itself from within, if it keeps its soul, if it takes every measure to strengthen convictions and to educate in the direction of the imperatives which I have mentioned. This is a service in which the Church, in which Christians take part with all their might, but which concerns also all men of good will all those who wish to promote the union of Europe and to allow it to make its contribution to the progress of peaceful international relation ships and to the development of the countries that count on the example and the support of Europe.I thank you for your visit. I pray that God inspire you, assist you, in the patient work you perform to strengthen the bonds among your countries. I implore his blessing on your work, on yourselves and, your families, and on your fatherlands.",
+          "it": "Nel corso della breve sessione straordinaria della vostra assemblea che si sta svolgendo a Roma, voi avete desiderato questo incontro con il Papa. Apprezzo questo segno di fiducia che mi permette di salutare i parlamentari che appartengono ai sette Paesi dell’Unione dell’Europa occidentale e di esprimere loro la mia stima e i miei incoraggiamenti per il loro importante compito, volto a rafforzare i legami e a consolidare la pace in questa parte dell’Europa.",
+          "es": "En el curso de la breve sesión extraordinaria de vuestra asamblea, que estáis celebrando en Roma, habéis deseado tener un encuentro con el Papa. Aprecio esta confiada iniciativa, que me permite saludar a los parlamentarios pertenecientes a los siete países de la Unión de Europa Occidental, manifestarles mi estima y comunicarles mi apoyo en su importante tarea orientada a reforzar los vínculos y a consolidar la paz en esta parte de Europa."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841029_parlamentari-ueo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841026_antille-ad-limina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841026_antille-ad-limina",
+        "title": "To Bishops of the Antilles on their ad Limina visit",
+        "type": "Speeches",
+        "date": "1984-10-27",
+        "excerpt": {
+          "en": "Dear Brothers in the Episcopate,",
+          "it": "1. In voi e attraverso di voi saluto tutti coloro che compongono la Chiesanella vasta area dei Caraibi, dove siete chiamati da Dio ad esercitare il ministero pastorale: “Grazia e pace da Dio Padre e da Cristo Gesù, nostro salvatore” (Tt1, 4)."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841026_antille-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841027_commemorazione-sacrosanctum-concilium",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841027_commemorazione-sacrosanctum-concilium",
+        "title": "Address for the Commemoration of the Conciliar Constitution Sacrosanctum Concilium",
+        "type": "Speeches",
+        "date": "1984-10-27",
+        "excerpt": {
+          "it": "Signori cardinali,venerati fratelli nell’episcopato e nel sacerdozio!"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841027_commemorazione-sacrosanctum-concilium",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19841026_cardinale-aramburu",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841026_cardinale-aramburu",
+        "title": "Inaugural message to Cardinal Juan Carlos Aramburu on occasion of the 50th anniversary of priesthood",
+        "type": "Letters",
+        "date": "1984-10-26",
+        "excerpt": {
+          "la": "Probe conscii Nobis quanta aestimatione observantiaque percoralis tu, Venerabilis Frater Noster, non solum a Fratribus Argentinae Episcopis verum etiam ad omni Conferentia Episcoporum Americae Latinae, cuius fuisti ab initio semper fautor et actor, perlibenter Nos hodie admiscemus gratulabundos sensus Nostros atque ipsas gratulantes hasce voces tot aliis signis et testimoniis multorum in te benevolentiae, sed praesertim fraterni gaudii, ob appropinquantem feliciter vitae tuae honorifìcum certe laetificumque simul eventum: sacerdotii tui quinquagesimum anniversarium diem, duodetricesimum mensis Octobris."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841026_cardinale-aramburu",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19841026_cardinale-lekai",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841026_cardinale-lekai",
+        "title": "Inaugural message to Cardinal László Lékai on occasion of the 50th anniversary of priesthood",
+        "type": "Letters",
+        "date": "1984-10-26",
+        "excerpt": {
+          "la": "Proximo mense Octobri, beatissimae Virginis Mariae dicato Rosario, iam post aestivos calores revirescente natura, memoriam quinquagesimam suscepti sacerdotii celebrabis. Iamque mente fingimus non solum qua pietate tu dulcem sanctamque laetitiam praecipias, quem dies illa tanta induit dignitate, sed etiam quanto gaudio sacerdotes populusque tuus exsultent, de hac tua sollemnitate quasi de propria felices. Quin et Nos cum illis Venerabilis Frater Noster, praesentem habe."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841026_cardinale-lekai",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841025_conf-episc-italiana",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841025_conf-episc-italiana",
+        "title": "To participants in the 25th Extraordinary Assembly of the Italian Episcopal Conference",
+        "type": "Speeches",
+        "date": "1984-10-25",
+        "excerpt": {
+          "it": "Signori cardinali e voi tutti, venerabili fratelli della Conferenza episcopale italiana."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841025_conf-episc-italiana",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841022_ecuador-ad-limina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841022_ecuador-ad-limina",
+        "title": "To Bishops of Ecuador on their ad Limina visit",
+        "type": "Speeches",
+        "date": "1984-10-22",
+        "excerpt": {
+          "it": "Signor cardinale, venerabili fratelli nell’episcopato.",
+          "es": "Señor Cardenal,Venerables Hermanos en el episcopado:"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841022_ecuador-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841020_funzionari-sicurezza-vienna",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841020_funzionari-sicurezza-vienna",
+        "title": "To members of the forces of public security of Vienna",
+        "type": "Speeches",
+        "date": "1984-10-20",
+        "excerpt": {
+          "de": "Sehr geehrte Damen und Herren!",
+          "it": "Illustrissimi signore e signori, sono molto lieto di rivolgervi il benvenuto in questo breve incontro in Vaticano. Voi risvegliate in me graditi ricordi della mia visita pastorale dell’anno scorso nella vostra patria, l’Austria. Anche voi avete potuto partecipare da vicino all’imponente avvenimento di quei giorni, e avete persino avuto una parte determinante nel suo ordinato svolgimento."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841020_funzionari-sicurezza-vienna",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841020_guinea-ad-limina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841020_guinea-ad-limina",
+        "title": "Message to Bishops of Guinea on their ad Limina visit",
+        "type": "Speeches",
+        "date": "1984-10-20",
+        "excerpt": {
+          "fr": "A Monseigneur Robert SarahArchevêque de Conakry,Administrateur Apostolique de la Préfecture de Kankanet à Monseigneur Philippe KouroumaÉvêque de N'Zérékoré"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841020_guinea-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19841020_vescovi-guinea",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841020_vescovi-guinea",
+        "title": "Message to Monsignor Robert Sarah and to Monsignor Philippe Kourouma",
+        "type": "Letters",
+        "date": "1984-10-20",
+        "excerpt": {
+          "fr": "A Mgr Robert SarahArchevêque de Conakry,Administrateur Apostolique de la Préfecture de Kankanet à Mgr Philippe KouroumaEvêque de N’Zérékoré",
+          "it": "A monsignor Robert Sarah,arcivescovo di Conakry,amministratore apostolico della prefettura di Kankane a monsignor Philippe Kourouma,vescovo di N’Zérékoré."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841020_vescovi-guinea",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841020_plenaria-congregazione-clero",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841020_plenaria-congregazione-clero",
+        "title": "To participants in the Plenum of the Sacred Congregation for the Clergy",
+        "type": "Speeches",
+        "date": "1984-10-20",
+        "excerpt": {
+          "it": "Signori cardinali, venerati confratelli nell’episcopato e voi tutti officiali della Sacra congregazione per il clero!"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841020_plenaria-congregazione-clero",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841020_ambasciatore-ecuador",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841020_ambasciatore-ecuador",
+        "title": "To the new Ambassador of the Republic of Ecuador to the Holy See",
+        "type": "Speeches",
+        "date": "1984-10-20",
+        "excerpt": {
+          "fr": "Discours à l’Ambassadeur d’EQUATEUR,S.E.M. Francisco Alfredo SALAZAR ALVARADO*",
+          "es": "Agradezco las amables palabras que ha tenido a bien dirigirme en este acto de presentación de las Cartas Credenciales que le acreditan como Embajador Extraordinario y Plenipotenciario de la República del Ecuador."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841020_ambasciatore-ecuador",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841019_ambasciatore-egitto",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841019_ambasciatore-egitto",
+        "title": "To the new Ambassador of the Arab Republic of Egypt to the Holy See",
+        "type": "Speeches",
+        "date": "1984-10-19",
+        "excerpt": {
+          "en": "it is a pleasure for me to accept the Letters of Credence accrediting Your Excellency as Ambassador Extraordinary and Plenipotentiary of the Arab Republic of Egypt. I welcome you and thank you for the greetings that you have conveyed from your President, His Excellency Mohamed Hosni Mubarak. In turn I would ask you to reciprocate with the assurance of my own cordial good wishes.",
+          "fr": "Discours à l’Ambassadeur d’EGYPTE,S. E M. Ahmad Ibrahim ADEL*",
+          "es": "Me agrada poder recibir las Cartas Credenciales que acreditan a Vuestra Excelencia como Embajador Extraordinario y Plenipotenciario de la Republica Árabe de Egipto. Os doy la bienvenida y os agradezco los saludos que me habéis dirigido en nombre de vuestro Presidente, Su Excelencia Mohamed Hosni Mubarak. Por mi parte, os pediría un comunicado de reciprocidad, asegurándole mis más cordiales y buenos deseos."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841019_ambasciatore-egitto",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841019_cileni-ad-limina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841019_cileni-ad-limina",
+        "title": "To Chilean Bishops on their ad Limina Apostolorum visit",
+        "type": "Speeches",
+        "date": "1984-10-19",
+        "excerpt": {
+          "it": "1. Nel ricevere oggi il primo gruppo di vescovi del Cile in visita “ad limina apostolorum” penso a quegli incontri tra il Signore e i suoi discepoli, i quali, dopo una giornata di lavoro, tornavano ad unirsi a lui. Da una parte essi raccontavano a Gesù ciò che avevano fatto e insegnato, dall’altra il Signore li accoglieva con affetto e li confortava, invitandoli al silenzio del riposo e della preghiera (Lc9, 10).",
+          "es": "Queridos Hermanos en el episcopado:"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841019_cileni-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841018_ambasciatore-uruguay",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841018_ambasciatore-uruguay",
+        "title": "To the new Ambassador of Uruguay to the Holy See",
+        "type": "Speeches",
+        "date": "1984-10-18",
+        "excerpt": {
+          "fr": "Monsieur l’Ambassadeur,1. Je vous adresse mes plus cordiaux souhaits de bienvenue, aujourd'hui ou vous venez me présenter les Lettres qui vous accréditent comme Ambassadeur Extraordinaire et Plénipotentiaire de la République Orientale de l'Uruguay près le Saint-Siège.",
+          "es": "reciba mi más cordial bienvenida en este día en que presenta las Cartas Credenciales que la acreditan como Embajadora Extraordinaria y Plenipotenciaria de la República Oriental del Uruguay ante la Santa Sede."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841018_ambasciatore-uruguay",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841017_magistrati-spagnoli",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841017_magistrati-spagnoli",
+        "title": "To a group of Magistrates, members of the Supreme Council of Magistracy of Spain",
+        "type": "Speeches",
+        "date": "1984-10-17",
+        "excerpt": {
+          "it": "È per me motivo di profonda soddisfazione poter ricevere questa mattina il vostro illustre gruppo, composto dagli insigni membri del Consiglio supremo della magistratura di Spagna.",
+          "es": "Es para mí motivo de profunda satisfacción poder recibir esta mañana a vuestro distinguido grupo, compuesto por los ilustres Miembros del Consejo Supremo de la Magistratura de España."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841017_magistrati-spagnoli",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19841016_comitati-unicef",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19841016_comitati-unicef",
+        "title": "Message to the National Committees of UNICEF",
+        "type": "Messages",
+        "date": "1984-10-16",
+        "excerpt": {
+          "en": "1. This is the first time in the history of UNICEF that representatives of all the National Committees have met together to reflect on their task and mission. I am particularly happy to greet each of you, because, whatever your personal background or country of origin, the principal inspiration which has brought you together in these days is that of a genuine concern and interest in abetter life and a better future for all the children of our world.",
+          "fr": "1. C'est la première fois dans l'histoire de l'UNICEF que des représentants de tous les Comités nationaux se rencontrent pour réfléchir ensemble sur leur tâche et leur mission. Je suis particulièrement heureux de saluer chacun d'entre vous parce que, quelle que soit la diversité de vos personnalités ou de vos pays d'origine, l'inspiration principale qui vous a réunis ces jours-ci est le souci authentique et l'intérêt que vous portez à une vie meilleure et un avenir meilleur pour tous les enfants de notre monde.Pour cette noble tâche, vous aurez toujours le soutien de l'Église catholique partout dans le monde. Il ne pourrait pas en être autrement avec une Église qui reçoit sa mission de Jésus-Christ qui s'est identifié lui-même avec les plus humbles quand il a dit: « Celui qui reçoit un enfant comme celui-ci en mon nom, c'est moi qu'il reçoit. » (Mt 18, 5.)Les Comités nationaux que vous représentez sont un signe de l'intérêt et de la sollicitude que beaucoup de nos contemporains, hommes et femmes ‑ et même beaucoup d'enfants - portent aux enfants les moins fortunés de ce monde. Un des aspects originaux de la structure de l'UNICEF est qu'elle reconnaît que la tâche de travailler avec succès pour le bien des enfants dans le monde entier ne peut pas être menée à bien par une agence centrale internationale, comme si celle-ci pouvait agir isolément, mais réclame la contribution et la participation d'un grand nombre de citoyens en de nombreux pays. C'est seulement de cette manière qu'il est possible de créer une prise de conscience des dimensions toujours plus grandes des questions et de créer ce réseau original de solidarité humaine qui est requis pour apporter des solutions intégrales a ces questions.2. A l'origine, l'UNICEF a été établi en tant que \"Fonds de secours\", mais bien que le mot « secours\" ait été enlevé du titre, le fait demeure que la situation de si nombreux enfants dans toutes les parties du monde est plus tragique que jamais. En effet, à côté de situations en quelques parties du monde où des enfants manquent des moyens physiques les plus élémentaires même pour seulement survivre, de nouvelles formes de souffrance apparaissent chez les enfants d'autres parties du monde à cause d'une crise culturelle et morale. En conséquence, des enfants manquent de cet amour désintéressé qu'ils ont le droit de recevoir de leurs parents et sans lequel ils ne parviendront jamais au bonheur et au développement personnel. Je pense, par exemple, à la souffrance causée par les effets de la rupture de tant de familles.3. Notre société en cette dernière partie du XXe siècle, se juge elle-même quand, malgré le progrès technologique et médical et le progrès des communications, chaque jour encore tant des membres les plus faibles de notre société souffrent et meurent parce qu'ils manquent des ressources simples et élémentaires que l'on pourrait, en fait, mettre à leur disposition. Et malgré le fait que, avec les moyens de communication moderne, personne ne puisse prétendre ignorer cela, beaucoup d'hommes et de femmes vivent encore et transmettent un style de vie qui repose sur un abus étroitement égoïste des biens de consommation, la possession exagérée et même le gaspillage des ressources de la terre.Si nous regardons ces questions en profondeur, nous voyons que la situation, qui fait que tant d'enfants sont privés des moyens élémentaires de survie, est liée à une vision de la vie fermée sur elle-même et qui empêche le don de soi et la solidarité. Une des grandes crises de conscience de la société contemporaine est le mépris du mystère et de la sacralité du don de la vie qui est trop facilement manipulée d'une manière qui ne respecte pas la vraie nature et la destinée de la personne humaine, ou qui oserait supprimer la vie elle-même aux moments où elle se trouve le plus sans défense.",
+          "it": "1. È questa la prima volta nella storia dell’Unicef che rappresentanti di tutti i Comitati nazionali si sono incontrati per riflettere insieme sul loro compito e sulla loro missione. Io sono particolarmente felice di salutare ciascuno di voi, perché, nonostante la diversità dei vostri ambienti e Paesi di provenienza, la principale ispirazione che vi ha spinto a riunirvi insieme in questi giorni è rappresentata da un autentico impegno e interesse perun futuro migliore e una vita migliore per tutti i bambini del nostro mondo.",
+          "es": "1. Esta es la primera vez, a lo largo de la historia del Unicef, que los representantes de todos los Comités nacionales se reúnen para reflexionar sobre su tarea y su misión. Siento una especial alegría por poder saludar a cada uno de ustedes, pues, sea cual fuere su historia personal o su país de origen, la principal inspiración que les ha reunido en estos días es la de una genuina preocupación e interés para quetodos los niños de nuestro mundo tengan una vida más digna y un futuro mejor."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19841016_comitati-unicef",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841014_collegio-nord-americano",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841014_collegio-nord-americano",
+        "title": "To alumni and students of the Pontifical North American College",
+        "type": "Speeches",
+        "date": "1984-10-15",
+        "excerpt": {
+          "en": "1. I  know that the occasion of our meeting today is one that has great meaning for all of you, the alumni and students of the Pontifical North American College. It is the 125th Anniversary of the founding of your College! At the same time, the event that you are celebrating in Rome hasprofound significance for the whole Church in the United States; it has a deep bearing on a long period in the history of your country.",
+          "it": "1. So che l’occasione del nostro incontro di oggi ha grande importanza per tutti voi, alunni e studenti del Pontificio collegio nord-americano. È il 125° anniversario della fondazione del vostro collegio! Nello stesso tempo, l’avvenimento che state celebrando a Roma ha unprofondo significato per la Chiesa degli Stati Uniti; è in un profondo rapporto con un lungo periodo nella storia del vostro Paese."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841014_collegio-nord-americano",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841015_conf-episc-ialiana",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841015_conf-episc-ialiana",
+        "title": "To members of the Italian Episcopal Conference",
+        "type": "Speeches",
+        "date": "1984-10-15",
+        "excerpt": {
+          "it": "Signori Cardinali,e voi tutti, venerabili Fratelli della Conferenza episcopale Italiana,"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841015_conf-episc-ialiana",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841014_fedeli-coreani-francesi",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841014_fedeli-coreani-francesi",
+        "title": "To Korean and French faithful",
+        "type": "Speeches",
+        "date": "1984-10-14",
+        "excerpt": {
+          "it": "Carissimi fratelli e sorelle di Corea!"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841014_fedeli-coreani-francesi",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841012_clero-porto-rico",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841012_clero-porto-rico",
+        "title": "To the clergy of Puerto Rico",
+        "type": "Speeches",
+        "date": "1984-10-12",
+        "excerpt": {
+          "it": "Carissimi sacerdoti, religiosi, religiose e seminaristi.",
+          "es": "Universidad del Sagrado Corazón (Puerto Rico)Viernes 12 de octubre de 1984"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841012_clero-porto-rico",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841012_preghiera-america-latina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841012_preghiera-america-latina",
+        "title": "Prayer of preparation for the 5th centenary of evangelization of Latin America",
+        "type": "Speeches",
+        "date": "1984-10-12",
+        "excerpt": {
+          "it": "Maria santissima, Madre della nostra America,in virtù della predicazione del Vangeloi nostri popoli sanno di essere fratellie che tu sei l’Immacolata e piena di grazia.",
+          "es": "María Santísima, Madre de nuestra América,por la predicación del Evangelionuestros pueblos conocen que son hermanosy que Tú eres la Inmaculada y llena de gracia."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841012_preghiera-america-latina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841011_arrivo-santo-domingo",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841011_arrivo-santo-domingo",
+        "title": "Welcoming ceremony in Santo Domingo",
+        "type": "Speeches",
+        "date": "1984-10-11",
+        "excerpt": {
+          "it": "Signor presidente, venerabili fratelli nell’episcopato, autorità, cari fratelli e sorelle!"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841011_arrivo-santo-domingo",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19841010_familiari-missionari",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19841010_familiari-missionari",
+        "title": "To the families of the Spanish missionaries in Latin America",
+        "type": "Speeches",
+        "date": "1984-10-10",
+        "excerpt": {
+          "it": "Cari padri, madri e fratelli dei missionari e delle missionarie che lavorano nell’America Latina!",
+          "es": "Queridos padres, madres y hermanos de los misioneros y misionerasque trabajan en Hispanoamérica,:"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19841010_familiari-missionari",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19841004_cardinale-henriquez",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841004_cardinale-henriquez",
+        "title": "Letter to Cardinal Raúl Silva Henríquez",
+        "type": "Letters",
+        "date": "1984-10-04",
+        "excerpt": {
+          "la": "Proximum vitae tuae honorificum sane beatificumque eventum, ordinationis episcopalis tuae vicesimam quintam memoriam anniversariam, praeterire omnino nolumus quin fraternim hanc tibi salutationem ac fervidam simul gratulationem tradamus per litteras una cum iusta aestimatione eorum quae pro Christi amore Ecclesiaeque progressione effeceris tum uti Episcopus Vallis Paradisi tum plus viginti annos in munere Ordinarii Sancti Iacobi. Eodem autem tempore Dominum messis custodemque pastorum precamur ut dies tuos exhilaret ac praesertim, hic data optabili opportunitate, animum tuum confirmet et consoletur ex recordatione operum tuorum in vinea Eius absolutorum necnon meritorum quae tibi hoc per temporis actuosi spatium cumulavisti. Gratulantis denique mentis Nostrae testem de commemoratione episcopatus tui primordiorum conciliatricemque simul praemiorum copiosorum a miserenti Redemptore transmittimus libentissime tibi Apostolicam Nostram Benedictionem."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841004_cardinale-henriquez",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19841001_cardinale-basil-hume",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19841001_cardinale-basil-hume",
+        "title": "Letter to Cardinal Basil Hume",
+        "type": "Letters",
+        "date": "1984-10-01",
+        "excerpt": {
+          "en": "The Council of Episcopal Conferences of Europe is having a third ecumenical encounter with the Council of European Churches at Riva del Garda on 4-7 October and will hold a concluding ceremony of ecumenical prayer in the historic cathedral of Trent. I wish to take note of the occasion and to greet you, and all who take part, in the grace and peace which is from God our Father and the Lord Jesus Christ (Phil. 1, 2), giving thanks for the spirit of love and unity which brings you together.",
+          "it": "Il Consiglio delle conferenze episcopali d’Europa avrà un terzo incontro ecumenico con il Consiglio delle Chiese europee, a Riva del Garda, dal 4 al 7 ottobre, e terrà una cerimonia conclusiva di preghiera ecumenica nella storica cattedrale di Trento. Desidero sottolineare quest’occasione e salutare lei, e tutti i partecipanti, nella grazia e nella pace che vengono da Dio, nostro Padre, e dal Signore Gesù Cristo (cf.Fil1, 2), rendendo grazie per lo Spirito d’amore e di unità che vi raduna."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19841001_cardinale-basil-hume",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840930_comunita-ceka",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840930_comunita-ceka",
+        "title": "To the Czech community of the Pontifical Nepomuceno College",
+        "type": "Speeches",
+        "date": "1984-09-30",
+        "excerpt": {
+          "cs": "Drazí bratři a synové v Kristu,",
+          "it": "1. Mi avete invitato alla celebrazione del centenario del Collegio boemo a Roma dal quale è derivato l’attuale Pontificio collegio Nepomuceno. Ho accolto il vostro invito con gioia, perché il giubileo ricorda i vincoli che legano la nazione ceca con la Cattedra di san Pietro. Questo legame esiste ormai dai tempi dei santi Cirillo e Metodio le cui statue si ergono nell’atrio di questo edificio. Essi condussero a Roma i loro primi discepoli per farli ordinare in questa città diaconi e sacerdoti. Quanti pellegrini passarono dopo quei giorni sulle strade che uniscono la Boemia e la Moravia con la Città eterna, quanti fedeli devoti vennero, specie durante gli Anni Santi, per implorare presso le tombe degli apostoli il perdono dei loro peccati e la forza e la perseveranza nel bene."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840930_comunita-ceka",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840929_comunione-liberazione",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840929_comunione-liberazione",
+        "title": "To Communion and Liberation Movement on the 30th anniversary of its foundation",
+        "type": "Speeches",
+        "date": "1984-09-29",
+        "excerpt": {
+          "it": "Voglio prima di tutto ringraziare monsignor Giussani per le sue parole introduttive come anche tutti gli altri che hanno partecipato a questa introduzione.",
+          "es": "1. Expreso mi intensa alegría por este encuentro con vosotros, que habéis venido a Roma para festejar los 30 años de vida de vuestro Movimiento y para reflexionar juntamente con el Papa sobre vuestra historia de personas que viven en la Iglesia y están llamadas a colaborar, en intensa comunión, para llevarla al hombre, para dilatarla por el mundo."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840929_comunione-liberazione",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840928_novizi-cappuccini",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840928_novizi-cappuccini",
+        "title": "To masters of novices of the Order of Friars Minor Capuchin",
+        "type": "Speeches",
+        "date": "1984-09-28",
+        "excerpt": {
+          "it": "1. È con viva gioia che mi incontro con voi, all’antivigilia della festa del vostro Serafico padre san Francesco d’Assisi. Una gioia, che mi nasce nel cuore anche perché vedo l’impegno con il quale andate realizzando le raccomandazioni della Chiesa sulla formazione permanente."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840928_novizi-cappuccini",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840928_predecessori",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840928_predecessori",
+        "title": "Remarks before the celebration of Mass to commemorate the 6th anniversary of the death of his predecessors",
+        "type": "Speeches",
+        "date": "1984-09-28",
+        "excerpt": {
+          "it": "La sesta ricorrenza anniversaria dell’ingresso nell’eternità dei sommi pontefici Paolo VI e Giovanni Paolo I ci convoca a questa Eucaristica celebrazione di riconoscente suffragio e di filiale memoria."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840928_predecessori",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840927_benedettini-confederati",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840927_benedettini-confederati",
+        "title": "To members of the Benedictine Confederation",
+        "type": "Speeches",
+        "date": "1984-09-27",
+        "excerpt": {
+          "it": "1. Sono assai lieto di vedervi qui in quest’aula, di salutarvi nel Signore con tutta la mia affezione e di cogliere questa attesa occasione per consolidare il vostro animo nella sequela scrupolosa e ferma della Regola benedettina, nel rinnovamento dei criteri della vostra vita, nell’esame del significato delle vostre opere e istituzioni. So bene che partecipate al grande congresso della Confederazione benedettina presso il Cenobio di Sant’Anselmo sull’Aventino; so anche che, con tutto il vostro assenso e la vostra fervida approvazione, avete confermato per il prossimo quadriennio il reverendissimo abate Vittorio Dammertz nella carica di abate primate, al quale porgo le mie congratulazioni e insieme prometto preghiere per l’assolvimento più felice del suo compito e il più sereno governo della famiglia benedettina secondo le norme della Federazione. Siete dunque venuti qui questa mattina per poter “vedere Pietro” e forse anche ricevere da lui una parola fraterna, come ricordo del vostro congresso a Roma e di questo incontro con il Vicario di Cristo.",
+          "la": "Valde quidem placet mihi vos singulos hic coram conspicere hac in aula vosque maxima qua possum benevolentia in Domino consalutare atque optatam hanc accipere occasionem ut confirmem animos vestros in vitae Benedictinae propositis diligenter fortiterque prosequendis, in rationibus vitae vestrae renovandis, in significationibus operum et institutorum vestrorum penitus ponderandis. Scio probe participes vos esse maximi Congressus ipsius Confoederationis Benedictinae apud Coenobium Sancti Anselmi in Aventino; scio pariter summo vos consensu fervidoque plausu confirmavisse ad quadriennium Reverendissimum Abbatem Victorem Dammertz in Abbatis Primatis officio, cui meam simul gratulationem defero ac preces simul promitto ad prosperrimam muneris eius perfunctionem laetissimamque familiae Benedictinae gubernationem secundum Foederationis normas. Huc igitur hodie mane venistis ut “videre Petrum” possitis et fortasse etiam aliquam vocem fraternam ab eo recipere, veluti recordationem congressionis vestrae Romanae necnon salutationis huius apud Christi Vicarium."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840927_benedettini-confederati",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_let_19840926_cardinale-casaroli",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_let_19840926_cardinale-casaroli",
+        "title": "Letter to Cardinal Agostino Casaroli, Pontifical Legate in Buenos Aires",
+        "type": "Letters",
+        "date": "1984-09-26",
+        "excerpt": {
+          "it": "Al venerabile nostro fratello, cardinale Agostino Casaroli.Venerabile nostro fratello, salute e apostolica benedizione.",
+          "la": "Venerabili Fratri NostroAugustino S.R.E. Cardinali Casarolia Publicis Ecclesiae Negotiis"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_let_19840926_cardinale-casaroli",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840925_neocatecumenali",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840925_neocatecumenali",
+        "title": "To neocatechumenals",
+        "type": "Speeches",
+        "date": "1984-09-25",
+        "excerpt": {
+          "it": "Nei vostri racconti ho sentito lo spirito autentico dei discepoli di Cristo che si affidano totalmente al Signore. Voi siete itineranti ma è Gesù che fa il suo itinerario dentro di voi soprattutto e poi fa il suo itinerario insieme con voi verso gli altri. Che voi siete itineranti è un fatto secondario. La cosa principale è che lui è itinerante. Egli vuole essere itinerante. Egli vuole essere non soltanto presente nella Chiesa, ma anche itinerante nella Chiesa. La Chiesa è infatti itinerante, è una Chiesa in cammino; non è solamente una Chiesa già sistemata, organizzata, strutturata, ma una Chiesa in cammino verso le persone, verso le comunità, verso i popoli, verso i credenti, verso i non credenti; queste divisioni per Cristo esistono diversamente che per noi."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840925_neocatecumenali",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840923_ricordo-sbarco-alleati",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840923_ricordo-sbarco-alleati",
+        "title": "To Italian faithful of the Diocese of Albano",
+        "type": "Speeches",
+        "date": "1984-09-23",
+        "excerpt": {
+          "it": "Autorità religiose e civili, cari sacerdoti e fedeli della “nostra” diocesi di Albano."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840923_ricordo-sbarco-alleati",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840920_coordinatori-canada",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840920_coordinatori-canada",
+        "title": "To organizers of the visit to Canada",
+        "type": "Speeches",
+        "date": "1984-09-20",
+        "excerpt": {
+          "en": "En cette dernière étape de mon long périple pastoral au Canada, je rends grâce à Dieu pour tout ce qu’il m’a permis de voir et d’entendre, de l’est à l’ouest, dans des assemblées très diverses.",
+          "fr": "En cette dernière étape de mon long périple pastoral au Canada, je rends grâce à Dieu pour tout ce qu’il m’a permis de voir et d’entendre, de l’est à l’ouest, dans des assemblées très diverses.",
+          "it": "In quest’ultima tappa del mio lungo viaggio pastorale in Canada, rendo grazie a Dio per tutto ciò che mi ha permesso di vedere e di sentire, da Est ad Ovest, in assemblee così diverse."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840920_coordinatori-canada",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840920_conferenza-episcopale-canadese",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840920_conferenza-episcopale-canadese",
+        "title": "To the Episcopal Conference of Canada",
+        "type": "Speeches",
+        "date": "1984-09-20",
+        "excerpt": {
+          "en": "Dear Brothers in the Episcopate,",
+          "fr": "Dear Brothers in the Episcopate,",
+          "it": "1. Eccoci quasi al termine della mia visita pastorale. Voi avete desiderato questa visita e l’avete attivamente organizzata; avete preparato ad essa il vostro popolo cristiano. Nelle varie tappe del viaggio ho trovato non solo il vescovo locale, ma molti altri che desideravano raggiungerci, non potendo io andare nelle loro diocesi. A tutti loro sono profondamente grato."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840920_conferenza-episcopale-canadese",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840920_congedo-canada",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840920_congedo-canada",
+        "title": "Farewell ceremony from Canada",
+        "type": "Speeches",
+        "date": "1984-09-20",
+        "excerpt": {
+          "en": "Mesdames, Messieurs,Chers Frères et Sœurs,",
+          "fr": "Mesdames, Messieurs,Chers Frères et Sœurs,",
+          "it": "Signore e signori, cari fratelli e sorelle."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840920_congedo-canada",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840919_governo-corpo-diplomatico",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840919_governo-corpo-diplomatico",
+        "title": "To members of Government and Diplomatic Corps",
+        "type": "Speeches",
+        "date": "1984-09-19",
+        "excerpt": {
+          "en": "Madame le Gouverneur Général,Monsieur le Premier Ministre du Canada,Mesdames et Messieurs les membres des deux Chambres du Parlement et des Institutions judiciaires,Mesdames et Messieurs les membres du Corps Diplomatique,Mesdames et Messieurs,",
+          "fr": "Madame le Gouverneur Général,Monsieur le Premier Ministre du Canada,Mesdames et Messieurs les membres des deux Chambres du Parlement et des Institutions judiciaires,Mesdames et Messieurs les membres du Corps Diplomatique,Mesdames et Messieurs,",
+          "it": "Signora governatore generale,signor primo ministro del Canada,signore e signori membri delle due Camere del Parlamento,e delle istituzioni giuridiche,signore e signori membri del corpo diplomatico.",
+          "es": "Señora Gobernadora General,Señor Primer Ministro de Canadá,Señoras y Señores, miembros de la dos Cámaras del Parlamento y de las Instituciones Judiciales,Señoras y Señores, miembros del Cuerpo Diplomático,Señoras, Señores:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840919_governo-corpo-diplomatico",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_19840918_popolazioni-canada",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_19840918_popolazioni-canada",
+        "title": "Radio and television message to the indigenous peoples of Canada",
+        "type": "Messages",
+        "date": "1984-09-18",
+        "excerpt": {
+          "en": "Dear Brothers and Sisters in Christ Jesus,",
+          "it": "Cari fratelli e sorelle in Cristo Gesù,"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_19840918_popolazioni-canada",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840918_giovani-anziani",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840918_giovani-anziani",
+        "title": "To youth, elderly and handicapped people",
+        "type": "Speeches",
+        "date": "1984-09-18",
+        "excerpt": {
+          "en": "1. This evening we have come to celebrate life in Jesus Christ. In this stadium vibrant with music and dance, as a family comprised of young and old, disabled and strong, as friends united in Christ, we praise God for the gift of life. We join our hearts and voices to glorify the Creator of heaven and earth, the Lord and Giver of life. On my part I thank you for your warm welcome and for this outpouring of love expressed in song and gesture.",
+          "it": "1. Questa sera siamo venuti per celebrare la vita in Gesù Cristo. In questo stadio che risuona di musiche e danze, e come una famiglia composta di giovani e vecchi, sani e handicappati, come amici riuniti in Cristo, noi lodiamo Dio per il dono della vita. Uniamo i nostri cuori e le nostre voci per glorificare il Creatore del cielo e della terra, Dio, colui che dà la vita. Vi ringrazio per il vostro caldo benvenuto e per questa dimostrazione di affetto espressa nel canto e nei gesti."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840918_giovani-anziani",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19840918_popolazioni-canada",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19840918_popolazioni-canada",
+        "title": "Radio and Television Message to native peoples of Canada",
+        "type": "Speeches",
+        "date": "1984-09-18",
+        "excerpt": {
+          "en": "Dear Brothers and Sisters in Christ Jesus,",
+          "it": "Cari fratelli e sorelle in Cristo Gesù,"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19840918_popolazioni-canada",
+        "original_type": "speeches"
+      }
+    }
+  ]
+}

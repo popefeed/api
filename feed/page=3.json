@@ -2,8 +2,8 @@
   "meta": {
     "page": 3,
     "per_page": 50,
-    "total_pages": 37,
-    "total_posts": 1828,
+    "total_pages": 349,
+    "total_posts": 17444,
     "has_next": true,
     "has_prev": true,
     "next_page": 4,
@@ -11,7 +11,7 @@
   },
   "posts": [
     {
-      "id": "20241020-omelia-canonizzazione",
+      "id": "20250211-messaggio-fraternita-brasile",
       "pope": {
         "id": "francesco",
         "name": {
@@ -22,287 +22,26 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20241020-omelia-canonizzazione",
-        "title": "Holy Mass and Canonization",
-        "type": "Homilies",
-        "date": "2024-10-20",
+        "id": "20250211-messaggio-fraternita-brasile",
+        "title": "Message of His Holiness Pope Francis for the 2025 Fraternity Campaign of the Church in Brazil",
+        "type": "Messages",
+        "date": "2025-02-11",
         "excerpt": {
-          "ar": "الأخ مانويل رويز لوبيز ورفاقه الرّهبان الفرنسيسكان، والإخوة المسابكيين الموارنة (شهداء دمشق)",
-          "en": "Saint Peter's SquareXXIX Sunday in Ordinary Time, 20 October 2024",
-          "fr": "Place Saint-PierreXXIXedimanche du Temps ordinaire, 20 octobre 2024",
-          "de": "PetersplatzXXIX. Sonntag im Jahreskreis, 20. Oktober 2024",
-          "it": "Piazza San PietroXXIX Domenica del tempo Ordinario, 20 ottobre 2024",
-          "pl": "Plac Świętego PiotraXXIX Niedziela Zwykła, 20 października 2024 r.",
-          "pt": "Praça São PedroXXIX Domingo do Tempo Comum, 20 de outubro de 2024",
-          "es": "Plaza de San PedroXXIX domingo del tiempo ordinario, 20 de octubre de 2024"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20241020-omelia-canonizzazione",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20241011-omelia-veglia-ecumenica",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20241011-omelia-veglia-ecumenica",
-        "title": "Ecumenical Vigil",
-        "type": "Homilies",
-        "date": "2024-10-11",
-        "excerpt": {
-          "ar": "الجمعة 11 تشرين الأوّل/أكتوبر 2024",
-          "zh_cn": "2024 年 10 月 11 日，星期五",
-          "zh_tw": "2024 年 10 月 11 日，星期五",
-          "en": "Square of the Roman ProtomartyrsFriday, 11 October 2024",
-          "fr": "DEUXIÈME SESSION DE LA XVIe ASSEMBLÉE GÉNÉRALE ORDINAIRE DU SYNODE DES ÉVÊQUES",
-          "de": "Platz der ProtomärtyrerFreitag, 11. Oktober 2024",
-          "it": "Piazzale dei Protomartiri RomaniVenerdì, 11 ottobre 2024",
-          "pl": "Piazza dei Protomartiri Romani11 października 2024 r.",
-          "pt": "SEGUNDA SESSÃO DA 16ª ASSEMBLEIA GERAL ORDINÁRIA DO SÍNODO DOS BISPOS",
-          "es": "Plaza de los Protomártires RomanosViernes, 11 de octubre de 2024"
-        },
-        "language_count": 10
-      },
-      "metadata": {
-        "document_id": "20241011-omelia-veglia-ecumenica",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20241006-preghiera-pace",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20241006-preghiera-pace",
-        "title": "Recitation of the Holy Rosary for Peace",
-        "type": "Homilies",
-        "date": "2024-10-06",
-        "excerpt": {
-          "ar": "في صلاة المسبحة الورديّة المقدّسة",
-          "en": "Basilica of Saint Mary MajorSunday, 6 October 2024",
-          "fr": "Basilique papale Sainte-Marie-MajeureDimanche, 6 octobre 2024",
-          "de": "Basilika Santa Maria MaggioreSonntag, 6. Oktober 2024",
-          "it": "Basilica di Santa Maria MaggioreDomenica, 6 ottobre 2024",
-          "pl": "Papieska Bazylika Matki Bożej WiększejNiedziela, 6 października 2024 r.",
-          "pt": "Basílica Papal de Santa Maria MaiorDomingo, 6 de outubro de 2024",
-          "es": "Basílica de Santa María la MayorDomingo, 6 de octubre de 2024"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20241006-preghiera-pace",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20241005-omelia-gendarmeria",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20241005-omelia-gendarmeria",
-        "title": "Holy Mass for the Gendarmerie Corps of the Vatican City State",
-        "type": "Homilies",
-        "date": "2024-10-05",
-        "excerpt": {
-          "de": "Petersdom - Kathedra-AltarSamstag, 5. Oktober 2024",
-          "it": "Basilica Vaticana, Altare della CattedraSabato, 5 ottobre 2024"
-        },
-        "language_count": 2
-      },
-      "metadata": {
-        "document_id": "20241005-omelia-gendarmeria",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20241002-omelia-angeli-custodi",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20241002-omelia-angeli-custodi",
-        "title": "Opening of the Ordinary General Assembly of the Synod of Bishops. Feast of the Guardian Angels- Holy Mass",
-        "type": "Homilies",
-        "date": "2024-10-02",
-        "excerpt": {
-          "ar": "في افتتاح الجمعيّة العامّة العاديّة لسينودس الأساقفة",
-          "zh_cn": "护守天使纪念日，2024 年 10 月 2 日，星期三",
-          "zh_tw": "護守天使紀念日，2024 年 10 月 2 日，星期三",
-          "hr": "Trg svetog PetraSrijeda, 2. listopada 2024.",
-          "en": "Saint Peter's SquareWednesday, 2 October 2024",
-          "fr": "Place Saint-PierreMercredi 2 octobre 2024",
-          "de": "Heute begehen wir den liturgischen Gedenktag der heiligen Schutzengel und eröffnen damit wieder die Vollversammlung der Bischofssynode. Wenn wir auf das hören, wozu das Wort Gottes uns anregt, können wir drei Bilder als Ausgangspunkt für unsere Überlegungen nehmen: dieStimme, dieZufluchtund dasKind.",
-          "it": "Piazza San PietroMercoledì, 2 ottobre 2024",
-          "pl": "Plac Świętego PiotraŚroda, 2 października 2024 r.",
-          "pt": "Praça São PedroQuarta-feira, 2 de outubro de 2024"
-        },
-        "language_count": 11
-      },
-      "metadata": {
-        "document_id": "20241002-omelia-angeli-custodi",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20240912-singapore-messa",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20240912-singapore-messa",
-        "title": "Apostolic Journey to Singapore: Holy Mass in Singapore Sports Hub National Stadium",
-        "type": "Homilies",
-        "date": "2024-09-12",
-        "excerpt": {
-          "ar": "الزيارة الرّسوليّة إلى إندونيسيا، وبابوا غينيا الجديدة، وتيمور الشّرقيّة، وسنغافورة",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCISTO INDONESIA, PAPUA NEW GUINEA,TIMOR-LESTE ANDSINGAPORE(2-13 September 2024)",
-          "fr": "VOYAGE APOSTOLIQUE DU PAPE FRANÇOISEN INDONÉSIE, PAPOUASIE-NOUVELLE-GUINÉE,TIMOR ORIENTAL ETSINGAPOUR(2-13 septembre 2024)",
-          "de": "APOSTOLISCHE REISE VON PAPST FRANZISKUSNACH INDONESIEN, PAPUA-NEUGUINEA,OST-TIMOR UNDSINGAPUR(2.-13. September 2024)",
-          "it": "VIAGGIO APOSTOLICO DI SUA SANTITÀ FRANCESCOIN INDONESIA, PAPUA NUOVA GUINEA,TIMOR-LESTE,SINGAPORE(2-13 settembre 2024)",
-          "pl": "PODRÓŻ APOSTOLSKA DO INDONEZJI, PAPUI NOWEJ GWINEI,TIMORU WSCHODNIEGO ISINGAPURU(2-13 września 2024 r.)",
-          "pt": "VIAGEM APOSTÓLICA DE SUA SANTIDADE FRANCISCOà INDONÉSIA, PAPUA NOVA GUINÉ,TIMOR LESTE ESINGAPURA(2 - 13 de setembro de 2024)",
-          "es": "VIAJE APOSTÓLICO DE SU SANTIDAD FRANCISCOA INDONESIA, PAPÚA NUEVA GUINEA,TIMOR ORIENTAL,SINGAPUR(2-13 de septiembre de 2024)"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20240912-singapore-messa",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20231231-omelia-te-deum",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20231231-omelia-te-deum",
-        "title": "Celebration of Vespers and Te Deum in Thanksgiving for the past year",
-        "type": "Homilies",
-        "date": "2023-12-31",
-        "excerpt": {
-          "hr": "Prva Večernja svetkovine Svete Marije Bogorodice i Te Deum",
-          "en": "St Peter’s BasilicaSunday, 31 December 2023",
-          "fr": "Basilique Saint-PierreDimanche 31 décembre 2023",
-          "de": "Zur feierlichen Vesper am letzten Tag des Jahres kamen auch zahlreiche Vertreter aus Kirche und Gesellschaft, unter ihnen Roms Bürgermeister Roberto Gualtieri. Als Bischof von Rom wandte sich Franziskus in seiner Predigt auch an ihn und die weiteren Organisatoren des Heiligen Jahres 2025, das im kommenden Dezember eröffnet werden soll. Er sagte:",
-          "it": "Basilica di San PietroDomenica, 31 dicembre 2023",
-          "pt": "Basílica de São PedroDomingo, 31 de dezembro de 2023"
-        },
-        "language_count": 6
-      },
-      "metadata": {
-        "document_id": "20231231-omelia-te-deum",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20231224-omelia-natale",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20231224-omelia-natale",
-        "title": "Holy Mass on the Solemnity of the Nativity of the Lord",
-        "type": "Homilies",
-        "date": "2023-12-24",
-        "excerpt": {
-          "ar": "الأحد 24 كانون الأوّل/ديسمبر 2023",
-          "hr": "Vatikanska bazilikaNedjelja, 24. prosinca 2023.",
-          "en": "St Peter’s BasilicaSunday, 24 December 2023",
-          "fr": "Basilique vaticaneDimanche 24 décembre 2023",
-          "de": "Der ganze Erdkreis sollte in Steuerlisten eingetragen werden (vgl.Lk2,1). Das ist der Kontext der Geburt Jesu, bei dem das Evangelium zunächst verweilt. Man hätte ihn flüchtig erwähnen können, aber stattdessen spricht es sehr genau davon. Und damit lässt es einen großen Kontrast aufkommen: Während der Kaiser die Bewohner des Erdkreises zählt, kommt Gott beinahe verborgen in die Welt; während diejenigen, die befehlen, versuchen, zu den Großen der Geschichte aufzusteigen, wählt der König der Geschichte den Weg der Niedrigkeit. Keiner der Mächtigen bemerkt ihn, nur ein paar an den Rand des gesellschaftlichen Lebens verbannte Hirten.",
-          "it": "Basilica VaticanaDomenica, 24 dicembre 2023",
-          "pl": "Bazylika Świętego PiotraNiedziela, 24 grudnia 2023 r.",
-          "pt": "Basílica VaticanaDomingo, 24 de dezembro de 2023",
-          "es": "Basílica VaticanaDomingo, 24 de diciembre de 2023"
-        },
-        "language_count": 9
-      },
-      "metadata": {
-        "document_id": "20231224-omelia-natale",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20231212-omelia-guadalupe",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20231212-omelia-guadalupe",
-        "title": "Holy Mass on the Feast of Our Lady of Guadalupe",
-        "type": "Homilies",
-        "date": "2023-12-12",
-        "excerpt": {
-          "en": "St Peter's BasilicaTuesday, 12 December 2023",
-          "fr": "Basilique Saint-PierreMardi 12 décembre 2023",
-          "it": "Basilica di San PietroMartedì, 12 dicembre 2023",
-          "pt": "Basílica de São PedroTerça-feira, 12 de dezembro de 2023",
-          "es": "Basílica de San PedroMartes, 12 de diciembre de 2023"
+          "en": "Dear brothers and sisters of Brazil!",
+          "fr": "Chers frères et sœurs du Brésil,",
+          "it": "Cari fratelli e sorelle del Brasile,",
+          "pt": "Queridos irmãos e irmãs do Brasil!",
+          "es": "Queridos hermanos y hermanas de Brasil:"
         },
         "language_count": 5
       },
       "metadata": {
-        "document_id": "20231212-omelia-guadalupe",
-        "original_type": "homilies"
+        "document_id": "20250211-messaggio-fraternita-brasile",
+        "original_type": "messages"
       }
     },
     {
-      "id": "20231119-omelia-giornatamondiale-poveri",
+      "id": "20250211-chirografo-vinculum-unitatisetcaritatis",
       "pope": {
         "id": "francesco",
         "name": {
@@ -313,30 +52,24 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20231119-omelia-giornatamondiale-poveri",
-        "title": "Mass for the World Day of the Poor",
-        "type": "Homilies",
-        "date": "2023-11-19",
+        "id": "20250211-chirografo-vinculum-unitatisetcaritatis",
+        "title": "Chirograph of the Holy Father instituting theCommissio de donationibus pro Sancta Sede",
+        "type": "Letters",
+        "date": "2025-02-11",
         "excerpt": {
-          "ar": "في مناسبة يوم الفقير العالمي",
-          "hr": "XXXIII. nedjelja kroz godinu19. studenoga 2023.",
-          "en": "St Peter's Basilica33rd Sunday of Ordinary Time, 19 November 2023",
-          "fr": "Basilique Saint-PierreXXXIIIe Dimanche du Temps ordinaire, 19 novembre 2023",
-          "de": "Petersdom33. Sonntag im Jahreskreis, 19. November 2023",
-          "it": "Basilica di San PietroXXXIII Domenica del Tempo Ordinario, 19 novembre 2023",
-          "pl": "Bazylika Świętego PiotraXXXIII Niedziela Zwykła, 19 listopada 2023 r.",
-          "pt": "Basílica de São PedroXXXIII Domingo do Tempo Comum, 19 de novembro de 2023",
-          "es": "Basílica de San PedroXXXIII Domingo del Tiempo Ordinario, 19 de noveimbre de 2023"
+          "en": "The bond of unity and charity (vinculum unitatis et caritatis) between the particular Churches and the universal Church characterizes the Church of Christ in all areas of her evangelising activity. By reason of this bond, the particular Churches contribute to procuring the necessary means so that the Apostolic See, as the guarantor of unity, can properly provide its service to the universal Church.",
+          "it": "Il vincolo di unità e di carità (vinculum unitatis et caritatis) tra le Chiese particolari e la Chiesa universale contraddistingue la Chiesa di Cristo in tutti gli ambiti della sua azione evangelizzatrice. In ragione di tale vincolo, le Chiese particolari contribuiscono a procurare i mezzi necessari affinché la Sede Apostolica, quale garante di unità, possa prestare in modo appropriato il suo servizio alla Chiesa universale.",
+          "es": "El vínculo de unidad y caridad (vinculum unitatis et caritatis) entre las Iglesias particulares y la Iglesia universal distingue a la Iglesia de Cristo en todos los ámbitos de su acción evangelizadora. En virtud de este vínculo, las Iglesias particulares contribuyen a proporcionar los medios necesarios para que la Sede Apostólica, como garante de unidad, pueda prestar su servicio a la Iglesia universal de manera adecuada."
         },
-        "language_count": 9
+        "language_count": 3
       },
       "metadata": {
-        "document_id": "20231119-omelia-giornatamondiale-poveri",
-        "original_type": "homilies"
+        "document_id": "20250211-chirografo-vinculum-unitatisetcaritatis",
+        "original_type": "letters"
       }
     },
     {
-      "id": "20231103-omelia-defunti",
+      "id": "20250210-lettera-vescovi-usa",
       "pope": {
         "id": "francesco",
         "name": {
@@ -347,1125 +80,25 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20231103-omelia-defunti",
-        "title": "Eucharistic Celebration in memory of the late Supreme Pontiff Benedict XVI, and the Cardinals and Bishops deceased during the year",
-        "type": "Homilies",
-        "date": "2023-11-03",
+        "id": "20250210-lettera-vescovi-usa",
+        "title": "Letter of the Holy Father to the Bishops of the United States of America",
+        "type": "Letters",
+        "date": "2025-02-10",
         "excerpt": {
-          "en": "Altar of the Cathedra of Saint Peter’s BasilicaFriday, 3 November 2023",
-          "fr": "Basilique Saint-Pierre - Autel de la ChaireVendredi 3 novembre 2023",
-          "de": "Petersdom - Kathedra-AltarFreitag, 3. November 2023",
-          "it": "Basilica di San Pietro - Altare della CattedraVenerdì, 3 novembre 2023",
-          "pl": "Bazylika św. Piotra – Ołtarz KatedryPiątek, 3 listopada 2023 r.",
-          "pt": "Basílica de São Pedro - Altar da CátedraSexta-feira, 3 de novembro de 2023",
-          "es": "Basílica de San Pedro - Altar de la CátedraViernes, 3 de noviembre de 2023"
-        },
-        "language_count": 7
-      },
-      "metadata": {
-        "document_id": "20231103-omelia-defunti",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20231029-omelia-conclusione-sinodo",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20231029-omelia-conclusione-sinodo",
-        "title": "Conclusion of the Ordinary General Assembly of the Synod of Bishops",
-        "type": "Homilies",
-        "date": "2023-10-29",
-        "excerpt": {
-          "ar": "في الأحد الثّلاثين من الزّمن العادي",
-          "hr": "XXX. nedjelja kroz godinuZaključenje redovite opće skupštineBiskupske sinode",
-          "en": "St Peter's BasilicaXXX Sunday in Ordinary Time - Sunday, 29 October 2023",
-          "fr": "Basilique Saint-PierreXXXe dimanche du Temps ordinaire - Dimanche 29 octobre 2023",
-          "de": "Petersdom30. Sonntag im Jahreskreis, 29. Oktober 2023",
-          "it": "Basilica di San PietroXXX domenica del Tempo Ordinario  - Domenica, 29 ottobre 2023",
-          "pl": "Bazylika św. PiotraXXX Niedziela zwykła, 29 października 2023 r.",
-          "pt": "Basílica de São PedroXXX Domingo do Tempo Comum  - Domingo, 29 de outubro de 2023",
-          "es": "Basílica de San PedroXXX Domingo del Tiempo Ordinario - Domingo, 29 de octubre de 2023"
-        },
-        "language_count": 9
-      },
-      "metadata": {
-        "document_id": "20231029-omelia-conclusione-sinodo",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20231007-omelia-gendarmeria",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20231007-omelia-gendarmeria",
-        "title": "Holy Mass celebrated for the Gendarmerie Corps of Vatican City State",
-        "type": "Homilies",
-        "date": "2023-10-07",
-        "excerpt": {
-          "it": "Grotta di Lourdes ai Giardini VaticaniSabato, 7 ottobre 2023"
-        },
-        "language_count": 1
-      },
-      "metadata": {
-        "document_id": "20231007-omelia-gendarmeria",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20231004-omelia-nuovi-cardinali",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20231004-omelia-nuovi-cardinali",
-        "title": "Holy Mass with the new Cardinals and the College of Cardinals - Opening of the Ordinary General Assembly of the Synod of Bishops",
-        "type": "Homilies",
-        "date": "2023-10-04",
-        "excerpt": {
-          "ar": "في القدّاس الإلهيّ مع الكرادلة الجُدُد ومع مجمع الكرادلة",
-          "zh_cn": "亚西西‧圣方济庆日，2023 年 10 月 4 日",
-          "zh_tw": "亞西西‧聖方濟慶日，2023 年 10 月 4 日",
-          "hr": "Sveta misa s novim kardinalima i kardinalskim zborom.Otvaranje redovne glavne skupštine Biskupske sinode",
-          "en": "Saint Peter's SquareSt. Francis of Assisi - Wednesday, 4 October 2023",
-          "fr": "Place Saint-PierreSaint François d'Assise - Mercredi 4 octobre 2023",
-          "de": "Heilige Messe mit den neuen Kardinälen und dem KardinalskollegiumEröffnung der Ordentlichen Generalversammlung der Bischofssynode",
-          "it": "Piazza San PietroSan Francesco d’Assisi - Mercoledì, 4 ottobre 2023",
-          "pl": "Plac Świętego PiotraŚroda, 4 października 2023 r.",
-          "pt": "Praça São PedroSão Francisco de Assis - Quarta-feira, 4 de outubro de 2023",
-          "es": "Plaza de San PedroSan Francisco de Asís - Miércoles, 4 de octubre de 2023"
-        },
-        "language_count": 11
-      },
-      "metadata": {
-        "document_id": "20231004-omelia-nuovi-cardinali",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230930-omelia-concistoro",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230930-omelia-concistoro",
-        "title": "Ordinary Public Consistory for the creation of new Cardinals",
-        "type": "Homilies",
-        "date": "2023-09-30",
-        "excerpt": {
-          "ar": "في مناسبة انعقاد اجتماع مجمع الكرادلة لتعيّين الكرادلة الجدد",
-          "en": "Saint Peter's SquareSaturday, 30 September 2023",
-          "fr": "Place Saint-PierreSamedi 30 septembre 2023",
-          "de": "Als ich an diese Feier gedacht habe und insbesondere an euch, liebe Brüder, die ihr Kardinäle werdet, kam mir dieser Text aus der Apostelgeschichte (vgl. 2,1-11) in den Sinn. Es ist ein grundlegender Text: die Pfingstgeschichte, die Taufe der Kirche... Aber in Wirklichkeit hat mich eine bestimmte Sache angesprochen: die Aussage, die aus dem Mund der Juden kam, die damals in Jerusalem lebten (vgl. V. 5). Sie sagen: Wir sind „Parther, Meder und Elamiter...“ (V. 9) und so weiter. Diese lange Liste von Völkern ließ mich an die Kardinäle denken, die Gott sei Dank aus allen Teilen der Welt stammen, aus den unterschiedlichsten Nationen. Deshalb habe ich diese Bibelstelle gewählt.",
-          "it": "Piazza San PietroSabato, 30 settembre 2023",
-          "pl": "Plac Świętego PiotraSobota, 30 września 2023 r.",
-          "pt": "Praça São PedroSábado, 30 de setembro de 2023",
-          "es": "Plaza de San PedroSabado, 30 de septiembre de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230930-omelia-concistoro",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230930-vegliaecumenica",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230930-vegliaecumenica",
-        "title": "Ecumenical prayer vigil",
-        "type": "Homilies",
-        "date": "2023-09-30",
-        "excerpt": {
-          "ar": "”معًا“. مثل الجماعة المسيحيّة الأولى في يوم العنصرة. ومثل قطيع واحد، يحبّه ويجمعه الرّاعي الواحد، يسوع. ومثل الجموع الكثيرة في سفر الرّؤيا نحن هنا، إخوة وأخوات \"مِن كُلِّ أُمَّةٍ وقَبيلَةٍ وشَعبٍ ولِسان\" (رؤيا 7، 9)، قادمين من جماعات ودول مختلفة، وبنات وأبناء الآب الواحد، يحيِينا الرّوح الذي قبلناه في المعموديّة، وكلّنا مدعوّون إلى رجاء واحد (راجع أفسس 4، 4-5).",
-          "en": "Saint Peter's SquareSaturday, 30 September 2023",
-          "fr": "Place Saint-PierreSamedi 30 septembre 2023",
-          "de": "„Together“. „Gemeinsam“. Wie die frühe christliche Gemeinschaft am Pfingsttag. Als eine einzige Herde, geliebt und versammelt von dem einen Hirten, Jesus. Wie die große Schar im Buch der Offenbarung sind wir hier, Brüder und Schwestern »aus allen Nationen und Stämmen, Völkern und Sprachen« (Offb7,9), aus verschiedenen Gemeinschaften und Ländern, Töchter und Söhne desselben Vaters, beseelt von dem Geist, den wir in der Taufe empfangen haben, berufen zu derselben Hoffnung (vgl.Eph4,4-5).",
-          "it": "Piazza San PietroSabato, 30 settembre 2023",
-          "pl": "Plac Świętego PiotraSobota, 30 września 2023 r.",
-          "pt": "VIGÍLIA ECUMÊNICA DE ORAÇÃOno contexto da iniciativa «Togheter 2023»",
-          "es": "Plaza de San PedroSabado, 30 de septiembre de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230930-vegliaecumenica",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230923-marsiglia-omelia-messa",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230923-marsiglia-omelia-messa",
-        "title": "Apostolic Journey to Marseille: Holy Mass at the “Vélodrome Stadium”",
-        "type": "Homilies",
-        "date": "2023-09-23",
-        "excerpt": {
-          "ar": "في القدّاس الإلهيّ لإكرام سيّدتنا مريم العذراء سيّدة الحماية",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCISto MARSEILLEfor the conclusion of the “Rencontres Méditerranéennes”[22 - 23 september 2023]",
-          "fr": "VOYAGE APOSTOLIQUE DU PAPE FRANÇOISà MARSEILLEpour la conclusion desRencontres Méditerranéennes[22 - 23 SEPTEMBRE 2023]",
-          "de": "APOSTOLISCHE REISE VON PAPST FRANZISKUS NACH MARSEILLEzum Abschluss der “Rencontres Méditerranéennes”[22. - 23. SEPTEMBER 2023]",
-          "it": "VIAGGIO APOSTOLICO DI SUA SANTITÀ FRANCESCOa MARSIGLIAper la conclusione dei “Rencontres Méditerranéennes”[22 - 23 SETTEMBRE 2023]",
-          "pl": "PODRÓŻ APOSTOLSKA OJCA ŚWIĘTEGO FRANCISZKA DO MARSYLIIna zakończenie „Śródziemnomorskich Spotkań”(22-23 września 2023)",
-          "pt": "VIAGEM APOSTÓLICA DO PAPA FRANCISCOA MARSELHApara a conclusão dos “Rencontres Méditerranéennes”[22 - 23 DE SETEMBRO DE 2023]",
-          "es": "VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA FRANCISCOa MARSELLApara la conclusión de los \"Encuentros del Mediterráneo\"22 - 23 de septiembre de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230923-marsiglia-omelia-messa",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230723-omelia-giornatanonni-anziani",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230723-omelia-giornatanonni-anziani",
-        "title": "Holy Mass - World Day for Grandparents and the Elderly",
-        "type": "Homilies",
-        "date": "2023-07-23",
-        "excerpt": {
-          "ar": "في مناسبة اليوم العالمي الثّالث للأجداد وكبار السّن",
-          "en": "St Peter's BasilicaSixteenth Sunday in Ordinary Time, 23 July 2023",
-          "fr": "Basilique de Saint-PierreDimanche 23 juillet 2023",
-          "de": "Welttag der Großeltern und älteren Menschen",
-          "it": "Basilica di San PietroXVI domenica del Tempo Ordinario, 23 luglio 2023",
-          "pl": "Bazylika św. PiotraNiedziela, 23 lipca 2023 r.",
-          "pt": "Basílica São PedroDomingo, 23 de julho de 2023",
-          "es": "Basílica de San PedroDomingo, 23 de julio de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230723-omelia-giornatanonni-anziani",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230629-omelia-pallio",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230629-omelia-pallio",
-        "title": "Holy Mass and blessing of the Pallium for the new Metropolitan Archbishops on the Solemnity of Saints Peter and Paul",
-        "type": "Homilies",
-        "date": "2023-06-29",
-        "excerpt": {
-          "ar": "في مناسبة عيد القدّيسَين بطرس وبولس",
-          "en": "Saint Peter’s BasilicaThursday, 29 June 2022",
-          "fr": "Basilique Saint-PierreJeudi 29 juin 2023",
-          "de": "Petrus und Paulus, zwei in den Herrn verliebte Apostel, zwei Säulen des Glaubens der Kirche. Und während wir über ihr Leben nachdenken, kommt das heutige Evangelium mit der Frage auf uns zu, die Jesus den Seinen stellt: »Ihr aber, für wen haltet ihr mich?« (Mt16,15). Dies ist die grundlegende, die wichtigste Frage: Wer ist Jesus für mich? Wer ist Jesus in meinem Leben? Sehen wir uns an, wie die beiden Apostel auf diese Frage geantwortet haben.",
-          "it": "Basilica di San PietroGiovedì, 29 giugno 2023",
-          "pl": "Bazylika Świętego PiotraCzwartek, 29 czerwca 2023 r.",
-          "pt": "Basílica de São PedroQuinta-feira, 29 de junho de 2023",
-          "es": "Basílica de San PedroJueves, 29 de junio de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230629-omelia-pallio",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230528-omelia-pentecoste",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230528-omelia-pentecoste",
-        "title": "Holy Mass on the Solemnity of Pentecost",
-        "type": "Homilies",
-        "date": "2023-05-28",
-        "excerpt": {
-          "ar": "يوم الأحد 28 أيّار/مايو 2023",
-          "en": "St Peter's BasilicaSunday, 28 May 2023",
-          "fr": "Basilique Saint-PierreDimanche, 28 mai 2023",
-          "de": "Das Wort Gottes zeigt uns heute den Heiligen Geist in Aktion. Wir sehen ihn dreifach wirken:in der Welt, die er geschaffen hat, in der Kirche und in unseren Herzen.",
-          "it": "Basilica di San PietroDomenica, 28 maggio 2023",
-          "pl": "Bazylika św. PiotraNiedziela, 28 maja 2023 r.",
-          "pt": "Basílica de São PedroDomingo, 28 de maio de 2023",
-          "es": "Basílica de San PedroDomingo, 28 de mayo de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230528-omelia-pentecoste",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230430-ungheria-omelia",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230430-ungheria-omelia",
-        "title": "Apostolic Journey to Hungary: Holy Mass in Kossuth Lajos' Square",
-        "type": "Homilies",
-        "date": "2023-04-30",
-        "excerpt": {
-          "ar": "في القدّاس الإلهيّ في الأحد الرابع من الزمن الفصحيّ",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCISto HUNGARY(28 - 30 APRIL 2023)",
-          "fr": "VOYAGE APOSTOLIQUE DU PAPE FRANÇOISen HONGRIE(28 - 30 avril 2023)",
-          "de": "APOSTOLISCHE REISE VON PAPST FRANZISKUS NACH UNGARN(28. - 30. April 2023)",
-          "it": "VIAGGIO APOSTOLICO DI SUA SANTITÀ FRANCESCOin UNGHERIA(28 - 30 aprile 2023)",
-          "pl": "PODRÓŻ APOSTOLSKA OJCA ŚWIĘTEGO FRANCISZKANA WĘGRY(28 - 30 kwietnia 2023 r.)",
-          "pt": "VIAGEM APOSTÓLICA DO PAPA FRANCISCOÀ HUNGRIA(28 - 30 de abril de 2023)",
-          "es": "VIAJE APOSTÓLICO DE SU SANTIDAD FRANCISCOA HUNGRÍA(28-30 de abril de 2023)"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230430-ungheria-omelia",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20230408-omelia-veglia-pasquale",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20230408-omelia-veglia-pasquale",
-        "title": "Easter Vigil in the Holy Night of Easter",
-        "type": "Homilies",
-        "date": "2023-04-08",
-        "excerpt": {
-          "ar": "ذهبت النساء إلى قبر يسوع، في نهاية الليل مع أوّل أضواء الفجر. كنَّ يَسِرْن في قلق، وضياع، وقلوبهن يمزِّقها الألَم بعد تلك الليلة التي مات فيها الذي أحبَبْنَه. عندما وصَلْن إلى ذلك المكان ورأينَ القبر فارغًا، عكسن سَيْرهُنَّ، وبدَّلْنَ الطّريق: ترَكْن القبر وركضْنَ ليبشِّرْنَ التّلاميذ بمسار جديد. قام يسوع من بين الأموات، وهو ينتظرهم في الجليل. حَدَثَ الفصح في حياة تلك النساء. الفصح يعني العبور: في الواقع، هنَّ عَبَرْن من السّير حزينات نحو القبر إلى الرّكض فَرِحاتٍ نحو التّلاميذ، ليقُلْنَ لهم ليس فقط أنّ الرّبّ يسوع قد قام من بين الأموات، بل هناك هدف يجب التّوجه إليه مباشرة، وهو الجليل. كان الموعد مع الرّبّ القائم من بين الأموات هناك. ولادة التّلاميذ من جديد، وقيامة قلوبهم تَحدُث في الجليل. لننضَمَّ نحن أيضًا إلى مسيرة التّلاميذ هذه التي تنطلق من القبر إلى الجليل.",
-          "en": "St Peter's BasilicaHoly Saturday, 8 April 2023",
-          "fr": "Basilique Saint-PierreSamedi Saint, 8 avril 2022",
-          "de": "Vatikanische BasilikaKarsamstag, 8. April 2023",
-          "it": "Basilica di San PietroSabato Santo, 8 aprile 2023",
-          "pl": "Bazylika św. PiotraWielka Sobota, 8 kwietnia 2023 r.",
-          "pt": "Basílica de São PedroSábado Santo, 8 de abril de 2023",
-          "es": "Basílica de San PedroSábado Santo, 8 de abril de 2023"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20230408-omelia-veglia-pasquale",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221231-omelia-te-deum",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221231-omelia-te-deum",
-        "title": "Celebration of Vespers and Te Deum in Thanksgiving for the past year",
-        "type": "Homilies",
-        "date": "2022-12-31",
-        "excerpt": {
-          "en": "St Peter’s BasilicaSaturday, 31 December 2022",
-          "fr": "Basilique Saint-PierreSamedi 31 décembre 2022",
-          "de": "»Geboren von einer Frau« (Gal4,4).",
-          "it": "Basilica di San PietroSabato, 31 dicembre 2022",
-          "pt": "Basílica de São PedroSábado, 31 de dezembro de 2022",
-          "es": "Basílica de San PedroSábado, 31 de diciembre de 2022"
-        },
-        "language_count": 6
-      },
-      "metadata": {
-        "document_id": "20221231-omelia-te-deum",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221224-omelia-natale",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221224-omelia-natale",
-        "title": "Holy Mass on the Solemnity of the Nativity of the Lord",
-        "type": "Homilies",
-        "date": "2022-12-24",
-        "excerpt": {
-          "ar": "السّبت 24 كانون الأوّل/ديسمبر 2022",
-          "en": "St Peter’s BasilicaSaturday, 24 December 2022",
-          "fr": "Basilique vaticaneSamedi 24 décembre 2022",
-          "de": "Was sagt diese Nacht unserem Leben noch? Nach zwei Jahrtausenden seit der Geburt Jesu, nach vielen Weihnachtsfesten inmitten von Schmuck und Geschenken, nach so viel Konsum, der das Geheimnis, das wir feiern, verhüllt hat, besteht die Gefahr, dass wir viel über Weihnachten wissen, aber die Bedeutung dieses Festes vergessen. Wie können wir also den Sinn von Weihnachten wiederfinden? Und vor allem: Wo kann man danach suchen? Das Evangelium von der Geburt Jesu scheint genau dafür geschrieben worden zu sein: um uns bei der Hand zu nehmen und uns wieder dorthin zu führen, wo Gott uns haben will. Folgen wir dem Evangelium.",
-          "it": "Basilica VaticanaSabato, 24 dicembre 2022",
-          "pl": "Bazylika Świętego PiotraSobota, 24 grudnia 2022 r.",
-          "pt": "Basílica VaticanaSábado, 24 de dezembro de 2022",
-          "es": "Basílica VaticanaSábado, 24 de diciembre de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20221224-omelia-natale",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221212_omelia-guadalupe",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221212_omelia-guadalupe",
-        "title": "Holy Mass on the Feast of Our Lady of Guadalupe",
-        "type": "Homilies",
-        "date": "2022-12-12",
-        "excerpt": {
-          "fr": "Basilique vaticaneLundi 12 décembre 2022",
-          "de": "Unser Gott lenkt die Geschichte der Menschheit in jedem Augenblick, nichts entzieht sich   seiner Macht, die Zärtlichkeit und fürsorgliche Liebe ist. Sie wird gegenwärtig durch eine Geste, ein Ereignis, eine Person. Er blickt unaufhörlich auf unsere bedürftige, verwundete, verängstigte Welt, um ihr voll Mitleid und Barmherzigkeit zu helfen. Seine Art und Weise, einzugreifen und sich zu offenbaren, überrascht uns immer und erfüllt uns mit Freude. Sie lässt uns staunen, und tut dies in einem ganz eigenen Stil.",
-          "it": "Basilica di San PietroLunedì, 12 dicembre 2022",
-          "pt": "Basílica de São PedroSegunda-feira, 12 de dezembro de 2022",
-          "es": "Basílica de San PedroLunes, 12 de diciembre de 2022"
-        },
-        "language_count": 5
-      },
-      "metadata": {
-        "document_id": "20221212_omelia-guadalupe",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221113-omelia-giornatamondiale-poveri",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221113-omelia-giornatamondiale-poveri",
-        "title": "Mass for the World Day of the Poor",
-        "type": "Homilies",
-        "date": "2022-11-13",
-        "excerpt": {
-          "ar": "في مناسبة يوم الفقير العالمي",
-          "en": "St Peter's Basilica33rd Sunday of Ordinary Time, 13 November 2022",
-          "fr": "Basilique Saint-PierreXXXIIIe Dimanche du Temps ordinaire, 13 novembre 2022",
-          "de": "Vatikanische Basilika33. Sonntag im Jahreskreis, 13. November 2022",
-          "it": "Basilica di San PietroXXXIII Domenica del Tempo Ordinario, 13 novembre 2022",
-          "pl": "Bazylika Świętego PiotraXXXIII Niedziela zwykła, 13 listopada 2022 r.",
-          "pt": "Basílica de São PedroXXXIII Domingo do Tempo Comum, 13 de novembro de 2022",
-          "es": "Basílica de San PedroXXXIII Domingo del Tiempo Ordinario, 13 de noviembre de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20221113-omelia-giornatamondiale-poveri",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221102-omelia-defunti",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221102-omelia-defunti",
-        "title": "Commemoration of all the faithful departed – Holy Mass for the eternal repose of the Cardinals and bishops deceased during the course of the year",
-        "type": "Homilies",
-        "date": "2022-11-02",
-        "excerpt": {
-          "en": "St Peter’s Basilica, Altar of the ChairWednesday, 2 November 2022",
-          "fr": "Basilique Saint-Pierre, autel de la ChaireMercredi 2 novembre 2022",
-          "it": "Basilica di San Pietro - Altare della CattedraMercoledì, 2 novembre 2022",
-          "pt": "Basílica de São Pedro - Altar da CátedraQuarta-feira, 2 de novembro de 2022",
-          "es": "Basílica de San Pedro - Altar de la CátedraMiércoles, 2 de noviembre de 2022"
-        },
-        "language_count": 5
-      },
-      "metadata": {
-        "document_id": "20221102-omelia-defunti",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221011-omelia-60concilio",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221011-omelia-60concilio",
-        "title": "Memorial of Saint John XXIII, Pope - Holy Mass, 60th anniversary of the beginning of the Second Vatican Ecumenical Council",
-        "type": "Homilies",
-        "date": "2022-10-11",
-        "excerpt": {
-          "ar": "في مناسبة الذكرى السّتين لافتتاح المجمع الفاتيكاني الثاني",
-          "en": "60th ANNIVERSARY OF THE BEGINNING OF THE SECOND VATICAN ECUMENICAL COUNCIL",
-          "fr": "60e ANNIVERSAIRE DU DÉBUT DU CONCILE ŒCUMÉNIQUE VATICAN II",
-          "de": "PetersdomDienstag, 11. Oktober 2022Gedenktag des heiligen Papstes Johannes XXIII.",
-          "it": "Basilica di San PietroMartedì, 11 ottobre 2022Memoria di San Giovanni XXIII, papa",
-          "pl": "Bazylika św. PiotraWtorek, 11 października 2022 r.Wspomnienie św. Jana XXIII, Papieża",
-          "pt": "Basílica de São PedroTerça-feira, 11 de outubro de 2022Memória de São João XXIII, Papa",
-          "es": "Basílica de San PedroMartes, 11 de octubre de 2022Memoria de san Juan XXIII, papa"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20221011-omelia-60concilio",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20221009-omelia-canonizzazione",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20221009-omelia-canonizzazione",
-        "title": "Holy Mass and Canonization",
-        "type": "Homilies",
-        "date": "2022-10-09",
-        "excerpt": {
-          "ar": "وتقديس الأسقف سكالابريني (Scalabrini) والأخ الرّاهب السّالزياني أرتيميد زاتّي (Artemide Zatti)",
-          "en": "St Peter's SquareXXVIII Sunday of Ordinary Time, 9 October 2022",
-          "fr": "Jean Baptiste Scalabrini - Artemide Zatti",
-          "de": "Giovanni Battista Scalabrini - Artemide Zatti",
-          "it": "Giovanni Battista Scalabrini - Artemide Zatti",
-          "pl": "Plac św. PiotraXXVIII niedziela okresu zwykłego, 9 października 2022 r.",
-          "pt": "João Batista Scalabrini - Artemide Zatti",
-          "es": "Juan Bautista Scalabrini - Artémides Zatti"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20221009-omelia-canonizzazione",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220925-omelia-matera",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220925-omelia-matera",
-        "title": "Pastoral Visit to Matera for the conclusion of the 27th National Eucharistic Congress: Eucharistic Concelebration",
-        "type": "Homilies",
-        "date": "2022-09-25",
-        "excerpt": {
-          "en": "PASTORAL VISIT TO MATERAFOR THE CONCLUSION OF THE 27th NATIONAL EUCHARISTIC CONGRESS",
-          "fr": "VISITE PASTORALE À MATERAPOUR LA CLÔTURE DU 27e CONGRÈS EUCHARISTIQUE NATIONAL ITALIEN",
-          "de": "Gemeindestadion \"XXI Settembre\" (Matera)Sonntag, 25. September 2022",
-          "it": "Stadio comunale XXI Settembre (Matera)Domenica, 25 settembre 2022",
-          "pt": "Estádio Municipal XXI Settembre (Matera)Domingo, 25 de setembro de 2022",
-          "es": "Estadio municipal \"XXI Settembre\" , MateraDomingo, 25 de septiembre de 2022"
-        },
-        "language_count": 6
-      },
-      "metadata": {
-        "document_id": "20220925-omelia-matera",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220904-omelia-beatificazione-gpi",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220904-omelia-beatificazione-gpi",
-        "title": "Holy Mass and beatification of the Servant of God, Pope John Paul I",
-        "type": "Homilies",
-        "date": "2022-09-04",
-        "excerpt": {
-          "ar": "وتطويب البابا يوحنّا بولس الأوّل",
-          "en": "Saint Peter's SquareXXIII Sunday in Ordinary Time - Sunday, 4 September 2022",
-          "fr": "SAINTE MESSE ET BÉATIFICATION DU SERVITEUR DE DIEU LE SOUVERAIN PONTIFE JEAN PAUL Ier",
-          "de": "Petersplatz23. Sonntag im Jahreskreis, 4. September 2022",
-          "it": "Piazza San PietroXXIII domenica del Tempo Ordinario, Domenica 4 settembre 2022",
-          "pl": "Plac św. PiotraXXIII niedziela okresu zwykłego, Niedziela 4 września 2022 r.",
-          "pt": "Praça São PedroXXIII Domingo do Tempo Comum, 4 de setembro de 2022",
-          "es": "Plaza de San PedroXXIII domingo del Tiempo Ordinario, 4 de septiembre de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20220904-omelia-beatificazione-gpi",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220830-omelia-nuovi-cardinali",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220830-omelia-nuovi-cardinali",
-        "title": "Holy Mass with the new Cardinals and the College of Cardinals",
-        "type": "Homilies",
-        "date": "2022-08-30",
-        "excerpt": {
-          "ar": "مع الكرادلة الجُدُد ومجمع الكرادلة",
-          "en": "St Peter's BasilicaTuesday, 30 August 2022",
-          "fr": "Basilique Saint-PierreMardi 30 août 2022",
-          "de": "Die Lesungen dieser Feier – die dem Formular „für die Kirche“ entnommen sind – bringen eindoppeltes Staunenzum Ausdruck: das Staunen des Paulus angesichts des Heilsplans Gottes (vgl.Eph1,3-14) und das Staunen der Jünger, zu denen auch Matthäus gehört, bei der Begegnung mit dem auferstandenen Jesus, der sie aussendet (vgl.Mt28,16-20). Doppeltes Staunen.Tauchen wir ein in diese beiden Szenarien, in denen der Wind des Heiligen Geistes kraftvoll weht, damit wir aus dieser Feier und aus dieser Kardinalsversammlung gestärkt hervorgehen, um „allen Völkern die Wunder des Herrn zu verkünden“ (vgl. Antwortpsalm).",
-          "it": "Basilica di San PietroMartedì, 30 agosto 2022",
-          "pl": "Bazylika św. PiotraWtorek, 30 sierpnia 2022 r.",
-          "pt": "Basílica de São PedroTerça-feira, 30 de agosto de 2022",
-          "es": "Basílica de San PedroMartes, 30 de agosto de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20220830-omelia-nuovi-cardinali",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220828-omelia-laquila",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220828-omelia-laquila",
-        "title": "Pastoral Visit to L'Aquila: Holy Mass",
-        "type": "Homilies",
-        "date": "2022-08-28",
-        "excerpt": {
-          "en": "Forecourt of the Basilica of Saint Mary in CollemaggioSunday, 28 August 2022",
-          "fr": "Parvis de la Basilique de Santa Maria in CollemaggioDimanche, 28 août 2022",
-          "de": "Platz vor der Basilika Santa Maria in CollemaggioSonntag, 28. August 2022",
-          "it": "Piazzale della Basilica di Santa Maria in CollemaggioDomenica, 28 agosto 2022",
-          "pt": "Praça da Basílica de Santa Maria em CollemaggioDomingo, 28 de agosto de 2022",
-          "es": "Explanada de la Basílica de Santa María de CollemaggioDomingo, 28 de agosto de 2022"
-        },
-        "language_count": 6
-      },
-      "metadata": {
-        "document_id": "20220828-omelia-laquila",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220827-omelia-concistoro",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220827-omelia-concistoro",
-        "title": "Ordinary Public Consistory for the creation of new Cardinals and for the vote on some Causes of Canonization",
-        "type": "Homilies",
-        "date": "2022-08-27",
-        "excerpt": {
-          "ar": "في مناسبة اللقاء العام مع الكرادلة",
-          "en": "St Peter's BasilicaSaturday, 27 August 2022",
-          "fr": "Basilique Saint-PierreSamedi 27 août 2022",
-          "de": "Diese Worte Jesu direkt in der Mitte des Lukasevangeliums treffen uns wie ein Pfeil: „Ich bin gekommen, um Feuer auf die Erde zu werfen. Wie froh wäre ich, es würde schon brennen“ (12,49).",
-          "it": "Basilica di San PietroSabato, 27 agosto 2022",
-          "pl": "Bazylika św. PiotraSobota, 27 sierpnia 2022 r.",
-          "pt": "Basílica de São PedroSábado, 27 de agosto de 2022",
-          "es": "Basílica de San PedroSábado, 27 de agosto de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20220827-omelia-concistoro",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220728-omelia-beaupre-canada",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220728-omelia-beaupre-canada",
-        "title": "Apostolic Journey to Canada: Holy Mass at the National Shrine of Saint Anne de Beaupré",
-        "type": "Homilies",
-        "date": "2022-07-28",
-        "excerpt": {
-          "ar": "في القداس الإلهيّ من أجل المصالحة",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCISto CANADA(24 - 30 JULY 2022)",
-          "fr": "Sanctuaire National de Sainte-Anne-de-BeaupréJeudi 28 juillet 2022",
-          "de": "Nationalheiligtum \"Sainte Anne de Beaupré\"Donnerstag, 28. Juli 2022",
-          "it": "Santuario Nazionale di Sainte Anne de BeaupréGiovedì, 28 luglio 2022",
-          "pl": "Narodowe Sanktuarium Świętej Anny w BeaupréCzwartek, 28 lipca 2022 r.",
-          "pt": "Santuário Nacional de Sainte Anne de BeaupréQuinta-feira, 28 de julho de 2022",
-          "es": "Santuario Nacional de Santa Ana de BeaupréJueves, 28 de julio de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20220728-omelia-beaupre-canada",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220726-omelia-edmonton-canada",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220726-omelia-edmonton-canada",
-        "title": "Apostolic Journey to Canada: Holy Mass at \"Commonwealth Stadium\" in Edmonton",
-        "type": "Homilies",
-        "date": "2022-07-26",
-        "excerpt": {
-          "ar": "في تذكار القدّيس يواكيم والقدّيسة حنّة",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCISto CANADA(24 - 30 JULY 2022)",
-          "fr": "\"Commonwealth Stadium\" d'EdmontonMardi 26 juillet 2022",
-          "de": "Fest der heiligen Joachim und Anna\"Commonwealth Stadium\" in EdmontonDienstag, 26. Juli 2022",
-          "it": "Festa dei Santi Gioacchino e Anna\"Commonwealth Stadium\" a EdmontonMartedì, 26 luglio 2022",
-          "pl": "Święto Świętych Joachima i Anny",
-          "pt": "\"Commonwealth Stadium\" em EdmontonTerça-feira, 26 de julho de 2022",
-          "es": "\"Commonwealth Stadium\" de EdmontonMartes, 26 de julio de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20220726-omelia-edmonton-canada",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20220726-omelia-lacsteanne-canada",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20220726-omelia-lacsteanne-canada",
-        "title": "Apostolic Journey to Canada: Participation in the “Lac Ste. Anne Pilgrimage” and Liturgy of the Word",
-        "type": "Homilies",
-        "date": "2022-07-26",
-        "excerpt": {
-          "ar": "في المشاركة في ”الحجّ إلى بحيرة القدّيسة حنّة“ وليتورجيا الكلمة",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCISto CANADA(24 - 30 JULY 2022)",
-          "fr": "Lac Ste. AnneMardi 26 juillet 2022",
-          "de": "\"Lac Ste. Anne\"Dienstag, 26. Juli 2022",
-          "it": "\"Lac Ste. Anne\"Martedì, 26 luglio 2022",
-          "pl": "Lac Ste. AnneWtorek, 26 lipca 2022 r.",
-          "pt": "Lac Ste. AnneTerça-feira, 26 de julho de 2022",
-          "es": "Lac Ste. AnneMartes, 26 de julio de 2022"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20220726-omelia-lacsteanne-canada",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211231-omelia-te-deum",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211231-omelia-te-deum",
-        "title": "Celebration of Vespers and Te Deum in Thanksgiving for the past year",
-        "type": "Homilies",
-        "date": "2021-12-31",
-        "excerpt": {
-          "fr": "Basilique Saint-PierreVendredi 31 décembre 2021",
-          "de": "Vatikanische BasilikaFreitag, 31. Dezember 2021",
-          "it": "Basilica di San PietroVenerdì, 31 dicembre 2021",
-          "pt": "Basílica de São PedroSexta-feira, 31 de dezembro de 2021",
-          "es": "Basílica de San PedroViernes, 31 de diciembre de 2021"
-        },
-        "language_count": 5
-      },
-      "metadata": {
-        "document_id": "20211231-omelia-te-deum",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211224-omelia-natale",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211224-omelia-natale",
-        "title": "Holy Mass on the Solemnity of the Nativity of the Lord",
-        "type": "Homilies",
-        "date": "2021-12-24",
-        "excerpt": {
-          "ar": "الجمعة 24 كانون الأوّل/ديسمبر 2021",
-          "en": "St Peter’s BasilicaFriday, 24 December 2021",
-          "fr": "Basilique Saint-PierreVendredi 24 décembre 2021",
-          "de": "Vatikanische BasilikaFreitag, 24. Dezember 2021",
-          "it": "Basilica VaticanaVenerdì, 24 dicembre 2021",
-          "pl": "Bazylika Świętego PiotraPiątek, 24 grudnia 2021 r.",
-          "pt": "Basílica VaticanaSexta-feira, 24 de dezembro de 2021",
-          "es": "Basílica de San PedroViernes, 24 de diciembre de 2021"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20211224-omelia-natale",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211205-grecia-messa",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211205-grecia-messa",
-        "title": "Apostolic Journey to Cyprus and Greece: Holy Mass at “Megaron Concert Hall” in Athens",
-        "type": "Homilies",
-        "date": "2021-12-05",
-        "excerpt": {
-          "ar": "الزيارة الرسوليّة إلى قبرص واليونان",
-          "en": "“Megaron Concert Hall” in AthensSunday, 5 December 2021",
-          "fr": "« Megaron Concert Hall » d'AthènesDimnache, 5 décembre 2021",
-          "de": "“Megaron”-Konzerthalle in AthenSonntag, 5. Dezember 2021",
-          "it": "“Megaron Concert Hall” ad AteneDomenica, 5 dicembre 2021",
-          "pl": "PODRÓŻ APOSTOLSKA OJCA ŚWIĘTEGO FRANCISZKANA CYPR I DO GRECJI(2-6 grudnia 2021)",
-          "pt": "Atenas - Sala de Concertos MegaronDomingo, 5 de dezembro de 2021",
-          "es": "“Megaron Concert Hall” de AtenasDomingo, 5 de diciembre de 2021"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20211205-grecia-messa",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211203-cipro-messa",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211203-cipro-messa",
-        "title": "Apostolic Journey to Cyprus and Greece: Holy Mass at the “GSP Stadium” in Nicosia",
-        "type": "Homilies",
-        "date": "2021-12-03",
-        "excerpt": {
-          "ar": "الزيارة الرسوليّة إلى قبرص واليونان",
-          "en": "“GSP Stadium” in NicosiaFriday, 3 December 2021",
-          "fr": "GSP Stadium de NicosieVendredi 3 décembre 2021",
-          "de": "“GSP Stadion” in NicosiaFreitag, 3. Dezember 2021",
-          "it": "“GSP Stadium” a NicosiaVenerdì, 3 dicembre 2021",
-          "pl": "PODRÓŻ APOSTOLSKA OJCA ŚWIĘTEGO FRANCISZKANA CYPR I DO GRECJI(2-6 grudnia 2021)",
-          "pt": "“GSP Stadium” em NicosiaSexta-feira, 3 de dezembro de 2021",
-          "es": "Estadio GSP de NicosiaVenerdì, 3 de diciembre de 2021"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20211203-cipro-messa",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211121-omelia-cristore-delluniverso",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211121-omelia-cristore-delluniverso",
-        "title": "Solemnity of Our Lord Jesus Christ, King of the Universe - Holy Mass",
-        "type": "Homilies",
-        "date": "2021-11-21",
-        "excerpt": {
-          "ar": "في مناسبة عيد يسوع الملك",
-          "en": "Saint Peter's BasilicaSolemnity of Our Lord Jesus Christ, King of the Universe - Sunday, 21 November 2021",
-          "fr": "Basilique Saint-PierreSolennité du Christ Roi de l'univers - Dimanche 21 novembre 2021",
-          "de": "Petersdom, Kathedra-AltarSonntag, 21. November 2021",
-          "it": "Basilica di San PietroSolennità di Nostro Signore Gesù Cristo Re dell'Universo - Domenica, 21 novembre 2021",
-          "pl": "Bazylika św. Piotra, Ołtarz KatedryNiedziela, 21 listopada 2021 r.",
-          "pt": "Basílica de São PedroSolenidade de Nosso Senhor Jesus Cristo, Rei do UniversoDomingo, 21 de novembro de 2021",
-          "es": "Basílica de San PedroSolemnidad de Nuestro Señor Jesucristo Rey del Universo - Domingo, 21 de noviembre de 2021"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20211121-omelia-cristore-delluniverso",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211114-omelia-giornatamondiale-poveri",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211114-omelia-giornatamondiale-poveri",
-        "title": "Mass for the World Day of the Poor",
-        "type": "Homilies",
-        "date": "2021-11-14",
-        "excerpt": {
-          "ar": "في مناسبة يوم الفقير العالمي",
-          "en": "St Peter’s Basilica33th Sunday of Ordinary Time, 14 November 2021",
-          "fr": "Basilique Saint-PierreXXXIIIe Dimanche du Temps ordinaire, 14 novembre 2021",
-          "de": "Vatikanische Basilika34. Sonntag im Jahreskreis, 14. November 2021",
-          "it": "Basilica di San PietroXXXIII Domenica del Tempo Ordinario, 14 novembre 2021",
-          "pl": "Bazylika św. Piotra, Ołtarz KatedryXXXIII Niedziela okresu zwykłego, 14 listopada 2021 r.",
-          "pt": "Basílica de São PedroXXXIII Domingo do Tempo Comum, 14 de novembro de 2021",
-          "es": "Basílica de San PedroXXXIII Domingo del Tiempo Ordinario, 14 de noviembre de 2021"
-        },
-        "language_count": 8
-      },
-      "metadata": {
-        "document_id": "20211114-omelia-giornatamondiale-poveri",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211104-messa-suffragio",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211104-messa-suffragio",
-        "title": "Holy Mass for the repose of the Cardinals and Bishops deceased during the course of the year",
-        "type": "Homilies",
-        "date": "2021-11-04",
-        "excerpt": {
-          "en": "St Peter’s Basilica, Altar of the ChairThursday, 4 November 2021",
-          "fr": "Basilique Saint-Pierre, autel de la ChaireJeudi 4 novembre 2021",
-          "de": "Petersdom, Kathedra-AltarDonnerstag, 4. November 2021",
-          "it": "Basilica di San PietroGiovedì, 4 novembre 2021",
-          "pt": "Basílica de São Pedro, Altar da CátedraQuinta-feira, 4 de novembro de 2021"
-        },
-        "language_count": 5
-      },
-      "metadata": {
-        "document_id": "20211104-messa-suffragio",
-        "original_type": "homilies"
-      }
-    },
-    {
-      "id": "20211017-omelia-ordinazione-episcopale",
-      "pope": {
-        "id": "francesco",
-        "name": {
-          "en": "Francis",
-          "la": "Franciscus"
-        },
-        "handle": "francesco",
-        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
-      },
-      "document": {
-        "id": "20211017-omelia-ordinazione-episcopale",
-        "title": "Holy Mass with Episcopal Ordinations",
-        "type": "Homilies",
-        "date": "2021-10-17",
-        "excerpt": {
-          "en": "St Peter's BasilicaSunday, 17 October 2021",
-          "de": "Liebe Brüder und Schwestern, liebe Söhne und Töchter!",
-          "it": "Basilica di San PietroDomenica, 17 ottobre 2021",
-          "es": "Basílica de San PedroDomingo, 17 de octubre de 2021"
+          "en": "Dear Brothers in the Episcopate,",
+          "fr": "Je vous écris aujourd’hui pour vous adresser quelques paroles en ce moment délicat que vous vivez en tant que pasteurs du Peuple de Dieu pèlerin aux Etats-Unis d’Amérique.",
+          "it": "Vi scrivo oggi per rivolgervi alcune parole in questo delicato momento che state vivendo come Pastori del Popolo di Dio che pellegrina negli Stati Uniti d’America.",
+          "es": "Queridos hermanos en el episcopado:"
         },
         "language_count": 4
       },
       "metadata": {
-        "document_id": "20211017-omelia-ordinazione-episcopale",
-        "original_type": "homilies"
+        "document_id": "20250210-lettera-vescovi-usa",
+        "original_type": "letters"
       }
     },
     {
-      "id": "20211010-omelia-sinodo-vescovi",
+      "id": "20250210-messaggio-forum-popoli-indigeni",
       "pope": {
         "id": "francesco",
         "name": {
@@ -1476,31 +109,24 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20211010-omelia-sinodo-vescovi",
-        "title": "Holy Mass - Opening of the Synodal Path",
-        "type": "Homilies",
-        "date": "2021-10-10",
+        "id": "20250210-messaggio-forum-popoli-indigeni",
+        "title": "Message of the Holy Father Francis to organisers and participants in the 7th Meeting of the Forum of Indigenous Peoples",
+        "type": "Messages",
+        "date": "2025-02-10",
         "excerpt": {
-          "ar": "من أجل كنيسة سينودُسيّة: شركة ومشاركة ورسالة",
-          "zh_cn": "Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana",
-          "zh_tw": "Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana",
-          "en": "St Peter's BasilicaSunday, 10 October 2021",
-          "fr": "Basilique Saint-PierreDimanche 10 octobre 2021",
-          "de": "Ein Mann, ein Reicher, geht Jesus entgegen, als er »sich auf den Weg machte« (Mk10,17). Die Evangelien stellen uns Jesus oft „auf dem Weg“ vor, wie er den Weg des Menschen begleitet und den Fragen zuhört, die dessen Herz beschäftigen und bewegen. So zeigt er uns, dass Gott nicht an isolierten Orten, an ruhigen Orten wohnt, weit weg von der Realität, sondern mit uns geht und uns dort erreicht, wo immer wir sind, auf den manchmal holprigen Straßen des Lebens. Und heute, da wir den synodalen Weg eröffnen, beginnen wir damit, uns selbst zu fragen - der Papst, die Bischöfe, die Priester, die Ordensmänner und -frauen, die Laiinnen und Laien -: Verkörpern wir, die christliche Gemeinschaft, den Stil Gottes, der durch die Geschichte hindurchgeht und die Ereignisse der Menschheit teilt? Sind wir bereit, uns auf das Abenteuer des Weges einzulassen, oder flüchten wir uns aus Angst vor dem Unbekannten lieber in die Ausreden „das ist nicht nötig“ oder „das hat man schon immer so gemacht“?",
-          "it": "Basilica di San PietroDomenica, 10 ottobre 2021",
-          "pl": "Bazylika Świętego PiotraNiedziela, 10 października 2021 r.",
-          "pt": "Basílica de São PedroDomingo, 10 de outubro de 2021",
-          "es": "Basílica de San PedroDomingo, 10 de octubre de 2021"
+          "en": "To Her ExcellencyMs. Myrna CunninghamChair of the Steering Committeeof the Indigenous Peoples’ Forum of IFAD",
+          "it": "A sua Eccellenzala signora MYRNA CUNNINGHAMPresidente del Comitato Direttivo del Forum dei Popoli Indigenipresso il Fondo internazionale per lo sviluppo agricolo (IFAD)",
+          "es": "A Su Excelenciaseñora Myrna CunninghamPresidenta del Comité Directivodel Foro de los Pueblos Indígenas en el FIDA"
         },
-        "language_count": 10
+        "language_count": 3
       },
       "metadata": {
-        "document_id": "20211010-omelia-sinodo-vescovi",
-        "original_type": "homilies"
+        "document_id": "20250210-messaggio-forum-popoli-indigeni",
+        "original_type": "messages"
       }
     },
     {
-      "id": "20211002-omelia-gendarmeria",
+      "id": "20250209-omelia-giubileo-forzearmate",
       "pope": {
         "id": "francesco",
         "name": {
@@ -1511,23 +137,175 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20211002-omelia-gendarmeria",
-        "title": "Holy Mass celebrated for the Gendarmerie Corps of Vatican City State",
+        "id": "20250209-omelia-giubileo-forzearmate",
+        "title": "Jubilee of the Armed Forces, Police and Security Personnel – Holy Mass",
         "type": "Homilies",
-        "date": "2021-10-02",
+        "date": "2025-02-09",
         "excerpt": {
-          "de": "Lourdes-Grotte in den Vatikanischen GärtenSamstag, 2. Oktober 2021",
-          "it": "Grotta di Lourdes ai Giardini VaticaniSabato, 2 ottobre 2021"
+          "ar": "في القدّاس الإلهيّ في سنة اليوبيل",
+          "hr": "Jubilej oružanih, redarstvenih i snaga sigurnosti",
+          "en": "Saint Peter's Square5th Sunday in Ordinary Time, 9 February 2025",
+          "fr": "Place Saint-PierreVedimanche du temps ordinaire, 9 février 2025",
+          "de": "Petersplatz5. Sonntag im Jahreskreis, 9. Februar 2025",
+          "it": "Piazza San PietroV Domenica del Tempo Ordinario, 9 febbraio 2025",
+          "pl": "Plac Świętego PiotraV Niedziela Zwykła, 9 lutego 2025 r.",
+          "pt": "Praça São PedroV Domingo do Tempo Comum, 9 de fevereiro de 2025",
+          "es": "Plaza de San PedroV Domingo del Tiempo Ordinario, 9 de febrero de 2025"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "20250209-omelia-giubileo-forzearmate",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250208-hermandades",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250208-hermandades",
+        "title": "To Members of the Executive Commission of the Second International Congress of Confraternities and popular piety [Seville, 4-8 December 2024]",
+        "type": "Speeches",
+        "date": "2025-02-08",
+        "excerpt": {
+          "en": "Dear brothers in the Episcopate,Mr. President of the Junta de AndalucíaDistinguished authorities, ladies and gentlemen,",
+          "it": "Cari fratelli nell’Episcopato,signor Presidente della Giunta dell’Andalusia,illustri autorità, signore e signori,",
+          "es": "Queridos hermanos en el Episcopado,señor Presidente de la Junta de Andalucía,ilustres autoridades,señoras y señores:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250208-hermandades",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250207-messaggio-summit-parigi-ia",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250207-messaggio-summit-parigi-ia",
+        "title": "Message of the Holy Father for the Paris Summit on AI [10-11 February 2025]",
+        "type": "Messages",
+        "date": "2025-02-07",
+        "excerpt": {
+          "en": "Mr President, Your Excellencies, Distinguished Participants,",
+          "fr": "Monsieur le Président, Excellences, distingués participants,",
+          "it": "Ho appreso della vostra lodevole iniziativa di tenere un vertice sull’intelligenza artificiale, a Parigi, il 10 e l’11 febbraio 2025. Ho saputo che lei, signor Presidente, ha voluto dedicare questo vertice all’azionesull’intelligenza artificiale.",
+          "pt": "Tomei conhecimento da vossa louvável iniciativa de realizar uma cimeira sobre a inteligência artificial, em Paris, a 10 e 11 de fevereiro de 2025. Soube que V. Exa., senhor Presidente, quis dedicar esta cimeira àaçãoem matéria de inteligência artificial.",
+          "es": "He tenido conocimiento de su loable iniciativa de celebrar una cumbre sobre la inteligencia artificial en París los días 10 y 11 de febrero de 2025. He sabido que usted, señor presidente, ha querido dedicar esta cumbre a laacciónsobre la inteligencia artificial."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "20250207-messaggio-summit-parigi-ia",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20250207-talitha-kum",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250207-talitha-kum",
+        "title": "To Members of the \"Talitha Kum\" Network on the occasion of the World Day of Prayer against Human Trafficking",
+        "type": "Speeches",
+        "date": "2025-02-07",
+        "excerpt": {
+          "en": "I am pleased to meet you and to join you in your daily commitment to put an end to human trafficking. In particular, I thankTalitha Kumfor your service. Thank you! We are meeting on the eve of the feast ofSaint Josephine Bakhita, who was a victim of this terrible social scourge. Her story gives us strength and shows us that with the Lord’s grace, it is possible for those who suffered injustice and violence to shatter their chains, to go free and to become messengers of hope to others in difficult situations.",
+          "fr": "Je suis heureux de vous rencontrer et de m’unir à vous qui êtes chaque jour engagés contre la traite des personnes. Je remercie en particulier «Talitha Kum» pour le service qu’il accomplit. Merci!",
+          "de": "Liebe Schwestern und liebe Brüder!",
+          "it": "Care sorelle e cari fratelli!",
+          "pl": "Drogie Siostry i drodzy Bracia!",
+          "pt": "Queridas irmãs e queridos irmãos!",
+          "es": "Me alegro de encontrarme con ustedes y de unirme a quienes se comprometen diariamente en la lucha contra la trata de personas. Agradezco en particular a «Talitha Kum» el servicio que presta. ¡Gracias!"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "20250207-talitha-kum",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250206-chiese-ortodosse-orientali",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250206-chiese-ortodosse-orientali",
+        "title": "To Participants in the Study Visit of Young Priests and Monks of the Oriental Orthodox Churches",
+        "type": "Speeches",
+        "date": "2025-02-06",
+        "excerpt": {
+          "en": "“How very good and pleasant it is when kindred live together in unity!” (Ps133:1).  With these words of the Psalmist, I offer you a warm welcome and I express my joy for this visit of young priests and monks of the Armenian, Coptic, Ethiopian, Eritrean, Malankara and Syrian Oriental Orthodox Churches. My fraternal greeting goes to Archbishop Khajag Barsamian and to Bishop Barnabas El-Soryani, who are accompanying you. Through you, I wish to greet my venerable and dear brothers, the heads of the Oriental Orthodox Churches.",
+          "it": "«Quanto è buono e quanto è soave che i fratelli vivano insieme!» (Sal133,1). Con queste parole del Salmista, vi do il benvenuto e esprimo la mia gioia per questa visita di voi giovani sacerdoti e monaci delle Chiese Ortodosse Orientali, armena, copta, etiopica, eritrea, malankarese e siriaca. Saluto fraternamente l’Arcivescovo Khajag Barsamian e il Vescovo Barnaba El-Soryani, che vi accompagnano. E, attraverso di voi, desidero salutare i venerabili e cari fratelli Capi delle Chiese Ortodosse Orientali.",
+          "es": "«¡Qué bueno y agradable es que los hermanos vivan unidos!» (Sal133,1). Con estas palabras del salmista, les doy la bienvenida y expreso mi alegría por esta visita de ustedes, jóvenes sacerdotes y monjes de las Iglesias ortodoxas orientales, armenia, copta, etíope, eritrea, malankara y siríaca. Saludo fraternalmente al arzobispo Khajag Barsamian y al obispo Bernabé El-Soryani, que los acompañan. Y, a través de ustedes, deseo saludar a los venerables y queridos hermanos responsables de las Iglesias ortodoxas orientales."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250206-chiese-ortodosse-orientali",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250206-ostetrica-catanzaro",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250206-ostetrica-catanzaro",
+        "title": "To Members of the Order of Midwives of Catanzaro, Cosenza, Crotone and Vibo Valentia",
+        "type": "Speeches",
+        "date": "2025-02-06",
+        "excerpt": {
+          "en": "Dear sisters and dear brothers, good morning!",
+          "it": "Care sorelle e cari fratelli, buongiorno!"
         },
         "language_count": 2
       },
       "metadata": {
-        "document_id": "20211002-omelia-gendarmeria",
-        "original_type": "homilies"
+        "document_id": "20250206-ostetrica-catanzaro",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "20210923-omelia-ccee",
+      "id": "20250204-messaggio-giornata-controtratta",
       "pope": {
         "id": "francesco",
         "name": {
@@ -1538,29 +316,28 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20210923-omelia-ccee",
-        "title": "Mass with the Council of Bishops’ Conferences of Europe",
-        "type": "Homilies",
-        "date": "2021-09-23",
+        "id": "20250204-messaggio-giornata-controtratta",
+        "title": "Message of His Holiness Pope Francis for the 11th International Day of Prayer and Awareness against Human Trafficking",
+        "type": "Messages",
+        "date": "2025-02-04",
         "excerpt": {
-          "ar": "مع مجلس الأساقفة الكاثوليك في أوروبا",
-          "en": "St Peter's BasilicaThursday, 23 September 2021",
-          "fr": "Basilique Saint-PierreJeudi 23 septembre 2021",
-          "de": "Es gibt drei Verben, die das Wort Gottes uns heute bietet und die uns als Christen und Hirten in Europa herausfordern: nachdenken, wiederaufbauen, sehen.",
-          "it": "Basilica di San PietroGiovedì, 23 settembre 2021",
-          "pl": "Bazylika św. Piotra - Ołtarz KatedryCzwartek, 23 września 2021",
-          "pt": "Basílica de São PedroQuinta-feira, 23 de setembro de 2021",
-          "es": "Basílica de San PedroJueves, 23 de septiembre de 2021"
+          "en": "Ambassadors of hope:together against human trafficking",
+          "fr": "Ambassadeurs de l’espoir: ensemble contre la traite des personnes",
+          "de": "Mit großer Freude schließe ich mich dem 11. Welttag des Gebets und der Reflexion gegen den Menschenhandel an. Dieses Ereignis findet am liturgischen Gedenktag der heiligen Josefine Bakhita statt, einer Frau und Ordensschwester aus dem Sudan, die von Kindesbeinen an Opfer des Menschenhandels war und zum Symbol unseres Einsatzes gegen dieses schreckliche Phänomen geworden ist. Im Heiligen Jahr wollen wir als »Pilger der Hoffnung« auch auf dem Weg gegen den Menschenhandel gemeinsam vorangehen.",
+          "it": "Ambasciatori di speranza:insieme contro la tratta di persone",
+          "pl": "Ambasadorzy nadziei:razem przeciwko handlowi ludźmi",
+          "pt": "Embaixadores de esperança: juntos contra o tráfico de pessoas",
+          "es": "juntos contra la trata de personas"
         },
-        "language_count": 8
+        "language_count": 7
       },
       "metadata": {
-        "document_id": "20210923-omelia-ccee",
-        "original_type": "homilies"
+        "document_id": "20250204-messaggio-giornata-controtratta",
+        "original_type": "messages"
       }
     },
     {
-      "id": "20210915-omelia-sastin",
+      "id": "20250203-summit-diritti-bambini",
       "pope": {
         "id": "francesco",
         "name": {
@@ -1571,29 +348,28 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20210915-omelia-sastin",
-        "title": "Apostolic Journey to Slovakia: Holy Mass on the esplanade of the National Shrine in Šaštin",
-        "type": "Homilies",
-        "date": "2021-09-15",
+        "id": "20250203-summit-diritti-bambini",
+        "title": "To the World Leaders participating in the Summit on Children's Rights",
+        "type": "Speeches",
+        "date": "2025-02-03",
         "excerpt": {
-          "ar": "إلى بودابست في مناسبة القداس الختامي للمؤتمر الإفخارستي الدولي الثاني والخمسين وإلى سلوفاكيا",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS FRANCISTO BUDAPEST, ON THE OCCASION OF THE CONCLUDING HOLY MASSOF THE 52nd INTERNATIONAL EUCHARISTIC CONGRESS,AND TO SLOVAKIA(12-15 SEPTEMBER 2021)",
-          "fr": "VOYAGE APOSTOLIQUE DU SAINT-PÈREÀ BUDAPEST, À L'OCCASION DE LA MESSA DE CLÔTUREDU 52e CONGRÈS EUCHARISTIQUE INTERNATIONAL, ET EN SLOVAQUIE(12-15 SEPTEMBRE 2021)",
-          "de": "Feld vor dem Nationalheiligtum (Sastin)Mittwoch, 15. September 2021",
-          "it": "VIAGGIO APOSTOLICO DI SUA SANTITÀ FRANCESCOA BUDAPEST, IN OCCASIONE DELLA SANTA MESSA CONCLUSIVADEL 52.mo CONGRESSO EUCARISTICO INTERNAZIONALE, E IN SLOVACCHIA(12-15 SETTEMBRE 2021)",
-          "pl": "PODRÓŻ APOSTOLSKA OJCA ŚWIĘTEGO FRANCISZKA DO BUDAPESZTU— MSZA ŚW. NA ZAKOŃCZENIE  52. MIĘDZYNARODOWEGO KONGRESU EUCHARYSTYCZNEGO– I NA SŁOWACJĘ[12-15 września 2021 r.]",
-          "pt": "Esplanada do Santuário Nacional (Šaštin)Quarta-feira, 15 de setembro de 2021",
-          "es": "Explanada del Santuario nacional de ŠaštinMiércoles, 15 de septiembre de 2021"
+          "en": "Address of the Holy Father",
+          "fr": "Maître,chers frères et sœurs, bonjour!",
+          "de": "Ihre königliche Hoheit,liebe Brüder und Schwestern, guten Tag!",
+          "it": "Maestà,cari fratelli e sorelle, buongiorno!",
+          "pl": "Drodzy Bracia i Siostry, dzień dobry!",
+          "pt": "MajestadeAmados irmãos e irmãs, bom dia!",
+          "es": "queridos hermanos y hermanas, ¡buenos días!"
         },
-        "language_count": 8
+        "language_count": 7
       },
       "metadata": {
-        "document_id": "20210915-omelia-sastin",
-        "original_type": "homilies"
+        "document_id": "20250203-summit-diritti-bambini",
+        "original_type": "speeches"
       }
     },
     {
-      "id": "20210912-omelia-budapest",
+      "id": "20250203-pellegrinaggio-scandinavia",
       "pope": {
         "id": "francesco",
         "name": {
@@ -1604,25 +380,1121 @@
         "avatar": "https://api.popefeed.com/popes/francesco.jpg"
       },
       "document": {
-        "id": "20210912-omelia-budapest",
-        "title": "Apostolic Journey to Budapest: Holy Mass at Heroes' Square in Budapest",
-        "type": "Homilies",
-        "date": "2021-09-12",
+        "id": "20250203-pellegrinaggio-scandinavia",
+        "title": "Address of the Holy Father Francis to the Pilgrimage Promoted by the Scandinavian Bishops' Conference",
+        "type": "Speeches",
+        "date": "2025-02-03",
         "excerpt": {
-          "ar": "إلى بودابست في مناسبة القداس الختامي للمؤتمر الإفخارستي الدولي الثاني والخمسين وإلى سلوفاكيا",
-          "en": "APOSTOLIC JOURNEY OF HIS HOLINESS FRANCISTO BUDAPEST, ON THE OCCASION OF THE CONCLUDING HOLY MASSOF THE 52nd INTERNATIONAL EUCHARISTIC CONGRESS,AND TO SLOVAKIA(12-15 SEPTEMBER 2021)",
-          "fr": "VOYAGE APOSTOLIQUE DU SAINT-PÈREÀ BUDAPEST, À L'OCCASION DE LA MESSA DE CLÔTUREDU 52e CONGRÈS EUCHARISTIQUE INTERNATIONAL, ET EN SLOVAQUIE(12-15 SEPTEMBRE 2021)",
-          "de": "Heldenplatz (Budapest)Sonntag, 12. September 2021",
-          "it": "VIAGGIO APOSTOLICO DI SUA SANTITÀ FRANCESCOA BUDAPEST, IN OCCASIONE DELLA SANTA MESSA CONCLUSIVADEL 52.mo CONGRESSO EUCARISTICO INTERNAZIONALE, E IN SLOVACCHIA(12-15 SETTEMBRE 2021)",
-          "pl": "PODRÓŻ APOSTOLSKA OJCA ŚWIĘTEGO FRANCISZKA DO BUDAPESZTU— MSZA ŚW. NA ZAKOŃCZENIE  52. MIĘDZYNARODOWEGO KONGRESU EUCHARYSTYCZNEGO– I NA SŁOWACJĘ[12-15 września 2021 r.]",
-          "pt": "Praça dos Heróis (Budapeste)Domingo, 12 de setembro de 2021",
-          "es": "Plaza de los Héroes, BudapestDomingo, 12 de septiembre de 2021"
+          "en": "Your Eminence,Dear Brother Bishops,Dear friends,",
+          "de": "Eminenz,liebe Mitbrüder im Bischofsamt,liebe Freunde!",
+          "it": "Sono lieto di salutare tutti voi, provenienti da Svezia, Norvegia, Danimarca, Finlandia e Islanda, in occasione del vostro pellegrinaggio a Roma, organizzato dalla Conferenza Episcopale dei Paesi Nordici.",
+          "es": "Me alegra saludarlos a todos ustedes, procedentes de Suecia, Noruega, Dinamarca, Finlandia e Islandia, con ocasión de su peregrinación a Roma, organizada por la Conferencia Episcopal Nórdica."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "20250203-pellegrinaggio-scandinavia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250201-udienza-giubilare",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250201-udienza-giubilare",
+        "title": "Jubilee Audience: To hope is to turn around. Mary Magdalene",
+        "type": "Audiences",
+        "date": "2025-02-01",
+        "excerpt": {
+          "ar": "2. الرّجاء هو أن نلتَفِت. مريم المجدليّة",
+          "zh_tw": "Aula Paolo VISabato, 1° febbraio 2025",
+          "hr": "Dvorana Pavla VI.Subota, 1. veljače 2025.",
+          "en": "Audience HallSaturday, 1 February 2025",
+          "fr": "Salle Paul VISamedi 1erfévrier 2025",
+          "de": "Das Heilige Jahr ist ein Neuanfang für die Menschen und für die Erde. Es ist eine Zeit, in der alles im Rahmen des Traumes Gottes gesehen und neu überdacht werden muss. Und wir wissen, dass das Wort »Umkehr« eine Richtungsänderung bedeutet. Alles kann schließlich aus einer anderen Perspektive gesehen werden, und so gehen auch unsere Schritte auf neue Ziele zu. So entsteht Hoffnung, die nie enttäuscht. Davon erzählt die Bibel auf vielfältige Weise. Und auch unsere Erfahrung des Glaubens hat Impulse erhalten durch Begegnungen mit Menschen, die ihr Leben verändert haben und sozusagen in Gottes Träume eingetreten sind. Denn auch wenn es so viel Böses in der Welt gibt, können wir diejenigen erkennen, die anders sind: ihre Größe, die oft mit ihrer Kleinheit zusammenfällt, berührt uns.",
+          "it": "Aula Paolo VISabato, 1° febbraio 2025",
+          "pl": "Aula Pawła VISobota, 1 lutego 2025 r.",
+          "pt": "Sala Paulo VISábado, 1 de fevereiro de 2025",
+          "es": "Aula Pablo VISábado, 1 de febrero 2025"
+        },
+        "language_count": 10
+      },
+      "metadata": {
+        "document_id": "20250201-udienza-giubilare",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "20250131-inaugurazione-rota-romana",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250131-inaugurazione-rota-romana",
+        "title": "Inauguration of the Judicial Year of the Tribunal of the Roman Rota",
+        "type": "Speeches",
+        "date": "2025-01-31",
+        "excerpt": {
+          "en": "The inauguration of the Judicial Year of the Tribunal of the Roman Rota offers me the opportunity to reiterate my appreciate and my gratitude for your work. I warmly greet the Monsignor Dean and all those who provide your service in this Tribunal.",
+          "fr": "L’inauguration de l’Année judiciaire du Tribunal de la Rote romaine me donne l’occasion de renouveler l’expression de mon appréciation et de ma gratitude pour votre travail. Je salue cordialement Monsieur le doyen, ainsi que vous tous qui prêtez service dans ce Tribunal.",
+          "de": "Die Eröffnung des Gerichtsjahres des Gerichtshofes der Römischen Rota gibt mir Gelegenheit, erneut meine Anerkennung und meine Dankbarkeit für eure Arbeit zum Ausdruck zu bringen. Ich begrüße sehr herzlich Seine Exzellenz, den Dekan, sowie euch alle, die ihr an diesem Gerichtshof euren Dienst leistet.",
+          "it": "L’inaugurazione dell’Anno Giudiziario delTribunale della Rota Romanami offre l’opportunità di rinnovare l’espressione del mio apprezzamento e della mia gratitudine per il vostro lavoro. Saluto cordialmente Mons. Decano e tutti voi che prestate il vostro servizio in questo Tribunale.",
+          "pt": "A inauguração do Ano Judicial doTribunal da Rota Romanaoferece-me a oportunidade de renovar a expressão do meu apreço e da minha gratidão pelo vosso trabalho. Saúdo cordialmente o Mons. Decano e todos vós que prestais serviço neste Tribunal.",
+          "es": "La inauguración del Año Judicial delTribunal de la Rota Romaname brinda la oportunidad de renovar la expresión de mi aprecio y gratitud por su trabajo. Saludo cordialmente al Decano y a todos ustedes que sirven en este Tribunal."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "20250131-inaugurazione-rota-romana",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250130-diocesi-spagnole",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250130-diocesi-spagnole",
+        "title": "To Formators and Seminarians from the Spanish Dioceses of Valencia, Orihuela-Alicante, Segorbe-Castellón, Mallorca, Menorca, and Ibiza",
+        "type": "Speeches",
+        "date": "2025-01-30",
+        "excerpt": {
+          "en": "Dear brothers in the episcopate,Dear seminarians and formatorsof the Ecclesiastical Province of Valencia",
+          "it": "Cari fratelli nell’episcopato,cari seminaristi e formatoridella Provincia Ecclesiastica di Valencia,",
+          "es": "Queridos hermanos en el episcopado,"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250130-diocesi-spagnole",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250127-vescovi-comunicazione",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250127-vescovi-comunicazione",
+        "title": "To Bishops presiding over the Commissions for Communication and to National Directors of Communication Offices, to Participants in the Meeting Organized by the Dicastery for Communication",
+        "type": "Speeches",
+        "date": "2025-01-27",
+        "excerpt": {
+          "en": "I am pleased to welcome you who carry out a service of leadership in the field of communications in your local Churches. It is good to see bishops, priests, men and women religious, lay men and women gathered here, called to communicate the life of the Church and a Christian worldview. Communicating this Christian worldview is beautiful.",
+          "fr": "Chers frères et sœurs, bonjour !",
+          "it": "Cari fratelli care sorelle, buongiorno!",
+          "pl": "Drodzy Bracia i Siostry, dzień dobry!",
+          "pt": "Prezados irmãos e irmãs, bom dia!",
+          "es": "Queridos hermanos y hermanas, buenos días."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "20250127-vescovi-comunicazione",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250126-domenica-parola-didio",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250126-domenica-parola-didio",
+        "title": "Sunday of the Word of God - Jubilee of the World of Communication",
+        "type": "Homilies",
+        "date": "2025-01-26",
+        "excerpt": {
+          "ar": "(الأحد الثّالث من زمن السّنة)",
+          "en": "Saint Peter's BasilicaIII Sunday in Ordinary Time, 26 January 2025",
+          "fr": "Basilique Saint-PierreIIIedimanche du Temps ordinaire, 26 janvier 2025",
+          "de": "PREDIGT VON PAPST FRANZISKUSPetersdom3. Sonntag im Jahreskreis, 26. Januar 2025",
+          "it": "Basilica di San PietroIII Domenica del Tempo Ordinario, 26 gennaio 2025",
+          "pl": "Bazylika Świętego PiotraIII Niedziela Zwykła, 26 stycznia 2025 r.",
+          "pt": "Basílica de São PedroTerceiro Domingo do Tempo Comum, 26 de janeiro de 2025",
+          "es": "Basílica de San PedroIII Domingo del Tiempo Ordinario, 26 de enero de 2025"
         },
         "language_count": 8
       },
       "metadata": {
-        "document_id": "20210912-omelia-budapest",
+        "document_id": "20250126-domenica-parola-didio",
         "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250125-vespri-unita-cristiani",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250125-vespri-unita-cristiani",
+        "title": "Solemnity of the Conversion of Saint Paul the Apostle - Celebration of Second Vespers",
+        "type": "Homilies",
+        "date": "2025-01-25",
+        "excerpt": {
+          "ar": "في صلاة الغروب الثّانية يوم عيد اهتداء القدّيس بولس",
+          "en": "58thWEEK OF PRAYER FOR CHRISTIAN UNITYHOMILY OF THE HOLY FATHER",
+          "fr": "CÉLÉBRATION DES SECONDES VÊPRESLVIIIe SEMAINE DE PRIÈRE POUR L'UNITÉ DES CHRÉTIENS",
+          "de": "Feier der Zweiten Vesper58. GEBETSWOCHE FÜR DIE EINHEIT DER CHRISTEN",
+          "it": "Basilica di San Paolo fuori le MuraSabato, 25 gennaio 2025",
+          "pt": "Basílica de São Paulo ExtramurosSábado, 25 de janeiro de 2025",
+          "es": "Basílica de San Pablo extramurosSábado, 25 de enero de 2025"
+        },
+        "language_count": 8
+      },
+      "metadata": {
+        "document_id": "20250125-vespri-unita-cristiani",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250125-rettori-seminari-francia",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250125-rettori-seminari-francia",
+        "title": "To Rectors of the Major Seminaries of France",
+        "type": "Speeches",
+        "date": "2025-01-25",
+        "excerpt": {
+          "en": "I am pleased to meet you on the occasion of your jubilee pilgrimage, during which you have gathered to reflect on priestly formation. This is a journey of discernment in which you perform an essential role. You are like the elderly priest Eli, who says to the young Samuel, “Speak, Lord, for your servant is listening” (1 Sam3:9). You are the reassuring presence, the compass for the young people entrusted to your care.",
+          "fr": "je suis heureux de vous accueillir à l’occasion de votre pèlerinage jubilaire, alors que vous vous êtes réunis pour réfléchir sur la formation sacerdotale. Celle-ci est un cheminement de discernement dans lequel vous jouez un rôle essentiel. Vous êtes, comme ce vieux prêtre Eli qui disait au jeune Samuel : « S’Il t’appelle, tu diras : “Parle, Seigneur, ton serviteur écoute.” » (1 Sm3, 1-10). Vous êtes cette présence rassurante, cette boussole pour les jeunes confiés à vos soins.",
+          "it": "sono lieto di accogliervi in ​​occasione del vostro pellegrinaggio giubilare, durante il quale vi siete riuniti per riflettere sulla formazione sacerdotale. Questa è un cammino di discernimento in cui voi svolgete un ruolo essenziale. Siete come l’anziano sacerdote Eli che disse al giovane Samuele: «Se ti chiamerà, dirai: “Parla, Signore, perché il tuo servo ti ascolta”» (1 Sam3,9). Voi siete la presenza rassicurante, la bussola per i giovani affidati alle vostre cure."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250125-rettori-seminari-francia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250125-giubileo-comunicazione",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250125-giubileo-comunicazione",
+        "title": "To Journalists and Communicators participating in the Jubilee of Communication",
+        "type": "Speeches",
+        "date": "2025-01-25",
+        "excerpt": {
+          "en": "Expromptu SpeechDear sisters and dear brothers, good morning! And thank you very much for coming!",
+          "fr": "Chers frères et sœurs, bonjour !",
+          "de": "Bei der Audienz für Medienschaffende aus aller Welt legte der Papst sein vorbereitetes Manuskript zur Seite und sprach frei. Der Heilige Vater sagte:",
+          "it": "Parole a braccio del Santo Padre",
+          "pl": "Słowa Ojca Świętego na rozpoczęcie spotkania",
+          "pt": "Estimadas irmãs e irmãos, bom dia! E obrigado por terdes vindo!",
+          "es": "Palabras pronunciadas espontáneamente por el Santo Padre"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "20250125-giubileo-comunicazione",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250123-sicurezza",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250123-sicurezza",
+        "title": "To Directors and Personnel of the Vatican Public Security Inspectorate",
+        "type": "Speeches",
+        "date": "2025-01-23",
+        "excerpt": {
+          "en": "Mr. Deputy Chief of Police,Mr. Prefect and Mr. Director,Dear Officers and Agents, welcome!",
+          "it": "Signor Vice-Capo della Polizia,Signora Prefetto e Signor Dirigente,Cari Funzionari e Agenti, benvenuti!",
+          "es": "Señor Vicejefe de la Policía,"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250123-sicurezza",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250123-rete-mondiale-preghiera",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250123-rete-mondiale-preghiera",
+        "title": "To Members of the Pope's Worldwide Prayer Network Foundation",
+        "type": "Speeches",
+        "date": "2025-01-23",
+        "excerpt": {
+          "en": "Dear brothers and sisters, welcome!",
+          "fr": "Chers frères et chères sœurs,",
+          "it": "Cari fratelli e care sorelle, benvenuti!",
+          "es": "Queridos hermanos y hermanas, ¡bienvenidos!"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "20250123-rete-mondiale-preghiera",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250123-federazione-aci",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250123-federazione-aci",
+        "title": "To the Presidents and Directors of the Italian Federation of the Automobile Club",
+        "type": "Speeches",
+        "date": "2025-01-23",
+        "excerpt": {
+          "en": "Dear brothers and sisters, good morning.",
+          "it": "Cari fratelli e sorelle, buongiorno."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20250123-federazione-aci",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250122-hilton-foundation",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250122-hilton-foundation",
+        "title": "To Members of the Hilton Foundation",
+        "type": "Speeches",
+        "date": "2025-01-22",
+        "excerpt": {
+          "en": "Dear Ladies and Gentlemen,welcome, good morning and thank you for your visit!",
+          "de": "Sehr geehrte Damen und Herren,herzlich willkommen, guten Tag, und danke für diesen Besuch!",
+          "it": "Gentili Signore e Signori, benvenuti, buongiorno, e grazie di questa visita!",
+          "es": "Señoras y señores, bienvenidos, buenos días y gracias por esta visita."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "20250122-hilton-foundation",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250120-collegio-capranica",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250120-collegio-capranica",
+        "title": "To the Community of the Almo Collegio Capranica in Rome",
+        "type": "Speeches",
+        "date": "2025-01-20",
+        "excerpt": {
+          "en": "Dear seminarians, deacons, priests, and alumni of the Almo Collegio Capranica,Dear formators,",
+          "de": "Liebe Seminaristen, Diakone, Priester,Alumnen des »Almo Collegio Capranica«,liebe Ausbilder!",
+          "it": "Cari seminaristi, diaconi, presbiteri, alunni dell’Almo Collegio Capranica,Cari formatori,"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250120-collegio-capranica",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250120-delegazione-finlandia",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250120-delegazione-finlandia",
+        "title": "To the Ecumenical Delegation from Finland",
+        "type": "Speeches",
+        "date": "2025-01-20",
+        "excerpt": {
+          "en": "Dear brothers and sisters, good morning!",
+          "fr": "Chers frères et sœurs, bonjour!",
+          "de": "Liebe Brüder und Schwestern, guten Tag!",
+          "it": "Cari fratelli e sorelle, buongiorno!",
+          "es": "Queridos hermanos y hermanas, ¡buenos días!"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "20250120-delegazione-finlandia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250118-guardia-svizzera",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250118-guardia-svizzera",
+        "title": "To Members of the Foundation of the Pontifical Swiss Guard",
+        "type": "Speeches",
+        "date": "2025-01-18",
+        "excerpt": {
+          "en": "Good morning,Madam President and members of the Board of the Swiss Pontifical Guard Foundation,Mr. Commander,Your Excellencies,Dear benefactors!",
+          "fr": "Madame la Présidente et membres du Conseil de la Fondation de la Garde Suisse Pontificale,Monsieur le Commandant,Excellences,chers bienfaiteurs,",
+          "de": "Sehr geehrte Frau Präsidentinund Mitglieder des Rates der Stiftung der Päpstlichen Schweizergarde,Herr Kommandant,Exzellenzen,liebe Wohltäterinnen und Wohltäter,",
+          "it": "Signora Presidente e membri del Consiglio della Fondazione della Guardia Svizzera Pontificia,Signor Comandante,Eccellenze,cari benefattori!"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "20250118-guardia-svizzera",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250118-fondazione-cattolica",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250118-fondazione-cattolica",
+        "title": "To a Delegation of the Catholic Foundation",
+        "type": "Speeches",
+        "date": "2025-01-18",
+        "excerpt": {
+          "en": "I am pleased to meet you at the beginning of this year, in which we celebrate the Jubilee of hope. Together,peregrinantes in spem: walking as pilgrims in the world reminds us that we are not its masters, but rather itscustodians.This affects all of us: we are called to take care of the common home that the Lord has entrusted to us, that is, to cultivate it and safeguard it according to a wise and respectful rule. To safeguard our common home. The term “economy” means precisely this: a wise “home management”: those who know how to manage their own home, the common home, the social home.",
+          "it": "Sono lieto di incontrarvi all’inizio di quest’anno, nel quale celebriamo il Giubileo della speranza. Insieme,peregrinantes in spem: camminare come pellegrini nel mondo ci ricorda che non ne siamo padroni, bensìcustodi. Questo ci riguarda tutti: siamo chiamati a prenderci cura della casa comune che il Signore ci ha affidato, cioè a coltivarla e custodirla secondo una regola sapiente e rispettosa; custodire la nostra casa comune. Il termine “economia” significa proprio questo: una saggia “gestione della casa”, gestire la propria casa, la casa comune, la casa sociale."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20250118-fondazione-cattolica",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250117-seminario-cordoba",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250117-seminario-cordoba",
+        "title": "To the Community of the Seminary of Córdoba (Spain)",
+        "type": "Speeches",
+        "date": "2025-01-17",
+        "excerpt": {
+          "en": "Dear brother,Dear seminarians and formators,",
+          "it": "Caro fratello,Cari seminaristi e formatori,",
+          "es": "Querido hermano,queridos seminaristas y formadores:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250117-seminario-cordoba",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250116-collegio-sacerdotale-argentino",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250116-collegio-sacerdotale-argentino",
+        "title": "To the community of the Argentine Priests' College in Rome",
+        "type": "Speeches",
+        "date": "2025-01-16",
+        "excerpt": {
+          "en": "Dear priests, formators,Ladies and gentlemen:",
+          "de": "Liebe Priester und Ausbilder,meine Damen und Herren!",
+          "it": "Cari sacerdoti, formatori,signore e signori,",
+          "es": "Queridos sacerdotes, formadores,señoras y señores:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "20250116-collegio-sacerdotale-argentino",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250116-delegazione-albanese",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250116-delegazione-albanese",
+        "title": "To members of a delegation from Albania led by His Grace Dede Edmond Brahimaj",
+        "type": "Speeches",
+        "date": "2025-01-16",
+        "excerpt": {
+          "en": "Dear Brother, Haxhi Baba Edmond Brahimaj,Your Excellencies,Dear Friends,",
+          "it": "Caro fratello, Haxhi Baba Edmond Brahimaj,Eccellenze,cari amici,",
+          "es": "Querido hermano, Haxhi Baba Edmond Brahimaj,"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250116-delegazione-albanese",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250115-caritas-latinoamerica",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250115-caritas-latinoamerica",
+        "title": "To Presidents and National Directors of Caritas in Latin America and the Caribbean",
+        "type": "Speeches",
+        "date": "2025-01-15",
+        "excerpt": {
+          "en": "Dear brothers in the episcopate,Esteemed national directors of Caritas in Latin America and the Caribbean,Ladies and gentlemen,",
+          "it": "Cari fratelli nell’episcopato,stimati direttori nazionalidelle Caritas dell’America Latina e dei Caraibi,signore e signori,",
+          "pt": "Amados irmãos no episcopadoestimados diretores nacionaisda Cáritas da América Latina e CaribeSenhoras e senhores!",
+          "es": "Queridos hermanos en el episcopado, estimados directores nacionales de Cáritas de Latinoamérica y el Caribe, señoras y señores:"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "20250115-caritas-latinoamerica",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250113-buddisti-mongolia",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250113-buddisti-mongolia",
+        "title": "To the Buddhist Delegation from Mongolia",
+        "type": "Speeches",
+        "date": "2025-01-13",
+        "excerpt": {
+          "en": "I am very pleased to greet all of you, and in particular Venerable D. Javzandorj, Abbot of Gandantegchinlen Monastery in Ulaanbaatar, together with His Eminence Cardinal Giorgio Marengo, Apostolic Prefect of Ulaanbaatar. Your first visit to the Vatican has a particular significance as it reflects the friendly and enduring relations between the Holy See and the noble people of Mongolia, a friendship that I had the privilege of experiencing during myApostolic Journey to your country in 2023.",
+          "it": "sono molto lieto di salutare tutti voi, in particolare il Venerabile D. Javzandorj, Abate del Monastero Gandantegchinlen di Ulaanbaatar, insieme a Sua Eminenza il Cardinale Giorgio Marengo, Prefetto Apostolico di Ulaanbaatar. La vostra prima visita in Vaticano riveste un significato particolare, perché riflette i rapporti amichevoli e duraturi tra la Santa Sede e il nobile Popolo della Mongolia, amicizia che ho avuto il privilegio di sperimentare durante il mioViaggio Apostolico nel vostro Paese nel 2023."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20250113-buddisti-mongolia",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250112-omelia-battesimo",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250112-omelia-battesimo",
+        "title": "Feast of the Baptism of the Lord – Holy Mass and administration of the Sacrament of Baptism to some new-born Babies",
+        "type": "Homilies",
+        "date": "2025-01-12",
+        "excerpt": {
+          "en": "Sixtine ChapelSunday, 12 January 2025",
+          "it": "Cappella SistinaDomenica, 12 gennaio 2025"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20250112-omelia-battesimo",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250111-cooperativa-granada",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250111-cooperativa-granada",
+        "title": "To a Delegation of the \"Supermercados Cooperativa Virgen de las Angustias\", Granada (Spain)",
+        "type": "Speeches",
+        "date": "2025-01-11",
+        "excerpt": {
+          "it": "È per me un piacere incontrarvi oggi, nella grata occasione del 65° anniversario della fondazione della Cooperativa Virgen de las Angustias. Ho letto con interesse il lavoro che svolgete come azienda e come fondazione. Questo binomio mi sembra importante, poiché il primo aiuto che possiamo dare alla società è di valorizzare i beni che abbiamo, con un servizio professionale che risponda ai bisogni reali delle persone e permetta uno sviluppo sostenibile. È da lì che possiamo offrire il nostro aiuto a quanti, a causa delle calamità naturali, della guerra, della disabilità o dell’esclusione sociale, hanno bisogno di un ulteriore sostegno. Vi siete proposti di raggiungere entrambi gli obiettivi e mi sembra un bel proposito.",
+          "es": "Es para mí un placer encontrarme con ustedes hoy, en la grata ocasión del 65 aniversario de la fundación de laCooperativa Virgen de las Angustias. He leído con interés la labor que realizan como empresa y como fundación. Este binomio me parece importante, pues la primera ayuda que podemos dar a la sociedad es poner en valor los bienes que tenemos, con un servicio profesional que afronte las necesidades reales de las personas y permita un desarrollo sostenible. Es desde ahí que podemos ofrecer nuestro auxilio a aquellos que, por causa de las calamidades naturales, la guerra, la discapacidad o la exclusión social, necesitan un apoyo ulterior. Ustedes se han propuesto alcanzar ambos estándares y me parece un hermoso propósito."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20250111-cooperativa-granada",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250111-udienza-giubilare",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250111-udienza-giubilare",
+        "title": "Jubilee Audience: To hope is to begin again – John the Baptist",
+        "type": "Audiences",
+        "date": "2025-01-11",
+        "excerpt": {
+          "ar": "1. الرّجاء هو أن نبدأ من جديد – يوحنّا المعمدان",
+          "zh_tw": "Aula Paolo VISabato, 11 gennaio 2025",
+          "hr": "Dvorana Pavla VI.Subota, 11. siječnja 2025.",
+          "en": "Audience HallSaturday, 11 January 2025",
+          "fr": "Salle Paul VISamedi 11 janvier 2025",
+          "de": "Liebe Brüder und Schwestern, guten Tag!",
+          "it": "Aula Paolo VISabato, 11 gennaio 2025",
+          "pl": "Aula Pawła VISobota, 11 stycznia 2025 r.",
+          "pt": "Sala Paulo VISábado, 11 de janeiro de 2025",
+          "es": "Sala Pablo VISábado, 11 de enero de 2025"
+        },
+        "language_count": 10
+      },
+      "metadata": {
+        "document_id": "20250111-udienza-giubilare",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "20250110-bambini-wroclaw",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250110-bambini-wroclaw",
+        "title": "To Children being treated in the Pediatric Oncology Clinic of Wrocław (Poland)",
+        "type": "Speeches",
+        "date": "2025-01-10",
+        "excerpt": {
+          "en": "Mr. Consul,Madam Professor,Dear healthcare workers,Dear Father, dear parents, dearest children!",
+          "it": "Signor Console,Signora Professoressa,Signore e Signori operatori sanitari,caro Padre, cari genitori, carissimi bambini!",
+          "pl": "Szanowny Panie Konsulu,Szanowna Pani Profesor,Drodzy Państwo, sprawujący opiekę medyczną,Czcigodny Księże,Drodzy Rodzice, kochane Dzieci!"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20250110-bambini-wroclaw",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20250106-omelia-epifania",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250106-omelia-epifania",
+        "title": "Holy Mass on the Solemnity of the Epiphany of the Lord",
+        "type": "Homilies",
+        "date": "2025-01-06",
+        "excerpt": {
+          "ar": "في عيد ظهور الرّبّ يسوع",
+          "hr": "Bazilika Sv. Petra, 6. siječnja 2025.",
+          "en": "Saint Peter's BasilicaMonday, 6. January 2025",
+          "fr": "Basilique Saint-PierreLundi 6 janvier 2025",
+          "de": "»Wir haben seinen Stern aufgehen sehen und sind gekommen, um ihm zu huldigen« (Mt2,2): Das ist das Zeugnis, das die Sterndeuter den Bewohnern Jerusalems geben und mit dem sie ihnen verkünden, dass der König der Juden geboren wurde.",
+          "it": "Basilica di San PietroLunedì, 6 gennaio 2025",
+          "pl": "Bazylika Świętego PiotraPoniedziałek, 6 stycznia 2025 r.",
+          "pt": "Basílica de São PedroSegunda-feira, 6 de janeiro de 2025",
+          "es": "Basílica de San PedroLunes, 6 de enero de 2025"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "20250106-omelia-epifania",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20250101-omelia-madredidio-pace",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20250101-omelia-madredidio-pace",
+        "title": "Holy Mass on the Solemnity of Mary, Mother of God",
+        "type": "Homilies",
+        "date": "2025-01-01",
+        "excerpt": {
+          "ar": "عيد القدّيسة مريم والدة الله",
+          "en": "HOLY MASS ON THE SOLEMNITY OF MARY, MOTHER OF GOD58thWORLD DAY OF PEACE",
+          "fr": "MESSE EN LA SOLENNITÉ DE MARIE MÈRE DE DIEULVIIIeJOURNÉE MONDIALE DE LA PAIX",
+          "de": "Zu Beginn eines neuen Jahres, das der Herr unserem Leben gewährt, ist es gut, den Blick unseres Herzens auf Maria zu richten. Denn als Mutter verweist sie uns auf die Beziehung zu ihrem Sohn: Sie bringt uns zurück zu Jesus, sie spricht zu uns über Jesus, sie führt uns zu Jesus. So tauchen wir am Hochfest der Gottesmutter Maria erneut in das Weihnachtsgeheimnis ein: Gott wurde im Schoß Marias einer von uns, und wir, die wir die Heilige Pforte zum Beginn des Jubiläums geöffnet haben, werden heute daran erinnert, dass »Maria die Tür ist, durch die Christus in diese Welt eingetreten ist« (Hl. Ambrosius,Brief 42, 4:PL, VII).",
+          "it": "Basilica di San PietroMercoledì, 1° gennaio 2025",
+          "pl": "Bazylika Świętego PiotraŚroda, 1 stycznia 2025 r.",
+          "pt": "Basílica de São PedroQuarta-feira, 1° de janeiro de 2025",
+          "es": "Basílica de San PedroMiércoles, 1 de enero de 2025"
+        },
+        "language_count": 8
+      },
+      "metadata": {
+        "document_id": "20250101-omelia-madredidio-pace",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241231-omelia-te-deum",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241231-omelia-te-deum",
+        "title": "Celebration of Vespers and Te Deum in Thanksgiving for the past year",
+        "type": "Homilies",
+        "date": "2024-12-31",
+        "excerpt": {
+          "en": "Saint Peter's BasilicaTuesday, 31 December 2024",
+          "fr": "Basilique Saint-PierreMardi 31 décembre 2024",
+          "de": "Dies ist die Stunde, Dank zu sagen, und wir haben die Freude, dies zu tun, während wir die heilige Mutter Gottes ehren. Sie, die das Geheimnis Jesu in ihrem Herzen bewahrt, lehrt auch uns, die Zeichen der Zeit im Licht dieses Geheimnisses zu deuten.",
+          "it": "Basilica di San PietroMartedì, 31 dicembre 2024",
+          "pl": "Bazylika Świętego PiotraWtorek, 31 grudnia 2024 r.",
+          "pt": "Basílica de São PedroTerça-feira, 31 de dezembro de 2024",
+          "es": "Basílica de San PedroMartes, 31 de diciembre de 2024"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "20241231-omelia-te-deum",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241230-lettera-card-parolin",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241230-lettera-card-parolin",
+        "title": "Letter from the Holy Father to the Pontifical Legate for the Consecration of the Church of the Baptism of Jesus (Jordan) [January 10, 2025]",
+        "type": "Letters",
+        "date": "2024-12-30",
+        "excerpt": {
+          "la": "Venerabili Fratri NostroPETRO S.R.E. Cardinali PAROLINSecretario Status"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "20241230-lettera-card-parolin",
+        "original_type": "letters"
+      }
+    },
+    {
+      "id": "20241228-messaggio-taize",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241228-messaggio-taize",
+        "title": "Message of the Holy Father, signed by the Cardinal Secretary of State, to mark the 47th European meeting of young people organized by the Taizé Community in Tallinn [28 December 2024 - 1st January 2025]",
+        "type": "Messages",
+        "date": "2024-12-28",
+        "excerpt": {
+          "en": "It is on the shores of the Baltic, in Tallinn, that you are meeting this year for the 47th European Youth Meeting led by the Taizé Community. Pope Francis sends his warmest greetings to you, to the brothers of the Community, to the leaders of the various Christian confessions in Estonia and to all the people of good will who are welcoming you at the end of this year.",
+          "fr": "c’est aux bords de la Baltique, à Tallinn, que vous vous réunissez cette année à l’occasion de la 47èmeRencontre européenne animée par la communauté de Taizé. Le Pape François vous adresse ses chaleureuses salutations, ainsi qu’aux frères de la communauté, aux responsables des diverses confessions chrétiennes de l’Estonie et à toutes les personnes de bonne volonté qui vous accueillent en cette fin d’année."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "20241228-messaggio-taize",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "20241226-apertura-portasanta-rebibbia",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241226-apertura-portasanta-rebibbia",
+        "title": "Opening of the Holy Door in the Prison of Rebibbia and Holy Mass",
+        "type": "Homilies",
+        "date": "2024-12-26",
+        "excerpt": {
+          "en": "Prison of Rebibbia, RomaThursday, 26 December 2024",
+          "fr": "Prison romaine de Rebibbia, RomeJeudi 26 décembre 2024",
+          "de": "Strafanstalt Rebibbia, RomDonnerstag, 26. Dezember 2024",
+          "it": "Casa Circondariale di Rebibbia, RomaGiovedì, 26 dicembre 2024",
+          "pl": "Zakład Karny Rebibbia w RzymieCzwartek, 26 grudnia 2024 r.",
+          "pt": "Prisão de Rebibbia, em Romaquinta-feira, 26 de dezembro de 2024",
+          "es": "Centro de detención de Rebibbia, RomaJueves, 26 de diciembre de 2024"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "20241226-apertura-portasanta-rebibbia",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241224-omelia-natale",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241224-omelia-natale",
+        "title": "Holy Mass on the Solemnity of the Nativity of the Lord",
+        "type": "Homilies",
+        "date": "2024-12-24",
+        "excerpt": {
+          "ar": "الثّلاثاء 24 كانون الأوّل/ديسمبر 2024",
+          "en": "Saint Peter's BasilicaTuesday, 24 December 2024",
+          "fr": "Basilique Saint-PierreMardi 24 décembre 2024",
+          "de": "Ein in Licht gehüllter Engel des Herrn erleuchtet die Nacht und verkündet den Hirten die frohe Botschaft: »Ich verkünde euch eine große Freude, die dem ganzen Volk zuteilwerden soll: Heute ist euch in der Stadt Davids der Retter geboren; er ist der Christus, der Herr« (Lk2,10-11). Inmitten des Staunens der Armen und des Gesangs der Engel öffnet sich der Himmel auf Erden: Gott ist einer von uns geworden, um uns ihm gleich zu machen, er ist zu uns herabgestiegen, um uns wieder aufzurichten und in die Umarmung des Vaters zurückzuführen.",
+          "it": "Basilica di San PietroMartedì, 24 dicembre 2024",
+          "pl": "Bazylika Świętego PiotraWtorek, 24 grudnia 2024 r.",
+          "pt": "Basílica VaticanaTerça-feira, 24 de dezembro de 2024",
+          "es": "Basílica de San PedroMartes, 24 de diciembre de 2024"
+        },
+        "language_count": 8
+      },
+      "metadata": {
+        "document_id": "20241224-omelia-natale",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "20241221-curia-romana",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241221-curia-romana",
+        "title": "Christmas Greetings of the Holy Father to the Roman Curia",
+        "type": "Speeches",
+        "date": "2024-12-21",
+        "excerpt": {
+          "ar": "أشكر من كلّ قلبي الكاردينال ري (Re) على كلامه وأمنياته. شكرًا، يا صاحب النّيافة، على مثالك في الاستعداد للخدمة ومحبّة الكنيسة.",
+          "en": "“Bless and do not curse”",
+          "fr": "Dites du bien et non du mal",
+          "it": "Ringrazio di cuore il Cardinale Re per le sue parole augurali; non invecchia questo! E questo è bello. Grazie, Eminenza, per il Suo esempio di disponibilità e di amore alla Chiesa.",
+          "pl": "Mówcie dobrze, a nie mówcie źle",
+          "pt": "Agradeço de todo o coração ao Cardeal Re pelas suas palavras de felicitações; os anos não passam por ele! É bonito isto. Obrigado, Eminência, pelo seu exemplo de disponibilidade e de amor à Igreja.",
+          "es": "Agradezco de corazón al Cardenal Re por sus palabras de felicitación; parece que no envejece y esto es algo lindo. Gracias, Eminencia, por su ejemplo de disponibilidad y amor a la Iglesia."
+        },
+        "language_count": 8
+      },
+      "metadata": {
+        "document_id": "20241221-curia-romana",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20241221-dipendenti-scv",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241221-dipendenti-scv",
+        "title": "To the employees of Vatican City State for the exchange of Christmas greetings",
+        "type": "Speeches",
+        "date": "2024-12-21",
+        "excerpt": {
+          "en": "Dear sisters, dear brothers, good morning and welcome!",
+          "fr": "Chères sœurs, chers frères,bonjour et bienvenue!",
+          "de": "Liebe Schwestern, liebe Brüder, guten Tag, willkommen!",
+          "it": "Care sorelle, cari fratelli, buongiorno, benvenuti!",
+          "es": "Queridas hermanas, queridos hermanos, buenos días, ¡bienvenidos!"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "20241221-dipendenti-scv",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20241220-federazione-bocce",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241220-federazione-bocce",
+        "title": "To the Italian Federation of the Ball-game \"Bocce\"",
+        "type": "Speeches",
+        "date": "2024-12-20",
+        "excerpt": {
+          "en": "Ladies and Gentlemen, good morning and welcome!",
+          "it": "Gentili Signore e Signori, buongiorno e benvenuti!",
+          "es": "Queridas señoras y señores, ¡buenos días y bienvenidos!"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20241220-federazione-bocce",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20241220-ragazzi-aci",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241220-ragazzi-aci",
+        "title": "To the young people from Italian Catholic Action",
+        "type": "Speeches",
+        "date": "2024-12-20",
+        "excerpt": {
+          "en": "Dear brothers and sisters, dear young people, good morning!",
+          "fr": "Chers frères et sœurs,chers jeunes, bonjour!",
+          "it": "Cari fratelli e sorelle, carissimi ragazzi, buongiorno!",
+          "pl": "Drodzy Bracia i Siostry, droga Młodzieży, dzień dobry!",
+          "es": "Queridos hermanos y hermanas, queridos chicos y chicas, ¡buenos días!"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "20241220-ragazzi-aci",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "20241219-vietnamiti-stati-uniti",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "20241219-vietnamiti-stati-uniti",
+        "title": "To Vietnamese benefactors of the Pontifical Mission Societies residing in the United States",
+        "type": "Speeches",
+        "date": "2024-12-19",
+        "excerpt": {
+          "en": "I am pleased to greet you during your pilgrimage to Rome, which occurs only a few days before the opening of the Holy Door marking the beginning of the Jubilee Year. It is my desire that this time will enable all the faithful to have a genuine, personal encounter with the Lord Jesus Christ whom we must proclaim always, everywhere and to all as our hope (cf.Spes Non Confundit, 1). Your commitment to supporting the missionary and charitable works of the universal Church is a concrete expression of this proclamation, and will help to bring the hope born of the Gospel to many of our brothers and sisters in various parts of the world.",
+          "it": "sono lieto di accogliervi durante il vostro pellegrinaggio a Roma: avviene a pochi giorni dall’apertura della Porta Santa, che segna l’inizio dell’Anno giubilare. Auspico che questo tempo consenta a tutti i fedeli di vivere un incontro autentico e personale con il Signore Gesù Cristo, che dobbiamo annunciare sempre, ovunque e a tutti come nostra speranza (cfrSpes non confundit, 1). Il vostro impegno nel sostenere le opere missionarie e caritative della Chiesa universale è un’espressione concreta di questo annuncio e contribuirà a portare la speranza nata dal Vangelo a molti nostri fratelli e sorelle, in varie parti del mondo.",
+          "es": "Me complace darles la bienvenida durante su peregrinación a Roma: se realiza pocos días antes de la apertura de la Puerta Santa, que marca el inicio del Año Jubilar. Espero que este tiempo permita a todos los fieles vivir un encuentro auténtico y personal con el Señor Jesucristo, a quien debemos anunciar siempre, en todas partes y a todos como nuestra esperanza (cf.Spes non confundit, 1). Su compromiso de apoyar las obras misioneras y caritativas de la Iglesia universal es una expresión concreta de este anuncio y contribuirá a llevar la esperanza nacida del Evangelio a muchos de nuestros hermanos y hermanas en diversas partes del mundo."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "20241219-vietnamiti-stati-uniti",
+        "original_type": "speeches"
       }
     }
   ]

@@ -1,0 +1,1472 @@
+{
+  "meta": {
+    "page": 272,
+    "per_page": 50,
+    "total_pages": 349,
+    "total_posts": 17444,
+    "has_next": true,
+    "has_prev": true,
+    "next_page": 273,
+    "prev_page": 271
+  },
+  "posts": [
+    {
+      "id": "papa-francesco_20211222_udienza-generale",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20211222_udienza-generale",
+        "title": "General Audience of 22 December 2021: Catechesis: The birth of Jesus",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "ar": "الإخوة والأخوات الأعزّاء، صباح الخير!",
+          "hr": "Samo poniznost je put koji nas vodi Bogu",
+          "en": "Dear brothers and sisters, good morning!",
+          "fr": "Chers frères et sœurs, bonjour !",
+          "de": "Liebe Brüder und Schwestern, guten Tag!",
+          "it": "Cari fratelli e sorelle, buongiorno!",
+          "pl": "Drodzy bracia i siostry, dziś, na kilka dni przed Bożym Narodzeniem, pragnę przypomnieć o narodzinach Jezusa.",
+          "pt": "Estimados irmãos e irmãs, bom dia!",
+          "es": "Queridos hermanos y hermanas, ¡buenos días!"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20211222_udienza-generale",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_angelus_20210829",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_angelus_20210829",
+        "title": "Angelus, 29 August 2021",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "ar": "يوم الأحد 29 آب/ أغسطس 2021",
+          "hr": "Draga braćo i sestre, dobar dan!",
+          "en": "Saint Peter's SquareSunday, 29 August 2021",
+          "fr": "Place Saint-PierreDimanche 29 août 2021",
+          "de": "Liebe Brüder und Schwestern, guten Tag!",
+          "it": "Piazza San PietroDomenica, 29 agosto 2021",
+          "pl": "Plac św. PiotraNiedziela, 29 sierpnia 2021 r.",
+          "pt": "Praça São PedroDomingo, 29 de agosto de 2021",
+          "es": "Plaza de San PedroDomingo, 29 de agosto de 2021"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_angelus_20210829",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "hf_jp-ii_aud_19881228",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_aud_19881228",
+        "title": "28 December 1988",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "it": "1. In questa udienza generale, che è l’ultima dell’anno, viene spontaneo riflettere, alla luce del Natale, sul significato dell’anno che finisce.",
+          "es": "La navidad ilumina el Año Nuevo"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_aud_19881228",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_20210404_urbi-et-orbi-pasqua",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20210404_urbi-et-orbi-pasqua",
+        "title": "\"Urbi et Orbi\" - Easter 2021",
+        "type": "Messages",
+        "date": "",
+        "excerpt": {
+          "ar": "أيّها الإخوة والأخوات الأعزّاء، أتمنّى لكم فصحًا مجيدًا! فصحًا مجيدًا ومقدّسًا وهادئًا!",
+          "hr": "Draga braćo i sestre, sretan Uskrs! Sretan i miran Uskrs!",
+          "en": "Dear Brothers and Sisters, a good, happy and peaceful Easter!",
+          "fr": "Chers frères et sœurs, joyeuses Pâques !",
+          "de": "Liebe Brüder und Schwestern, frohe Ostern!Frohe, gesegnete und friedvolle Ostern!",
+          "it": "Cari fratelli e sorelle, buona Pasqua! Buona, Santa e serena Pasqua!",
+          "pl": "Drodzy bracia i siostry, dobrych świąt wielkanocnych! Dobrych, świętych i pogodnych świąt wielkanocnych!",
+          "pt": "Queridos irmãos e irmãs, boa Páscoa! Boa, santa e serena Páscoa!",
+          "es": "Queridos hermanos y hermanas: ¡Feliz Pascua! Una feliz, santa y serena Pascua."
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20210404_urbi-et-orbi-pasqua",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_27111988_iv-world-youth-day",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_27111988_iv-world-youth-day",
+        "title": "IV World Youth Day, 1989",
+        "type": "Messages",
+        "date": "",
+        "excerpt": {
+          "en": "\"I am the Way, the Truth and the Life\" (Jn14:6)",
+          "fr": "MESSAGE DU SAINT-PÈREJEAN-PAUL IIAUX JEUNES DU MONDE À L'OCCASIONDE LA IVeJOURNÉE MONDIALE DE LA JEUNESSE 1989",
+          "it": "«Io sono la via, la verità e la vita» (Gv 14,6)",
+          "pt": "1. Sinto muita alegria em estar mais uma vez entre vós para anunciar a celebração do IV Dia Mundial da Juventude. No meu diálogo convosco, com efeito, este Dia ocupa um lugar privilegiado, porque me oferece a feliz oportunidade de dirigir a palavra aos jovens não só de um País, mas de todo o mundo, para dizer a todos e a cada um de vós que o Papa vos olha com muito amor e muita esperança, que vos escuta com muita atenção e quer corresponder às vossas expectativas mais profundas.",
+          "es": "«Yo soy el camino, la verdad y la vida»(Jn14, 6)"
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_27111988_iv-world-youth-day",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_p-vi_hom_19631225_borgata-pietralata",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_hom_19631225_borgata-pietralata",
+        "title": "25 December 1963: Mass for the faithful of the Roman area of Pietralata",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "it": "Letto il branodel S. Vangelo, l’Augusto Celebrante propone un pensiero di meditazione ai fedeli che Gli fanno corona."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_hom_19631225_borgata-pietralata",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "papa-francesco_20180829_udienza-generale",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20180829_udienza-generale",
+        "title": "General Audience of 29 August 2018: Apostolic Visit to Ireland",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "ar": "أيّها الإخوة والأخوات الأعزّاء، صباح الخير!",
+          "hr": "Uvodno biblijsko čitanje„Blago svakome koji se Jahve boji,koji njegovim hodi stazama!Plod ruku svojih ti ćeš uživati,blago tebi, dobro će ti biti.Žena će ti biti kao plodna lozau odajama tvoje kuće;sinovi tvoji k'o mladice maslineoko stola tvojega.Eto, tako će biti blagoslovljen čovjekkoji se Jahve boji!",
+          "en": "Dear Brothers and Sisters, Good morning!",
+          "fr": "Chers frères et sœurs, bonjour!",
+          "de": "Liebe Brüder und Schwestern,guten Tag!",
+          "it": "Cari fratelli e sorelle, buongiorno!",
+          "pl": "Uczciwość i odwaga w walce z nadużyciami",
+          "pt": "Prezados irmãos e irmãs, bom dia!",
+          "es": "Viaje apostólico del Santo Padre a Irlanda"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20180829_udienza-generale",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_20161109_udienza-generale",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20161109_udienza-generale",
+        "title": "General Audience of 9 November 2016: 35. To visit the sick and the imprisoned",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "ar": "أيها الإخوة والأخوات الأعزاء، صباح الخير!",
+          "hr": "Draga braćo i sestre, dobar dan!",
+          "en": "35. To visit the sick and the imprisoned",
+          "fr": "Chers frères et sœurs, bonjour!",
+          "de": "Katechese. 35. Die Kranken und Gefangenen besuchen",
+          "it": "35. Visitare i malati e i carcerati",
+          "pl": "Aby przywrócić wolność tym, którzy weszli na złą drogę",
+          "pt": "Bom dia, prezados irmãos e irmãs!",
+          "es": "Queridos hermanos y hermanas, ¡buenos días!"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20161109_udienza-generale",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "hf_jp-ii_hom_20001029_jubilee-sport",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_hom_20001029_jubilee-sport",
+        "title": "29 October 2000,Jubilee of Sports People",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "en": "1.\"Do you not know that in a race all the runners compete, but only one receives the prize? So run that you may obtain it!\" (1Cor9: 24).",
+          "fr": "1. \"Ne savez-vous pas que, dans les courses du stade, tous courent, mais un seul obtient le prix? Courez donc de manière à le remporter\" (1Co9, 24).A Corinthe, où Paul avait apporté l'annonce de l'Evangile, se trouvait un stade très important, dans lequel se disputaient les \"jeux isthmiques\". C'est pourquoi l'Apôtre, de façon opportune, pour encourager les chrétiens de cette ville à s'engager à fond dans la \"course\" de la vie, fait référence aux compétitions d'athlétisme. Dans les courses du stade - dit-il - tous courent, même si un seul est le vainqueur:  courez vous aussi... A travers la métaphore du sain esprit de compétition sportif, il met en lumière la valeur de la vie, en la comparant à une course vers un but non seulement terrestre et passager, mais éternel. Une course dans laquelle tous, et pas seulement un seul, peuvent être vainqueur.Nous écoutons aujourd'hui ces paroles de l'Apôtre, rassemblés dans le Stade olympique de Rome, qui se transforme encore une fois en grand temple à ciel ouvert, comme à l'occasion du Jubilé international des sportifs, en 1984, Année Sainte de la Rédemption. Aujourd'hui comme alors, c'est le Christ, unique Rédempteur de l'homme, qui nous accueille et qui, à travers sa parole de salut, illumine notre chemin.Très chers athlètes et sportifs de toutes les parties du monde, qui célébrez votre Jubilé, je vous adresse à tous mon salut chaleureux! Mon \"merci\" le plus cordial va aux responsables des Institutions sportives internationales et italiennes, et à tous ceux qui ont collaboré pour organiser ce rendez-vous singulier avec le monde du sport et avec ses diverses composantes.Je remercie des paroles qu'il m'a adressées le Président du Comité olympique international, M. Juan Antonio Samaranch, et le Président du CONI, M. Giovanni Petrucci, ainsi que M. Antonio Rossi, médaille d'or à Sydney et à Atlanta, qui a interprété, très chers athlètes, vos sentiments à tous. Alors que je vous vois rassemblés en bel ordre dans ce stade, de nombreux souvenirs de ma vie liés à des expériences sportives, me reviennent à l'esprit. Chers amis, merci de votre présence et merci surtout de l'enthousiasme avec lequel vous vivez ce rendez-vous jubilaire.",
+          "de": "1. »Wißt ihr nicht, daß die Läufer im Stadion zwar alle laufen, aber daß nur einer den Siegespreis gewinnt? Lauft so, daß ihr ihn gewinnt« (1Kor9,24).",
+          "it": "1.\"Non sapete che nelle corse allo stadio tutti corrono, ma uno solo conquista il premio? Correte anche voi in modo da conquistarlo!\"(1 Cor9,24).",
+          "pt": "Em Corinto, onde Paulo transmitira o anúncio do Evangelho, havia um estádio muito importante em que se disputavam os \"jogos ístmicos\". Portanto, oportunamente, para estimular os cristãos daquela cidade a comprometerem-se de maneira profunda na \"corrida\" da vida, o Apóstolo faz referência às competições atléticas. Nas corridas no estádio diz ele todos correm, embora um só seja o vencedor: portanto, correi também vós... Através da metáfora da sadia competição desportiva, ele põe em evidência o valor da vida, comparando-a a uma corrida rumo a uma meta não só terrestre e passageira, mas eterna. Uma corrida em que não só um, mas todos podem ser vencedores.",
+          "es": "1.\"Ya sabéis que en el estadio todos los atletas corren, aunque uno solo se lleva el premio. Corred así:  para ganar\"(1 Co9, 24)."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_hom_20001029_jubilee-sport",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "hf_jp-ii_ang_19881226",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_ang_19881226",
+        "title": "Angelus, 26 December 1988",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "it": "Numerosi fedeli partecipano oggi, festa di Santo Stefano Protomartire, alla recita dell’“Angelus Domini” guidata dal Papa. L’incontro si svolge nel cortile della residenza pontificia a Castel Gandolfo, nella quale il Santo Padre si è trasferito nella mattinata. Prima di recitare la preghiera mariana, Giovanni Paolo II così saluta i fedeli presenti - tra i quali sono il Vescovo di Albano, il parroco ed il sindaco di Castel Gandolfo - e quanti erano a lui spiritualmente uniti."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_ang_19881226",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "papa-francesco_20190330_autorita-marocco",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20190330_autorita-marocco",
+        "title": "Apostolic Journey to Morocco: Meeting with the Moroccan People, the Authorities, with Civil Society and with the Diplomatic Corps on the Esplanade of the Hassan Tower",
+        "type": "Speeches",
+        "date": "Rabat, 30 March 2019",
+        "excerpt": {
+          "ar": "يسرني أن تطأ قدماي أرض هذا البلد، الغني بالجمال الطبيعي، الحارس لبصمات حضارات عريقة والشاهد على تاريخ مدهش. أود قبل كل شيء أن أعبر عن امتناني الصادق والودي لجلالة الملك محمد السادس على دعوته الكريمة، وعلى الاستقبال الحار الذي خصني به، باسم الشعب المغربي كله، وأشكره بنوع خاص على الكلمات الطيبة التي وجهها لي.",
+          "en": "Your Majesty,Your Royal Highnesses,Distinguished Authorities of the Kingdom of Morocco,Members of the Diplomatic Corps,Dear Friends,",
+          "fr": "Majesté,Altesses Royales,Distinguées Autorités du Royaume du Maroc,Membres du Corps diplomatique,Chers amis Marocains,",
+          "de": "Majestät,Königliche Hoheiten,sehr geehrte Vertreter des Königreichs Marokko,werte Mitglieder des Diplomatischen Korps,lieber marokkanische Freunde,",
+          "it": "Maestà,Altezze Reali,distinte Autorità del Regno del Marocco,Membri del Corpo diplomatico,cari amici Marocchini,",
+          "pl": "Wasza Królewska Wysokość,Wasze Królewskie Wysokości,Szanowni przedstawiciele władz Królestwa Maroka,Członkowie korpusu dyplomatycznego,Drodzy marokańscy przyjaciele,",
+          "pt": "Majestade,Altezas Reais,Ilustres Autoridades do Reino de Marrocos,membros do Corpo Diplomático,queridos amigos marroquinos,",
+          "es": "Majestad,Altezas reales,distinguidas Autoridades del Reino de Marruecos,miembros del Cuerpo diplomático,queridos amigos marroquíes,"
+        },
+        "language_count": 8
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20190330_autorita-marocco",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "papa-francesco_20150118_srilanka-filippine-incontro-giovani",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20150118_srilanka-filippine-incontro-giovani",
+        "title": "Sri Lanka - Philippines: Meeting with the young people in the sports field of Santo Tomas University",
+        "type": "Speeches",
+        "date": "Manila, 18 January 2015",
+        "excerpt": {
+          "en": "Impromptu speech of the Holy Father",
+          "fr": "Discours prononcé par le Saint-Père",
+          "de": "Vom Heiligen Vater gehaltene Ansprache",
+          "it": "Discorso pronunciato dal Santo Padre",
+          "pl": "Najpierw smutna wiadomość. Wczoraj, kiedy rozpoczynała się Msza święta, spadła jedna z wież i upadając ugodziła jedną z dziewcząt, która poniosła śmierć. Na imię jej Kristel. Pracowała przy organizacji tej Mszy św. Miała 27 lat, była młoda, tak jak wy i pracowała dla jednego ze stowarzyszeń. Była wolontariuszką. Chciałbym, abyśmy wszyscy razem, wy, młodzi ludzie, tacy jak ona, pomodlili się w milczeniu przez minutę, a następnie przyzywajmy naszej Niebieskiej Matki.",
+          "pt": "Discurso pronunciado pelo Santo Padre",
+          "es": "Discurso pronunciado por el Santo Padre(en español)"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20150118_srilanka-filippine-incontro-giovani",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_aud_19861210",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_aud_19861210",
+        "title": "10 December 1986",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "it": "1. Nell’introduzione alla costituzioneGaudium et Spes(Gaudium et Spes, 2) del Concilio Vaticano II leggiamo: “Il mondo che [il Concilio] ha presente è quello degli uomini, ossia l’intera famiglia umana nel contesto di tutte quelle realtà entro le quali essa vive; il mondo che è teatro della storia del genere umano, e reca i segni degli sforzi suoi, delle sue sconfitte e delle sue vittorie, il mondo che i cristiani credono creato e conservato nell’esistenza dall’amore del Creatore, mondo certamente posto sotto la schiavitù del peccato, ma dal Cristo crocifisso e risorto, con la sconfitta del Maligno, liberato e destinato, secondo il proposito divino, a trasformarsi e a giungere al suo compimento”.",
+          "es": "\"Estableceré hostilidades... \":el hombre implicado en la lucha contra las fuerzas de las tinieblas"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_aud_19861210",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19920620_fedeli-crema",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19920620_fedeli-crema",
+        "title": "To the faithful of Crema in Garibaldi Square",
+        "type": "Speeches",
+        "date": "Cremona, June 20, 1992",
+        "excerpt": {
+          "it": "1. Abbiamo poc’anzi ascoltato la consegna di Gesù agli Apostoli: “Andate in tutto il mondo e predicate il Vangelo a ogni creatura”. “Allora essi partirono – annota l’evangelista Marco – e predicarono dappertutto, mentre il Signore operava insieme con loro” (Mc16, 15. 20). “Predicarono dappertutto”: la parola degli Apostoli, passando di bocca in bocca, è giunta fino a questa vostra terra, carissimi fratelli e sorelle, e vi ha suscitato nel corso dei secoli una meravigliosa fioritura di vita cristiana. Nella gioia di questa constatazione, saluto voi qui presenti e l’intera Comunità ecclesiale di Crema. Saluto con speciale affetto il Signor Cardinale Marco Cè, originario della Diocesi, e il Nunzio apostolico in Perù, Mons. Luigi Dossena, figlio pure lui di questa Chiesa locale. Saluto il vostro Pastore, il caro Mons. Libero Tresoldi, insieme col predecessore, il venerato Mons. Carlo Manziana. E non posso non aggiungere che con Mons. Manziana, Vescovo emerito di Crema, ci conosciamo da molti anni, ci conosciamo attraverso i suoi colleghi, ex prigionieri di Dachau, sacerdoti polacchi. Molte volte ho potuto incontrare il vostro Vescovo emerito di Crema in Polonia, specialmente a Kalisz, durante i pellegrinaggi che facevano questi sacerdoti prigionieri al Santuario di San Giuseppe, in questa città. Una volta ho avuto anche l’onore di concelebrare con Mons. Manziana. Saluto i Sacerdoti, i Religiosi e le Religiose, i Fedeli laici, impegnati nelle molteplici attività apostoliche parrocchiali e diocesane. Saluto, con affetto profondo, le famiglie, i giovani, speranze vive della società e della Chiesa, e gli ammalati, preziosi protagonisti, grazie alla sofferenza accettata in unione col Redentore, della missione evangelizzatrice del popolo cristiano. Sono lieto di incontrarmi con voi e di condividere le attese e i propositi missionari che vi animano in questa importante fase di preparazione del Sinodo diocesano. Mi conforta, soprattutto, la vostra determinazione a voler essere coraggiosi agenti della nuova evangelizzazione in un mondo che cambia rapidamente. Possa ciascuno di voi, carissimi fratelli e sorelle, fare propria, in ogni circostanza, l’affermazione dell’Apostolo delle Genti: “Tutto io faccio per il Vangelo” (1 Cor9, 23)."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19920620_fedeli-crema",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "papa-francesco_angelus_20211107",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_angelus_20211107",
+        "title": "Angelus, 7 November 2021",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "ar": "يوم الأحد 7 تشرين الثّاني/ نوفمبر 2021",
+          "hr": "Licemjerje je opasna bolest duše",
+          "en": "Saint Peter's SquareSunday, 7 November 2021",
+          "fr": "Place Saint-PierreDimanche 7 novembre 2021",
+          "de": "Liebe Brüder und Schwestern, guten Tag!",
+          "it": "Piazza San PietroDomenica, 7 novembre 2021",
+          "pl": "Plac św. PiotraNiedziela, 7 listopada 2021 r.",
+          "pt": "Praça São PedroDomingo, 7 de novembro de 2021",
+          "es": "Plaza de San PedroDomingo, 7 de noviembre de 2021"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_angelus_20211107",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_spe_20120518_bishops-us-fourteen",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": {
+          "en": "Benedict XVI",
+          "la": "Benedictus XVI"
+        },
+        "handle": "benedictxvi",
+        "avatar": "https://api.popefeed.com/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "id": "hf_ben-xvi_spe_20120518_bishops-us-fourteen",
+        "title": "To the Bishops of the United States of America (Regions XIV-XV and the Eastern Rite) on their ad Limina visit 18 May 2012)",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "I greet all of you with fraternal affection in the Lord. Our meeting today concludes the series of quinquennial visits of the Bishops of the United States of Americaad limina Apostolorum. As you know, over these past six months I have wished to reflect with you and your Brother Bishops on a number of pressing spiritual and cultural challenges facing the Church in your country as it takes up the task of the new evangelization.",
+          "fr": "Je vous salue tous avec une affection fraternelle dans le Seigneur. Notre rencontre d’aujourd’hui conclut la série des visites quinquennales des évêques des États-Unis d’Amériquead limina Apostolorum.Comme vous le savez, ces derniers mois, j’ai voulu réfléchir avec vous et avec vos frères évêques sur plusieurs défis spirituels et culturels pressants auxquels doit faire face l’Église dans votre pays tandis qu’elle affronte la tâche de la nouvelle évangélisation.",
+          "de": "Ich begrüße euch alle mit brüderlicher Zuneigung im Herrn. Unsere heutige Begegnung schließt die Reihe der alle fünf Jahre stattfindenden Besuche der Bischöfe der Vereinigten Staatenad limina Apostolorumab. Wir ihr wißt, wollte ich in diesen vergangenen sechs Monaten mit euch und euren bischöflichen Mitbrüdern über eine Reihe drängender spiritueller und kultureller Herausforderungen nachdenken, vor denen die Kirche in eurem Land steht, jetzt da sie im Begriff ist, die Aufgabe der Neuevangelisierung anzugehen.",
+          "it": "Saluto tutti voi con affetto fraterno nel Signore. Il nostro incontro odierno conclude la serie delle visite quinquennali dei Vescovi degli Stati Uniti d’Americaad limina Apostolorum. Come sapete, negli ultimi sei mesi ho voluto riflettere con voi e i vostri Fratelli Vescovi su alcune sfide spirituali e culturali pressanti che deve affrontare la Chiesa nel vostro Paese, mentre assume il compito della nuova evangelizzazione.",
+          "pt": "Saúdo todos vós com afecto fraterno no Senhor. O nosso encontro hodierno conclui a série de visitas quinquenaisad limina Apostolorumdos Bispos dos Estados Unidos da América. Como sabeis, ao longo dos últimos seis meses desejei meditar convosco e com os vossos Irmãos Bispos sobre alguns desafios espirituais e culturais urgentes que se apresentam à Igreja no vosso país, que está a desempenhar a tarefa da nova evangelização.",
+          "es": "Queridos hermanos en el episcopado:"
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_spe_20120518_bishops-us-fourteen",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_30091999_oic-conference",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_30091999_oic-conference",
+        "title": "MESSAGE OF THE HOLY FATHER TO THE PRESIDENT OF THE CONFERENCE OF CATHOLIC INTERNATIONAL",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "To Mr Joseph PirsonPresident of the Conference of Catholic International Organizations"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_30091999_oic-conference",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_p-vi_hom_19641025_beatificazione-guanella",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_hom_19641025_beatificazione-guanella",
+        "title": "25 October 1964, Beatification of the Priest Luigi Guanella",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "it": "Vogliamosalutare quanti con Noi esultano della Beatificazione di Don Luigi Guanella: il Vescovo di Como per primo, che vede la sua grande ed anche a Noi carissima diocesi risplendere di così bella e sua propria luce di santità; e sono col degno e fortunato Pastore i rappresentanti del comune di Campodolcino, nel cui territorio, a Franciscio, il Beato ebbe i natali: bella borgata alpestre, da Noi più volte percorsa, quando visitammo la Casa Alpina dell’Alpe Motta, e fu una volta per benedirvi la grande statua alla Madonna d’Europa eretta alle falde delle nevi alpine, e poi di nuovo scendendo a rendere omaggio, oltre Pianazzo, alla Madonna di Gallivaggio. Così certamente meritano il Nostro saluto i Fedeli, qui presenti, di Prosto, di Savogno, di Traona, di Gravedona, di Olmo, di Pianello, dove Don Guanella esercitò il suo ministero pastorale e iniziò l’opera sua. Lo meritano i Salesiani di Don Bosco,il quale fu grande maestro ed amico al nuovo Beato e, con il suo insegnamento ed il suo esempio, lo aiutò a determinare la sua vocazione di Fondatore. Così alle Autorità ed ai Fedeli di Como, di Sondrio e di tutta la Val Tellina l’espressione della Nostra compiacenza e dei Nostri voti.",
+          "es": "Queremos ahora saludar a cuantos se gozan con Nos por la beatificación de don Luis Guanella, al obispo de Como en primer lugar, que ve resplandecer su gran diócesis, tan querida para Nos, con tan hermosa y singular luz de santidad; con su digno y dichoso pastor se encuentran los representantes del ayuntamiento de Campodolcino, en cuyo territorio, en Franscicio, nació el beato; bello pueblecito de los Alpes, que muchas veces hemos visitado, al dirigirnos a la casa alpina de Alpe Motta, y en otra ocasión con motivo de la bendición de la gran estatua erigida a la Virgen de Europa en las faldas de las nieves alpinas, y luego en el descenso para rendir homenaje, más allá de Pianazzo, a la Virgen de Gallivaggio. Por tanto, merecen nuestro saludo los fieles, aquí presentes, de Prosto, Savogno, Traona, Gravedona, Olmo y Pianello, donde don Guanella ejerció su ministerio pastoral y comenzó su obra. Lo merecen también los salesianos de Don Bosco, que fue gran maestro y amigo del nuevo beato y, con su doctrina y ejemplo, lo ayudó a determinar su vocación de fundador. Asimismo, a las Autoridades y a los fieles de Como, Sondrio y de todo el valle de Tellina, la expresión de nuestra complacencia y de nuestros votos."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_hom_19641025_beatificazione-guanella",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "hf_p-xii_spe_19520527_rifugiati",
+      "pope": {
+        "id": "pius-xii",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
+        "handle": "piusxii",
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
+      },
+      "document": {
+        "id": "hf_p-xii_spe_19520527_rifugiati",
+        "title": "DISCOURS DU PAPE PIE PP. XII * DÉCLARATION CONCERNANT LES RÉ",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "Document remis par Pie XII à M. G.J. van Heuven Goedhart, Haut Commissaire des Nations Unies pour les Réfugiés, durant l’audience du 27 mai 1952",
+          "fr": "Document remis par Pie XII à M. G.J. van Heuven Goedhart, Haut Commissaire des Nations Unies pour les Réfugiés"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_spe_19520527_rifugiati",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_p-vi_aud_19670705",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_aud_19670705",
+        "title": "5 July 1967",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "it": "La stupenda eredità degli Apostoli"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_aud_19670705",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "hf_jp-ii_aud_19801112",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_aud_19801112",
+        "title": "12 November 1980",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "fr": "Les exigences du Christ dans le discours sur la montagne",
+          "it": "La spontaneità è veramente umana quando è il frutto maturo della coscienza",
+          "pt": "A espontaneidade é verdadeiramente humanaquando é fruto amadurecido da consciência",
+          "es": "Relación recíproca entre lo \"ético\" y lo \"erótico\"según el Sermón de la Montaña"
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_aud_19801112",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_20201111_udienza-generale",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20201111_udienza-generale",
+        "title": "General Audience of 11 November 2020: Catechesis on prayer - 14. The persevering prayer",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "ar": "أيّها الإخوة والأخوات الأعزّاء،صباح الخير!",
+          "hr": "Draga braćo i sestre, dobar dan!",
+          "en": "Catechesis on prayer - 14.The persevering prayer",
+          "fr": "Catéchèse - 14.La prière persévérante",
+          "de": "Bibliothek des Apostolischen PalastesMittwoch, 11. November 2020",
+          "it": "Catechesi sulla preghiera - 14.La preghiera perseverante",
+          "pl": "W dzisiejszej katechezie Ojciec Święty kontynuuje rozważania na temat modlitwy.",
+          "pt": "Catequese - 14.A oração perseverante",
+          "es": "Queridos hermanos y hermanas, ¡buenos días!"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20201111_udienza-generale",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_20180119_peru-lima-gesuiti",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20180119_peru-lima-gesuiti",
+        "title": "Apostolic Journey to Peru: Private meeting with members of the Society of Jesus in \"San Pedro\" Church",
+        "type": "Speeches",
+        "date": "Lima, 19 January 2018",
+        "excerpt": {
+          "fr": "Après sa visite de courtoisie au président péruvien, M. Pablo Kuczynski, le Pape s’est rendu dans l’église San Pedro, considérée comme l’un des plus importants complexes religieux du centre historique de Lima. Elle est aussi le sanctuaire national du Sacré-Cœur de Jésus. Son plan évoque celui de l’église du Jésus à Rome. Le Pape François a été accueilli par le provincial, le père Juan Carlos Morante, et par le supérieur local, le père José Enrique Rodríguez, à l’entrée de la chapelle de la Penitenzieria. Après avoir traversé la nef gauche de l’église, le Pape est arrivé dans la sacristie, où environ cent jésuites étaient réunis. Le père Morante a remercié le Pape François pour sa visite et il a parlé de l’engagement de la Compagnie pour l’évangélisation des peuples autochtones et pour l’éducation, citant les pères Alonso de Barzana (1528-1598), Francisco del Castillo (1615-1673), Antonio Ruiz de Montoya (1585-1652).",
+          "it": "Dopo la visita di cortesia al presidente Kuczynski, il Papa si è recato presso la chiesa di San Pedro, considerata uno dei più importanti complessi religiosi del centro storico di Lima, oltre a essere il santuario nazionale del Sacro Cuore. La pianta evoca quella della chiesa del Gesù di Roma. Francesco è stato accolto dal provinciale Juan Carlos Morante e dal superiore locale José Enrique Rodríguez all’ingresso della cappella della Penitenzieria. Attraversando la navata sinistra della chiesa, il Papa è arrivato nella sagrestia, dove erano riuniti circa cento gesuiti. Il padre Morante ha ringraziato Francesco per la sua visita e ha parlato dell’impegno della Compagnia per l’evangelizzazione dei popoli originari e per l’educazione, citando i padri Alonso de Barzana (1528-1598), Francisco del Castillo (1615-1673) e Antonio Ruiz de Montoya (1585-1652). Quindi ha preso la parola il Papa, salutando i presenti.",
+          "pt": "Boa tarde... Obrigado. Comecemos a conversar para não perder tempo. Preparastes algumas perguntas... com toda a liberdade..."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20180119_peru-lima-gesuiti",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_spe_20110924_zdk-freiburg",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": {
+          "en": "Benedict XVI",
+          "la": "Benedictus XVI"
+        },
+        "handle": "benedictxvi",
+        "avatar": "https://api.popefeed.com/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "id": "hf_ben-xvi_spe_20110924_zdk-freiburg",
+        "title": "Apostolic Journey to Germany: Meeting with the Council of the Central Committee of German Catholics (ZDK) in the Seminary Hörsaal",
+        "type": "Speeches",
+        "date": "Freiburg im Breisgau, 24 September 2011",
+        "excerpt": {
+          "en": "I am grateful for this opportunity to come together, here in Freiburg, with you, the Council Members of the Central Committee for German Catholics (ZdK). I gladly express to you my appreciation for your work in publicly representing the concerns of Catholics and in giving impetus to the apostolate of the Church and of Catholics in society. I would also like to thank you, dear President Glück, for your words, and for your many important and thought-provoking observations.",
+          "fr": "Mesdames et Messieurs,Chers Frères et Sœurs,",
+          "de": "Verehrte Damen und Herren!Liebe Brüder und Schwestern!",
+          "it": "Illustri Signori e Signore,cari fratelli e sorelle,",
+          "pl": "Szanowni Panie i Panowie,drodzy bracia i siostry!",
+          "pt": "Ilustres Senhores e Senhoras,Amados irmãos e irmãs,",
+          "es": "Ilustres señores y señoras,Queridos hermanos y hermanas:"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_spe_20110924_zdk-freiburg",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_aud_19841219",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_aud_19841219",
+        "title": "19 December 1984",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "it": "1. La volta scorsa abbiamo parlato della catechesi in relazione all’istituzione del catecumenato, così come esso si formò nel periodo più antico della storia della Chiesa. Quando poi si affermò sempre più universalmentel’uso di conferire il Battesimo ai bambinipoco dopo la nascita, l’istituzione del catecumenato nella sua forma primitiva cominciò a sparire. Come già menzionato, esso è conservato là dove al Battesimo si preparano gli adulti: allora il tempo del catecumenato rimane un periodo di catechesi particolarmente intensa, unita all’“iniziazione“, al “mysterium” del Battesimo e di tutta la vita sacramentale, e a una graduale introduzione dei catecumeni alla vita della comunità ecclesiale.",
+          "es": "La preparación catequística a la vida sacramental"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_aud_19841219",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_20130727_gmg-veglia-giovani",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20130727_gmg-veglia-giovani",
+        "title": "Prayer Vigil with the young people",
+        "type": "Speeches",
+        "date": "Rio de Janeiro, 27 July 2013",
+        "excerpt": {
+          "en": "Seeing you all present here today, I think of the story of Saint Francis of Assisi. In front of the crucifix he heard the voice of Jesus saying to him: “Francis, go, rebuild my house”. The young Francis responded readily and generously to the Lord’s call to rebuild his house. But which house? Slowly but surely, Francis came to realize that it was not a question of repairing a stone building, but about doing his part for the life of the Church. It was a matter of being at the service of the Church, loving her and working to make the countenance of Christ shine ever more brightly in her.",
+          "fr": "En vous regardant présents ici, me vient à l’esprit l’histoire de saint François d’Assise. Devant le Crucifix il entend la voix de Jésus qui lui dit : « François, va et répare ma maison ». Et le jeune François répond avec rapidité et générosité à cet appel du Seigneur : réparer sa maison. Mais quelle maison ? Peu à peu il s’est rendu compte qu’il ne s’agissait pas de faire le maçon et de réparer un édifice de pierres, mais de donner sa contribution à la vie de l’Église ; il s’agissait de se mettre au service de l’Église, en l’aimant et en travaillant, pour qu’en elle se reflète toujours davantage le Visage du Christ.",
+          "de": "wenn ich euch sehe, die ihr heute hier seid, kommt mir die Geschichte des heiligen Franz von Assisi in den Sinn. Vor dem Kreuz hört er die Stimme Jesu, die zu ihm sagt: „Franziskus, geh und stelle mein Haus wieder her.“ Und der junge Franziskus antwortet schnell und großmütig auf diesen Ruf des Herrn: sein Haus wiederherstellen. Aber welches Haus? Nach und nach wird er sich bewusst, dass es nicht darum ging, den Maurer zu machen und ein aus Steinen gefertigtes Gebäude wieder aufzubauen, sondern seinen Beitrag für das Leben der Kirche zu leisten. Es ging darum, sich in den Dienst der Kirche zu stellen, sie zu lieben und zu arbeiten, damit sich in ihr immer mehr das Antlitz Christi widerspiegle.",
+          "it": "Guardando voi oggi qui presenti, mi viene in mente la storia di san Francesco d'Assisi. Davanti al Crocifisso sente la voce di Gesù che gli dice: “Francesco, va’ e ripara la mia casa”. E il giovane Francesco risponde con prontezza e generosità a questa chiamata del Signore: riparare la sua casa. Ma quale casa? Piano piano, si rende conto che non si trattava di fare il muratore e riparare un edificio fatto di pietre, ma di dare il suo contributo per la vita della Chiesa; si trattava di mettersi a servizio della Chiesa, amandola e lavorando perché in essa si riflettesse sempre più il Volto di Cristo.",
+          "pl": "Gdy patrzę na was tu obecnych, przychodzi mi na myśl historia św. Franciszka z Asyżu. Przed krucyfiksem usłyszał on głos Jezusa, który do niego powiedział: „Franciszku, idź i odbuduj mój dom”. I młody Franciszek zareagował z gotowością i wielkodusznie na to wezwanie Pana, by odbudował Jego dom. Ale jaki dom? Stopniowo uświadamiał sobie, że nie chodziło o to, aby został murarzem i zreperował budynek z kamienia, ale aby wniósł swój wkład w życie Kościoła. Chodziło o oddanie się na służbę Kościoła, miłując go i pracując nad tym, aby coraz bardziej odzwierciedlało się w nim oblicze Chrystusa.",
+          "pt": "Contemplando vocês que hoje estão aqui presentes, me vem à mente a história de São Francisco de Assis. Diante do Crucifixo, ele escuta a voz de Jesus que lhe diz: «Francisco, vai e repara a minha casa». E o jovem Francisco responde, com prontidão e generosidade, a esta chamada do Senhor para reparar sua casa. Mas qual casa? Aos poucos, ele percebe que não se tratava fazer de pedreiro para reparar um edifício feito de pedras, mas de dar a sua contribuição para a vida da Igreja; era colocar-se ao serviço da Igreja, amando-a e trabalhando para que transparecesse nela sempre mais a Face de Cristo.",
+          "es": "Al verlos a ustedes, presentes hoy aquí, me viene a la mente la historia de San Francisco de Asís. Ante el crucifijo oye la voz de Jesús, que le dice: «Ve, Francisco, y repara mi casa». Y el joven Francisco responde con prontitud y generosidad a esta llamada del Señor: repara mi casa. Pero, ¿qué casa? Poco a poco se da cuenta de que no se trataba de hacer de albañil para reparar un edificio de piedra, sino de dar su contribución a la vida de la Iglesia; se trataba de ponerse al servicio de la Iglesia, amándola y trabajando para que en ella se reflejara cada vez más el rostro de Cristo."
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20130727_gmg-veglia-giovani",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_p-vi_mes_19670507_i-com-day",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_mes_19670507_i-com-day",
+        "title": "1st World Communications Day, 1967",
+        "type": "Messages",
+        "date": "",
+        "excerpt": {
+          "en": "We address you, dear brothers and sons, as World Communications Day, which will be held for the first time on Sunday, Seventh of May, approaches.",
+          "it": "Ci rivolgiamo a voi, fratelli e figli dilettissimi, nell'imminenza della\"Giornata Mondiale delle Comunicazioni Sociali\", che sarà celebrata per la prima volta domenica 7 maggio.",
+          "pt": "Dirigimo-nos a vós, irmãos e filhos queridos, na iminência do \"Dia Mundial das Comunicações Sociais\", que será celebrado, pela primeira vez, no domingo, 7 de maio.",
+          "es": "Nos dirigimos a vosotros, hermanos e hijos dilectísimos, ante la inminencia de la \"Jornada Mundial de las Comunicaciones Sociales\", que se celebrará por primera vez el domingo 7 de mayo."
+        },
+        "language_count": 4
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_mes_19670507_i-com-day",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_mes_24011986_world-communications-day",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_mes_24011986_world-communications-day",
+        "title": "20th World Communications Day, 1986 -Social Communications and the Christian Formation of Public Opinion",
+        "type": "Messages",
+        "date": "",
+        "excerpt": {
+          "en": "1. The recent Extraordinary Synod of Bishops, on the occasion of the twentieth anniversary of the conclusion of the Second Vatican Council, did not set out merely to be a solemn commemoration of that event, which was destined to mark so deeply the life of the Church in this century; more importantly, it brought the Council's spirit to life again and recalled anew its teachings and decisions. Thus, the Synod took the Second Vatican Council and relaunched it into the Church's life.",
+          "fr": "1. Le récent Synode extraordinaire des Evêques, à l'occasion du vingtième anniversaire de la conclusion duConcile Vatican II, n'a pas eu seulement comme but de commémorer solennellement l'événement destiné à marquer si profondément la vie de l'Eglise en ce siècle, mais bien plus, il nous a permis d'en revivre l'esprit et nous en a rappelé les enseignements et les décisions. Ainsi, le Synode est une reprise et une relance duConcile Vatican IIdans la vie de l'Eglise.",
+          "it": "Il recente Sinodo straordinario dei vescovi, in occasione del ventesimo anniversario della conclusione delConcilio Vaticano II, non ha inteso soltanto commemorare solennemente quell'evento destinato a segnare così profondamente la vita della Chiesa in questo secolo, ma ne ha fatto soprattutto rivivere lo spirito e ne ha ricordato gli insegnamenti e le decisioni. In tal modo, il Sinodo è stato una ripresa e un rilancio delConcilio Vaticano IInella vita della Chiesa.",
+          "pt": "1. O recente Sínodo extraordinário dos Bispos, por ocasião do 20º aniversário da conclusão do Concílio Vaticano II, não quis somente comemorar solenemente aquele evento destinado a marcar tão profundamente a vida da Igreja neste século, mas fez sobretudo reviver seu espírito e recordar seus ensinamentos e decisões. O Sínodo foi, assim, uma retomada e um relançamento do Concílio Vaticano II na vida da Igreja.",
+          "es": "El reciente Sínodo Extraordinario de los Obispos celebrado con ocasión del XX aniversario de la conclusión delConcilio Vaticano II, no ha pretendido solamente conmemorar con solemnidad dicho acontecimiento, destinado a marcar muy profundamente la vida de la Iglesia en este siglo, sino que ha hecho sobre todo revivir su espíritu y ha recordado sus enseñanzas y decisiones. De este modo, el Sínodo ha sido un nuevo lanzamiento y actualización del Concilio Vaticano II en la vida de la Iglesia."
+        },
+        "language_count": 5
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_mes_24011986_world-communications-day",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_aud_20091223",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": {
+          "en": "Benedict XVI",
+          "la": "Benedictus XVI"
+        },
+        "handle": "benedictxvi",
+        "avatar": "https://api.popefeed.com/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "id": "hf_ben-xvi_aud_20091223",
+        "title": "General Audience of 23 December 2009",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "hr": "Franjina živa vjera i ljubav prema Kristovu čovještvu",
+          "en": "With the Christmas Novena which we are celebrating in these days the Church invites us to live intensely and profoundly the preparation for the Saviour's Birth, now at hand. The desire we all carry in our hearts is that in the midst of the frenzied activity of our day the forthcomingFeast of Christmasmay give us serene and profound joy to make us tangibly feel the goodness of Our Lord and imbue us with new courage.",
+          "fr": "Avec la neuvaine de Noël, que nous célébrons ces jours-ci, l'Eglise nous invite à vivre de manière intense et profonde la préparation de la Naissance du Sauveur, désormais imminente. Le désir, que nous portons tous dans le cœur, est que la prochaine fête de Noël nous offre, au milieu de l'activité frénétique de notre époque, une joie sereine et profonde pour nous faire toucher du doigt la volonté de notre Dieu et de nous donner un courage nouveau.",
+          "de": "Mit der Weihnachtsnovene, die wir in diesen Tagen beten, lädt uns die Kirche ein, uns tiefer und intensiver auf die nunmehr unmittelbar bevorstehende Feier der Geburt des Erlösers vorzubereiten. Der Wunsch, den wir alle im Herzen tragen, ist, daß uns dieses Weihnachtsfest mitten in der Hektik unserer Tage ruhige und tiefe Freude schenke, Berührung mit der Güte unseres Gottes und neuen Mut.",
+          "it": "con la Novena di Natale, che stiamo celebrando in questi giorni, la Chiesa ci invita a vivere in modo intenso e profondo la preparazione alla Nascita del Salvatore, ormai imminente. Il desiderio, che tutti portiamo nel cuore, è che la prossima festa del Natale ci doni, in mezzo all’attività frenetica dei nostri giorni, serena e profonda gioia per farci toccare con mano la bontà del nostro Dio e infonderci nuovo coraggio.",
+          "pt": "Quarta-feira, 23 de Dezembro de 2009",
+          "es": "Con la Novena de Navidad que estamos celebrando en estos días, la Iglesia nos invita a vivir de modo intenso y profundo la preparación al Nacimiento del Salvador, ya inminente. El deseo, que todos llevamos en el corazón, es que la próxima fiesta de la Navidad nos dé, en medio de la actividad frenética de nuestros días, una serena y profunda alegría para que nos haga tocar con la mano la bondad de nuestro Dios y nos infunda nuevo valor."
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_aud_20091223",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "hf_jp-ii_hom_19821109_santiago-compostela",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_hom_19821109_santiago-compostela",
+        "title": "9 November 1982, Mass in Santiago de Compostela",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "it": "Cari Fratelli nell’Episcopato,cari fratelli e sorelle.",
+          "pt": "Queridos Irmãos no EpiscopadoAmados irmãos e irmãs",
+          "es": "Queridos hermanos en el Episcopado,queridos hermanos y hermanas:"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_hom_19821109_santiago-compostela",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "hf_jp-ii_ang_19941030",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_ang_19941030",
+        "title": "Angelus, 30 October 1994",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "it": "1. Si è conclusa ieri la nona Assemblea Ordinaria del Sinodo dei Vescovi dedicata alla riflessione sulla vita consacrata e sulla sua missione nella Chiesa e nel mondo. È stata un’esperienza ecclesiale molto significativa, che ha mostrato con singolare evidenza la ricchezza e la varietà dei carismi esistenti all’interno del popolo di Dio e la loro convergenza per la crescita comune. Ringrazio tutti i Padri sinodali per l’apporto da loro offerto.",
+          "es": "1. Ha concluido ayer la IX Asamblea ordinaria del Sínodo de los obispos dedicada a la reflexión sobre la vida consagrada y su misión en la Iglesia y en el mundo. Ha sido una experiencia eclesial muy significativa, que ha mostrado con singular evidencia la riqueza y la variedad de los carismas existentes dentro del pueblo de Dios y su convergencia para el crecimiento común."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_ang_19941030",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "hf_p-vi_hom_19750525",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_hom_19750525",
+        "title": "25 May 1975: Canonization of Blessed Giovanni Battista della Concezione and Blessed Vincenza Maria López y Vicuña",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "it": "Gode oggi la Chiesa, lieta di registrare nell'albo dei Santi due nuovi nomi, che ella è ormai sicura di dichiarare, secondo la espressione di Gesù, «scritti in cielo» (Luc. 10, 20): sono quelli ora «canonizzati» del Beato Giovanni Battista della Concezione, Riformatore dell'ordine della Santissima Trinità, vissuto dal 1561 al 1613, e della Beata Vincenza Maria Lopez y Vicuña, Fondatrice delle Figlie di Maria Immacolata, vissuta nel secolo scorso dal 1847 al 1890. Noi tutti abbiamo gioito ascoltando poco fa la lettura dei due rispettivi Decreti, che motivando con sommarie ma decisive notizie, le ragioni del giudizio della Chiesa circa le prove ed i meriti dell'a santità rispettiva della prima e dell'altra figura di queste persone, già onorate dalla beatificazione loro riconosciuta, hanno dato a noi la felicissima occasione di proclamare la loro canonizzazione.",
+          "es": "[*Texto en español más adelante]"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_hom_19750525",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "papa-francesco_20180401_urbi-et-orbi-pasqua",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20180401_urbi-et-orbi-pasqua",
+        "title": "\"Urbi et Orbi\" - Easter 2018",
+        "type": "Messages",
+        "date": "",
+        "excerpt": {
+          "ar": "أيها الإخوة الأعزاء، فصحًا مجيدًا!",
+          "hr": "Kristovo uskrsnuće je prava nada svijeta",
+          "en": "Dear brothers and sisters, Happy Easter!",
+          "fr": "Chers frères et sœurs, bonne fête de Pâques !",
+          "de": "Liebe Brüder und Schwestern,frohe Ostern!",
+          "it": "Cari fratelli e sorelle, buona Pasqua!",
+          "pl": "Drodzy bracia i siostry, dobrych Świąt Paschalnych!",
+          "pt": "Queridos irmãos e irmãs, feliz Páscoa!",
+          "es": "Queridos hermanos y hermanas, ¡Feliz Pascua!"
+        },
+        "language_count": 9
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20180401_urbi-et-orbi-pasqua",
+        "original_type": "messages"
+      }
+    },
+    {
+      "id": "hf_jp-ii_hom_19960921_morte-san-martino",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_hom_19960921_morte-san-martino",
+        "title": "21 September 1996, Eucharistic Celebration on the occasion of the 16th centenary of the death of Saint Martin - 705 Air Base of Tours",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "fr": "« L'amour du Seigneur, sans fin je le chante » [1].Chers Frères et Sœurs,",
+          "it": "Cari Fratelli e care Sorelle,"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_hom_19960921_morte-san-martino",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_aud_20050907",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": {
+          "en": "Benedict XVI",
+          "la": "Benedictus XVI"
+        },
+        "handle": "benedictxvi",
+        "avatar": "https://api.popefeed.com/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "id": "hf_ben-xvi_aud_20050907",
+        "title": "General Audience of 7 September 2005: Letter to the Colossians 1: 12-20 - Firstborn of all creation!",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "hr": "Uvodno čitanje: usp. Kol 1,3.12-20, Krist Prvorođenac, prije svakog stvorenja, i Prvorođenac od mrtvih (večernja srijede III. tjedna) S radošću zahvaljujmo Ocu / koji nas osposobi / za dioništvo u baštini svetih u svjetlosti. / On nas izbavi iz vlasti tame / i prenese u kraljevstvo Sina, ljubavi svoje, / u kome imamo otkupljenje, / otpuštenje grijeha. / Krist Isus slika je Boga nevidljivoga, / Prvorođenac, prije svakog stvorenja. / Ta u njemu je sve stvoreno / na nebesima i na zemlji, / vidljivo i nevidljivo, / bilo Prijestolja, bilo Gospodstva, / bilo Vrhovništva, bilo Vlasti - / sve je po njemu i za njega stvoreno: / on je prije svega, / i sve stoji u njemu. / On je Glava Tijela, Crkve; / on je Početak, / Prvorođenac od mrtvih, / da u svemu bude Prvak. / Jer svidjelo se Bogu / u njemu nastaniti svu Puninu / i po njemu / - uspostavivši mir krvlju križa njegova - / izmiriti sa sobom sve, / bilo na zemlji, bilo na nebesima.",
+          "en": "Canticle cf. Chapter of St Paul's Letter to the Colossians\"Firstborn of all creation!'Evening Prayer - Wednesday of Week Three",
+          "fr": "Le Christ fut engendré avant toute créature,premier-né de ceux qui ressuscitent d'entre les morts",
+          "de": "3 Wir danken Gott, dem Vater Jesu Christi, unseres Herrn, jedesmal, wenn wir für euch beten.12 Dankt dem Vater mit Freude! Er hat euch fähig gemacht, Anteil zu haben am Los der Heiligen, die im Licht sind.13 Er hat uns der Macht der Finsternis entrissen und aufgenommen in das Reich seines geliebten Sohnes.14 Durch ihn haben wir die Erlösung, die Vergebung der Sünden.15 Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene der ganzen Schöpfung.16 Denn in ihm wurde alles erschaffen im Himmel und auf Erden, das Sichtbare und das Unsichtbare, Throne und Herrschaften, Mächte und Gewalten; alles ist durch ihn und auf ihn hin geschaffen.17 Er ist vor aller Schöpfung, in ihm hat alles Bestand.18 Er ist das Haupt des Leibes, der Leib aber ist die Kirche. Er ist der Ursprung, der Erstgeborene der Toten; so hat er in allem den Vorrang.19 Denn Gott wollte mit seiner ganzen Fülle in ihm wohnen,20 um durch ihn alles zu versöhnen. Alles im Himmel und auf Erden wollte er zu Christus führen, der Friede gestiftet hat am Kreuz durch sein Blut.",
+          "it": "Cantico cfrCol1,3.12-20Cristo fu generato prima di ogni creatura,è il primogenito di coloro che risuscitano dai mortiVespri - Mercoledì 3asettimana",
+          "pt": "Carta de São Paulo aos Colossenses 1, 3.12-20:Cristo foi gerado antes de todas as criaturas",
+          "es": "Cristo, primogénito de toda criaturay primer resucitado de entre los muertos"
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_aud_20050907",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "hf_p-xii_aud_19391115",
+      "pope": {
+        "id": "pius-xii",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
+        "handle": "piusxii",
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
+      },
+      "document": {
+        "id": "hf_p-xii_aud_19391115",
+        "title": "15 November 1939",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "it": "Voi siete venuti, o cari sposi novelli, a Roma precisamente nella settimana, in cui la Chiesa commemora la dedicazione delle Basiliche dei SS. Apostoli Pietro e Paolo, che voi certamente avete già visitato o che non mancherete di visitare. Il termine «basilica» significa originariamente la « casa del re » e la « dedicazione » è il solenne rito col quale si consacra un tempio a Dio, Re e Signore supremo, per farne la sua dimora, intitolandolo a speciali misteri o santi, in cui memoria od onore esso è stato edificato."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_aud_19391115",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "papa-francesco_20150711_paraguay-vespri",
+      "pope": {
+        "id": "francesco",
+        "name": {
+          "en": "Francis",
+          "la": "Franciscus"
+        },
+        "handle": "francesco",
+        "avatar": "https://api.popefeed.com/popes/francesco.jpg"
+      },
+      "document": {
+        "id": "papa-francesco_20150711_paraguay-vespri",
+        "title": "Apostolic Journey - Paraguay: Vespers with Bishops, Priests, Deacons, Men and Women Religious, Seminarians and Catholic Movements at the Metropolitan Cathedral of the Assumption",
+        "type": "Speeches",
+        "date": "Asunción, 11 July 2015",
+        "excerpt": {
+          "en": "How good it is for all of us to pray Vespers together! How can we not dream of of a Church which reflects and echoes the harmony of voices and song in her daily life! That is what we are doing in this Cathedral, rebuilt so many times over the years. This Cathedral symbolizes the Church and each one of us. At times, storms from without and within force us to tear down what had been built and to begin again, but always with the hope given us by God. And when we look at this building, we can surely say that it has not disappointed the hopes of the Paraguayan people… because God never disappoints! For this we give thankful praise.",
+          "fr": "Qu’il est beau de prier tous ensemble les Vêpres ! Comment ne pas rêver une Église qui reflète et répète l’harmonie des voix et du chant dans la vie quotidienne ? Et nous le faisons dans cette Cathédrale, qui tant de fois a dû être reconstruite ; cette Cathédrale est signe de l’Église et de chacun de nous : parfois, les tempêtes du dehors et du dedans nous obligent à abattre ce qui a été construit et à recommencer, mais toujours avec l’espérance placée en Dieu. Et si nous regardons cet édifice, il n’a certainement pas déçu les Paraguayens, parce que Dieu ne déçoit jamais et pour cela nous le louons avec gratitude.",
+          "de": "Wie schön ist es, dass wir alle gemeinsam die Vesper beten. Warum soll man nicht von einer Kirche träumen, die im täglichen Leben die Harmonie der Stimmen und des Gesangs widerspiegelt und wiederholt? Und wir tun es in dieser Kathedrale, die viele Male wieder neu anfangen musste. Diese Kathedrale ist ein Zeichen für die Kirche und einen jeden von uns: Manchmal zwingen uns die Stürme draußen und drinnen, niederzureißen, was wir aufgebaut haben, und neu zu beginnen … doch stets im Vertrauen auf Gott. Und wenn wir dieses Gebäude anschauen, hat er ohne Zweifel die Paraguayer nicht enttäuscht. Denn Gott enttäuscht nie! Und deshalb lobpreisen wir ihn in Dankbarkeit.",
+          "it": "Che bello pregare tutti insieme i Vespri! Come non sognare una Chiesa che rifletta e ripeta l’armonia delle voci e del canto nella vita quotidiana? E lo facciamo in questa Cattedrale, che tante volte ha dovuto ricominciare di nuovo; questa Cattedrale è segno della Chiesa e di ognuno di noi: a volte le tempeste da fuori e da dentro ci obbligano a buttar giù ciò che abbiamo costruito e cominciare di nuovo, ma sempre con la speranza riposta in Dio; e se guardiamo questo edificio, senza dubbio non ha deluso i paraguayani, perché Dio non delude mai e per questo lo lodiamo con gratitudine.",
+          "pl": "Jakże pięknie jest odmawiać wspólnie Nieszpory. Jakże nie marzyć z Kościołem, który odzwierciedla i powtarza harmonię głosów i śpiewu w życiu codziennym? I robimy to w tej katedrze, która tak często musiała zaczynać od nowa; katedra ta jest znakiem Kościoła i każdego z nas: często zewnętrzne i wewnętrzne burze zmuszały do porzucania tego, co zbudowano i do rozpoczynania od nowa, zawsze jednak z nadzieją pokładaną w Bogu; i jeśli spoglądamy na ten budynek, to bez wątpienia nie zwiódł on Paragwajczyków, gdyż Bóg nigdy nie zawodzi i dlatego wielbimy Go z wdzięcznością.",
+          "pt": "Como é belo rezarmos as Vésperas todos juntos! Como não sonhar com uma Igreja que espelhe e repita, na vida quotidiana, a harmonia das vozes e do canto! Fazemo-lo nesta catedral que tantas vezes teve de ser começada de novo; esta catedral é sinal da Igreja e de cada um de nós: às vezes, as tempestades de fora e de dentro obrigam-nos a pôr de lado o que se construiu e começar de novo. Sempre, porém, com a esperança em Deus; e, se olharmos para este edifício, sem dúvida Ele não decepcionou os paraguaios. Porque Deus nunca desilude! E por isso O louvamos agradecidos.",
+          "es": "Qué lindo es rezar todos juntos las Vísperas. ¿Cómo no soñar con una Iglesia que refleje y repita la armonía de las voces y del canto en la vida cotidiana? Y lo hacemos en esta Catedral, que tantas veces ha tenido que comenzar de nuevo; esta catedral es signo de la Iglesia y de cada uno de nosotros: a veces las tempestades de afuera y de adentro nos obligan a tirar lo construido y empezar de nuevo, pero siempre con la esperanza puesta en Dios Y, si miramos este edificio, sin duda no los ha defraudado a los paraguayos. Porque Dios nunca defrauda Y por eso le alabamos agradecidos."
+        },
+        "language_count": 7
+      },
+      "metadata": {
+        "document_id": "papa-francesco_20150711_paraguay-vespri",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_p-vi_ang_19771106",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_ang_19771106",
+        "title": "Angelus, 6 November 1977",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "it": "E adesso,finito il Sinodo dei Vescovi, di che cosa si occupa il Vaticano? si domandano i curiosi che ci stanno a guardare. Oh! non ci mancano le occupazioni, i problemi ed i pensieri (e tra questi, quello della morte del caro Prof. Giorgio la Pira di cui voi tutti conoscete la profonda fede cristiana e la molteplice se pure originale attività . ..). Ma stiamo alla domanda: ci occupiamo principalmente delle Visite « ad limina » che sono fissate per questo periodo. Che cosa siano le Visite «ad limina» ben si sa. Sono visite che i Vescovi compiono, ogni cinque anni, alle tombe romane degli Apostoli Pietro e Paolo, ed insieme, al Papa e ai Dicasteri della Curia pontificia. Sono visite ufficiali, religiose e canoniche, distribuite per settori geografici. Un tempo ogni Vescovo veniva da sé; ora invece vengono in gruppo, secondo le province ecclesiastiche; così che noi avremo la fortuna di ricevere, in questo mese, i Vescovi della Grecia, della Polonia, del Gabon, del Cameroun, dell’Olanda, della Gran Bretagna, della Jugoslavia, e così via."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_ang_19771106",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "hf-jp-ii_spe_19900527_mdina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf-jp-ii_spe_19900527_mdina",
+        "title": "Address to the representatives of the various Churches and ecclesial communities",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "1. It is a particular joy for me to have this opportunity of meetingmembers of the various Churches and ecclesial communitiespresent in Malta. I greet you in the name of our one Lord and Saviour Jesus Christ, and I assure you of my gratitude for your presence here this afternoon.",
+          "it": "1. È una gioia particolare per me avere l’opportunità di incontrare i membri delle varie Chiese e Comunità ecclesiali presenti a Malta. Vi saluto nel nome di Nostro Signore Salvatore Gesù Cristo e vi ringrazio per la vostra presenza qui, questo pomeriggio."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf-jp-ii_spe_19900527_mdina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_ang_19810920",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_ang_19810920",
+        "title": "Angelus, 20 September1981",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "it": "1. “Il regno dei cieli è simile a un padrone di casa che uscì all’alba per prendere a giornata lavoratori per la sua vigna...” (Mt 20,1).",
+          "pt": "1. \"O reino dos céus é semelhante a um proprietário que saiu ao romper da manhã, a fim de contratar trabalhadores para a sua vinha\" (Mt20, 1).",
+          "es": "Alabado sea Jesucristo. Queridísimos hermanos y hermanas que participáis en la plegaria común del Ángelus, os saludo cordialmente a todos vosotros, reunidos aquí en este patio de la Casa Pontificia, a los que están presentes en la plaza central de Castelgandolfo, a los que se encuentran en la plaza de San Pedro y a todos los demás que me escuchan por radio y televisión. Comenzamos con una breve meditación y después recitaremos enseguida elAngelus Domini'"
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_ang_19810920",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "hf_p-xii_spe_19561119_gioventu-europea",
+      "pope": {
+        "id": "pius-xii",
+        "name": {
+          "en": "Pius XII",
+          "la": "Pius PP. XII"
+        },
+        "handle": "piusxii",
+        "avatar": "https://api.popefeed.com/popes/pius-xii.jpg"
+      },
+      "document": {
+        "id": "hf_p-xii_spe_19561119_gioventu-europea",
+        "title": "DISCORSO DI SUA SANTITÀ PIO PP. XII AGLI APPARTENENTI AL SEGRETARIATO INTERNAZIONALE E AI S",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "At a time when violent upheavals are shaking several nations and even endangering the peace of the world, you are gathered together in Rome, gentlemen, under the standard of the «European Campaign for Youth», to discuss the present political situation in Europe and to develop your program of activities for the coming year. Your presence here pleases Us deeply and provides precious consolation for Us after the bitter sorrows of these last weeks. Be welcome then, and believe that We count on your good will and on your efforts to overcome the obstacles which selfishness, indifference, or enmity are still setting up among European countries. We hope too that your International Commission for Undeveloped Countries will attain its end and succeed in forming a specialized group able to handle competently this problem, which is considered more urgent each day.",
+          "fr": "Au moment où de violentes secousses ébranlent plusieurs nations et mettent même en péril la paix du monde, vous vous êtes réunis à Rome, Messieurs, sous le signe de la « Campagne Européenne de la Jeunesse », pour discuter de la « situation politique actuelle de l'Europe » et élaborer votre programme de travail pour l'année prochaine. Votre présence ici Nous réjouit vivement et Nous procure, après les amertumes de ces dernières semaines, un réconfort apprécié. Soyez donc les bienvenus et sachez que Nous comptons sur votre bonne volonté et vos efforts pour renverser les obstacles que l'égoïsme, l'indifférence ou l'hostilité dressent encore entre les pays européens. Nous espérons aussi que votre « Commission internationale pour les pays sous-évolués » atteindra son objectif, et réussira à former une équipe spécialisée capable d'aborder avec compétence ce problème, dont l'urgence se fait sentir chaque jour davantage."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_p-xii_spe_19561119_gioventu-europea",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_23111995_xxviii-session-fao-conference",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_23111995_xxviii-session-fao-conference",
+        "title": "XXVIII SESSION OF THE CONFERENCE OF FAO",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "Mr Chairman,Mr Director General,Ladies and Gentlemen,",
+          "it": "Signor Presidente,Signor Direttore Generale,Signore e Signori,"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_23111995_xxviii-session-fao-conference",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19940929_ambasciatore-israele",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19940929_ambasciatore-israele",
+        "title": "DISCOURS DU SAINT-PÈRE JEAN-PAUL II AU PREMIER AMBASSADEUR DE L'ÉTAT D'ISRAËL PR",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "DISCOURS DU SAINT-PÈRE JEAN-PAUL IIAU PREMIER AMBASSADEUR DE L'ÉTAT D'ISRAËL PRÈSLE SAINT-SIÈGE, S.Exc. M. SHMUEL HADAS À L'OCCASION DE LAPRÉSENTATION DES LETTRES DE CRÉANCE*",
+          "fr": "1. C'est avec une vive satisfaction que j'accueille Votre Excellence pour la remise des Lettres qui L'accréditent en qualité de premier Ambassadeur extraordinaire et plénipotentiaire de l'Etat d'Israël auprès du Saint-Siège. L'importance de cette cérémonie sera reconnue de tous, car les relations diplomatiques récemment établies sont ainsi rendues effectives par la présence d'un Chef de mission du rang le plus élevé, en application de l'Accord fondamental signé le 30 décembre 1993 à Jérusalem.",
+          "es": "1. Con viva satisfacción acojo a su excelencia para la presentación de las cartas que lo acreditan como primer embajador extraordinario y plenipotenciario del Estado de Israel ante la Santa Sede. Todos reconocerán la importancia de esta ceremonia, porque de este modo las relaciones diplomáticas establecidas recientemente se hacen efectivas con la presencia de un jefe de misión del rango más elevado, en aplicación del Acuerdo Fundamental firmado el 30 de diciembre de 1993 en Jerusalén."
+        },
+        "language_count": 3
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19940929_ambasciatore-israele",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_jp-ii_spe_19851118_corea-ad-limina",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_spe_19851118_corea-ad-limina",
+        "title": "To the Bishops of Korea on their ad limina visit, John Paul II, 18 November 1985",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "Dear Cardinal and Brother Bishops,",
+          "it": "Cari cardinali e fratelli vescovi."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_spe_19851118_corea-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_p-vi_spe_19721103_gran-bretagna-ad-limina",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_spe_19721103_gran-bretagna-ad-limina",
+        "title": "To the English Bishops on the occasion of their ad limina visit, 3 November 1972",
+        "type": "Speeches",
+        "date": "",
+        "excerpt": {
+          "en": "We are pleased to welcome you to Rome and are happy that you have wished to express your faith and devotion by visiting us. We greet you, and through you we send our greetings to all of the beloved People of God who are in your pastoral care."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_spe_19721103_gran-bretagna-ad-limina",
+        "original_type": "speeches"
+      }
+    },
+    {
+      "id": "hf_p-vi_aud_19660928",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_aud_19660928",
+        "title": "28 September 1966",
+        "type": "Audiences",
+        "date": "",
+        "excerpt": {
+          "it": "L'opera dei singoli fedeli per la causa di Cristo"
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_aud_19660928",
+        "original_type": "audiences"
+      }
+    },
+    {
+      "id": "hf_ben-xvi_hom_20060911_vespers-altotting",
+      "pope": {
+        "id": "benedict-xvi",
+        "name": {
+          "en": "Benedict XVI",
+          "la": "Benedictus XVI"
+        },
+        "handle": "benedictxvi",
+        "avatar": "https://api.popefeed.com/popes/benedict-xvi.jpg"
+      },
+      "document": {
+        "id": "hf_ben-xvi_hom_20060911_vespers-altotting",
+        "title": "11 September 2006: Marian Vespers with the religious and seminarians of Bavaria at the Basilica of St Anne in Altötting",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "en": "Here in Altötting, in this grace-filled place, we have gathered - seminarians preparing for the priesthood, priests, men and women religious and members of the Society for Spiritual Vocations - gathered in the Basilica of Saint Anne, before the shrine to her daughter, the Mother of the Lord. We have gathered here to consider our vocation to serve Jesus Christ and, under the watchful gaze of Saint Anne, in whose home the greatest vocation in the history of salvation developed, to understand it better. Mary received her vocation from the lips of an angel. The Angel does not enter our room visibly, but the Lord has a plan for each of us, he calls each one of us by name. Our task is to learn how to listen, to perceive his call, to be courageous and faithful in following him and, when all is said and done, to be found trustworthy servants who have used well the gifts given us.",
+          "fr": "Dans ce lieu de grâce, Altötting, nous sommes réunis - séminaristes en chemin vers le sacerdoce, prêtres, religieuses et religieux et membres de l'OEuvre pontificale pour les Vocations de consécration spéciale - dans la Basilique Sainte-Anne devant le sanctuaire de sa fille, la Mère du Seigneur. Nous nous sommes réunis pour nous interroger sur notre vocation au service de Jésus Christ et pour comprendre notre vocation sous le regard de sainte Anne, dans la maison de laquelle a mûri la vocation la plus grande de l'histoire du salut. Marie reçut sa vocation de la bouche de l'Ange. L'Ange n'entre pas chez nous de façon visible, mais le Seigneur a un projet pour chacun de nous, Il appelle chacun par son nom. Notre devoir est donc de devenir des personnes à l'écoute, capables de percevoir son appel, courageuses et fidèles, pour le suivre et, à la fin, devenir des serviteurs fiables qui ont accompli de bonnes oeuvres avec le don qui leur a été confié.",
+          "de": "Wir sind hier am Gnadenort Altötting in der Basilika der heiligen Anna gegenüber dem Heiligtum ihrer Tochter, der Mutter des Herrn, versammelt - Seminaristen auf dem Weg zum Priestertum, Priester, Ordensleute, Mitglieder des Werkes für geistliche Berufe -, versammelt, um nach unserer Berufung für den Dienst Jesu Christi zu fragen und bei der heiligen Anna, in deren Haus die größte Berufung der Heilsgeschichte gereift ist, unsere Berufung zu erlernen. Maria empfing ihre Berufung aus dem Mund des Engels. In unsere Stube tritt der Engel nicht sichtbar ein, aber mit jedem von uns hat der Herr seinen Plan; ein jeder wird von ihm bei seinem Namen gerufen. So ist unser Auftrag, hörend zu werden, fähig, seinen Anruf zu vernehmen, mutig und treu zu werden, damit wir ihm folgen und am Schluß als zuverlässige Knechte befunden werden, die recht mit der anvertrauten Gabe gewirkt haben.",
+          "it": "In questo luogo di grazia, Altötting, ci siamo riuniti – seminaristi in cammino verso il sacerdozio, sacerdoti, religiose e religiosi e membri dell’Opera Pontificia per le Vocazioni di speciale consacrazione – riunitinella Basilica di Sant’Anna, di fronte al santuario della sua figlia, la Madre del Signore. Ci siamo riuniti per interrogarci sulla nostra vocazione al servizio di Gesù Cristo e per comprendere questa nostra vocazione sotto gli occhi di Sant’Anna, nella cui casa è maturata la vocazione più grande della storia della salvezza. Maria ricevette la sua vocazione dalla bocca dell’Angelo. Nella nostra camera l’Angelo non entra in modo visibile, ma con ciascuno di noi il Signore ha un suo progetto, ciascuno viene da Lui chiamato per nome. Il nostro compito è quindi di diventare persone in ascolto, capaci di percepire la sua chiamata, coraggiose e fedeli, per seguirlo e, alla fine, essere trovati servi affidabili che hanno operato bene col dono loro assegnato.",
+          "pt": "Altötting, 11 de Setembro de 2006",
+          "es": "En Altötting, en este lugar de gracia, nos hemos reunido —seminaristas que se preparan para el sacerdocio, sacerdotes, religiosas y religiosos, y miembros de la Obra pontificia para las vocaciones de especial consagración— en la basílica de Santa Ana, ante el santuario de su hija, la Madre del Señor. Nos hemos reunido aquí para considerar nuestra vocación al servicio de Jesucristo y comprenderla mejor bajo la mirada de santa Ana, en cuyo hogar maduró la vocación más grande de la historia de la salvación. María recibió su vocación a través del anuncio del ángel.El ángel no entra de modo visible en nuestra habitación, pero el Señor tiene un plan para cada uno de nosotros, nos llama por nuestro nombre. Por tanto, a nosotros nos toca escuchar, percibir su llamada, ser valientes y fieles para seguirlo, de modo que, al final, nos considere siervos fieles que han aprovechado bien los dones que se nos han concedido."
+        },
+        "language_count": 6
+      },
+      "metadata": {
+        "document_id": "hf_ben-xvi_hom_20060911_vespers-altotting",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "hf_jp-ii_ang_19871025",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_ang_19871025",
+        "title": "Angelus, 25 October 1987",
+        "type": "Angelus",
+        "date": "",
+        "excerpt": {
+          "it": "1. Il nostro pensiero si volge oggi al santuario della beata Vergine del Rosario in Pompei, santuario molto caro al dottor Moscati, che stamane ho avuto la gioia di proclamare Santo. Egli vi sostava frequentemente nei suoi viaggi ad Amalfi, Salerno, Campobasso, per visitare qualche infermo o in altre circostanze. “Quanta dolcezza provo - confidava ad una persona di sua conoscenza - nel comunicarmi nel Santuario di Pompei! Ai piedi della Madonna mi sembra di diventare più piccolo, e le dico le cose come sono”.",
+          "es": "1. Nuestro pensamiento se dirige hoy al santuario de la Bienaventurada Virgen del Rosario en Pompeya, santuario muy querido por el doctor Moscati, que esta mañana he tenido la alegría de proclamar Santo. Él se detenía allí frecuentemente en sus viajes a Amalfi, Salerno, Campobasso, para visitar a algún enfermo o en otras circunstancias. \"¡Cuánta dulzura experimento ―confiaba a un conocido suyo― al ir al santuario de Pompeya! A los pies de la Virgen me parece ser más pequeño, y le digo las cosas como son\"."
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_ang_19871025",
+        "original_type": "angelus"
+      }
+    },
+    {
+      "id": "hf_jp-ii_hom_19880917_mozambico-nampula",
+      "pope": {
+        "id": "john-paul-ii",
+        "name": {
+          "en": "John Paul II",
+          "la": "S. Ioannes Paulus PP. II"
+        },
+        "handle": "johnpaulii",
+        "avatar": "https://api.popefeed.com/popes/john-paul-ii.jpg"
+      },
+      "document": {
+        "id": "hf_jp-ii_hom_19880917_mozambico-nampula",
+        "title": "17 September 1988, Liturgy of the Word with the faithful in the Archdiocese of Nampula",
+        "type": "Homilies",
+        "date": "Mozambique",
+        "excerpt": {
+          "it": "“Vi sono diversità di carismi, ma uno solo è lo Spirito” (1 Cor12, 4). È stato lui che ci ha qui riuniti, nel Signore Gesù Cristo.",
+          "pt": "Meus amados irmãos e irmãs,"
+        },
+        "language_count": 2
+      },
+      "metadata": {
+        "document_id": "hf_jp-ii_hom_19880917_mozambico-nampula",
+        "original_type": "homilies"
+      }
+    },
+    {
+      "id": "hf_p-vi_hom_19760202",
+      "pope": {
+        "id": "paul-vi",
+        "name": {
+          "en": "Paul VI",
+          "la": "S. Paulus PP. VI"
+        },
+        "handle": "paulvi",
+        "avatar": "https://api.popefeed.com/popes/paul-vi.jpg"
+      },
+      "document": {
+        "id": "hf_p-vi_hom_19760202",
+        "title": "2 February 1976: Feast of the Presentation of the Lord",
+        "type": "Homilies",
+        "date": "",
+        "excerpt": {
+          "it": "Ed ora venite, figli venerati e carissimi, e portatemi l’offerta simbolica del vostro cero, voi che della vostra vita avete fatto offerta generosa alla Chiesa ed amorosa a Cristo, Sacerdoti e Religiosi consacrati nel sacro celibato; venite voi, Figlie in Cristo devote, che la oblazione della vostra verginità distingue come fiori immacolati nel giardino della comunità cattolica; venite voi fedeli, che della onestà cristiana fate irradiante splendore della vostra sequela sui sentieri del Vangelo. Venite; e date tutti al gesto pio e devoto della consegna del cero benedetto il suo pieno significato, il suo trasfigurante valore: quello dell’ossequio e della obbedienza alla santa Chiesa, quello dell’austerità e della rettitudine del vostro stile morale, personale e comunitario, di vita cristiana, quello soprattutto della virtù della castità, conforme allo stato di vita da voi professato."
+        },
+        "language_count": 1
+      },
+      "metadata": {
+        "document_id": "hf_p-vi_hom_19760202",
+        "original_type": "homilies"
+      }
+    }
+  ]
+}
