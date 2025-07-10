@@ -1,6 +1,6 @@
 # Pope Feed API
 
-Pope Feed has **1,828 documents** and **12 popes** information in a structured way to help you easily create applications about papal documents and Vatican content.
+Pope Feed has **17,444 documents** and **12 popes** information in a structured way to help you easily create applications about papal documents and Vatican content.
 
 ## 📊 Overview
 
@@ -226,7 +226,7 @@ aws cloudfront create-invalidation --distribution-id YOUR_DIST_ID --paths "/*"
 
 ## 📊 API Statistics
 
-- **1,828 Documents** across multiple popes
+- **17,444 Documents** across multiple popes
 - **6 Languages** supported (EN, ES, PT, IT, FR, LA)
 - **12 Popes** with official Vatican images
 - **Paginated Posts** (50 per page)
